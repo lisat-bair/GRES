@@ -8,14 +8,14 @@ We introduce the Geospatial Reasoning Segmentation Dataset (GRES), a collection 
 To generate synthetic data, we use the pipeline depicted below. We start with a seed detection dataset (xView). We then filter detections for those that are both visually interesting and highly distinguishable (A). For those detection, we then generate a natural language description (B), and a pixel-wise segmentation mask (C). Finally, the natural language description is used to generate a localization query (D). Together, the segmentation mask and the query form a ground-truth pair for the [LISAT](https://huggingface.co/jquenum/LISAt-7b) reasoning segmentation fine-tuning.
 
 <p align="center">
-  <img src="https://github.com/jquenum/GRES/blob/main/gres.png" width="1024"/>
+  <img src="https://github.com/lisat-bair/GRES/blob/main/gres.png" width="1024"/>
   
 </p>
 
 ## Usage
 
 ### 1. Download the [xView 1](https://xviewdataset.org/) dataset.
-### 2, Clone this repository.
+### 2. Clone this repository.
 ### 2. Run the command below:
 
 ```./extract_gres_images.sh /path/to/xview_train_images /path/to/xView_train.geojson .``` to get the gres image pool.
