@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the vehicle that features a metallic blue exterior, unique wheel designs, and shiny windows.",
+        "Find the automobile with a metallic blue finish, distinctive wheels, and glistening windows.",
+        "Spot the car that boasts a metallic blue color, characterized by its special wheel types and reflective glass."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005865.jpg",
+            "points": [
+                [
+                    462.0,
+                    183.0
+                ],
+                [
+                    462.0,
+                    184.0
+                ],
+                [
+                    458.0,
+                    184.0
+                ],
+                [
+                    458.0,
+                    185.0
+                ],
+                [
+                    457.0,
+                    185.0
+                ],
+                [
+                    457.0,
+                    186.0
+                ],
+                [
+                    456.0,
+                    186.0
+                ],
+                [
+                    456.0,
+                    192.0
+                ],
+                [
+                    457.0,
+                    192.0
+                ],
+                [
+                    457.0,
+                    193.0
+                ],
+                [
+                    458.0,
+                    193.0
+                ],
+                [
+                    458.0,
+                    194.0
+                ],
+                [
+                    465.0,
+                    194.0
+                ],
+                [
+                    465.0,
+                    193.0
+                ],
+                [
+                    476.0,
+                    193.0
+                ],
+                [
+                    476.0,
+                    192.0
+                ],
+                [
+                    478.0,
+                    192.0
+                ],
+                [
+                    478.0,
+                    187.0
+                ],
+                [
+                    477.0,
+                    187.0
+                ],
+                [
+                    477.0,
+                    186.0
+                ],
+                [
+                    476.0,
+                    186.0
+                ],
+                [
+                    476.0,
+                    185.0
+                ],
+                [
+                    473.0,
+                    185.0
+                ],
+                [
+                    473.0,
+                    184.0
+                ],
+                [
+                    470.0,
+                    184.0
+                ],
+                [
+                    470.0,
+                    183.0
+                ],
+                [
+                    462.0,
+                    183.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

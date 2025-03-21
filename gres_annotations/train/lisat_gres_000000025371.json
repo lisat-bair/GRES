@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the vehicle at the lower edge of the picture, slightly protruding past the border.",
+        "Find the automobile at the bottom margin of the photograph, with a portion extending out of the frame.",
+        "Spot the car at the base line of the image, partially sticking out beyond the boundary."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025371.jpg",
+            "points": [
+                [
+                    249.0,
+                    501.0
+                ],
+                [
+                    249.0,
+                    502.0
+                ],
+                [
+                    248.0,
+                    502.0
+                ],
+                [
+                    248.0,
+                    505.0
+                ],
+                [
+                    247.0,
+                    505.0
+                ],
+                [
+                    247.0,
+                    512.0
+                ],
+                [
+                    260.0,
+                    512.0
+                ],
+                [
+                    260.0,
+                    508.0
+                ],
+                [
+                    259.0,
+                    508.0
+                ],
+                [
+                    259.0,
+                    507.0
+                ],
+                [
+                    258.0,
+                    507.0
+                ],
+                [
+                    258.0,
+                    505.0
+                ],
+                [
+                    257.0,
+                    505.0
+                ],
+                [
+                    257.0,
+                    504.0
+                ],
+                [
+                    255.0,
+                    504.0
+                ],
+                [
+                    255.0,
+                    503.0
+                ],
+                [
+                    253.0,
+                    503.0
+                ],
+                [
+                    253.0,
+                    502.0
+                ],
+                [
+                    252.0,
+                    502.0
+                ],
+                [
+                    252.0,
+                    501.0
+                ],
+                [
+                    249.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Locate the vehicle that boasts a shiny exterior and numerous round designs, featuring a sleek and stretched appearance common in cars.",
+        "Find the automobile that displays a polished surface and several circular patterns, with a streamlined and elongated form characteristic of vehicles.",
+        "Spot the car with a lustrous finish and multiple round elements, exhibiting a smooth and extended shape typical of an automobile."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025564.jpg",
+            "points": [
+                [
+                    238.0,
+                    137.0
+                ],
+                [
+                    238.0,
+                    138.0
+                ],
+                [
+                    237.0,
+                    138.0
+                ],
+                [
+                    237.0,
+                    142.0
+                ],
+                [
+                    240.0,
+                    142.0
+                ],
+                [
+                    240.0,
+                    143.0
+                ],
+                [
+                    248.0,
+                    143.0
+                ],
+                [
+                    248.0,
+                    142.0
+                ],
+                [
+                    249.0,
+                    142.0
+                ],
+                [
+                    249.0,
+                    140.0
+                ],
+                [
+                    248.0,
+                    140.0
+                ],
+                [
+                    248.0,
+                    138.0
+                ],
+                [
+                    247.0,
+                    138.0
+                ],
+                [
+                    247.0,
+                    137.0
+                ],
+                [
+                    238.0,
+                    137.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

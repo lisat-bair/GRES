@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the car by its unique rectangular form and metallic shine in the midst of its surroundings.",
+        "Recognize the vehicle by its characteristic rectangular outline and gleaming metallic surface in the environment.",
+        "Find the automobile by its distinctive rectangular shape and metallic luster among the nearby scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028364.jpg",
+            "points": [
+                [
+                    29.0,
+                    84.0
+                ],
+                [
+                    29.0,
+                    85.0
+                ],
+                [
+                    28.0,
+                    85.0
+                ],
+                [
+                    28.0,
+                    86.0
+                ],
+                [
+                    27.0,
+                    86.0
+                ],
+                [
+                    27.0,
+                    88.0
+                ],
+                [
+                    26.0,
+                    88.0
+                ],
+                [
+                    26.0,
+                    91.0
+                ],
+                [
+                    27.0,
+                    91.0
+                ],
+                [
+                    27.0,
+                    92.0
+                ],
+                [
+                    28.0,
+                    92.0
+                ],
+                [
+                    28.0,
+                    93.0
+                ],
+                [
+                    35.0,
+                    93.0
+                ],
+                [
+                    35.0,
+                    92.0
+                ],
+                [
+                    36.0,
+                    92.0
+                ],
+                [
+                    36.0,
+                    91.0
+                ],
+                [
+                    37.0,
+                    91.0
+                ],
+                [
+                    37.0,
+                    90.0
+                ],
+                [
+                    38.0,
+                    90.0
+                ],
+                [
+                    38.0,
+                    86.0
+                ],
+                [
+                    36.0,
+                    86.0
+                ],
+                [
+                    36.0,
+                    85.0
+                ],
+                [
+                    34.0,
+                    85.0
+                ],
+                [
+                    34.0,
+                    84.0
+                ],
+                [
+                    29.0,
+                    84.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

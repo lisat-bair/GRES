@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Highlight the truck in the photo by focusing on its unique grille pattern and standout headlights.",
+        "Identify the truck in the picture by emphasizing its distinctive grille and noticeable headlights.",
+        "Isolate the truck in the image by drawing attention to its prominent grille design and eye-catching headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020050.jpg",
+            "points": [
+                [
+                    317.0,
+                    0.0
+                ],
+                [
+                    317.0,
+                    5.0
+                ],
+                [
+                    318.0,
+                    5.0
+                ],
+                [
+                    318.0,
+                    6.0
+                ],
+                [
+                    319.0,
+                    6.0
+                ],
+                [
+                    319.0,
+                    7.0
+                ],
+                [
+                    327.0,
+                    7.0
+                ],
+                [
+                    327.0,
+                    6.0
+                ],
+                [
+                    328.0,
+                    6.0
+                ],
+                [
+                    328.0,
+                    5.0
+                ],
+                [
+                    329.0,
+                    5.0
+                ],
+                [
+                    329.0,
+                    3.0
+                ],
+                [
+                    330.0,
+                    3.0
+                ],
+                [
+                    330.0,
+                    0.0
+                ],
+                [
+                    317.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

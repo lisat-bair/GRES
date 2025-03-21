@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the white structure featuring a unique triangular roof, encircled by lush vegetation.",
+        "Locate the white edifice distinguished by its triangular rooftop, enveloped in greenery.",
+        "Find the white building marked by a sharp triangular roof, amidst surrounding foliage."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032849.jpg",
+            "points": [
+                [
+                    2.0,
+                    121.0
+                ],
+                [
+                    2.0,
+                    122.0
+                ],
+                [
+                    1.0,
+                    122.0
+                ],
+                [
+                    1.0,
+                    123.0
+                ],
+                [
+                    0.0,
+                    123.0
+                ],
+                [
+                    0.0,
+                    131.0
+                ],
+                [
+                    1.0,
+                    131.0
+                ],
+                [
+                    1.0,
+                    132.0
+                ],
+                [
+                    2.0,
+                    132.0
+                ],
+                [
+                    2.0,
+                    133.0
+                ],
+                [
+                    8.0,
+                    133.0
+                ],
+                [
+                    8.0,
+                    132.0
+                ],
+                [
+                    9.0,
+                    132.0
+                ],
+                [
+                    9.0,
+                    131.0
+                ],
+                [
+                    10.0,
+                    131.0
+                ],
+                [
+                    10.0,
+                    129.0
+                ],
+                [
+                    11.0,
+                    129.0
+                ],
+                [
+                    11.0,
+                    125.0
+                ],
+                [
+                    12.0,
+                    125.0
+                ],
+                [
+                    12.0,
+                    123.0
+                ],
+                [
+                    11.0,
+                    123.0
+                ],
+                [
+                    11.0,
+                    121.0
+                ],
+                [
+                    2.0,
+                    121.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

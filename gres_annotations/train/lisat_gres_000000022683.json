@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the big boxy vehicle with wheels and windows, usually seen on streets and often painted in bright colors for easy identification.",
+        "Find the large, windowed vehicle on wheels that is commonly found on roads and is often brightly colored for safety reasons.",
+        "Locate the sizable rectangular vehicle featuring windows and wheels, frequently seen on roads and typically brightly colored for better visibility."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022683.jpg",
+            "points": [
+                [
+                    463.0,
+                    497.0
+                ],
+                [
+                    463.0,
+                    498.0
+                ],
+                [
+                    462.0,
+                    498.0
+                ],
+                [
+                    462.0,
+                    499.0
+                ],
+                [
+                    461.0,
+                    499.0
+                ],
+                [
+                    461.0,
+                    501.0
+                ],
+                [
+                    460.0,
+                    501.0
+                ],
+                [
+                    460.0,
+                    503.0
+                ],
+                [
+                    461.0,
+                    503.0
+                ],
+                [
+                    461.0,
+                    512.0
+                ],
+                [
+                    471.0,
+                    512.0
+                ],
+                [
+                    471.0,
+                    511.0
+                ],
+                [
+                    470.0,
+                    511.0
+                ],
+                [
+                    470.0,
+                    508.0
+                ],
+                [
+                    471.0,
+                    508.0
+                ],
+                [
+                    471.0,
+                    504.0
+                ],
+                [
+                    470.0,
+                    504.0
+                ],
+                [
+                    470.0,
+                    499.0
+                ],
+                [
+                    469.0,
+                    499.0
+                ],
+                [
+                    469.0,
+                    498.0
+                ],
+                [
+                    468.0,
+                    498.0
+                ],
+                [
+                    468.0,
+                    497.0
+                ],
+                [
+                    463.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

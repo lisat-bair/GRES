@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Identify the structure with a triangular roof and light-colored walls that is encircled by darker buildings.",
+        "Locate the building featuring a triangular roof and light-hued walls, surrounded by darker constructions.",
+        "Pick out the building that has a triangular roof and light-colored walls, which is enveloped by darker edifices."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007193.jpg",
+            "points": [
+                [
+                    304.0,
+                    469.0
+                ],
+                [
+                    304.0,
+                    470.0
+                ],
+                [
+                    301.0,
+                    470.0
+                ],
+                [
+                    301.0,
+                    471.0
+                ],
+                [
+                    297.0,
+                    471.0
+                ],
+                [
+                    297.0,
+                    472.0
+                ],
+                [
+                    294.0,
+                    472.0
+                ],
+                [
+                    294.0,
+                    473.0
+                ],
+                [
+                    293.0,
+                    473.0
+                ],
+                [
+                    293.0,
+                    479.0
+                ],
+                [
+                    294.0,
+                    479.0
+                ],
+                [
+                    294.0,
+                    480.0
+                ],
+                [
+                    295.0,
+                    480.0
+                ],
+                [
+                    295.0,
+                    481.0
+                ],
+                [
+                    305.0,
+                    481.0
+                ],
+                [
+                    305.0,
+                    480.0
+                ],
+                [
+                    310.0,
+                    480.0
+                ],
+                [
+                    310.0,
+                    479.0
+                ],
+                [
+                    311.0,
+                    479.0
+                ],
+                [
+                    311.0,
+                    478.0
+                ],
+                [
+                    312.0,
+                    478.0
+                ],
+                [
+                    312.0,
+                    475.0
+                ],
+                [
+                    311.0,
+                    475.0
+                ],
+                [
+                    311.0,
+                    473.0
+                ],
+                [
+                    310.0,
+                    473.0
+                ],
+                [
+                    310.0,
+                    471.0
+                ],
+                [
+                    309.0,
+                    471.0
+                ],
+                [
+                    309.0,
+                    470.0
+                ],
+                [
+                    307.0,
+                    470.0
+                ],
+                [
+                    307.0,
+                    469.0
+                ],
+                [
+                    304.0,
+                    469.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the vehicle with a shiny, metallic finish that has sharp edges, wheels, and windows.",
+        "Search for the automobile that boasts a reflective, metallic surface complete with distinct edges, wheels, and windows.",
+        "Identify the car characterized by a sleek, metallic coat and marked by well-defined edges, wheels, and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021399.jpg",
+            "points": [
+                [
+                    468.0,
+                    482.0
+                ],
+                [
+                    468.0,
+                    483.0
+                ],
+                [
+                    466.0,
+                    483.0
+                ],
+                [
+                    466.0,
+                    484.0
+                ],
+                [
+                    465.0,
+                    484.0
+                ],
+                [
+                    465.0,
+                    485.0
+                ],
+                [
+                    464.0,
+                    485.0
+                ],
+                [
+                    464.0,
+                    486.0
+                ],
+                [
+                    463.0,
+                    486.0
+                ],
+                [
+                    463.0,
+                    488.0
+                ],
+                [
+                    462.0,
+                    488.0
+                ],
+                [
+                    462.0,
+                    491.0
+                ],
+                [
+                    461.0,
+                    491.0
+                ],
+                [
+                    461.0,
+                    496.0
+                ],
+                [
+                    462.0,
+                    496.0
+                ],
+                [
+                    462.0,
+                    497.0
+                ],
+                [
+                    464.0,
+                    497.0
+                ],
+                [
+                    464.0,
+                    498.0
+                ],
+                [
+                    467.0,
+                    498.0
+                ],
+                [
+                    467.0,
+                    497.0
+                ],
+                [
+                    469.0,
+                    497.0
+                ],
+                [
+                    469.0,
+                    496.0
+                ],
+                [
+                    470.0,
+                    496.0
+                ],
+                [
+                    470.0,
+                    495.0
+                ],
+                [
+                    471.0,
+                    495.0
+                ],
+                [
+                    471.0,
+                    492.0
+                ],
+                [
+                    472.0,
+                    492.0
+                ],
+                [
+                    472.0,
+                    488.0
+                ],
+                [
+                    473.0,
+                    488.0
+                ],
+                [
+                    473.0,
+                    484.0
+                ],
+                [
+                    472.0,
+                    484.0
+                ],
+                [
+                    472.0,
+                    483.0
+                ],
+                [
+                    470.0,
+                    483.0
+                ],
+                [
+                    470.0,
+                    482.0
+                ],
+                [
+                    468.0,
+                    482.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

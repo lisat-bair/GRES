@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the train in the lower-left corner of the picture.",
+        "In the bottom-left section of the image, identify the locomotive.",
+        "Spot the engine located in the bottom-left area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000446.jpg",
+            "points": [
+                [
+                    0.0,
+                    329.0
+                ],
+                [
+                    0.0,
+                    341.0
+                ],
+                [
+                    17.0,
+                    341.0
+                ],
+                [
+                    17.0,
+                    342.0
+                ],
+                [
+                    33.0,
+                    342.0
+                ],
+                [
+                    33.0,
+                    343.0
+                ],
+                [
+                    49.0,
+                    343.0
+                ],
+                [
+                    49.0,
+                    342.0
+                ],
+                [
+                    51.0,
+                    342.0
+                ],
+                [
+                    51.0,
+                    340.0
+                ],
+                [
+                    52.0,
+                    340.0
+                ],
+                [
+                    52.0,
+                    333.0
+                ],
+                [
+                    51.0,
+                    333.0
+                ],
+                [
+                    51.0,
+                    332.0
+                ],
+                [
+                    50.0,
+                    332.0
+                ],
+                [
+                    50.0,
+                    331.0
+                ],
+                [
+                    41.0,
+                    331.0
+                ],
+                [
+                    41.0,
+                    330.0
+                ],
+                [
+                    27.0,
+                    330.0
+                ],
+                [
+                    27.0,
+                    329.0
+                ],
+                [
+                    0.0,
+                    329.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

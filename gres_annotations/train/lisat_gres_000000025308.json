@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Divide the vehicle with a glossy metal exterior, unique wheel designs, and mirror-like windows positioned in a city scene.",
+        "Separate the automobile featuring a lustrous metallic finish, varied wheel formations, and glistening windows situated in an urban setting.",
+        "Distinguish the car with a polished metal surface, diverse wheel styles, and shining windows in the backdrop of the city."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025308.jpg",
+            "points": [
+                [
+                    7.0,
+                    266.0
+                ],
+                [
+                    7.0,
+                    267.0
+                ],
+                [
+                    6.0,
+                    267.0
+                ],
+                [
+                    6.0,
+                    268.0
+                ],
+                [
+                    5.0,
+                    268.0
+                ],
+                [
+                    5.0,
+                    275.0
+                ],
+                [
+                    6.0,
+                    275.0
+                ],
+                [
+                    6.0,
+                    276.0
+                ],
+                [
+                    7.0,
+                    276.0
+                ],
+                [
+                    7.0,
+                    277.0
+                ],
+                [
+                    10.0,
+                    277.0
+                ],
+                [
+                    10.0,
+                    276.0
+                ],
+                [
+                    11.0,
+                    276.0
+                ],
+                [
+                    11.0,
+                    273.0
+                ],
+                [
+                    12.0,
+                    273.0
+                ],
+                [
+                    12.0,
+                    270.0
+                ],
+                [
+                    11.0,
+                    270.0
+                ],
+                [
+                    11.0,
+                    267.0
+                ],
+                [
+                    10.0,
+                    267.0
+                ],
+                [
+                    10.0,
+                    266.0
+                ],
+                [
+                    7.0,
+                    266.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

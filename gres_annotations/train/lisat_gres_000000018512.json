@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Even if the car in the image is too blurry to see the details, try to identify it.",
+        "Attempt to recognize the car in the picture, despite its features being too blurry to distinguish.",
+        "Try to determine the make of the car from the image, even though the details are indistinct."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018512.jpg",
+            "points": [
+                [
+                    206.0,
+                    402.0
+                ],
+                [
+                    206.0,
+                    403.0
+                ],
+                [
+                    205.0,
+                    403.0
+                ],
+                [
+                    205.0,
+                    405.0
+                ],
+                [
+                    204.0,
+                    405.0
+                ],
+                [
+                    204.0,
+                    407.0
+                ],
+                [
+                    203.0,
+                    407.0
+                ],
+                [
+                    203.0,
+                    410.0
+                ],
+                [
+                    202.0,
+                    410.0
+                ],
+                [
+                    202.0,
+                    414.0
+                ],
+                [
+                    204.0,
+                    414.0
+                ],
+                [
+                    204.0,
+                    415.0
+                ],
+                [
+                    207.0,
+                    415.0
+                ],
+                [
+                    207.0,
+                    414.0
+                ],
+                [
+                    208.0,
+                    414.0
+                ],
+                [
+                    208.0,
+                    412.0
+                ],
+                [
+                    209.0,
+                    412.0
+                ],
+                [
+                    209.0,
+                    410.0
+                ],
+                [
+                    210.0,
+                    410.0
+                ],
+                [
+                    210.0,
+                    408.0
+                ],
+                [
+                    211.0,
+                    408.0
+                ],
+                [
+                    211.0,
+                    402.0
+                ],
+                [
+                    206.0,
+                    402.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

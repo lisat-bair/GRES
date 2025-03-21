@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the long vehicle design featuring a unique rectangular trailer, commonly seen in industrial or transport environments.",
+        "Recognize the extended vehicle form with a characteristic rectangular trailer, typically observed in industrial or transportation contexts.",
+        "Locate the lengthened vehicle frame that includes a distinctive rectangular trailer, frequently encountered in industrial or transport areas."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034060.jpg",
+            "points": [
+                [
+                    34.0,
+                    339.0
+                ],
+                [
+                    34.0,
+                    340.0
+                ],
+                [
+                    33.0,
+                    340.0
+                ],
+                [
+                    33.0,
+                    341.0
+                ],
+                [
+                    32.0,
+                    341.0
+                ],
+                [
+                    32.0,
+                    344.0
+                ],
+                [
+                    31.0,
+                    344.0
+                ],
+                [
+                    31.0,
+                    348.0
+                ],
+                [
+                    30.0,
+                    348.0
+                ],
+                [
+                    30.0,
+                    350.0
+                ],
+                [
+                    31.0,
+                    350.0
+                ],
+                [
+                    31.0,
+                    351.0
+                ],
+                [
+                    36.0,
+                    351.0
+                ],
+                [
+                    36.0,
+                    350.0
+                ],
+                [
+                    37.0,
+                    350.0
+                ],
+                [
+                    37.0,
+                    349.0
+                ],
+                [
+                    38.0,
+                    349.0
+                ],
+                [
+                    38.0,
+                    344.0
+                ],
+                [
+                    39.0,
+                    344.0
+                ],
+                [
+                    39.0,
+                    340.0
+                ],
+                [
+                    37.0,
+                    340.0
+                ],
+                [
+                    37.0,
+                    339.0
+                ],
+                [
+                    34.0,
+                    339.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

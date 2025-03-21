@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the beige truck with a tall rectangular form set against a shadowy backdrop.",
+        "Locate the truck that has a vertical rectangle design and is beige, contrasted by a darker background.",
+        "Find the beige-colored truck that stands with a vertical rectangular shape against a dimmer setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012437.jpg",
+            "points": [
+                [
+                    202.0,
+                    348.0
+                ],
+                [
+                    202.0,
+                    349.0
+                ],
+                [
+                    201.0,
+                    349.0
+                ],
+                [
+                    201.0,
+                    394.0
+                ],
+                [
+                    202.0,
+                    394.0
+                ],
+                [
+                    202.0,
+                    400.0
+                ],
+                [
+                    203.0,
+                    400.0
+                ],
+                [
+                    203.0,
+                    403.0
+                ],
+                [
+                    204.0,
+                    403.0
+                ],
+                [
+                    204.0,
+                    404.0
+                ],
+                [
+                    212.0,
+                    404.0
+                ],
+                [
+                    212.0,
+                    401.0
+                ],
+                [
+                    213.0,
+                    401.0
+                ],
+                [
+                    213.0,
+                    397.0
+                ],
+                [
+                    212.0,
+                    397.0
+                ],
+                [
+                    212.0,
+                    393.0
+                ],
+                [
+                    213.0,
+                    393.0
+                ],
+                [
+                    213.0,
+                    355.0
+                ],
+                [
+                    214.0,
+                    355.0
+                ],
+                [
+                    214.0,
+                    350.0
+                ],
+                [
+                    213.0,
+                    350.0
+                ],
+                [
+                    213.0,
+                    348.0
+                ],
+                [
+                    202.0,
+                    348.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

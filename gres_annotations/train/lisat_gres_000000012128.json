@@ -1,0 +1,177 @@
+{
+    "text": [
+        "Find the big yellow equipment characterized by its unique arm and bucket design typically used in excavation and building work.",
+        "Seek out the prominent yellow machine known for its arm and bucket form often employed in digging and construction tasks.",
+        "Identify the sizable yellow apparatus with a defining arm and bucket shape regularly utilized for excavation and construction."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012128.jpg",
+            "points": [
+                [
+                    506.0,
+                    454.0
+                ],
+                [
+                    506.0,
+                    455.0
+                ],
+                [
+                    507.0,
+                    455.0
+                ],
+                [
+                    507.0,
+                    456.0
+                ],
+                [
+                    512.0,
+                    456.0
+                ],
+                [
+                    512.0,
+                    454.0
+                ],
+                [
+                    506.0,
+                    454.0
+                ],
+                [
+                    500.0,
+                    459.0
+                ],
+                [
+                    500.0,
+                    460.0
+                ],
+                [
+                    499.0,
+                    460.0
+                ],
+                [
+                    499.0,
+                    464.0
+                ],
+                [
+                    500.0,
+                    464.0
+                ],
+                [
+                    500.0,
+                    467.0
+                ],
+                [
+                    499.0,
+                    467.0
+                ],
+                [
+                    499.0,
+                    474.0
+                ],
+                [
+                    500.0,
+                    474.0
+                ],
+                [
+                    500.0,
+                    482.0
+                ],
+                [
+                    501.0,
+                    482.0
+                ],
+                [
+                    501.0,
+                    488.0
+                ],
+                [
+                    502.0,
+                    488.0
+                ],
+                [
+                    502.0,
+                    490.0
+                ],
+                [
+                    503.0,
+                    490.0
+                ],
+                [
+                    503.0,
+                    492.0
+                ],
+                [
+                    504.0,
+                    492.0
+                ],
+                [
+                    504.0,
+                    491.0
+                ],
+                [
+                    506.0,
+                    491.0
+                ],
+                [
+                    506.0,
+                    490.0
+                ],
+                [
+                    507.0,
+                    490.0
+                ],
+                [
+                    507.0,
+                    491.0
+                ],
+                [
+                    510.0,
+                    491.0
+                ],
+                [
+                    510.0,
+                    490.0
+                ],
+                [
+                    512.0,
+                    490.0
+                ],
+                [
+                    512.0,
+                    466.0
+                ],
+                [
+                    511.0,
+                    466.0
+                ],
+                [
+                    511.0,
+                    465.0
+                ],
+                [
+                    512.0,
+                    465.0
+                ],
+                [
+                    512.0,
+                    459.0
+                ],
+                [
+                    500.0,
+                    459.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

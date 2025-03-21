@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the metal-surfaced cylinder that features noticeable vertical stripes.",
+        "Find the cylindrical object with a shiny metallic exterior and distinct vertical markings.",
+        "Spot the cylinder that has a metallic covering with prominent vertical lines."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034678.jpg",
+            "points": [
+                [
+                    0.0,
+                    149.0
+                ],
+                [
+                    0.0,
+                    184.0
+                ],
+                [
+                    1.0,
+                    184.0
+                ],
+                [
+                    1.0,
+                    183.0
+                ],
+                [
+                    2.0,
+                    183.0
+                ],
+                [
+                    2.0,
+                    182.0
+                ],
+                [
+                    3.0,
+                    182.0
+                ],
+                [
+                    3.0,
+                    180.0
+                ],
+                [
+                    4.0,
+                    180.0
+                ],
+                [
+                    4.0,
+                    178.0
+                ],
+                [
+                    5.0,
+                    178.0
+                ],
+                [
+                    5.0,
+                    176.0
+                ],
+                [
+                    6.0,
+                    176.0
+                ],
+                [
+                    6.0,
+                    170.0
+                ],
+                [
+                    7.0,
+                    170.0
+                ],
+                [
+                    7.0,
+                    157.0
+                ],
+                [
+                    6.0,
+                    157.0
+                ],
+                [
+                    6.0,
+                    155.0
+                ],
+                [
+                    5.0,
+                    155.0
+                ],
+                [
+                    5.0,
+                    154.0
+                ],
+                [
+                    4.0,
+                    154.0
+                ],
+                [
+                    4.0,
+                    152.0
+                ],
+                [
+                    3.0,
+                    152.0
+                ],
+                [
+                    3.0,
+                    151.0
+                ],
+                [
+                    2.0,
+                    151.0
+                ],
+                [
+                    2.0,
+                    150.0
+                ],
+                [
+                    1.0,
+                    150.0
+                ],
+                [
+                    1.0,
+                    149.0
+                ],
+                [
+                    0.0,
+                    149.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

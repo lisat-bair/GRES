@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the truck that has a long rectangular trailer bed, wheels, a metal surface, and a noticeable cab at the front.",
+        "Locate the truck with a trailer bed that is long and rectangular, includes wheels, has a metal exterior, and a prominent cab at the front.",
+        "Find the truck featuring a trailer with an elongated rectangular shape, equipped with wheels, a metallic finish, and a distinctive cab in the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003585.jpg",
+            "points": [
+                [
+                    505.0,
+                    61.0
+                ],
+                [
+                    505.0,
+                    62.0
+                ],
+                [
+                    504.0,
+                    62.0
+                ],
+                [
+                    504.0,
+                    64.0
+                ],
+                [
+                    503.0,
+                    64.0
+                ],
+                [
+                    503.0,
+                    65.0
+                ],
+                [
+                    502.0,
+                    65.0
+                ],
+                [
+                    502.0,
+                    66.0
+                ],
+                [
+                    501.0,
+                    66.0
+                ],
+                [
+                    501.0,
+                    67.0
+                ],
+                [
+                    500.0,
+                    67.0
+                ],
+                [
+                    500.0,
+                    71.0
+                ],
+                [
+                    499.0,
+                    71.0
+                ],
+                [
+                    499.0,
+                    78.0
+                ],
+                [
+                    500.0,
+                    78.0
+                ],
+                [
+                    500.0,
+                    99.0
+                ],
+                [
+                    501.0,
+                    99.0
+                ],
+                [
+                    501.0,
+                    102.0
+                ],
+                [
+                    502.0,
+                    102.0
+                ],
+                [
+                    502.0,
+                    103.0
+                ],
+                [
+                    503.0,
+                    103.0
+                ],
+                [
+                    503.0,
+                    102.0
+                ],
+                [
+                    504.0,
+                    102.0
+                ],
+                [
+                    504.0,
+                    99.0
+                ],
+                [
+                    505.0,
+                    99.0
+                ],
+                [
+                    505.0,
+                    97.0
+                ],
+                [
+                    506.0,
+                    97.0
+                ],
+                [
+                    506.0,
+                    96.0
+                ],
+                [
+                    510.0,
+                    96.0
+                ],
+                [
+                    510.0,
+                    95.0
+                ],
+                [
+                    511.0,
+                    95.0
+                ],
+                [
+                    511.0,
+                    94.0
+                ],
+                [
+                    512.0,
+                    94.0
+                ],
+                [
+                    512.0,
+                    61.0
+                ],
+                [
+                    505.0,
+                    61.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

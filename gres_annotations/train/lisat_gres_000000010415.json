@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the yellow excavator with an extended arm and bucket, commonly used in construction, contrasting with the dirt-colored surroundings.",
+        "Spot the construction excavator, usually yellow, featuring a long arm and bucket, against the earthy backdrop.",
+        "Identify the large yellow excavator, characterized by its extensive arm and bucket, prominently visible against the natural ground tones."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010415.jpg",
+            "points": [
+                [
+                    12.0,
+                    305.0
+                ],
+                [
+                    12.0,
+                    306.0
+                ],
+                [
+                    11.0,
+                    306.0
+                ],
+                [
+                    11.0,
+                    312.0
+                ],
+                [
+                    12.0,
+                    312.0
+                ],
+                [
+                    12.0,
+                    314.0
+                ],
+                [
+                    13.0,
+                    314.0
+                ],
+                [
+                    13.0,
+                    316.0
+                ],
+                [
+                    14.0,
+                    316.0
+                ],
+                [
+                    14.0,
+                    318.0
+                ],
+                [
+                    15.0,
+                    318.0
+                ],
+                [
+                    15.0,
+                    319.0
+                ],
+                [
+                    16.0,
+                    319.0
+                ],
+                [
+                    16.0,
+                    320.0
+                ],
+                [
+                    18.0,
+                    320.0
+                ],
+                [
+                    18.0,
+                    319.0
+                ],
+                [
+                    19.0,
+                    319.0
+                ],
+                [
+                    19.0,
+                    317.0
+                ],
+                [
+                    20.0,
+                    317.0
+                ],
+                [
+                    20.0,
+                    310.0
+                ],
+                [
+                    21.0,
+                    310.0
+                ],
+                [
+                    21.0,
+                    309.0
+                ],
+                [
+                    20.0,
+                    309.0
+                ],
+                [
+                    20.0,
+                    307.0
+                ],
+                [
+                    19.0,
+                    307.0
+                ],
+                [
+                    19.0,
+                    306.0
+                ],
+                [
+                    18.0,
+                    306.0
+                ],
+                [
+                    18.0,
+                    305.0
+                ],
+                [
+                    12.0,
+                    305.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

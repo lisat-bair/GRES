@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the big yellow equipment with noticeable wheels and a front scoop or blade, positioned on a dirt or construction site backdrop.",
+        "Seek out the large yellow machine featuring prominent wheels and a front scoop or blade, set against a dirt or construction site setting.",
+        "Spot the sizeable yellow machinery with distinct wheels and a front scoop or blade, located in a dirt or construction site environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004538.jpg",
+            "points": [
+                [
+                    112.0,
+                    414.0
+                ],
+                [
+                    112.0,
+                    415.0
+                ],
+                [
+                    105.0,
+                    415.0
+                ],
+                [
+                    105.0,
+                    416.0
+                ],
+                [
+                    100.0,
+                    416.0
+                ],
+                [
+                    100.0,
+                    417.0
+                ],
+                [
+                    97.0,
+                    417.0
+                ],
+                [
+                    97.0,
+                    423.0
+                ],
+                [
+                    98.0,
+                    423.0
+                ],
+                [
+                    98.0,
+                    424.0
+                ],
+                [
+                    109.0,
+                    424.0
+                ],
+                [
+                    109.0,
+                    423.0
+                ],
+                [
+                    118.0,
+                    423.0
+                ],
+                [
+                    118.0,
+                    422.0
+                ],
+                [
+                    120.0,
+                    422.0
+                ],
+                [
+                    120.0,
+                    421.0
+                ],
+                [
+                    122.0,
+                    421.0
+                ],
+                [
+                    122.0,
+                    420.0
+                ],
+                [
+                    124.0,
+                    420.0
+                ],
+                [
+                    124.0,
+                    419.0
+                ],
+                [
+                    126.0,
+                    419.0
+                ],
+                [
+                    126.0,
+                    416.0
+                ],
+                [
+                    124.0,
+                    416.0
+                ],
+                [
+                    124.0,
+                    415.0
+                ],
+                [
+                    121.0,
+                    415.0
+                ],
+                [
+                    121.0,
+                    414.0
+                ],
+                [
+                    118.0,
+                    414.0
+                ],
+                [
+                    118.0,
+                    415.0
+                ],
+                [
+                    116.0,
+                    415.0
+                ],
+                [
+                    116.0,
+                    414.0
+                ],
+                [
+                    112.0,
+                    414.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Look for the truck by finding the big, dark vehicle featuring unique rounded corners and a notable central grill.",
+        "Spot the truck by searching for the large, dark automobile with characteristic round edges and a striking central grill.",
+        "Find the truck by identifying the sizable, dark vehicle that has distinct rounded sides and a prominent central grille."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008664.jpg",
+            "points": [
+                [
+                    488.0,
+                    337.0
+                ],
+                [
+                    488.0,
+                    339.0
+                ],
+                [
+                    487.0,
+                    339.0
+                ],
+                [
+                    487.0,
+                    346.0
+                ],
+                [
+                    488.0,
+                    346.0
+                ],
+                [
+                    488.0,
+                    347.0
+                ],
+                [
+                    498.0,
+                    347.0
+                ],
+                [
+                    498.0,
+                    348.0
+                ],
+                [
+                    505.0,
+                    348.0
+                ],
+                [
+                    505.0,
+                    347.0
+                ],
+                [
+                    506.0,
+                    347.0
+                ],
+                [
+                    506.0,
+                    339.0
+                ],
+                [
+                    504.0,
+                    339.0
+                ],
+                [
+                    504.0,
+                    338.0
+                ],
+                [
+                    498.0,
+                    338.0
+                ],
+                [
+                    498.0,
+                    337.0
+                ],
+                [
+                    488.0,
+                    337.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

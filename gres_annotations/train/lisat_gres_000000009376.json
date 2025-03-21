@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the truck that has a unique rectangle form and a muted color.",
+        "Search for the truck characterized by its unique rectangular design and subtle shade.",
+        "Identify the truck with a distinctive rectangular appearance and a neutral hue."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009376.jpg",
+            "points": [
+                [
+                    5.0,
+                    252.0
+                ],
+                [
+                    5.0,
+                    253.0
+                ],
+                [
+                    1.0,
+                    253.0
+                ],
+                [
+                    1.0,
+                    254.0
+                ],
+                [
+                    0.0,
+                    254.0
+                ],
+                [
+                    0.0,
+                    261.0
+                ],
+                [
+                    5.0,
+                    261.0
+                ],
+                [
+                    5.0,
+                    260.0
+                ],
+                [
+                    13.0,
+                    260.0
+                ],
+                [
+                    13.0,
+                    259.0
+                ],
+                [
+                    14.0,
+                    259.0
+                ],
+                [
+                    14.0,
+                    258.0
+                ],
+                [
+                    15.0,
+                    258.0
+                ],
+                [
+                    15.0,
+                    254.0
+                ],
+                [
+                    14.0,
+                    254.0
+                ],
+                [
+                    14.0,
+                    252.0
+                ],
+                [
+                    5.0,
+                    252.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

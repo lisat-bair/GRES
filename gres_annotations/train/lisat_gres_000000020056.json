@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Look for the truck by finding the long, light-colored rectangle that has three evenly spaced circular features along its length.",
+        "To identify the truck, search for the light-colored, elongated rectangular form with three circular components distributed evenly across it.",
+        "Find the truck by spotting the light-hued, extended rectangle that features three evenly spaced circular elements along its side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020056.jpg",
+            "points": [
+                [
+                    61.0,
+                    220.0
+                ],
+                [
+                    61.0,
+                    222.0
+                ],
+                [
+                    60.0,
+                    222.0
+                ],
+                [
+                    60.0,
+                    228.0
+                ],
+                [
+                    61.0,
+                    228.0
+                ],
+                [
+                    61.0,
+                    229.0
+                ],
+                [
+                    62.0,
+                    229.0
+                ],
+                [
+                    62.0,
+                    230.0
+                ],
+                [
+                    94.0,
+                    230.0
+                ],
+                [
+                    94.0,
+                    229.0
+                ],
+                [
+                    98.0,
+                    229.0
+                ],
+                [
+                    98.0,
+                    227.0
+                ],
+                [
+                    99.0,
+                    227.0
+                ],
+                [
+                    99.0,
+                    221.0
+                ],
+                [
+                    98.0,
+                    221.0
+                ],
+                [
+                    98.0,
+                    220.0
+                ],
+                [
+                    61.0,
+                    220.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

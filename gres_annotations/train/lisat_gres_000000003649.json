@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Look for a large, rectangular bus with windows on its side, typically painted in vibrant or unique colors.",
+        "Find the bus that is rectangular and large, with side windows and usually adorned in bright or distinctive hues.",
+        "Spot the rectangular, sizable bus that showcases windows on its sides and is often in eye-catching or unusual colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003649.jpg",
+            "points": [
+                [
+                    107.0,
+                    116.0
+                ],
+                [
+                    107.0,
+                    117.0
+                ],
+                [
+                    106.0,
+                    117.0
+                ],
+                [
+                    106.0,
+                    122.0
+                ],
+                [
+                    107.0,
+                    122.0
+                ],
+                [
+                    107.0,
+                    126.0
+                ],
+                [
+                    108.0,
+                    126.0
+                ],
+                [
+                    108.0,
+                    128.0
+                ],
+                [
+                    109.0,
+                    128.0
+                ],
+                [
+                    109.0,
+                    129.0
+                ],
+                [
+                    112.0,
+                    129.0
+                ],
+                [
+                    112.0,
+                    128.0
+                ],
+                [
+                    114.0,
+                    128.0
+                ],
+                [
+                    114.0,
+                    127.0
+                ],
+                [
+                    115.0,
+                    127.0
+                ],
+                [
+                    115.0,
+                    122.0
+                ],
+                [
+                    114.0,
+                    122.0
+                ],
+                [
+                    114.0,
+                    119.0
+                ],
+                [
+                    113.0,
+                    119.0
+                ],
+                [
+                    113.0,
+                    118.0
+                ],
+                [
+                    112.0,
+                    118.0
+                ],
+                [
+                    112.0,
+                    117.0
+                ],
+                [
+                    111.0,
+                    117.0
+                ],
+                [
+                    111.0,
+                    116.0
+                ],
+                [
+                    107.0,
+                    116.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

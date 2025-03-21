@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the shiny blue vehicle with rounded corners and gleaming surfaces.",
+        "Search for the blue metallic automobile that has smooth edges and reflective features.",
+        "Spot the blue car with a metallic finish, curved lines, and a glossy surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034002.jpg",
+            "points": [
+                [
+                    445.0,
+                    164.0
+                ],
+                [
+                    445.0,
+                    165.0
+                ],
+                [
+                    444.0,
+                    165.0
+                ],
+                [
+                    444.0,
+                    166.0
+                ],
+                [
+                    443.0,
+                    166.0
+                ],
+                [
+                    443.0,
+                    167.0
+                ],
+                [
+                    442.0,
+                    167.0
+                ],
+                [
+                    442.0,
+                    171.0
+                ],
+                [
+                    443.0,
+                    171.0
+                ],
+                [
+                    443.0,
+                    172.0
+                ],
+                [
+                    444.0,
+                    172.0
+                ],
+                [
+                    444.0,
+                    173.0
+                ],
+                [
+                    452.0,
+                    173.0
+                ],
+                [
+                    452.0,
+                    172.0
+                ],
+                [
+                    456.0,
+                    172.0
+                ],
+                [
+                    456.0,
+                    171.0
+                ],
+                [
+                    458.0,
+                    171.0
+                ],
+                [
+                    458.0,
+                    168.0
+                ],
+                [
+                    457.0,
+                    168.0
+                ],
+                [
+                    457.0,
+                    167.0
+                ],
+                [
+                    456.0,
+                    167.0
+                ],
+                [
+                    456.0,
+                    166.0
+                ],
+                [
+                    454.0,
+                    166.0
+                ],
+                [
+                    454.0,
+                    165.0
+                ],
+                [
+                    452.0,
+                    165.0
+                ],
+                [
+                    452.0,
+                    164.0
+                ],
+                [
+                    445.0,
+                    164.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

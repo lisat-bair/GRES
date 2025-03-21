@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the vehicle in the picture by finding the rectangular form with clear outlines and shiny metallic reflections against the darker backdrop.",
+        "Find the car in the photo by identifying the rectangle shape that has sharp edges and metallic light reflections contrasting with the dark background.",
+        "Locate the automobile in the image by searching for the rectangular contour featuring distinct edges and reflective metallic surfaces set against a darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002612.jpg",
+            "points": [
+                [
+                    244.0,
+                    114.0
+                ],
+                [
+                    244.0,
+                    115.0
+                ],
+                [
+                    242.0,
+                    115.0
+                ],
+                [
+                    242.0,
+                    122.0
+                ],
+                [
+                    243.0,
+                    122.0
+                ],
+                [
+                    243.0,
+                    126.0
+                ],
+                [
+                    244.0,
+                    126.0
+                ],
+                [
+                    244.0,
+                    128.0
+                ],
+                [
+                    245.0,
+                    128.0
+                ],
+                [
+                    245.0,
+                    130.0
+                ],
+                [
+                    246.0,
+                    130.0
+                ],
+                [
+                    246.0,
+                    131.0
+                ],
+                [
+                    250.0,
+                    131.0
+                ],
+                [
+                    250.0,
+                    130.0
+                ],
+                [
+                    252.0,
+                    130.0
+                ],
+                [
+                    252.0,
+                    129.0
+                ],
+                [
+                    253.0,
+                    129.0
+                ],
+                [
+                    253.0,
+                    126.0
+                ],
+                [
+                    252.0,
+                    126.0
+                ],
+                [
+                    252.0,
+                    123.0
+                ],
+                [
+                    251.0,
+                    123.0
+                ],
+                [
+                    251.0,
+                    120.0
+                ],
+                [
+                    250.0,
+                    120.0
+                ],
+                [
+                    250.0,
+                    118.0
+                ],
+                [
+                    249.0,
+                    118.0
+                ],
+                [
+                    249.0,
+                    116.0
+                ],
+                [
+                    248.0,
+                    116.0
+                ],
+                [
+                    248.0,
+                    115.0
+                ],
+                [
+                    247.0,
+                    115.0
+                ],
+                [
+                    247.0,
+                    114.0
+                ],
+                [
+                    244.0,
+                    114.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

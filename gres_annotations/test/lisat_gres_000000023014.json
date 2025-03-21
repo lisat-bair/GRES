@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Identify the bus with its elongated rectangular shape, large windows, and bright distinctive color standing out against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023014.jpg",
+            "points": [
+                [
+                    164.0,
+                    95.0
+                ],
+                [
+                    164.0,
+                    96.0
+                ],
+                [
+                    162.0,
+                    96.0
+                ],
+                [
+                    162.0,
+                    103.0
+                ],
+                [
+                    163.0,
+                    103.0
+                ],
+                [
+                    163.0,
+                    108.0
+                ],
+                [
+                    164.0,
+                    108.0
+                ],
+                [
+                    164.0,
+                    109.0
+                ],
+                [
+                    171.0,
+                    109.0
+                ],
+                [
+                    171.0,
+                    100.0
+                ],
+                [
+                    170.0,
+                    100.0
+                ],
+                [
+                    170.0,
+                    97.0
+                ],
+                [
+                    169.0,
+                    97.0
+                ],
+                [
+                    169.0,
+                    96.0
+                ],
+                [
+                    168.0,
+                    96.0
+                ],
+                [
+                    168.0,
+                    95.0
+                ],
+                [
+                    164.0,
+                    95.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

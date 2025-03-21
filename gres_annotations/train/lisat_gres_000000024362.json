@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the truck that has a big, boxy design and stands out with its bold black and deep brown colors.",
+        "Spot the vehicle with a sizable, rectangular form and noticeable black and dark brown tones.",
+        "Find the truck characterized by a large, rectangular build and striking black and dark brown shades."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024362.jpg",
+            "points": [
+                [
+                    509.0,
+                    371.0
+                ],
+                [
+                    509.0,
+                    372.0
+                ],
+                [
+                    508.0,
+                    372.0
+                ],
+                [
+                    508.0,
+                    373.0
+                ],
+                [
+                    507.0,
+                    373.0
+                ],
+                [
+                    507.0,
+                    375.0
+                ],
+                [
+                    506.0,
+                    375.0
+                ],
+                [
+                    506.0,
+                    377.0
+                ],
+                [
+                    505.0,
+                    377.0
+                ],
+                [
+                    505.0,
+                    384.0
+                ],
+                [
+                    506.0,
+                    384.0
+                ],
+                [
+                    506.0,
+                    388.0
+                ],
+                [
+                    507.0,
+                    388.0
+                ],
+                [
+                    507.0,
+                    390.0
+                ],
+                [
+                    508.0,
+                    390.0
+                ],
+                [
+                    508.0,
+                    392.0
+                ],
+                [
+                    509.0,
+                    392.0
+                ],
+                [
+                    509.0,
+                    393.0
+                ],
+                [
+                    510.0,
+                    393.0
+                ],
+                [
+                    510.0,
+                    394.0
+                ],
+                [
+                    512.0,
+                    394.0
+                ],
+                [
+                    512.0,
+                    371.0
+                ],
+                [
+                    509.0,
+                    371.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

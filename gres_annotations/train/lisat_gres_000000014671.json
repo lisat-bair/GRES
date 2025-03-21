@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the building with a pale roof and dark sides, encircled by trees and plants.",
+        "Spot the rectangular building featuring a light roof and dark walls, nestled among trees and greenery.",
+        "Find the structure that has a bright roof and dark exterior, bordered by foliage and trees."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014671.jpg",
+            "points": [
+                [
+                    39.0,
+                    188.0
+                ],
+                [
+                    39.0,
+                    189.0
+                ],
+                [
+                    31.0,
+                    189.0
+                ],
+                [
+                    31.0,
+                    190.0
+                ],
+                [
+                    30.0,
+                    190.0
+                ],
+                [
+                    30.0,
+                    196.0
+                ],
+                [
+                    32.0,
+                    196.0
+                ],
+                [
+                    32.0,
+                    197.0
+                ],
+                [
+                    51.0,
+                    197.0
+                ],
+                [
+                    51.0,
+                    196.0
+                ],
+                [
+                    53.0,
+                    196.0
+                ],
+                [
+                    53.0,
+                    192.0
+                ],
+                [
+                    52.0,
+                    192.0
+                ],
+                [
+                    52.0,
+                    191.0
+                ],
+                [
+                    51.0,
+                    191.0
+                ],
+                [
+                    51.0,
+                    190.0
+                ],
+                [
+                    50.0,
+                    190.0
+                ],
+                [
+                    50.0,
+                    189.0
+                ],
+                [
+                    47.0,
+                    189.0
+                ],
+                [
+                    47.0,
+                    188.0
+                ],
+                [
+                    39.0,
+                    188.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Find the vehicle that has a boxy appearance and a shiny metal finish, with clearly defined wheel contours.",
+        "Look for the automobile that possesses a rectangular form and a glossy metallic surface, highlighting evident wheel outlines.",
+        "Identify the car that exhibits a rectangular shape and a bright metallic sheen, characterized by pronounced wheel details."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013869.jpg",
+            "points": [
+                [
+                    236.0,
+                    335.0
+                ],
+                [
+                    236.0,
+                    351.0
+                ],
+                [
+                    243.0,
+                    351.0
+                ],
+                [
+                    243.0,
+                    350.0
+                ],
+                [
+                    244.0,
+                    350.0
+                ],
+                [
+                    244.0,
+                    345.0
+                ],
+                [
+                    243.0,
+                    345.0
+                ],
+                [
+                    243.0,
+                    336.0
+                ],
+                [
+                    242.0,
+                    336.0
+                ],
+                [
+                    242.0,
+                    335.0
+                ],
+                [
+                    236.0,
+                    335.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

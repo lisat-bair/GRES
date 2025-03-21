@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Locate the car with a sleek, metallic body and distinct wheel shapes against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012774.jpg",
+            "points": [
+                [
+                    0.0,
+                    12.0
+                ],
+                [
+                    0.0,
+                    19.0
+                ],
+                [
+                    1.0,
+                    19.0
+                ],
+                [
+                    1.0,
+                    18.0
+                ],
+                [
+                    3.0,
+                    18.0
+                ],
+                [
+                    3.0,
+                    17.0
+                ],
+                [
+                    5.0,
+                    17.0
+                ],
+                [
+                    5.0,
+                    15.0
+                ],
+                [
+                    6.0,
+                    15.0
+                ],
+                [
+                    6.0,
+                    14.0
+                ],
+                [
+                    5.0,
+                    14.0
+                ],
+                [
+                    5.0,
+                    12.0
+                ],
+                [
+                    0.0,
+                    12.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

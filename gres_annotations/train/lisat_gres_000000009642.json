@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Identify the car that stands out due to its unique shape and contrasting colors, paying attention to details like the design of the headlights or the bumper.",
+        "Find the automobile that is easily noticeable because of its distinctive form and color differences, concentrating on elements such as the shape of the headlights or the style of the bumper.",
+        "Spot the vehicle that is remarkable for its unusual shape and color contrast, focusing on specifics like the contours of the headlights or the design of the bumper."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009642.jpg",
+            "points": [
+                [
+                    78.0,
+                    221.0
+                ],
+                [
+                    78.0,
+                    222.0
+                ],
+                [
+                    73.0,
+                    222.0
+                ],
+                [
+                    73.0,
+                    224.0
+                ],
+                [
+                    72.0,
+                    224.0
+                ],
+                [
+                    72.0,
+                    228.0
+                ],
+                [
+                    76.0,
+                    228.0
+                ],
+                [
+                    76.0,
+                    229.0
+                ],
+                [
+                    80.0,
+                    229.0
+                ],
+                [
+                    80.0,
+                    228.0
+                ],
+                [
+                    83.0,
+                    228.0
+                ],
+                [
+                    83.0,
+                    227.0
+                ],
+                [
+                    84.0,
+                    227.0
+                ],
+                [
+                    84.0,
+                    222.0
+                ],
+                [
+                    81.0,
+                    222.0
+                ],
+                [
+                    81.0,
+                    221.0
+                ],
+                [
+                    78.0,
+                    221.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

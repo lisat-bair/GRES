@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the truck that has a unique dark hue and a boxy design, with its wheels in plain sight.",
+        "Search for the vehicle that stands out with its dark shade and rectangular form, where the wheels are noticeable.",
+        "Identify the truck with a noticeable dark color and a rectangular appearance, having wheels that are clearly visible."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026701.jpg",
+            "points": [
+                [
+                    96.0,
+                    258.0
+                ],
+                [
+                    96.0,
+                    259.0
+                ],
+                [
+                    93.0,
+                    259.0
+                ],
+                [
+                    93.0,
+                    260.0
+                ],
+                [
+                    92.0,
+                    260.0
+                ],
+                [
+                    92.0,
+                    261.0
+                ],
+                [
+                    91.0,
+                    261.0
+                ],
+                [
+                    91.0,
+                    263.0
+                ],
+                [
+                    90.0,
+                    263.0
+                ],
+                [
+                    90.0,
+                    267.0
+                ],
+                [
+                    91.0,
+                    267.0
+                ],
+                [
+                    91.0,
+                    268.0
+                ],
+                [
+                    92.0,
+                    268.0
+                ],
+                [
+                    92.0,
+                    269.0
+                ],
+                [
+                    95.0,
+                    269.0
+                ],
+                [
+                    95.0,
+                    270.0
+                ],
+                [
+                    100.0,
+                    270.0
+                ],
+                [
+                    100.0,
+                    271.0
+                ],
+                [
+                    107.0,
+                    271.0
+                ],
+                [
+                    107.0,
+                    272.0
+                ],
+                [
+                    111.0,
+                    272.0
+                ],
+                [
+                    111.0,
+                    271.0
+                ],
+                [
+                    113.0,
+                    271.0
+                ],
+                [
+                    113.0,
+                    269.0
+                ],
+                [
+                    114.0,
+                    269.0
+                ],
+                [
+                    114.0,
+                    267.0
+                ],
+                [
+                    115.0,
+                    267.0
+                ],
+                [
+                    115.0,
+                    261.0
+                ],
+                [
+                    114.0,
+                    261.0
+                ],
+                [
+                    114.0,
+                    260.0
+                ],
+                [
+                    112.0,
+                    260.0
+                ],
+                [
+                    112.0,
+                    259.0
+                ],
+                [
+                    101.0,
+                    259.0
+                ],
+                [
+                    101.0,
+                    258.0
+                ],
+                [
+                    96.0,
+                    258.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the truck in the picture characterized by its large, rectangular cargo space and big wheels, often appearing in yellow or orange.",
+        "Locate the truck in the image, which is known for its expansive, rectangular cargo section and large wheels, typically seen in hues of yellow or orange.",
+        "Find the truck in the photo that features a broad, rectangular cargo area and oversized wheels, usually colored in yellow or orange."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002699.jpg",
+            "points": [
+                [
+                    293.0,
+                    343.0
+                ],
+                [
+                    293.0,
+                    345.0
+                ],
+                [
+                    292.0,
+                    345.0
+                ],
+                [
+                    292.0,
+                    348.0
+                ],
+                [
+                    291.0,
+                    348.0
+                ],
+                [
+                    291.0,
+                    355.0
+                ],
+                [
+                    292.0,
+                    355.0
+                ],
+                [
+                    292.0,
+                    359.0
+                ],
+                [
+                    294.0,
+                    359.0
+                ],
+                [
+                    294.0,
+                    360.0
+                ],
+                [
+                    300.0,
+                    360.0
+                ],
+                [
+                    300.0,
+                    359.0
+                ],
+                [
+                    301.0,
+                    359.0
+                ],
+                [
+                    301.0,
+                    358.0
+                ],
+                [
+                    302.0,
+                    358.0
+                ],
+                [
+                    302.0,
+                    354.0
+                ],
+                [
+                    301.0,
+                    354.0
+                ],
+                [
+                    301.0,
+                    345.0
+                ],
+                [
+                    300.0,
+                    345.0
+                ],
+                [
+                    300.0,
+                    343.0
+                ],
+                [
+                    293.0,
+                    343.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

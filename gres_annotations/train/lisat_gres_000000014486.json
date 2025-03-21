@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the vehicle that has shiny surfaces, unique headlights, and a sleek, aerodynamic form typical of an automobile.",
+        "Find the automobile that features glossy exteriors, recognizable headlights, and a smooth silhouette typical of a car.",
+        "Spot the car with mirror-like surfaces, noticeable headlights, and a streamlined design indicative of a vehicle."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014486.jpg",
+            "points": [
+                [
+                    141.0,
+                    506.0
+                ],
+                [
+                    141.0,
+                    507.0
+                ],
+                [
+                    140.0,
+                    507.0
+                ],
+                [
+                    140.0,
+                    509.0
+                ],
+                [
+                    139.0,
+                    509.0
+                ],
+                [
+                    139.0,
+                    511.0
+                ],
+                [
+                    138.0,
+                    511.0
+                ],
+                [
+                    138.0,
+                    512.0
+                ],
+                [
+                    149.0,
+                    512.0
+                ],
+                [
+                    149.0,
+                    511.0
+                ],
+                [
+                    148.0,
+                    511.0
+                ],
+                [
+                    148.0,
+                    508.0
+                ],
+                [
+                    147.0,
+                    508.0
+                ],
+                [
+                    147.0,
+                    507.0
+                ],
+                [
+                    146.0,
+                    507.0
+                ],
+                [
+                    146.0,
+                    506.0
+                ],
+                [
+                    141.0,
+                    506.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

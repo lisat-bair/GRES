@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for the flat, rectangular structure that has a brown hue, distinct from the darker shades of its surroundings.",
+        "Spot the rectangular building with a flat top and brown color, contrasting against the darker environment.",
+        "Find the flat, rectangular edifice with a brownish tint that stands out amidst the darker backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023874.jpg",
+            "points": [
+                [
+                    0.0,
+                    235.0
+                ],
+                [
+                    0.0,
+                    259.0
+                ],
+                [
+                    17.0,
+                    259.0
+                ],
+                [
+                    17.0,
+                    258.0
+                ],
+                [
+                    19.0,
+                    258.0
+                ],
+                [
+                    19.0,
+                    257.0
+                ],
+                [
+                    20.0,
+                    257.0
+                ],
+                [
+                    20.0,
+                    255.0
+                ],
+                [
+                    21.0,
+                    255.0
+                ],
+                [
+                    21.0,
+                    253.0
+                ],
+                [
+                    22.0,
+                    253.0
+                ],
+                [
+                    22.0,
+                    251.0
+                ],
+                [
+                    23.0,
+                    251.0
+                ],
+                [
+                    23.0,
+                    250.0
+                ],
+                [
+                    24.0,
+                    250.0
+                ],
+                [
+                    24.0,
+                    247.0
+                ],
+                [
+                    25.0,
+                    247.0
+                ],
+                [
+                    25.0,
+                    242.0
+                ],
+                [
+                    24.0,
+                    242.0
+                ],
+                [
+                    24.0,
+                    241.0
+                ],
+                [
+                    22.0,
+                    241.0
+                ],
+                [
+                    22.0,
+                    240.0
+                ],
+                [
+                    18.0,
+                    240.0
+                ],
+                [
+                    18.0,
+                    239.0
+                ],
+                [
+                    14.0,
+                    239.0
+                ],
+                [
+                    14.0,
+                    238.0
+                ],
+                [
+                    10.0,
+                    238.0
+                ],
+                [
+                    10.0,
+                    237.0
+                ],
+                [
+                    6.0,
+                    237.0
+                ],
+                [
+                    6.0,
+                    236.0
+                ],
+                [
+                    1.0,
+                    236.0
+                ],
+                [
+                    1.0,
+                    235.0
+                ],
+                [
+                    0.0,
+                    235.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

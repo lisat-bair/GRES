@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the damaged structure in the lower-right corner of the picture.",
+        "Find the building with damage situated at the bottom-right of the image.",
+        "Point out the damaged edifice located at the bottom-right corner in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022894.jpg",
+            "points": [
+                [
+                    209.0,
+                    502.0
+                ],
+                [
+                    209.0,
+                    503.0
+                ],
+                [
+                    198.0,
+                    503.0
+                ],
+                [
+                    198.0,
+                    504.0
+                ],
+                [
+                    185.0,
+                    504.0
+                ],
+                [
+                    185.0,
+                    505.0
+                ],
+                [
+                    183.0,
+                    505.0
+                ],
+                [
+                    183.0,
+                    506.0
+                ],
+                [
+                    182.0,
+                    506.0
+                ],
+                [
+                    182.0,
+                    512.0
+                ],
+                [
+                    222.0,
+                    512.0
+                ],
+                [
+                    222.0,
+                    511.0
+                ],
+                [
+                    221.0,
+                    511.0
+                ],
+                [
+                    221.0,
+                    509.0
+                ],
+                [
+                    220.0,
+                    509.0
+                ],
+                [
+                    220.0,
+                    507.0
+                ],
+                [
+                    219.0,
+                    507.0
+                ],
+                [
+                    219.0,
+                    506.0
+                ],
+                [
+                    218.0,
+                    506.0
+                ],
+                [
+                    218.0,
+                    505.0
+                ],
+                [
+                    217.0,
+                    505.0
+                ],
+                [
+                    217.0,
+                    504.0
+                ],
+                [
+                    216.0,
+                    504.0
+                ],
+                [
+                    216.0,
+                    503.0
+                ],
+                [
+                    214.0,
+                    503.0
+                ],
+                [
+                    214.0,
+                    502.0
+                ],
+                [
+                    209.0,
+                    502.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

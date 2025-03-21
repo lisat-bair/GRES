@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Locate the tall, vertical pylon with a metallic texture and crisscross patterns set against a dark background.",
+        "Spot the pylon characterized by its towering vertical form, metallic appearance, and intersecting lines against a dark backdrop.",
+        "Find the pylon that has a high, vertical structure with a metallic look, featuring crosshatch lines against a dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005704.jpg",
+            "points": [
+                [
+                    500.0,
+                    234.0
+                ],
+                [
+                    500.0,
+                    235.0
+                ],
+                [
+                    497.0,
+                    235.0
+                ],
+                [
+                    497.0,
+                    238.0
+                ],
+                [
+                    496.0,
+                    238.0
+                ],
+                [
+                    496.0,
+                    250.0
+                ],
+                [
+                    497.0,
+                    250.0
+                ],
+                [
+                    497.0,
+                    252.0
+                ],
+                [
+                    496.0,
+                    252.0
+                ],
+                [
+                    496.0,
+                    264.0
+                ],
+                [
+                    495.0,
+                    264.0
+                ],
+                [
+                    495.0,
+                    267.0
+                ],
+                [
+                    496.0,
+                    267.0
+                ],
+                [
+                    496.0,
+                    268.0
+                ],
+                [
+                    497.0,
+                    268.0
+                ],
+                [
+                    497.0,
+                    269.0
+                ],
+                [
+                    500.0,
+                    269.0
+                ],
+                [
+                    500.0,
+                    270.0
+                ],
+                [
+                    503.0,
+                    270.0
+                ],
+                [
+                    503.0,
+                    271.0
+                ],
+                [
+                    505.0,
+                    271.0
+                ],
+                [
+                    505.0,
+                    272.0
+                ],
+                [
+                    506.0,
+                    272.0
+                ],
+                [
+                    506.0,
+                    273.0
+                ],
+                [
+                    508.0,
+                    273.0
+                ],
+                [
+                    508.0,
+                    274.0
+                ],
+                [
+                    511.0,
+                    274.0
+                ],
+                [
+                    511.0,
+                    275.0
+                ],
+                [
+                    512.0,
+                    275.0
+                ],
+                [
+                    512.0,
+                    236.0
+                ],
+                [
+                    510.0,
+                    236.0
+                ],
+                [
+                    510.0,
+                    235.0
+                ],
+                [
+                    506.0,
+                    235.0
+                ],
+                [
+                    506.0,
+                    234.0
+                ],
+                [
+                    500.0,
+                    234.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

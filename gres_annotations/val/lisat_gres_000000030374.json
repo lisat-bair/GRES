@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the large yellow vehicle with multiple windows and a distinct rectangular shape, typically found on roads or near sidewalks."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030374.jpg",
+            "points": [
+                [
+                    161.0,
+                    0.0
+                ],
+                [
+                    161.0,
+                    1.0
+                ],
+                [
+                    162.0,
+                    1.0
+                ],
+                [
+                    162.0,
+                    2.0
+                ],
+                [
+                    163.0,
+                    2.0
+                ],
+                [
+                    163.0,
+                    4.0
+                ],
+                [
+                    164.0,
+                    4.0
+                ],
+                [
+                    164.0,
+                    5.0
+                ],
+                [
+                    165.0,
+                    5.0
+                ],
+                [
+                    165.0,
+                    6.0
+                ],
+                [
+                    170.0,
+                    6.0
+                ],
+                [
+                    170.0,
+                    5.0
+                ],
+                [
+                    172.0,
+                    5.0
+                ],
+                [
+                    172.0,
+                    0.0
+                ],
+                [
+                    161.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

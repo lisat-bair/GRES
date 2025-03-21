@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the truck that has a prominent, shadowy form with shiny metallic elements and sharp, angular characteristics in the picture.",
+        "Spot the truck in the image that displays a sizable dark silhouette with metallic glints and notable angular traits.",
+        "Find the truck in the photo characterized by a large, dark outline with reflective metallic surfaces and distinctive angular details."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022443.jpg",
+            "points": [
+                [
+                    312.0,
+                    249.0
+                ],
+                [
+                    312.0,
+                    250.0
+                ],
+                [
+                    310.0,
+                    250.0
+                ],
+                [
+                    310.0,
+                    251.0
+                ],
+                [
+                    309.0,
+                    251.0
+                ],
+                [
+                    309.0,
+                    252.0
+                ],
+                [
+                    308.0,
+                    252.0
+                ],
+                [
+                    308.0,
+                    253.0
+                ],
+                [
+                    307.0,
+                    253.0
+                ],
+                [
+                    307.0,
+                    257.0
+                ],
+                [
+                    306.0,
+                    257.0
+                ],
+                [
+                    306.0,
+                    262.0
+                ],
+                [
+                    307.0,
+                    262.0
+                ],
+                [
+                    307.0,
+                    263.0
+                ],
+                [
+                    313.0,
+                    263.0
+                ],
+                [
+                    313.0,
+                    262.0
+                ],
+                [
+                    317.0,
+                    262.0
+                ],
+                [
+                    317.0,
+                    261.0
+                ],
+                [
+                    318.0,
+                    261.0
+                ],
+                [
+                    318.0,
+                    260.0
+                ],
+                [
+                    319.0,
+                    260.0
+                ],
+                [
+                    319.0,
+                    259.0
+                ],
+                [
+                    320.0,
+                    259.0
+                ],
+                [
+                    320.0,
+                    251.0
+                ],
+                [
+                    319.0,
+                    251.0
+                ],
+                [
+                    319.0,
+                    250.0
+                ],
+                [
+                    317.0,
+                    250.0
+                ],
+                [
+                    317.0,
+                    249.0
+                ],
+                [
+                    312.0,
+                    249.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

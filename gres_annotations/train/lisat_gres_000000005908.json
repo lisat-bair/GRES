@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the truck that is mostly white, with a tall rectangular form and noticeable vertical stripes at the front.",
+        "Spot the tall, rectangular truck that stands out with its white color and has prominent vertical lines on its front.",
+        "Find the predominantly white truck with a high, rectangular build, marked by distinct vertical lines on its front side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005908.jpg",
+            "points": [
+                [
+                    499.0,
+                    260.0
+                ],
+                [
+                    499.0,
+                    261.0
+                ],
+                [
+                    498.0,
+                    261.0
+                ],
+                [
+                    498.0,
+                    267.0
+                ],
+                [
+                    499.0,
+                    267.0
+                ],
+                [
+                    499.0,
+                    273.0
+                ],
+                [
+                    500.0,
+                    273.0
+                ],
+                [
+                    500.0,
+                    277.0
+                ],
+                [
+                    501.0,
+                    277.0
+                ],
+                [
+                    501.0,
+                    279.0
+                ],
+                [
+                    502.0,
+                    279.0
+                ],
+                [
+                    502.0,
+                    280.0
+                ],
+                [
+                    503.0,
+                    280.0
+                ],
+                [
+                    503.0,
+                    281.0
+                ],
+                [
+                    512.0,
+                    281.0
+                ],
+                [
+                    512.0,
+                    265.0
+                ],
+                [
+                    511.0,
+                    265.0
+                ],
+                [
+                    511.0,
+                    263.0
+                ],
+                [
+                    510.0,
+                    263.0
+                ],
+                [
+                    510.0,
+                    261.0
+                ],
+                [
+                    509.0,
+                    261.0
+                ],
+                [
+                    509.0,
+                    260.0
+                ],
+                [
+                    499.0,
+                    260.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Locate the building that has a rectangular shape with a dark top and is bordered by lighter brown sides in the picture.",
+        "Find the rectangular structure with a dark roof surrounded by lighter brown borders within the image.",
+        "Spot the facility with a dark surface and light brown edges, structured in a rectangle, in the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008492.jpg",
+            "points": [
+                [
+                    163,
+                    100
+                ],
+                [
+                    271,
+                    100
+                ],
+                [
+                    271,
+                    171
+                ],
+                [
+                    163,
+                    171
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

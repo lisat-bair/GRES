@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the truck that has a dark, long form and a textured surface set against a lighter backdrop.",
+        "Find the truck characterized by its dark, extended shape and rough surface, contrasting a lighter setting.",
+        "Locate the truck with an elongated, dark shape and a textured exterior, standing out against a lighter background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006088.jpg",
+            "points": [
+                [
+                    178.0,
+                    490.0
+                ],
+                [
+                    178.0,
+                    491.0
+                ],
+                [
+                    176.0,
+                    491.0
+                ],
+                [
+                    176.0,
+                    493.0
+                ],
+                [
+                    175.0,
+                    493.0
+                ],
+                [
+                    175.0,
+                    496.0
+                ],
+                [
+                    174.0,
+                    496.0
+                ],
+                [
+                    174.0,
+                    497.0
+                ],
+                [
+                    173.0,
+                    497.0
+                ],
+                [
+                    173.0,
+                    499.0
+                ],
+                [
+                    172.0,
+                    499.0
+                ],
+                [
+                    172.0,
+                    501.0
+                ],
+                [
+                    171.0,
+                    501.0
+                ],
+                [
+                    171.0,
+                    505.0
+                ],
+                [
+                    170.0,
+                    505.0
+                ],
+                [
+                    170.0,
+                    510.0
+                ],
+                [
+                    169.0,
+                    510.0
+                ],
+                [
+                    169.0,
+                    512.0
+                ],
+                [
+                    186.0,
+                    512.0
+                ],
+                [
+                    186.0,
+                    506.0
+                ],
+                [
+                    187.0,
+                    506.0
+                ],
+                [
+                    187.0,
+                    497.0
+                ],
+                [
+                    186.0,
+                    497.0
+                ],
+                [
+                    186.0,
+                    495.0
+                ],
+                [
+                    185.0,
+                    495.0
+                ],
+                [
+                    185.0,
+                    494.0
+                ],
+                [
+                    184.0,
+                    494.0
+                ],
+                [
+                    184.0,
+                    493.0
+                ],
+                [
+                    183.0,
+                    493.0
+                ],
+                [
+                    183.0,
+                    492.0
+                ],
+                [
+                    181.0,
+                    492.0
+                ],
+                [
+                    181.0,
+                    491.0
+                ],
+                [
+                    179.0,
+                    491.0
+                ],
+                [
+                    179.0,
+                    490.0
+                ],
+                [
+                    178.0,
+                    490.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

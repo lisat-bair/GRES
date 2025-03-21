@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the car that is uniquely light gray and has a long form.",
+        "Search for the vehicle that is characterized by its light gray hue and elongated design.",
+        "Identify the automobile that stands out with its pale gray color and stretched shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007089.jpg",
+            "points": [
+                [
+                    46.0,
+                    71.0
+                ],
+                [
+                    46.0,
+                    72.0
+                ],
+                [
+                    45.0,
+                    72.0
+                ],
+                [
+                    45.0,
+                    73.0
+                ],
+                [
+                    44.0,
+                    73.0
+                ],
+                [
+                    44.0,
+                    75.0
+                ],
+                [
+                    43.0,
+                    75.0
+                ],
+                [
+                    43.0,
+                    78.0
+                ],
+                [
+                    42.0,
+                    78.0
+                ],
+                [
+                    42.0,
+                    81.0
+                ],
+                [
+                    41.0,
+                    81.0
+                ],
+                [
+                    41.0,
+                    85.0
+                ],
+                [
+                    42.0,
+                    85.0
+                ],
+                [
+                    42.0,
+                    86.0
+                ],
+                [
+                    44.0,
+                    86.0
+                ],
+                [
+                    44.0,
+                    87.0
+                ],
+                [
+                    46.0,
+                    87.0
+                ],
+                [
+                    46.0,
+                    86.0
+                ],
+                [
+                    47.0,
+                    86.0
+                ],
+                [
+                    47.0,
+                    84.0
+                ],
+                [
+                    48.0,
+                    84.0
+                ],
+                [
+                    48.0,
+                    83.0
+                ],
+                [
+                    49.0,
+                    83.0
+                ],
+                [
+                    49.0,
+                    81.0
+                ],
+                [
+                    50.0,
+                    81.0
+                ],
+                [
+                    50.0,
+                    79.0
+                ],
+                [
+                    51.0,
+                    79.0
+                ],
+                [
+                    51.0,
+                    76.0
+                ],
+                [
+                    52.0,
+                    76.0
+                ],
+                [
+                    52.0,
+                    73.0
+                ],
+                [
+                    51.0,
+                    73.0
+                ],
+                [
+                    51.0,
+                    72.0
+                ],
+                [
+                    48.0,
+                    72.0
+                ],
+                [
+                    48.0,
+                    71.0
+                ],
+                [
+                    46.0,
+                    71.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the big, yellow equipment featuring a noticeable bucket or blade and sizable wheels or tracks.",
+        "Locate the large, yellow vehicle with a distinct bucket or blade and substantial wheels or tracks.",
+        "Find the large, yellow machine equipped with a prominent bucket or blade and extensive wheels or tracks."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033321.jpg",
+            "points": [
+                [
+                    227.0,
+                    459.0
+                ],
+                [
+                    227.0,
+                    460.0
+                ],
+                [
+                    226.0,
+                    460.0
+                ],
+                [
+                    226.0,
+                    464.0
+                ],
+                [
+                    225.0,
+                    464.0
+                ],
+                [
+                    225.0,
+                    467.0
+                ],
+                [
+                    224.0,
+                    467.0
+                ],
+                [
+                    224.0,
+                    469.0
+                ],
+                [
+                    225.0,
+                    469.0
+                ],
+                [
+                    225.0,
+                    472.0
+                ],
+                [
+                    227.0,
+                    472.0
+                ],
+                [
+                    227.0,
+                    473.0
+                ],
+                [
+                    229.0,
+                    473.0
+                ],
+                [
+                    229.0,
+                    474.0
+                ],
+                [
+                    230.0,
+                    474.0
+                ],
+                [
+                    230.0,
+                    473.0
+                ],
+                [
+                    232.0,
+                    473.0
+                ],
+                [
+                    232.0,
+                    472.0
+                ],
+                [
+                    233.0,
+                    472.0
+                ],
+                [
+                    233.0,
+                    471.0
+                ],
+                [
+                    234.0,
+                    471.0
+                ],
+                [
+                    234.0,
+                    468.0
+                ],
+                [
+                    233.0,
+                    468.0
+                ],
+                [
+                    233.0,
+                    467.0
+                ],
+                [
+                    232.0,
+                    467.0
+                ],
+                [
+                    232.0,
+                    464.0
+                ],
+                [
+                    231.0,
+                    464.0
+                ],
+                [
+                    231.0,
+                    461.0
+                ],
+                [
+                    230.0,
+                    461.0
+                ],
+                [
+                    230.0,
+                    460.0
+                ],
+                [
+                    229.0,
+                    460.0
+                ],
+                [
+                    229.0,
+                    459.0
+                ],
+                [
+                    227.0,
+                    459.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

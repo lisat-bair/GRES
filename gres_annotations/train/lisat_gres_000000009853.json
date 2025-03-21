@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the big yellow rectangular vehicle in the picture, which has windows and wheels, as the bus.",
+        "In the image, recognize the large yellow shape with windows and wheels as the bus.",
+        "Identify the big yellow, windowed rectangular structure with wheels in the image as the bus."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009853.jpg",
+            "points": [
+                [
+                    111.0,
+                    220.0
+                ],
+                [
+                    111.0,
+                    221.0
+                ],
+                [
+                    108.0,
+                    221.0
+                ],
+                [
+                    108.0,
+                    223.0
+                ],
+                [
+                    107.0,
+                    223.0
+                ],
+                [
+                    107.0,
+                    226.0
+                ],
+                [
+                    108.0,
+                    226.0
+                ],
+                [
+                    108.0,
+                    228.0
+                ],
+                [
+                    111.0,
+                    228.0
+                ],
+                [
+                    111.0,
+                    229.0
+                ],
+                [
+                    124.0,
+                    229.0
+                ],
+                [
+                    124.0,
+                    228.0
+                ],
+                [
+                    126.0,
+                    228.0
+                ],
+                [
+                    126.0,
+                    227.0
+                ],
+                [
+                    127.0,
+                    227.0
+                ],
+                [
+                    127.0,
+                    226.0
+                ],
+                [
+                    128.0,
+                    226.0
+                ],
+                [
+                    128.0,
+                    222.0
+                ],
+                [
+                    127.0,
+                    222.0
+                ],
+                [
+                    127.0,
+                    221.0
+                ],
+                [
+                    126.0,
+                    221.0
+                ],
+                [
+                    126.0,
+                    220.0
+                ],
+                [
+                    111.0,
+                    220.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

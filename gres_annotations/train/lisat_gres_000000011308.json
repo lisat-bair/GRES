@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for the truck by spotting a dark rectangle featuring a lighter area on one side, set against a patterned background.",
+        "Find the truck by noticing the dark, rectangular form with a lighter segment on one side, placed within a textured backdrop.",
+        "Locate the truck by identifying the dark, rectangular shape with a lighter section on one side, situated among a textured setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011308.jpg",
+            "points": [
+                [
+                    441.0,
+                    245.0
+                ],
+                [
+                    441.0,
+                    246.0
+                ],
+                [
+                    442.0,
+                    246.0
+                ],
+                [
+                    442.0,
+                    250.0
+                ],
+                [
+                    443.0,
+                    250.0
+                ],
+                [
+                    443.0,
+                    252.0
+                ],
+                [
+                    442.0,
+                    252.0
+                ],
+                [
+                    442.0,
+                    253.0
+                ],
+                [
+                    443.0,
+                    253.0
+                ],
+                [
+                    443.0,
+                    254.0
+                ],
+                [
+                    445.0,
+                    254.0
+                ],
+                [
+                    445.0,
+                    256.0
+                ],
+                [
+                    447.0,
+                    256.0
+                ],
+                [
+                    447.0,
+                    257.0
+                ],
+                [
+                    452.0,
+                    257.0
+                ],
+                [
+                    452.0,
+                    258.0
+                ],
+                [
+                    453.0,
+                    258.0
+                ],
+                [
+                    453.0,
+                    259.0
+                ],
+                [
+                    456.0,
+                    259.0
+                ],
+                [
+                    456.0,
+                    258.0
+                ],
+                [
+                    457.0,
+                    258.0
+                ],
+                [
+                    457.0,
+                    251.0
+                ],
+                [
+                    456.0,
+                    251.0
+                ],
+                [
+                    456.0,
+                    250.0
+                ],
+                [
+                    455.0,
+                    250.0
+                ],
+                [
+                    455.0,
+                    248.0
+                ],
+                [
+                    454.0,
+                    248.0
+                ],
+                [
+                    454.0,
+                    247.0
+                ],
+                [
+                    452.0,
+                    247.0
+                ],
+                [
+                    452.0,
+                    246.0
+                ],
+                [
+                    450.0,
+                    246.0
+                ],
+                [
+                    450.0,
+                    245.0
+                ],
+                [
+                    448.0,
+                    245.0
+                ],
+                [
+                    448.0,
+                    246.0
+                ],
+                [
+                    446.0,
+                    246.0
+                ],
+                [
+                    446.0,
+                    245.0
+                ],
+                [
+                    441.0,
+                    245.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the compromised structure that shows visible cracks, irregular edges, and signs of discoloration suggesting damage.",
+        "Find the building that exhibits apparent cracks, uneven edges, and discoloration, which imply structural issues.",
+        "Spot the damaged edifice with observable fractures, jagged edges, and discoloration indicating potential structural harm."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003403.jpg",
+            "points": [
+                [
+                    382.0,
+                    267.0
+                ],
+                [
+                    382.0,
+                    268.0
+                ],
+                [
+                    371.0,
+                    268.0
+                ],
+                [
+                    371.0,
+                    269.0
+                ],
+                [
+                    370.0,
+                    269.0
+                ],
+                [
+                    370.0,
+                    304.0
+                ],
+                [
+                    371.0,
+                    304.0
+                ],
+                [
+                    371.0,
+                    307.0
+                ],
+                [
+                    372.0,
+                    307.0
+                ],
+                [
+                    372.0,
+                    308.0
+                ],
+                [
+                    406.0,
+                    308.0
+                ],
+                [
+                    406.0,
+                    307.0
+                ],
+                [
+                    407.0,
+                    307.0
+                ],
+                [
+                    407.0,
+                    305.0
+                ],
+                [
+                    408.0,
+                    305.0
+                ],
+                [
+                    408.0,
+                    276.0
+                ],
+                [
+                    409.0,
+                    276.0
+                ],
+                [
+                    409.0,
+                    268.0
+                ],
+                [
+                    407.0,
+                    268.0
+                ],
+                [
+                    407.0,
+                    267.0
+                ],
+                [
+                    382.0,
+                    267.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

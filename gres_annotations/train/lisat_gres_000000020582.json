@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Spot the vehicle that is partially visible at the lower section of the picture, keeping in mind that some of it might be outside the frame.",
+        "Locate the car that is positioned in the bottom part of the image, acknowledging that a portion may stretch beyond the viewable boundary.",
+        "Find the car that's partially seen in the lower area of the image, considering that some of it could extend past the visible border."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020582.jpg",
+            "points": [
+                [
+                    200.0,
+                    503.0
+                ],
+                [
+                    200.0,
+                    504.0
+                ],
+                [
+                    199.0,
+                    504.0
+                ],
+                [
+                    199.0,
+                    505.0
+                ],
+                [
+                    198.0,
+                    505.0
+                ],
+                [
+                    198.0,
+                    512.0
+                ],
+                [
+                    207.0,
+                    512.0
+                ],
+                [
+                    207.0,
+                    505.0
+                ],
+                [
+                    206.0,
+                    505.0
+                ],
+                [
+                    206.0,
+                    504.0
+                ],
+                [
+                    204.0,
+                    504.0
+                ],
+                [
+                    204.0,
+                    503.0
+                ],
+                [
+                    200.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

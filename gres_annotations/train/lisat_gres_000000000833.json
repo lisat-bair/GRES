@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the big, vividly yellow vehicle featuring rectangular windows and smooth corners, usually found on streets.",
+        "Locate the sizable, bright yellow transport with boxy windows and curved sides, commonly seen on roads.",
+        "Find the prominent, yellow automobile with square windows and rounded edges, often situated on highways."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000833.jpg",
+            "points": [
+                [
+                    52.0,
+                    300.0
+                ],
+                [
+                    52.0,
+                    302.0
+                ],
+                [
+                    51.0,
+                    302.0
+                ],
+                [
+                    51.0,
+                    303.0
+                ],
+                [
+                    50.0,
+                    303.0
+                ],
+                [
+                    50.0,
+                    305.0
+                ],
+                [
+                    49.0,
+                    305.0
+                ],
+                [
+                    49.0,
+                    311.0
+                ],
+                [
+                    50.0,
+                    311.0
+                ],
+                [
+                    50.0,
+                    312.0
+                ],
+                [
+                    53.0,
+                    312.0
+                ],
+                [
+                    53.0,
+                    311.0
+                ],
+                [
+                    55.0,
+                    311.0
+                ],
+                [
+                    55.0,
+                    305.0
+                ],
+                [
+                    56.0,
+                    305.0
+                ],
+                [
+                    56.0,
+                    302.0
+                ],
+                [
+                    55.0,
+                    302.0
+                ],
+                [
+                    55.0,
+                    300.0
+                ],
+                [
+                    52.0,
+                    300.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

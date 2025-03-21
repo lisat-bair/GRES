@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Divide the vehicle with a shiny red exterior and unique rectangular headlights.",
+        "Separate the automobile featuring a polished red finish and noticeable rectangular headlights.",
+        "Isolate the car that boasts a sleek red surface and prominent rectangular headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030725.jpg",
+            "points": [
+                [
+                    11.0,
+                    97.0
+                ],
+                [
+                    11.0,
+                    98.0
+                ],
+                [
+                    8.0,
+                    98.0
+                ],
+                [
+                    8.0,
+                    100.0
+                ],
+                [
+                    7.0,
+                    100.0
+                ],
+                [
+                    7.0,
+                    104.0
+                ],
+                [
+                    9.0,
+                    104.0
+                ],
+                [
+                    9.0,
+                    105.0
+                ],
+                [
+                    15.0,
+                    105.0
+                ],
+                [
+                    15.0,
+                    106.0
+                ],
+                [
+                    19.0,
+                    106.0
+                ],
+                [
+                    19.0,
+                    107.0
+                ],
+                [
+                    26.0,
+                    107.0
+                ],
+                [
+                    26.0,
+                    106.0
+                ],
+                [
+                    27.0,
+                    106.0
+                ],
+                [
+                    27.0,
+                    104.0
+                ],
+                [
+                    28.0,
+                    104.0
+                ],
+                [
+                    28.0,
+                    102.0
+                ],
+                [
+                    29.0,
+                    102.0
+                ],
+                [
+                    29.0,
+                    99.0
+                ],
+                [
+                    27.0,
+                    99.0
+                ],
+                [
+                    27.0,
+                    98.0
+                ],
+                [
+                    24.0,
+                    98.0
+                ],
+                [
+                    24.0,
+                    97.0
+                ],
+                [
+                    11.0,
+                    97.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

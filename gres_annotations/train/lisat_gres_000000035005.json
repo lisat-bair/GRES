@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the truck situated towards the center-right of the picture, characterized by a compact design and unique wheels, often metallic or painted.",
+        "Identify the truck positioned at the center-right part of the image, which has a compact form and distinctive wheels, usually metallic or painted.",
+        "Spot the truck located at the center-right in the image, notable for its compact shape and distinctive wheels that are typically metallic or painted."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035005.jpg",
+            "points": [
+                [
+                    231.0,
+                    323.0
+                ],
+                [
+                    231.0,
+                    324.0
+                ],
+                [
+                    229.0,
+                    324.0
+                ],
+                [
+                    229.0,
+                    325.0
+                ],
+                [
+                    228.0,
+                    325.0
+                ],
+                [
+                    228.0,
+                    328.0
+                ],
+                [
+                    229.0,
+                    328.0
+                ],
+                [
+                    229.0,
+                    329.0
+                ],
+                [
+                    230.0,
+                    329.0
+                ],
+                [
+                    230.0,
+                    330.0
+                ],
+                [
+                    232.0,
+                    330.0
+                ],
+                [
+                    232.0,
+                    331.0
+                ],
+                [
+                    235.0,
+                    331.0
+                ],
+                [
+                    235.0,
+                    332.0
+                ],
+                [
+                    238.0,
+                    332.0
+                ],
+                [
+                    238.0,
+                    333.0
+                ],
+                [
+                    242.0,
+                    333.0
+                ],
+                [
+                    242.0,
+                    332.0
+                ],
+                [
+                    243.0,
+                    332.0
+                ],
+                [
+                    243.0,
+                    330.0
+                ],
+                [
+                    244.0,
+                    330.0
+                ],
+                [
+                    244.0,
+                    328.0
+                ],
+                [
+                    243.0,
+                    328.0
+                ],
+                [
+                    243.0,
+                    327.0
+                ],
+                [
+                    242.0,
+                    327.0
+                ],
+                [
+                    242.0,
+                    326.0
+                ],
+                [
+                    240.0,
+                    326.0
+                ],
+                [
+                    240.0,
+                    325.0
+                ],
+                [
+                    237.0,
+                    325.0
+                ],
+                [
+                    237.0,
+                    324.0
+                ],
+                [
+                    234.0,
+                    324.0
+                ],
+                [
+                    234.0,
+                    323.0
+                ],
+                [
+                    231.0,
+                    323.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

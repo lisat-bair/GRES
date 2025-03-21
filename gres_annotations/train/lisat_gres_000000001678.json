@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the truck that stands out with its bold yellow hue and sizable box-like form.",
+        "Spot the vehicle characterized by its strikingly bright yellow shade and expansive rectangular structure.",
+        "Find the truck distinguished by a vivid yellow color and a substantial square design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001678.jpg",
+            "points": [
+                [
+                    355.0,
+                    40.0
+                ],
+                [
+                    355.0,
+                    41.0
+                ],
+                [
+                    354.0,
+                    41.0
+                ],
+                [
+                    354.0,
+                    42.0
+                ],
+                [
+                    353.0,
+                    42.0
+                ],
+                [
+                    353.0,
+                    59.0
+                ],
+                [
+                    352.0,
+                    59.0
+                ],
+                [
+                    352.0,
+                    69.0
+                ],
+                [
+                    353.0,
+                    69.0
+                ],
+                [
+                    353.0,
+                    70.0
+                ],
+                [
+                    360.0,
+                    70.0
+                ],
+                [
+                    360.0,
+                    69.0
+                ],
+                [
+                    361.0,
+                    69.0
+                ],
+                [
+                    361.0,
+                    68.0
+                ],
+                [
+                    362.0,
+                    68.0
+                ],
+                [
+                    362.0,
+                    44.0
+                ],
+                [
+                    361.0,
+                    44.0
+                ],
+                [
+                    361.0,
+                    42.0
+                ],
+                [
+                    360.0,
+                    42.0
+                ],
+                [
+                    360.0,
+                    41.0
+                ],
+                [
+                    359.0,
+                    41.0
+                ],
+                [
+                    359.0,
+                    40.0
+                ],
+                [
+                    355.0,
+                    40.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the car that has a rectangular, white item displaying black letters and numbers, signifying a license plate.",
+        "Find the vehicle that sports a white rectangular piece with black alphanumeric symbols, representing a license plate.",
+        "Spot the automobile featuring a white rectangular object with black characters and numbers, denoting a license plate."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035378.jpg",
+            "points": [
+                [
+                    449.0,
+                    481.0
+                ],
+                [
+                    449.0,
+                    482.0
+                ],
+                [
+                    448.0,
+                    482.0
+                ],
+                [
+                    448.0,
+                    484.0
+                ],
+                [
+                    447.0,
+                    484.0
+                ],
+                [
+                    447.0,
+                    486.0
+                ],
+                [
+                    448.0,
+                    486.0
+                ],
+                [
+                    448.0,
+                    488.0
+                ],
+                [
+                    451.0,
+                    488.0
+                ],
+                [
+                    451.0,
+                    489.0
+                ],
+                [
+                    456.0,
+                    489.0
+                ],
+                [
+                    456.0,
+                    490.0
+                ],
+                [
+                    463.0,
+                    490.0
+                ],
+                [
+                    463.0,
+                    489.0
+                ],
+                [
+                    464.0,
+                    489.0
+                ],
+                [
+                    464.0,
+                    484.0
+                ],
+                [
+                    463.0,
+                    484.0
+                ],
+                [
+                    463.0,
+                    483.0
+                ],
+                [
+                    462.0,
+                    483.0
+                ],
+                [
+                    462.0,
+                    482.0
+                ],
+                [
+                    457.0,
+                    482.0
+                ],
+                [
+                    457.0,
+                    481.0
+                ],
+                [
+                    449.0,
+                    481.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

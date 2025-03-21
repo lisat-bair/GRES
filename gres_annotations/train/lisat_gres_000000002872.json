@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the construction machine with a unique bucket or arm on its front, set against the background of a building site.",
+        "Identify the engineering equipment featuring a special bucket or arm at its front, positioned in front of a construction area.",
+        "Spot the construction vehicle with a notable front bucket or arm, located in a construction site setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002872.jpg",
+            "points": [
+                [
+                    507.0,
+                    393.0
+                ],
+                [
+                    507.0,
+                    394.0
+                ],
+                [
+                    504.0,
+                    394.0
+                ],
+                [
+                    504.0,
+                    395.0
+                ],
+                [
+                    503.0,
+                    395.0
+                ],
+                [
+                    503.0,
+                    396.0
+                ],
+                [
+                    502.0,
+                    396.0
+                ],
+                [
+                    502.0,
+                    397.0
+                ],
+                [
+                    501.0,
+                    397.0
+                ],
+                [
+                    501.0,
+                    398.0
+                ],
+                [
+                    500.0,
+                    398.0
+                ],
+                [
+                    500.0,
+                    400.0
+                ],
+                [
+                    499.0,
+                    400.0
+                ],
+                [
+                    499.0,
+                    405.0
+                ],
+                [
+                    500.0,
+                    405.0
+                ],
+                [
+                    500.0,
+                    406.0
+                ],
+                [
+                    502.0,
+                    406.0
+                ],
+                [
+                    502.0,
+                    407.0
+                ],
+                [
+                    512.0,
+                    407.0
+                ],
+                [
+                    512.0,
+                    393.0
+                ],
+                [
+                    507.0,
+                    393.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

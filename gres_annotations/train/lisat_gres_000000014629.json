@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for a building that has irregular and uneven shapes, collapsed sections, and scattered debris, which suggest it is damaged.",
+        "Find the structure displaying uneven and irregular forms, along with areas that have collapsed and debris that is scattered, all indicating harm.",
+        "Spot the edifice characterized by uneven and irregular shapes, with parts that have fallen and debris scattered, suggesting it is broken."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014629.jpg",
+            "points": [
+                [
+                    475.0,
+                    198.0
+                ],
+                [
+                    475.0,
+                    199.0
+                ],
+                [
+                    474.0,
+                    199.0
+                ],
+                [
+                    474.0,
+                    203.0
+                ],
+                [
+                    473.0,
+                    203.0
+                ],
+                [
+                    473.0,
+                    214.0
+                ],
+                [
+                    474.0,
+                    214.0
+                ],
+                [
+                    474.0,
+                    215.0
+                ],
+                [
+                    479.0,
+                    215.0
+                ],
+                [
+                    479.0,
+                    216.0
+                ],
+                [
+                    492.0,
+                    216.0
+                ],
+                [
+                    492.0,
+                    217.0
+                ],
+                [
+                    494.0,
+                    217.0
+                ],
+                [
+                    494.0,
+                    216.0
+                ],
+                [
+                    498.0,
+                    216.0
+                ],
+                [
+                    498.0,
+                    215.0
+                ],
+                [
+                    499.0,
+                    215.0
+                ],
+                [
+                    499.0,
+                    210.0
+                ],
+                [
+                    500.0,
+                    210.0
+                ],
+                [
+                    500.0,
+                    201.0
+                ],
+                [
+                    498.0,
+                    201.0
+                ],
+                [
+                    498.0,
+                    200.0
+                ],
+                [
+                    495.0,
+                    200.0
+                ],
+                [
+                    495.0,
+                    199.0
+                ],
+                [
+                    485.0,
+                    199.0
+                ],
+                [
+                    485.0,
+                    198.0
+                ],
+                [
+                    475.0,
+                    198.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

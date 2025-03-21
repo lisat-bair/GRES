@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Look for the structure that is tall and rectangular with a prominent red brick exterior, which stands out against the darker environment.",
+        "Spot the tall, rectangular building characterized by its unique red brick facade, which contrasts with the surrounding darker area.",
+        "Find the building featuring a tall rectangular form and a notable red brick front, differentiating itself from the darker surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014647.jpg",
+            "points": [
+                [
+                    97.0,
+                    492.0
+                ],
+                [
+                    97.0,
+                    494.0
+                ],
+                [
+                    96.0,
+                    494.0
+                ],
+                [
+                    96.0,
+                    512.0
+                ],
+                [
+                    108.0,
+                    512.0
+                ],
+                [
+                    108.0,
+                    510.0
+                ],
+                [
+                    109.0,
+                    510.0
+                ],
+                [
+                    109.0,
+                    495.0
+                ],
+                [
+                    108.0,
+                    495.0
+                ],
+                [
+                    108.0,
+                    494.0
+                ],
+                [
+                    107.0,
+                    494.0
+                ],
+                [
+                    107.0,
+                    493.0
+                ],
+                [
+                    106.0,
+                    493.0
+                ],
+                [
+                    106.0,
+                    492.0
+                ],
+                [
+                    97.0,
+                    492.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

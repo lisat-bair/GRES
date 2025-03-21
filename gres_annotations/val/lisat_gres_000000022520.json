@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the truck with a distinctive boxy shape and white stripes, predominantly blue in color."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022520.jpg",
+            "points": [
+                [
+                    145.0,
+                    507.0
+                ],
+                [
+                    145.0,
+                    508.0
+                ],
+                [
+                    144.0,
+                    508.0
+                ],
+                [
+                    144.0,
+                    510.0
+                ],
+                [
+                    143.0,
+                    510.0
+                ],
+                [
+                    143.0,
+                    512.0
+                ],
+                [
+                    156.0,
+                    512.0
+                ],
+                [
+                    156.0,
+                    510.0
+                ],
+                [
+                    155.0,
+                    510.0
+                ],
+                [
+                    155.0,
+                    509.0
+                ],
+                [
+                    152.0,
+                    509.0
+                ],
+                [
+                    152.0,
+                    508.0
+                ],
+                [
+                    151.0,
+                    508.0
+                ],
+                [
+                    151.0,
+                    507.0
+                ],
+                [
+                    145.0,
+                    507.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

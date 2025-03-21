@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the big yellow vehicle with many windows and a boxy design, typical of a school bus.",
+        "Search for the sizable yellow vehicle featuring numerous windows and a rectangular form, indicative of a school bus.",
+        "Identify the large yellow automobile with several windows and a rectangular shape, which is characteristic of a school bus."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020356.jpg",
+            "points": [
+                [
+                    187.0,
+                    300.0
+                ],
+                [
+                    187.0,
+                    301.0
+                ],
+                [
+                    183.0,
+                    301.0
+                ],
+                [
+                    183.0,
+                    302.0
+                ],
+                [
+                    182.0,
+                    302.0
+                ],
+                [
+                    182.0,
+                    305.0
+                ],
+                [
+                    183.0,
+                    305.0
+                ],
+                [
+                    183.0,
+                    308.0
+                ],
+                [
+                    186.0,
+                    308.0
+                ],
+                [
+                    186.0,
+                    309.0
+                ],
+                [
+                    191.0,
+                    309.0
+                ],
+                [
+                    191.0,
+                    310.0
+                ],
+                [
+                    208.0,
+                    310.0
+                ],
+                [
+                    208.0,
+                    309.0
+                ],
+                [
+                    227.0,
+                    309.0
+                ],
+                [
+                    227.0,
+                    308.0
+                ],
+                [
+                    228.0,
+                    308.0
+                ],
+                [
+                    228.0,
+                    302.0
+                ],
+                [
+                    227.0,
+                    302.0
+                ],
+                [
+                    227.0,
+                    301.0
+                ],
+                [
+                    225.0,
+                    301.0
+                ],
+                [
+                    225.0,
+                    300.0
+                ],
+                [
+                    187.0,
+                    300.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

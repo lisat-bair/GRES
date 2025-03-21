@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the truck featuring a subtle brown hue and a unique form that stands out against its surroundings.",
+        "Spot the vehicle with a subdued brown shade and an unusual design that differs from the environment around it.",
+        "Find the truck characterized by a muted brown tone and a distinctive shape that contrasts with its nearby elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024851.jpg",
+            "points": [
+                [
+                    82.0,
+                    173.0
+                ],
+                [
+                    82.0,
+                    174.0
+                ],
+                [
+                    81.0,
+                    174.0
+                ],
+                [
+                    81.0,
+                    175.0
+                ],
+                [
+                    80.0,
+                    175.0
+                ],
+                [
+                    80.0,
+                    177.0
+                ],
+                [
+                    79.0,
+                    177.0
+                ],
+                [
+                    79.0,
+                    188.0
+                ],
+                [
+                    80.0,
+                    188.0
+                ],
+                [
+                    80.0,
+                    190.0
+                ],
+                [
+                    81.0,
+                    190.0
+                ],
+                [
+                    81.0,
+                    191.0
+                ],
+                [
+                    86.0,
+                    191.0
+                ],
+                [
+                    86.0,
+                    190.0
+                ],
+                [
+                    87.0,
+                    190.0
+                ],
+                [
+                    87.0,
+                    189.0
+                ],
+                [
+                    88.0,
+                    189.0
+                ],
+                [
+                    88.0,
+                    177.0
+                ],
+                [
+                    87.0,
+                    177.0
+                ],
+                [
+                    87.0,
+                    176.0
+                ],
+                [
+                    86.0,
+                    176.0
+                ],
+                [
+                    86.0,
+                    175.0
+                ],
+                [
+                    85.0,
+                    175.0
+                ],
+                [
+                    85.0,
+                    174.0
+                ],
+                [
+                    83.0,
+                    174.0
+                ],
+                [
+                    83.0,
+                    173.0
+                ],
+                [
+                    82.0,
+                    173.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the vehicle with large windows and wheels, usually seen on streets or in parking lots.",
+        "Search for the bus that features noticeable windows and wheels, often located on roads or within parking spaces.",
+        "Look for the bus with distinctive windows and wheels, commonly found on highways or parked in designated areas."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010494.jpg",
+            "points": [
+                [
+                    298.0,
+                    261.0
+                ],
+                [
+                    298.0,
+                    262.0
+                ],
+                [
+                    295.0,
+                    262.0
+                ],
+                [
+                    295.0,
+                    263.0
+                ],
+                [
+                    294.0,
+                    263.0
+                ],
+                [
+                    294.0,
+                    264.0
+                ],
+                [
+                    292.0,
+                    264.0
+                ],
+                [
+                    292.0,
+                    265.0
+                ],
+                [
+                    291.0,
+                    265.0
+                ],
+                [
+                    291.0,
+                    269.0
+                ],
+                [
+                    292.0,
+                    269.0
+                ],
+                [
+                    292.0,
+                    270.0
+                ],
+                [
+                    293.0,
+                    270.0
+                ],
+                [
+                    293.0,
+                    271.0
+                ],
+                [
+                    299.0,
+                    271.0
+                ],
+                [
+                    299.0,
+                    270.0
+                ],
+                [
+                    300.0,
+                    270.0
+                ],
+                [
+                    300.0,
+                    269.0
+                ],
+                [
+                    302.0,
+                    269.0
+                ],
+                [
+                    302.0,
+                    268.0
+                ],
+                [
+                    303.0,
+                    268.0
+                ],
+                [
+                    303.0,
+                    267.0
+                ],
+                [
+                    304.0,
+                    267.0
+                ],
+                [
+                    304.0,
+                    262.0
+                ],
+                [
+                    303.0,
+                    262.0
+                ],
+                [
+                    303.0,
+                    261.0
+                ],
+                [
+                    298.0,
+                    261.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

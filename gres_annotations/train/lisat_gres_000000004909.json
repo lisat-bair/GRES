@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the vehicle by looking for the big, shadowy outline with glossy surfaces and unique wheel designs.",
+        "Find the automobile by noticing the large, dark figure with gleaming surfaces and distinctive wheel shapes.",
+        "Recognize the car by identifying the sizable, dark silhouette featuring reflective surfaces and characteristic wheel patterns."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004909.jpg",
+            "points": [
+                [
+                    277.0,
+                    487.0
+                ],
+                [
+                    277.0,
+                    488.0
+                ],
+                [
+                    275.0,
+                    488.0
+                ],
+                [
+                    275.0,
+                    490.0
+                ],
+                [
+                    274.0,
+                    490.0
+                ],
+                [
+                    274.0,
+                    495.0
+                ],
+                [
+                    276.0,
+                    495.0
+                ],
+                [
+                    276.0,
+                    496.0
+                ],
+                [
+                    282.0,
+                    496.0
+                ],
+                [
+                    282.0,
+                    497.0
+                ],
+                [
+                    295.0,
+                    497.0
+                ],
+                [
+                    295.0,
+                    489.0
+                ],
+                [
+                    294.0,
+                    489.0
+                ],
+                [
+                    294.0,
+                    488.0
+                ],
+                [
+                    292.0,
+                    488.0
+                ],
+                [
+                    292.0,
+                    487.0
+                ],
+                [
+                    277.0,
+                    487.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

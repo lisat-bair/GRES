@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the dark, rectangular vehicle amid the lighter, earthy shades.",
+        "Locate the dark, boxy automobile encircled by softer, earthy colors.",
+        "Find the dark, rectangular automobile surrounded by paler, earth-toned hues."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012952.jpg",
+            "points": [
+                [
+                    391.0,
+                    17.0
+                ],
+                [
+                    391.0,
+                    18.0
+                ],
+                [
+                    390.0,
+                    18.0
+                ],
+                [
+                    390.0,
+                    19.0
+                ],
+                [
+                    389.0,
+                    19.0
+                ],
+                [
+                    389.0,
+                    21.0
+                ],
+                [
+                    388.0,
+                    21.0
+                ],
+                [
+                    388.0,
+                    24.0
+                ],
+                [
+                    387.0,
+                    24.0
+                ],
+                [
+                    387.0,
+                    31.0
+                ],
+                [
+                    388.0,
+                    31.0
+                ],
+                [
+                    388.0,
+                    32.0
+                ],
+                [
+                    390.0,
+                    32.0
+                ],
+                [
+                    390.0,
+                    33.0
+                ],
+                [
+                    394.0,
+                    33.0
+                ],
+                [
+                    394.0,
+                    32.0
+                ],
+                [
+                    396.0,
+                    32.0
+                ],
+                [
+                    396.0,
+                    30.0
+                ],
+                [
+                    397.0,
+                    30.0
+                ],
+                [
+                    397.0,
+                    26.0
+                ],
+                [
+                    398.0,
+                    26.0
+                ],
+                [
+                    398.0,
+                    19.0
+                ],
+                [
+                    396.0,
+                    19.0
+                ],
+                [
+                    396.0,
+                    18.0
+                ],
+                [
+                    394.0,
+                    18.0
+                ],
+                [
+                    394.0,
+                    17.0
+                ],
+                [
+                    391.0,
+                    17.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

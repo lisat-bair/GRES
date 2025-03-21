@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the vehicle in the picture that has shiny reflections and unique wheels.",
+        "Find the automobile in the image that features metallic gleams and standout wheels.",
+        "Spot the car with reflective metallic surfaces and distinctive wheels in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025673.jpg",
+            "points": [
+                [
+                    59.0,
+                    233.0
+                ],
+                [
+                    59.0,
+                    236.0
+                ],
+                [
+                    60.0,
+                    236.0
+                ],
+                [
+                    60.0,
+                    238.0
+                ],
+                [
+                    61.0,
+                    238.0
+                ],
+                [
+                    61.0,
+                    239.0
+                ],
+                [
+                    62.0,
+                    239.0
+                ],
+                [
+                    62.0,
+                    240.0
+                ],
+                [
+                    63.0,
+                    240.0
+                ],
+                [
+                    63.0,
+                    242.0
+                ],
+                [
+                    64.0,
+                    242.0
+                ],
+                [
+                    64.0,
+                    243.0
+                ],
+                [
+                    70.0,
+                    243.0
+                ],
+                [
+                    70.0,
+                    242.0
+                ],
+                [
+                    71.0,
+                    242.0
+                ],
+                [
+                    71.0,
+                    238.0
+                ],
+                [
+                    70.0,
+                    238.0
+                ],
+                [
+                    70.0,
+                    237.0
+                ],
+                [
+                    68.0,
+                    237.0
+                ],
+                [
+                    68.0,
+                    236.0
+                ],
+                [
+                    66.0,
+                    236.0
+                ],
+                [
+                    66.0,
+                    235.0
+                ],
+                [
+                    64.0,
+                    235.0
+                ],
+                [
+                    64.0,
+                    234.0
+                ],
+                [
+                    62.0,
+                    234.0
+                ],
+                [
+                    62.0,
+                    233.0
+                ],
+                [
+                    59.0,
+                    233.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

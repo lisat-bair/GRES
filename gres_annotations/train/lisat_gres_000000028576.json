@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the white vehicle that features unique contours and shiny surfaces.",
+        "Locate the white automobile characterized by its specific curves and glossy exterior.",
+        "Find the white car distinguished by its particular shapes and reflective finish."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028576.jpg",
+            "points": [
+                [
+                    190.0,
+                    43.0
+                ],
+                [
+                    190.0,
+                    44.0
+                ],
+                [
+                    189.0,
+                    44.0
+                ],
+                [
+                    189.0,
+                    45.0
+                ],
+                [
+                    188.0,
+                    45.0
+                ],
+                [
+                    188.0,
+                    49.0
+                ],
+                [
+                    189.0,
+                    49.0
+                ],
+                [
+                    189.0,
+                    50.0
+                ],
+                [
+                    190.0,
+                    50.0
+                ],
+                [
+                    190.0,
+                    51.0
+                ],
+                [
+                    192.0,
+                    51.0
+                ],
+                [
+                    192.0,
+                    52.0
+                ],
+                [
+                    196.0,
+                    52.0
+                ],
+                [
+                    196.0,
+                    53.0
+                ],
+                [
+                    199.0,
+                    53.0
+                ],
+                [
+                    199.0,
+                    52.0
+                ],
+                [
+                    202.0,
+                    52.0
+                ],
+                [
+                    202.0,
+                    51.0
+                ],
+                [
+                    203.0,
+                    51.0
+                ],
+                [
+                    203.0,
+                    47.0
+                ],
+                [
+                    202.0,
+                    47.0
+                ],
+                [
+                    202.0,
+                    46.0
+                ],
+                [
+                    200.0,
+                    46.0
+                ],
+                [
+                    200.0,
+                    45.0
+                ],
+                [
+                    197.0,
+                    45.0
+                ],
+                [
+                    197.0,
+                    44.0
+                ],
+                [
+                    194.0,
+                    44.0
+                ],
+                [
+                    194.0,
+                    43.0
+                ],
+                [
+                    190.0,
+                    43.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

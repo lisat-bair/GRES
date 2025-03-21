@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the engineering machine that stands out with its yellow build and mechanical parts against the backdrop of brown soil.",
+        "Identify the construction vehicle characterized by its yellow frame and mechanical features set against the brown terrain.",
+        "Spot the engineering equipment having a unique yellow body and mechanical elements amidst the brown earth setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008368.jpg",
+            "points": [
+                [
+                    93.0,
+                    497.0
+                ],
+                [
+                    93.0,
+                    498.0
+                ],
+                [
+                    91.0,
+                    498.0
+                ],
+                [
+                    91.0,
+                    499.0
+                ],
+                [
+                    90.0,
+                    499.0
+                ],
+                [
+                    90.0,
+                    500.0
+                ],
+                [
+                    88.0,
+                    500.0
+                ],
+                [
+                    88.0,
+                    502.0
+                ],
+                [
+                    87.0,
+                    502.0
+                ],
+                [
+                    87.0,
+                    503.0
+                ],
+                [
+                    86.0,
+                    503.0
+                ],
+                [
+                    86.0,
+                    506.0
+                ],
+                [
+                    85.0,
+                    506.0
+                ],
+                [
+                    85.0,
+                    512.0
+                ],
+                [
+                    101.0,
+                    512.0
+                ],
+                [
+                    101.0,
+                    511.0
+                ],
+                [
+                    102.0,
+                    511.0
+                ],
+                [
+                    102.0,
+                    509.0
+                ],
+                [
+                    103.0,
+                    509.0
+                ],
+                [
+                    103.0,
+                    507.0
+                ],
+                [
+                    104.0,
+                    507.0
+                ],
+                [
+                    104.0,
+                    500.0
+                ],
+                [
+                    103.0,
+                    500.0
+                ],
+                [
+                    103.0,
+                    499.0
+                ],
+                [
+                    101.0,
+                    499.0
+                ],
+                [
+                    101.0,
+                    498.0
+                ],
+                [
+                    99.0,
+                    498.0
+                ],
+                [
+                    99.0,
+                    497.0
+                ],
+                [
+                    93.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

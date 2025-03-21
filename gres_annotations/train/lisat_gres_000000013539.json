@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the helipad by looking for a round or square landing zone marked with an 'H', which is noticeable because of its distinct color.",
+        "Search for the helipad by spotting a circular or square landing site that features an 'H' symbol, easily identifiable by its contrasting color.",
+        "Identify the helipad by locating a round or square landing area that has an 'H' marking, which stands out due to its unique color."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013539.jpg",
+            "points": [
+                [
+                    6.0,
+                    11.0
+                ],
+                [
+                    6.0,
+                    12.0
+                ],
+                [
+                    0.0,
+                    12.0
+                ],
+                [
+                    0.0,
+                    30.0
+                ],
+                [
+                    3.0,
+                    30.0
+                ],
+                [
+                    3.0,
+                    29.0
+                ],
+                [
+                    9.0,
+                    29.0
+                ],
+                [
+                    9.0,
+                    28.0
+                ],
+                [
+                    13.0,
+                    28.0
+                ],
+                [
+                    13.0,
+                    27.0
+                ],
+                [
+                    14.0,
+                    27.0
+                ],
+                [
+                    14.0,
+                    26.0
+                ],
+                [
+                    15.0,
+                    26.0
+                ],
+                [
+                    15.0,
+                    18.0
+                ],
+                [
+                    14.0,
+                    18.0
+                ],
+                [
+                    14.0,
+                    14.0
+                ],
+                [
+                    13.0,
+                    14.0
+                ],
+                [
+                    13.0,
+                    12.0
+                ],
+                [
+                    10.0,
+                    12.0
+                ],
+                [
+                    10.0,
+                    11.0
+                ],
+                [
+                    6.0,
+                    11.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

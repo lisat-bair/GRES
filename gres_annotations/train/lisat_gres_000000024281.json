@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the storage container that has large, cylindrical shapes with metal exteriors, circular foundations, and is equipped with pipes and ladders for access.",
+        "Identify the storage tank with big, round structures made of metal, featuring circular bases, along with connecting pipes and ladders for entry.",
+        "Spot the storage unit that consists of large, cylindrical forms with metallic surfaces, round bases, and includes piping along with access ladders."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024281.jpg",
+            "points": [
+                [
+                    30.0,
+                    0.0
+                ],
+                [
+                    30.0,
+                    1.0
+                ],
+                [
+                    31.0,
+                    1.0
+                ],
+                [
+                    31.0,
+                    3.0
+                ],
+                [
+                    33.0,
+                    3.0
+                ],
+                [
+                    33.0,
+                    4.0
+                ],
+                [
+                    35.0,
+                    4.0
+                ],
+                [
+                    35.0,
+                    5.0
+                ],
+                [
+                    38.0,
+                    5.0
+                ],
+                [
+                    38.0,
+                    4.0
+                ],
+                [
+                    41.0,
+                    4.0
+                ],
+                [
+                    41.0,
+                    3.0
+                ],
+                [
+                    43.0,
+                    3.0
+                ],
+                [
+                    43.0,
+                    2.0
+                ],
+                [
+                    44.0,
+                    2.0
+                ],
+                [
+                    44.0,
+                    1.0
+                ],
+                [
+                    45.0,
+                    1.0
+                ],
+                [
+                    45.0,
+                    0.0
+                ],
+                [
+                    30.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

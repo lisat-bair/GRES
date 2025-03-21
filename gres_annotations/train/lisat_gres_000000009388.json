@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the truck that features a tall, vertically extended design, mainly white with contrasting dark areas.",
+        "Find the truck characterized by a large, vertically stretched form, mostly white with some dark contrasting parts.",
+        "Spot the truck with a vertically elongated build, primarily white with dark sections providing contrast."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009388.jpg",
+            "points": [
+                [
+                    141.0,
+                    250.0
+                ],
+                [
+                    141.0,
+                    251.0
+                ],
+                [
+                    138.0,
+                    251.0
+                ],
+                [
+                    138.0,
+                    252.0
+                ],
+                [
+                    137.0,
+                    252.0
+                ],
+                [
+                    137.0,
+                    265.0
+                ],
+                [
+                    138.0,
+                    265.0
+                ],
+                [
+                    138.0,
+                    268.0
+                ],
+                [
+                    139.0,
+                    268.0
+                ],
+                [
+                    139.0,
+                    269.0
+                ],
+                [
+                    140.0,
+                    269.0
+                ],
+                [
+                    140.0,
+                    270.0
+                ],
+                [
+                    144.0,
+                    270.0
+                ],
+                [
+                    144.0,
+                    269.0
+                ],
+                [
+                    146.0,
+                    269.0
+                ],
+                [
+                    146.0,
+                    268.0
+                ],
+                [
+                    147.0,
+                    268.0
+                ],
+                [
+                    147.0,
+                    267.0
+                ],
+                [
+                    148.0,
+                    267.0
+                ],
+                [
+                    148.0,
+                    266.0
+                ],
+                [
+                    149.0,
+                    266.0
+                ],
+                [
+                    149.0,
+                    265.0
+                ],
+                [
+                    150.0,
+                    265.0
+                ],
+                [
+                    150.0,
+                    256.0
+                ],
+                [
+                    149.0,
+                    256.0
+                ],
+                [
+                    149.0,
+                    251.0
+                ],
+                [
+                    148.0,
+                    251.0
+                ],
+                [
+                    148.0,
+                    250.0
+                ],
+                [
+                    141.0,
+                    250.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

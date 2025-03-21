@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the cargo vessel featuring its massive, box-like structure filled with colorful, neatly arranged shipping containers resting on a long, flat hull in the water.",
+        "Locate the freight ship, distinguished by its large, rectangular form packed with various colored, evenly stacked shipping containers on a flat, extended hull afloat.",
+        "Observe the container vessel with its substantial, rectangular build loaded with multicolored, uniformly piled shipping containers on a flat, elongated hull on the water."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012812.jpg",
+            "points": [
+                [
+                    0.0,
+                    392.0
+                ],
+                [
+                    0.0,
+                    470.0
+                ],
+                [
+                    1.0,
+                    470.0
+                ],
+                [
+                    1.0,
+                    469.0
+                ],
+                [
+                    2.0,
+                    469.0
+                ],
+                [
+                    2.0,
+                    463.0
+                ],
+                [
+                    3.0,
+                    463.0
+                ],
+                [
+                    3.0,
+                    450.0
+                ],
+                [
+                    4.0,
+                    450.0
+                ],
+                [
+                    4.0,
+                    432.0
+                ],
+                [
+                    5.0,
+                    432.0
+                ],
+                [
+                    5.0,
+                    431.0
+                ],
+                [
+                    4.0,
+                    431.0
+                ],
+                [
+                    4.0,
+                    427.0
+                ],
+                [
+                    3.0,
+                    427.0
+                ],
+                [
+                    3.0,
+                    402.0
+                ],
+                [
+                    2.0,
+                    402.0
+                ],
+                [
+                    2.0,
+                    393.0
+                ],
+                [
+                    1.0,
+                    393.0
+                ],
+                [
+                    1.0,
+                    392.0
+                ],
+                [
+                    0.0,
+                    392.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

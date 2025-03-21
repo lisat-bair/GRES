@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Look for the helipad that features a spacious, round, flat surface, prominently marked with an 'H,' typically bordered by contrasting colors to set it apart from the environment.",
+        "Find the helipad characterized by a broad, flat, circular zone with a noticeable 'H' symbol, usually encircled by contrasting hues to make it stand out from its surroundings.",
+        "Seek out the helipad that includes a large, flat, circular area with a distinct 'H' mark, often highlighted with contrasting colors to differentiate it from the nearby area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014172.jpg",
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    25.0
+                ],
+                [
+                    2.0,
+                    25.0
+                ],
+                [
+                    2.0,
+                    24.0
+                ],
+                [
+                    5.0,
+                    24.0
+                ],
+                [
+                    5.0,
+                    23.0
+                ],
+                [
+                    6.0,
+                    23.0
+                ],
+                [
+                    6.0,
+                    22.0
+                ],
+                [
+                    7.0,
+                    22.0
+                ],
+                [
+                    7.0,
+                    20.0
+                ],
+                [
+                    8.0,
+                    20.0
+                ],
+                [
+                    8.0,
+                    17.0
+                ],
+                [
+                    9.0,
+                    17.0
+                ],
+                [
+                    9.0,
+                    16.0
+                ],
+                [
+                    10.0,
+                    16.0
+                ],
+                [
+                    10.0,
+                    14.0
+                ],
+                [
+                    11.0,
+                    14.0
+                ],
+                [
+                    11.0,
+                    12.0
+                ],
+                [
+                    12.0,
+                    12.0
+                ],
+                [
+                    12.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

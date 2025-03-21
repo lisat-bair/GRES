@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for the rectangular building with natural colors, a unique roof, and a texture that stands out from the environment to identify the shed.",
+        "To find the shed, spot the boxy structure featuring earthy hues, a distinctive roof, and a texture that contrasts with the surrounding area.",
+        "Pinpoint the shed by recognizing the rectangular edifice adorned with earthy shades, a notable roof design, and a texture that differs from the nature around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018221.jpg",
+            "points": [
+                [
+                    65.0,
+                    311.0
+                ],
+                [
+                    65.0,
+                    312.0
+                ],
+                [
+                    59.0,
+                    312.0
+                ],
+                [
+                    59.0,
+                    313.0
+                ],
+                [
+                    56.0,
+                    313.0
+                ],
+                [
+                    56.0,
+                    323.0
+                ],
+                [
+                    57.0,
+                    323.0
+                ],
+                [
+                    57.0,
+                    325.0
+                ],
+                [
+                    58.0,
+                    325.0
+                ],
+                [
+                    58.0,
+                    326.0
+                ],
+                [
+                    59.0,
+                    326.0
+                ],
+                [
+                    59.0,
+                    327.0
+                ],
+                [
+                    62.0,
+                    327.0
+                ],
+                [
+                    62.0,
+                    328.0
+                ],
+                [
+                    69.0,
+                    328.0
+                ],
+                [
+                    69.0,
+                    327.0
+                ],
+                [
+                    71.0,
+                    327.0
+                ],
+                [
+                    71.0,
+                    328.0
+                ],
+                [
+                    74.0,
+                    328.0
+                ],
+                [
+                    74.0,
+                    327.0
+                ],
+                [
+                    75.0,
+                    327.0
+                ],
+                [
+                    75.0,
+                    322.0
+                ],
+                [
+                    74.0,
+                    322.0
+                ],
+                [
+                    74.0,
+                    320.0
+                ],
+                [
+                    73.0,
+                    320.0
+                ],
+                [
+                    73.0,
+                    317.0
+                ],
+                [
+                    72.0,
+                    317.0
+                ],
+                [
+                    72.0,
+                    314.0
+                ],
+                [
+                    71.0,
+                    314.0
+                ],
+                [
+                    71.0,
+                    312.0
+                ],
+                [
+                    70.0,
+                    312.0
+                ],
+                [
+                    70.0,
+                    311.0
+                ],
+                [
+                    65.0,
+                    311.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

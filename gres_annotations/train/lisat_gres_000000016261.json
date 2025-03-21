@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the structure featuring a unique reddish-brown hue and a rectangular form, which contrasts with the paler surroundings.",
+        "Identify the building characterized by its distinctive red-brown shade and rectangle shape, set against a lighter backdrop.",
+        "Spot the edifice that stands out due to its red-brown coloration and rectangular design, contrasting with the lighter environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016261.jpg",
+            "points": [
+                [
+                    503.0,
+                    0.0
+                ],
+                [
+                    503.0,
+                    3.0
+                ],
+                [
+                    501.0,
+                    3.0
+                ],
+                [
+                    501.0,
+                    6.0
+                ],
+                [
+                    502.0,
+                    6.0
+                ],
+                [
+                    502.0,
+                    8.0
+                ],
+                [
+                    503.0,
+                    8.0
+                ],
+                [
+                    503.0,
+                    10.0
+                ],
+                [
+                    504.0,
+                    10.0
+                ],
+                [
+                    504.0,
+                    11.0
+                ],
+                [
+                    505.0,
+                    11.0
+                ],
+                [
+                    505.0,
+                    12.0
+                ],
+                [
+                    507.0,
+                    12.0
+                ],
+                [
+                    507.0,
+                    16.0
+                ],
+                [
+                    508.0,
+                    16.0
+                ],
+                [
+                    508.0,
+                    17.0
+                ],
+                [
+                    509.0,
+                    17.0
+                ],
+                [
+                    509.0,
+                    19.0
+                ],
+                [
+                    510.0,
+                    19.0
+                ],
+                [
+                    510.0,
+                    20.0
+                ],
+                [
+                    512.0,
+                    20.0
+                ],
+                [
+                    512.0,
+                    0.0
+                ],
+                [
+                    503.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

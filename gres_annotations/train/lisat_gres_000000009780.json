@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the car positioned in the middle of the picture.",
+        "Spot the automobile situated at the center of the image.",
+        "Identify the vehicle located at the heart of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009780.jpg",
+            "points": [
+                [
+                    87.0,
+                    240.0
+                ],
+                [
+                    87.0,
+                    241.0
+                ],
+                [
+                    85.0,
+                    241.0
+                ],
+                [
+                    85.0,
+                    243.0
+                ],
+                [
+                    84.0,
+                    243.0
+                ],
+                [
+                    84.0,
+                    246.0
+                ],
+                [
+                    85.0,
+                    246.0
+                ],
+                [
+                    85.0,
+                    247.0
+                ],
+                [
+                    88.0,
+                    247.0
+                ],
+                [
+                    88.0,
+                    248.0
+                ],
+                [
+                    97.0,
+                    248.0
+                ],
+                [
+                    97.0,
+                    247.0
+                ],
+                [
+                    98.0,
+                    247.0
+                ],
+                [
+                    98.0,
+                    244.0
+                ],
+                [
+                    99.0,
+                    244.0
+                ],
+                [
+                    99.0,
+                    242.0
+                ],
+                [
+                    98.0,
+                    242.0
+                ],
+                [
+                    98.0,
+                    241.0
+                ],
+                [
+                    97.0,
+                    241.0
+                ],
+                [
+                    97.0,
+                    240.0
+                ],
+                [
+                    87.0,
+                    240.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

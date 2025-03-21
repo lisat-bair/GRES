@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Look for the truck that has big, sharp features and noticeable side mirrors, set apart by its distinct color scheme compared to the surroundings.",
+        "Spot the truck with pronounced angles and large side mirrors, easily recognizable by its unique color pattern against the backdrop.",
+        "Find the truck characterized by its prominent, angular features and distinctive side mirrors, standing out due to its unusual color pattern against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030235.jpg",
+            "points": [
+                [
+                    0.0,
+                    14.0
+                ],
+                [
+                    0.0,
+                    25.0
+                ],
+                [
+                    2.0,
+                    25.0
+                ],
+                [
+                    2.0,
+                    24.0
+                ],
+                [
+                    5.0,
+                    24.0
+                ],
+                [
+                    5.0,
+                    23.0
+                ],
+                [
+                    7.0,
+                    23.0
+                ],
+                [
+                    7.0,
+                    22.0
+                ],
+                [
+                    8.0,
+                    22.0
+                ],
+                [
+                    8.0,
+                    16.0
+                ],
+                [
+                    7.0,
+                    16.0
+                ],
+                [
+                    7.0,
+                    15.0
+                ],
+                [
+                    6.0,
+                    15.0
+                ],
+                [
+                    6.0,
+                    14.0
+                ],
+                [
+                    0.0,
+                    14.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

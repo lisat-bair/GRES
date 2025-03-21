@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the bus in the top-right part of the picture that has a small, compact rectangular form.",
+        "Locate the bus in the upper-right corner of the image, characterized by its compact and rectangular shape.",
+        "Spot the bus situated in the top-right section of the photo, noted for its small rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020684.jpg",
+            "points": [
+                [
+                    340.0,
+                    114.0
+                ],
+                [
+                    340.0,
+                    115.0
+                ],
+                [
+                    339.0,
+                    115.0
+                ],
+                [
+                    339.0,
+                    116.0
+                ],
+                [
+                    338.0,
+                    116.0
+                ],
+                [
+                    338.0,
+                    121.0
+                ],
+                [
+                    339.0,
+                    121.0
+                ],
+                [
+                    339.0,
+                    126.0
+                ],
+                [
+                    340.0,
+                    126.0
+                ],
+                [
+                    340.0,
+                    129.0
+                ],
+                [
+                    341.0,
+                    129.0
+                ],
+                [
+                    341.0,
+                    130.0
+                ],
+                [
+                    342.0,
+                    130.0
+                ],
+                [
+                    342.0,
+                    131.0
+                ],
+                [
+                    344.0,
+                    131.0
+                ],
+                [
+                    344.0,
+                    130.0
+                ],
+                [
+                    345.0,
+                    130.0
+                ],
+                [
+                    345.0,
+                    129.0
+                ],
+                [
+                    346.0,
+                    129.0
+                ],
+                [
+                    346.0,
+                    128.0
+                ],
+                [
+                    347.0,
+                    128.0
+                ],
+                [
+                    347.0,
+                    127.0
+                ],
+                [
+                    348.0,
+                    127.0
+                ],
+                [
+                    348.0,
+                    122.0
+                ],
+                [
+                    347.0,
+                    122.0
+                ],
+                [
+                    347.0,
+                    120.0
+                ],
+                [
+                    346.0,
+                    120.0
+                ],
+                [
+                    346.0,
+                    117.0
+                ],
+                [
+                    345.0,
+                    117.0
+                ],
+                [
+                    345.0,
+                    116.0
+                ],
+                [
+                    344.0,
+                    116.0
+                ],
+                [
+                    344.0,
+                    115.0
+                ],
+                [
+                    343.0,
+                    115.0
+                ],
+                [
+                    343.0,
+                    114.0
+                ],
+                [
+                    340.0,
+                    114.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

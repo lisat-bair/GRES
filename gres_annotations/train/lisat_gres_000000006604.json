@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the vehicle that features a metallic exterior, unique headlights, and a smooth, streamlined design characteristic of modern cars.",
+        "Look for the car that boasts a shiny finish, standout headlights, and an aerodynamic silhouette typical of automobiles.",
+        "Search for the automobile with a metallic sheen, distinctive headlights, and a sleek, trendy shape that is common among vehicles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006604.jpg",
+            "points": [
+                [
+                    489.0,
+                    389.0
+                ],
+                [
+                    489.0,
+                    390.0
+                ],
+                [
+                    487.0,
+                    390.0
+                ],
+                [
+                    487.0,
+                    395.0
+                ],
+                [
+                    488.0,
+                    395.0
+                ],
+                [
+                    488.0,
+                    396.0
+                ],
+                [
+                    491.0,
+                    396.0
+                ],
+                [
+                    491.0,
+                    397.0
+                ],
+                [
+                    496.0,
+                    397.0
+                ],
+                [
+                    496.0,
+                    396.0
+                ],
+                [
+                    497.0,
+                    396.0
+                ],
+                [
+                    497.0,
+                    390.0
+                ],
+                [
+                    496.0,
+                    390.0
+                ],
+                [
+                    496.0,
+                    389.0
+                ],
+                [
+                    489.0,
+                    389.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

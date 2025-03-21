@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the large white rectangular vehicle with windows and multiple wheels positioned on the road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003567.jpg",
+            "points": [
+                [
+                    17.0,
+                    214.0
+                ],
+                [
+                    17.0,
+                    215.0
+                ],
+                [
+                    12.0,
+                    215.0
+                ],
+                [
+                    12.0,
+                    222.0
+                ],
+                [
+                    32.0,
+                    222.0
+                ],
+                [
+                    32.0,
+                    221.0
+                ],
+                [
+                    33.0,
+                    221.0
+                ],
+                [
+                    33.0,
+                    220.0
+                ],
+                [
+                    34.0,
+                    220.0
+                ],
+                [
+                    34.0,
+                    218.0
+                ],
+                [
+                    35.0,
+                    218.0
+                ],
+                [
+                    35.0,
+                    217.0
+                ],
+                [
+                    36.0,
+                    217.0
+                ],
+                [
+                    36.0,
+                    216.0
+                ],
+                [
+                    35.0,
+                    216.0
+                ],
+                [
+                    35.0,
+                    215.0
+                ],
+                [
+                    33.0,
+                    215.0
+                ],
+                [
+                    33.0,
+                    214.0
+                ],
+                [
+                    17.0,
+                    214.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

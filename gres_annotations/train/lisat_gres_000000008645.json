@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the big rectangle with unique wheels and an attached long part.",
+        "Locate the sizable rectangular form that features noticeable wheels and an extended section.",
+        "Find the large shape that is rectangular, has distinct wheels, and a linked elongated part."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008645.jpg",
+            "points": [
+                [
+                    491.0,
+                    177.0
+                ],
+                [
+                    491.0,
+                    179.0
+                ],
+                [
+                    490.0,
+                    179.0
+                ],
+                [
+                    490.0,
+                    181.0
+                ],
+                [
+                    491.0,
+                    181.0
+                ],
+                [
+                    491.0,
+                    187.0
+                ],
+                [
+                    492.0,
+                    187.0
+                ],
+                [
+                    492.0,
+                    192.0
+                ],
+                [
+                    493.0,
+                    192.0
+                ],
+                [
+                    493.0,
+                    193.0
+                ],
+                [
+                    494.0,
+                    193.0
+                ],
+                [
+                    494.0,
+                    194.0
+                ],
+                [
+                    500.0,
+                    194.0
+                ],
+                [
+                    500.0,
+                    193.0
+                ],
+                [
+                    502.0,
+                    193.0
+                ],
+                [
+                    502.0,
+                    187.0
+                ],
+                [
+                    501.0,
+                    187.0
+                ],
+                [
+                    501.0,
+                    185.0
+                ],
+                [
+                    500.0,
+                    185.0
+                ],
+                [
+                    500.0,
+                    183.0
+                ],
+                [
+                    499.0,
+                    183.0
+                ],
+                [
+                    499.0,
+                    179.0
+                ],
+                [
+                    498.0,
+                    179.0
+                ],
+                [
+                    498.0,
+                    178.0
+                ],
+                [
+                    497.0,
+                    178.0
+                ],
+                [
+                    497.0,
+                    177.0
+                ],
+                [
+                    491.0,
+                    177.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

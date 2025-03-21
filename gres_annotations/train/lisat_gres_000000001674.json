@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Look for the rectangular shed that is mostly brown, contrasting with a lighter backdrop.",
+        "Seek out the shed that features a unique rectangular design and is primarily brown, set against a paler background.",
+        "Identify the shed with a distinctive rectangular form and dominant brown hue, positioned against a lighter setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001674.jpg",
+            "points": [
+                [
+                    129.0,
+                    0.0
+                ],
+                [
+                    129.0,
+                    3.0
+                ],
+                [
+                    136.0,
+                    3.0
+                ],
+                [
+                    136.0,
+                    4.0
+                ],
+                [
+                    140.0,
+                    4.0
+                ],
+                [
+                    140.0,
+                    5.0
+                ],
+                [
+                    145.0,
+                    5.0
+                ],
+                [
+                    145.0,
+                    4.0
+                ],
+                [
+                    146.0,
+                    4.0
+                ],
+                [
+                    146.0,
+                    3.0
+                ],
+                [
+                    147.0,
+                    3.0
+                ],
+                [
+                    147.0,
+                    0.0
+                ],
+                [
+                    129.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

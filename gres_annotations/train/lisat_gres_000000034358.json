@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the car that appears as a dark shape with clear boundaries, similar to a vehicle's outline against a contrasting backdrop.",
+        "Locate the automobile that emerges as a shadowy figure with distinct contours, akin to a car's silhouette against a differing background.",
+        "Find the vehicle that manifests as a dark form with pronounced edges, resembling a car's outline set against a contrasting background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034358.jpg",
+            "points": [
+                [
+                    130.0,
+                    304.0
+                ],
+                [
+                    130.0,
+                    305.0
+                ],
+                [
+                    129.0,
+                    305.0
+                ],
+                [
+                    129.0,
+                    308.0
+                ],
+                [
+                    130.0,
+                    308.0
+                ],
+                [
+                    130.0,
+                    312.0
+                ],
+                [
+                    132.0,
+                    312.0
+                ],
+                [
+                    132.0,
+                    313.0
+                ],
+                [
+                    143.0,
+                    313.0
+                ],
+                [
+                    143.0,
+                    312.0
+                ],
+                [
+                    144.0,
+                    312.0
+                ],
+                [
+                    144.0,
+                    306.0
+                ],
+                [
+                    143.0,
+                    306.0
+                ],
+                [
+                    143.0,
+                    304.0
+                ],
+                [
+                    130.0,
+                    304.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

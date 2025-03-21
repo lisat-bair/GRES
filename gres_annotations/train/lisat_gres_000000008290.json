@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the vehicle with a shiny exterior and noticeable windows, standing out against the out-of-focus backdrop.",
+        "Locate the automobile featuring a polished surface and prominent windows set apart from the hazy background.",
+        "Find the car that has a sleek finish and distinct windows, in contrast to the fuzzy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008290.jpg",
+            "points": [
+                [
+                    244.0,
+                    354.0
+                ],
+                [
+                    244.0,
+                    355.0
+                ],
+                [
+                    238.0,
+                    355.0
+                ],
+                [
+                    238.0,
+                    356.0
+                ],
+                [
+                    236.0,
+                    356.0
+                ],
+                [
+                    236.0,
+                    357.0
+                ],
+                [
+                    235.0,
+                    357.0
+                ],
+                [
+                    235.0,
+                    358.0
+                ],
+                [
+                    234.0,
+                    358.0
+                ],
+                [
+                    234.0,
+                    362.0
+                ],
+                [
+                    235.0,
+                    362.0
+                ],
+                [
+                    235.0,
+                    363.0
+                ],
+                [
+                    246.0,
+                    363.0
+                ],
+                [
+                    246.0,
+                    362.0
+                ],
+                [
+                    249.0,
+                    362.0
+                ],
+                [
+                    249.0,
+                    361.0
+                ],
+                [
+                    251.0,
+                    361.0
+                ],
+                [
+                    251.0,
+                    360.0
+                ],
+                [
+                    252.0,
+                    360.0
+                ],
+                [
+                    252.0,
+                    358.0
+                ],
+                [
+                    251.0,
+                    358.0
+                ],
+                [
+                    251.0,
+                    356.0
+                ],
+                [
+                    250.0,
+                    356.0
+                ],
+                [
+                    250.0,
+                    355.0
+                ],
+                [
+                    248.0,
+                    355.0
+                ],
+                [
+                    248.0,
+                    354.0
+                ],
+                [
+                    244.0,
+                    354.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

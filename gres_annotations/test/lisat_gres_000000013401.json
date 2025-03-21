@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Locate the building with a distinct dark brown square shape with subtle texture variations, standing out against a lighter background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013401.jpg",
+            "points": [
+                [
+                    231.0,
+                    443.0
+                ],
+                [
+                    231.0,
+                    444.0
+                ],
+                [
+                    229.0,
+                    444.0
+                ],
+                [
+                    229.0,
+                    446.0
+                ],
+                [
+                    228.0,
+                    446.0
+                ],
+                [
+                    228.0,
+                    460.0
+                ],
+                [
+                    229.0,
+                    460.0
+                ],
+                [
+                    229.0,
+                    462.0
+                ],
+                [
+                    230.0,
+                    462.0
+                ],
+                [
+                    230.0,
+                    463.0
+                ],
+                [
+                    244.0,
+                    463.0
+                ],
+                [
+                    244.0,
+                    458.0
+                ],
+                [
+                    245.0,
+                    458.0
+                ],
+                [
+                    245.0,
+                    448.0
+                ],
+                [
+                    244.0,
+                    448.0
+                ],
+                [
+                    244.0,
+                    446.0
+                ],
+                [
+                    243.0,
+                    446.0
+                ],
+                [
+                    243.0,
+                    444.0
+                ],
+                [
+                    241.0,
+                    444.0
+                ],
+                [
+                    241.0,
+                    443.0
+                ],
+                [
+                    231.0,
+                    443.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

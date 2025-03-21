@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Locate the large, rectangular vehicle with prominent windows and a distinctive color pattern, typically found on roads or near bus stops."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022944.jpg",
+            "points": [
+                [
+                    269.0,
+                    383.0
+                ],
+                [
+                    269.0,
+                    384.0
+                ],
+                [
+                    268.0,
+                    384.0
+                ],
+                [
+                    268.0,
+                    389.0
+                ],
+                [
+                    270.0,
+                    389.0
+                ],
+                [
+                    270.0,
+                    390.0
+                ],
+                [
+                    277.0,
+                    390.0
+                ],
+                [
+                    277.0,
+                    391.0
+                ],
+                [
+                    286.0,
+                    391.0
+                ],
+                [
+                    286.0,
+                    390.0
+                ],
+                [
+                    287.0,
+                    390.0
+                ],
+                [
+                    287.0,
+                    388.0
+                ],
+                [
+                    288.0,
+                    388.0
+                ],
+                [
+                    288.0,
+                    385.0
+                ],
+                [
+                    287.0,
+                    385.0
+                ],
+                [
+                    287.0,
+                    384.0
+                ],
+                [
+                    283.0,
+                    384.0
+                ],
+                [
+                    283.0,
+                    383.0
+                ],
+                [
+                    269.0,
+                    383.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the automobile that features shiny surfaces and clear-cut edges, typically found with round wheels.",
+        "Spot the vehicle that possesses gleaming exteriors and sharp edges, usually paired with circular tires.",
+        "Find the car characterized by its glossy surfaces and well-defined edges, often seen with round tires."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008386.jpg",
+            "points": [
+                [
+                    321.0,
+                    0.0
+                ],
+                [
+                    321.0,
+                    1.0
+                ],
+                [
+                    322.0,
+                    1.0
+                ],
+                [
+                    322.0,
+                    2.0
+                ],
+                [
+                    323.0,
+                    2.0
+                ],
+                [
+                    323.0,
+                    3.0
+                ],
+                [
+                    324.0,
+                    3.0
+                ],
+                [
+                    324.0,
+                    4.0
+                ],
+                [
+                    325.0,
+                    4.0
+                ],
+                [
+                    325.0,
+                    5.0
+                ],
+                [
+                    334.0,
+                    5.0
+                ],
+                [
+                    334.0,
+                    4.0
+                ],
+                [
+                    335.0,
+                    4.0
+                ],
+                [
+                    335.0,
+                    2.0
+                ],
+                [
+                    336.0,
+                    2.0
+                ],
+                [
+                    336.0,
+                    0.0
+                ],
+                [
+                    321.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

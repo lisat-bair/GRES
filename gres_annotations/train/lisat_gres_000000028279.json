@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the vehicle by its long shape, metal exterior, unique wheels, and shiny surfaces common to cars.",
+        "Recognize the automobile by its stretched form, metal body, characteristic wheels, and glossy surfaces usually seen on vehicles.",
+        "Find the car by its extended shape, metallic frame, distinctive wheels, and reflective surfaces that are typical of vehicles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028279.jpg",
+            "points": [
+                [
+                    404.0,
+                    272.0
+                ],
+                [
+                    404.0,
+                    273.0
+                ],
+                [
+                    403.0,
+                    273.0
+                ],
+                [
+                    403.0,
+                    274.0
+                ],
+                [
+                    402.0,
+                    274.0
+                ],
+                [
+                    402.0,
+                    275.0
+                ],
+                [
+                    401.0,
+                    275.0
+                ],
+                [
+                    401.0,
+                    277.0
+                ],
+                [
+                    402.0,
+                    277.0
+                ],
+                [
+                    402.0,
+                    278.0
+                ],
+                [
+                    403.0,
+                    278.0
+                ],
+                [
+                    403.0,
+                    279.0
+                ],
+                [
+                    406.0,
+                    279.0
+                ],
+                [
+                    406.0,
+                    280.0
+                ],
+                [
+                    410.0,
+                    280.0
+                ],
+                [
+                    410.0,
+                    279.0
+                ],
+                [
+                    412.0,
+                    279.0
+                ],
+                [
+                    412.0,
+                    278.0
+                ],
+                [
+                    413.0,
+                    278.0
+                ],
+                [
+                    413.0,
+                    274.0
+                ],
+                [
+                    412.0,
+                    274.0
+                ],
+                [
+                    412.0,
+                    273.0
+                ],
+                [
+                    411.0,
+                    273.0
+                ],
+                [
+                    411.0,
+                    272.0
+                ],
+                [
+                    404.0,
+                    272.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

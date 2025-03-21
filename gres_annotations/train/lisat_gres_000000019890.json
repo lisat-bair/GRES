@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the big rectangular vehicle that has wheels and windows, usually painted yellow or another vivid color, situated on the street.",
+        "Spot the large, rectangular vehicle equipped with wheels and windows, often in yellow or another bold color, located on the road.",
+        "Identify the sizeable rectangular vehicle with wheels and windows, commonly in a yellow or other bright hue, placed on the roadway."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019890.jpg",
+            "points": [
+                [
+                    347.0,
+                    122.0
+                ],
+                [
+                    347.0,
+                    123.0
+                ],
+                [
+                    336.0,
+                    123.0
+                ],
+                [
+                    336.0,
+                    124.0
+                ],
+                [
+                    333.0,
+                    124.0
+                ],
+                [
+                    333.0,
+                    125.0
+                ],
+                [
+                    331.0,
+                    125.0
+                ],
+                [
+                    331.0,
+                    127.0
+                ],
+                [
+                    330.0,
+                    127.0
+                ],
+                [
+                    330.0,
+                    132.0
+                ],
+                [
+                    331.0,
+                    132.0
+                ],
+                [
+                    331.0,
+                    135.0
+                ],
+                [
+                    350.0,
+                    135.0
+                ],
+                [
+                    350.0,
+                    134.0
+                ],
+                [
+                    356.0,
+                    134.0
+                ],
+                [
+                    356.0,
+                    133.0
+                ],
+                [
+                    358.0,
+                    133.0
+                ],
+                [
+                    358.0,
+                    127.0
+                ],
+                [
+                    357.0,
+                    127.0
+                ],
+                [
+                    357.0,
+                    124.0
+                ],
+                [
+                    356.0,
+                    124.0
+                ],
+                [
+                    356.0,
+                    123.0
+                ],
+                [
+                    355.0,
+                    123.0
+                ],
+                [
+                    355.0,
+                    122.0
+                ],
+                [
+                    347.0,
+                    122.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

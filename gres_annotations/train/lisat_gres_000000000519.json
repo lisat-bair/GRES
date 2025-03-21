@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the truck located in the upper-left corner of the picture.",
+        "Find the truck positioned at the top-left side of the image.",
+        "Locate the truck situated in the top-left area of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000519.jpg",
+            "points": [
+                [
+                    33.0,
+                    97.0
+                ],
+                [
+                    33.0,
+                    107.0
+                ],
+                [
+                    34.0,
+                    107.0
+                ],
+                [
+                    34.0,
+                    112.0
+                ],
+                [
+                    35.0,
+                    112.0
+                ],
+                [
+                    35.0,
+                    114.0
+                ],
+                [
+                    37.0,
+                    114.0
+                ],
+                [
+                    37.0,
+                    115.0
+                ],
+                [
+                    41.0,
+                    115.0
+                ],
+                [
+                    41.0,
+                    114.0
+                ],
+                [
+                    43.0,
+                    114.0
+                ],
+                [
+                    43.0,
+                    113.0
+                ],
+                [
+                    44.0,
+                    113.0
+                ],
+                [
+                    44.0,
+                    103.0
+                ],
+                [
+                    43.0,
+                    103.0
+                ],
+                [
+                    43.0,
+                    100.0
+                ],
+                [
+                    42.0,
+                    100.0
+                ],
+                [
+                    42.0,
+                    99.0
+                ],
+                [
+                    41.0,
+                    99.0
+                ],
+                [
+                    41.0,
+                    98.0
+                ],
+                [
+                    40.0,
+                    98.0
+                ],
+                [
+                    40.0,
+                    97.0
+                ],
+                [
+                    33.0,
+                    97.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

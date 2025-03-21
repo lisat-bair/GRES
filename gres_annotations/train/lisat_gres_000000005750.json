@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the vehicle that has a gleaming, metallic exterior and uniquely shaped wheels.",
+        "Find the automobile with a polished, reflective surface and distinctive wheel designs.",
+        "Spot the car featuring a glossy, metal finish and uniquely patterned wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005750.jpg",
+            "points": [
+                [
+                    414.0,
+                    469.0
+                ],
+                [
+                    414.0,
+                    470.0
+                ],
+                [
+                    410.0,
+                    470.0
+                ],
+                [
+                    410.0,
+                    477.0
+                ],
+                [
+                    411.0,
+                    477.0
+                ],
+                [
+                    411.0,
+                    480.0
+                ],
+                [
+                    412.0,
+                    480.0
+                ],
+                [
+                    412.0,
+                    482.0
+                ],
+                [
+                    416.0,
+                    482.0
+                ],
+                [
+                    416.0,
+                    481.0
+                ],
+                [
+                    419.0,
+                    481.0
+                ],
+                [
+                    419.0,
+                    480.0
+                ],
+                [
+                    421.0,
+                    480.0
+                ],
+                [
+                    421.0,
+                    473.0
+                ],
+                [
+                    420.0,
+                    473.0
+                ],
+                [
+                    420.0,
+                    472.0
+                ],
+                [
+                    419.0,
+                    472.0
+                ],
+                [
+                    419.0,
+                    470.0
+                ],
+                [
+                    417.0,
+                    470.0
+                ],
+                [
+                    417.0,
+                    469.0
+                ],
+                [
+                    414.0,
+                    469.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

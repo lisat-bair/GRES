@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Locate the bus situated in the bottom-left corner of the picture, characterized by its rectangular form and unique wheels.",
+        "Spot the bus in the lower-left section of the image, notable for its rectangular design and distinctive wheels.",
+        "Find the bus positioned at the bottom-left of the photo, marked by its rectangular shape and standout wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022725.jpg",
+            "points": [
+                [
+                    106.0,
+                    385.0
+                ],
+                [
+                    106.0,
+                    386.0
+                ],
+                [
+                    105.0,
+                    386.0
+                ],
+                [
+                    105.0,
+                    387.0
+                ],
+                [
+                    104.0,
+                    387.0
+                ],
+                [
+                    104.0,
+                    388.0
+                ],
+                [
+                    103.0,
+                    388.0
+                ],
+                [
+                    103.0,
+                    391.0
+                ],
+                [
+                    102.0,
+                    391.0
+                ],
+                [
+                    102.0,
+                    395.0
+                ],
+                [
+                    101.0,
+                    395.0
+                ],
+                [
+                    101.0,
+                    397.0
+                ],
+                [
+                    102.0,
+                    397.0
+                ],
+                [
+                    102.0,
+                    399.0
+                ],
+                [
+                    103.0,
+                    399.0
+                ],
+                [
+                    103.0,
+                    400.0
+                ],
+                [
+                    106.0,
+                    400.0
+                ],
+                [
+                    106.0,
+                    401.0
+                ],
+                [
+                    107.0,
+                    401.0
+                ],
+                [
+                    107.0,
+                    400.0
+                ],
+                [
+                    110.0,
+                    400.0
+                ],
+                [
+                    110.0,
+                    399.0
+                ],
+                [
+                    111.0,
+                    399.0
+                ],
+                [
+                    111.0,
+                    397.0
+                ],
+                [
+                    112.0,
+                    397.0
+                ],
+                [
+                    112.0,
+                    395.0
+                ],
+                [
+                    113.0,
+                    395.0
+                ],
+                [
+                    113.0,
+                    387.0
+                ],
+                [
+                    112.0,
+                    387.0
+                ],
+                [
+                    112.0,
+                    386.0
+                ],
+                [
+                    111.0,
+                    386.0
+                ],
+                [
+                    111.0,
+                    385.0
+                ],
+                [
+                    106.0,
+                    385.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

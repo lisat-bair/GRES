@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the truck that has a white body and stands out with its rectangular shape against the brown background.",
+        "Find the truck featuring a white body and a unique rectangular form set against the brown backdrop.",
+        "Locate the white-bodied truck with a distinct rectangular shape against the brown scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026858.jpg",
+            "points": [
+                [
+                    247.0,
+                    39.0
+                ],
+                [
+                    247.0,
+                    40.0
+                ],
+                [
+                    246.0,
+                    40.0
+                ],
+                [
+                    246.0,
+                    51.0
+                ],
+                [
+                    247.0,
+                    51.0
+                ],
+                [
+                    247.0,
+                    53.0
+                ],
+                [
+                    248.0,
+                    53.0
+                ],
+                [
+                    248.0,
+                    55.0
+                ],
+                [
+                    249.0,
+                    55.0
+                ],
+                [
+                    249.0,
+                    56.0
+                ],
+                [
+                    252.0,
+                    56.0
+                ],
+                [
+                    252.0,
+                    57.0
+                ],
+                [
+                    256.0,
+                    57.0
+                ],
+                [
+                    256.0,
+                    56.0
+                ],
+                [
+                    259.0,
+                    56.0
+                ],
+                [
+                    259.0,
+                    54.0
+                ],
+                [
+                    260.0,
+                    54.0
+                ],
+                [
+                    260.0,
+                    50.0
+                ],
+                [
+                    259.0,
+                    50.0
+                ],
+                [
+                    259.0,
+                    46.0
+                ],
+                [
+                    258.0,
+                    46.0
+                ],
+                [
+                    258.0,
+                    42.0
+                ],
+                [
+                    257.0,
+                    42.0
+                ],
+                [
+                    257.0,
+                    41.0
+                ],
+                [
+                    256.0,
+                    41.0
+                ],
+                [
+                    256.0,
+                    40.0
+                ],
+                [
+                    255.0,
+                    40.0
+                ],
+                [
+                    255.0,
+                    39.0
+                ],
+                [
+                    247.0,
+                    39.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

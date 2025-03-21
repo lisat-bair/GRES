@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the truck in the picture that has a unique form and a shiny metal exterior.",
+        "Find the vehicle in the photo that features a notable shape and a gleaming metallic finish.",
+        "Locate the truck in the image characterized by its distinctive outline and reflective metal surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020280.jpg",
+            "points": [
+                [
+                    0.0,
+                    374.0
+                ],
+                [
+                    0.0,
+                    393.0
+                ],
+                [
+                    2.0,
+                    393.0
+                ],
+                [
+                    2.0,
+                    392.0
+                ],
+                [
+                    4.0,
+                    392.0
+                ],
+                [
+                    4.0,
+                    391.0
+                ],
+                [
+                    5.0,
+                    391.0
+                ],
+                [
+                    5.0,
+                    390.0
+                ],
+                [
+                    6.0,
+                    390.0
+                ],
+                [
+                    6.0,
+                    381.0
+                ],
+                [
+                    5.0,
+                    381.0
+                ],
+                [
+                    5.0,
+                    376.0
+                ],
+                [
+                    4.0,
+                    376.0
+                ],
+                [
+                    4.0,
+                    374.0
+                ],
+                [
+                    0.0,
+                    374.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

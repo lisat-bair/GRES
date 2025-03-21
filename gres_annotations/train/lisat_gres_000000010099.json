@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Spot the vehicle characterized by its unique headlights and shiny metallic exterior.",
+        "Locate the automobile that features distinctive headlights and a metallic finish.",
+        "Find the car that stands out with its unusual headlights and metal body."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010099.jpg",
+            "points": [
+                [
+                    405.0,
+                    216.0
+                ],
+                [
+                    405.0,
+                    217.0
+                ],
+                [
+                    404.0,
+                    217.0
+                ],
+                [
+                    404.0,
+                    221.0
+                ],
+                [
+                    405.0,
+                    221.0
+                ],
+                [
+                    405.0,
+                    222.0
+                ],
+                [
+                    414.0,
+                    222.0
+                ],
+                [
+                    414.0,
+                    221.0
+                ],
+                [
+                    415.0,
+                    221.0
+                ],
+                [
+                    415.0,
+                    217.0
+                ],
+                [
+                    414.0,
+                    217.0
+                ],
+                [
+                    414.0,
+                    216.0
+                ],
+                [
+                    405.0,
+                    216.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "text": [
+        "Look for the tiny white item that resembles wings set against the dark backdrop to locate the small aircraft.",
+        "To discover the little airplane, spot the diminutive white shape with wings contrasted against the darker background.",
+        "Find the small aircraft by identifying the tiny wing-shaped white object against the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025529.jpg",
+            "points": [
+                [
+                    0.0,
+                    416.0
+                ],
+                [
+                    0.0,
+                    459.0
+                ],
+                [
+                    3.0,
+                    459.0
+                ],
+                [
+                    3.0,
+                    458.0
+                ],
+                [
+                    5.0,
+                    458.0
+                ],
+                [
+                    5.0,
+                    456.0
+                ],
+                [
+                    4.0,
+                    456.0
+                ],
+                [
+                    4.0,
+                    453.0
+                ],
+                [
+                    5.0,
+                    453.0
+                ],
+                [
+                    5.0,
+                    452.0
+                ],
+                [
+                    6.0,
+                    452.0
+                ],
+                [
+                    6.0,
+                    451.0
+                ],
+                [
+                    7.0,
+                    451.0
+                ],
+                [
+                    7.0,
+                    436.0
+                ],
+                [
+                    8.0,
+                    436.0
+                ],
+                [
+                    8.0,
+                    432.0
+                ],
+                [
+                    9.0,
+                    432.0
+                ],
+                [
+                    9.0,
+                    429.0
+                ],
+                [
+                    10.0,
+                    429.0
+                ],
+                [
+                    10.0,
+                    423.0
+                ],
+                [
+                    9.0,
+                    423.0
+                ],
+                [
+                    9.0,
+                    421.0
+                ],
+                [
+                    8.0,
+                    421.0
+                ],
+                [
+                    8.0,
+                    420.0
+                ],
+                [
+                    7.0,
+                    420.0
+                ],
+                [
+                    7.0,
+                    419.0
+                ],
+                [
+                    6.0,
+                    419.0
+                ],
+                [
+                    6.0,
+                    418.0
+                ],
+                [
+                    4.0,
+                    418.0
+                ],
+                [
+                    4.0,
+                    417.0
+                ],
+                [
+                    2.0,
+                    417.0
+                ],
+                [
+                    2.0,
+                    416.0
+                ],
+                [
+                    0.0,
+                    416.0
+                ],
+                [
+                    0.0,
+                    460.0
+                ],
+                [
+                    0.0,
+                    461.0
+                ],
+                [
+                    2.0,
+                    461.0
+                ],
+                [
+                    2.0,
+                    460.0
+                ],
+                [
+                    0.0,
+                    460.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

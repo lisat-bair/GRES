@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the truck that has a combination of white and red colors and a spacious, boxy cargo section.",
+        "Look for the vehicle painted in red and white, which includes a prominent, square-shaped storage area.",
+        "Identify the truck with a red and white paint job, characterized by its large, rectangular cargo compartment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019699.jpg",
+            "points": [
+                [
+                    301.0,
+                    264.0
+                ],
+                [
+                    301.0,
+                    265.0
+                ],
+                [
+                    298.0,
+                    265.0
+                ],
+                [
+                    298.0,
+                    266.0
+                ],
+                [
+                    297.0,
+                    266.0
+                ],
+                [
+                    297.0,
+                    273.0
+                ],
+                [
+                    298.0,
+                    273.0
+                ],
+                [
+                    298.0,
+                    274.0
+                ],
+                [
+                    299.0,
+                    274.0
+                ],
+                [
+                    299.0,
+                    275.0
+                ],
+                [
+                    304.0,
+                    275.0
+                ],
+                [
+                    304.0,
+                    276.0
+                ],
+                [
+                    313.0,
+                    276.0
+                ],
+                [
+                    313.0,
+                    275.0
+                ],
+                [
+                    318.0,
+                    275.0
+                ],
+                [
+                    318.0,
+                    274.0
+                ],
+                [
+                    320.0,
+                    274.0
+                ],
+                [
+                    320.0,
+                    273.0
+                ],
+                [
+                    321.0,
+                    273.0
+                ],
+                [
+                    321.0,
+                    271.0
+                ],
+                [
+                    320.0,
+                    271.0
+                ],
+                [
+                    320.0,
+                    270.0
+                ],
+                [
+                    319.0,
+                    270.0
+                ],
+                [
+                    319.0,
+                    269.0
+                ],
+                [
+                    317.0,
+                    269.0
+                ],
+                [
+                    317.0,
+                    268.0
+                ],
+                [
+                    316.0,
+                    268.0
+                ],
+                [
+                    316.0,
+                    267.0
+                ],
+                [
+                    314.0,
+                    267.0
+                ],
+                [
+                    314.0,
+                    266.0
+                ],
+                [
+                    312.0,
+                    266.0
+                ],
+                [
+                    312.0,
+                    265.0
+                ],
+                [
+                    309.0,
+                    265.0
+                ],
+                [
+                    309.0,
+                    264.0
+                ],
+                [
+                    301.0,
+                    264.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

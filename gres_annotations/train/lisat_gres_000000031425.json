@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the light brown rectangular building that features dark vertical lines, standing out from the darker backdrop.",
+        "Locate the rectangular structure with a light brown color and dark vertical stripes, set apart by the darker surroundings.",
+        "Find the rectangular frame that is light brown with dark vertical streaks, distinguishing itself against the darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031425.jpg",
+            "points": [
+                [
+                    476.0,
+                    130.0
+                ],
+                [
+                    476.0,
+                    131.0
+                ],
+                [
+                    474.0,
+                    131.0
+                ],
+                [
+                    474.0,
+                    132.0
+                ],
+                [
+                    473.0,
+                    132.0
+                ],
+                [
+                    473.0,
+                    143.0
+                ],
+                [
+                    472.0,
+                    143.0
+                ],
+                [
+                    472.0,
+                    157.0
+                ],
+                [
+                    471.0,
+                    157.0
+                ],
+                [
+                    471.0,
+                    165.0
+                ],
+                [
+                    472.0,
+                    165.0
+                ],
+                [
+                    472.0,
+                    166.0
+                ],
+                [
+                    475.0,
+                    166.0
+                ],
+                [
+                    475.0,
+                    167.0
+                ],
+                [
+                    482.0,
+                    167.0
+                ],
+                [
+                    482.0,
+                    168.0
+                ],
+                [
+                    494.0,
+                    168.0
+                ],
+                [
+                    494.0,
+                    169.0
+                ],
+                [
+                    510.0,
+                    169.0
+                ],
+                [
+                    510.0,
+                    170.0
+                ],
+                [
+                    512.0,
+                    170.0
+                ],
+                [
+                    512.0,
+                    133.0
+                ],
+                [
+                    493.0,
+                    133.0
+                ],
+                [
+                    493.0,
+                    132.0
+                ],
+                [
+                    486.0,
+                    132.0
+                ],
+                [
+                    486.0,
+                    131.0
+                ],
+                [
+                    482.0,
+                    131.0
+                ],
+                [
+                    482.0,
+                    130.0
+                ],
+                [
+                    476.0,
+                    130.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

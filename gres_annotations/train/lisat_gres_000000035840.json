@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the vehicle that features a sleek, rectangular design and shiny surfaces, standing out from its surroundings.",
+        "Find the car characterized by its smooth, boxy form and gleaming surfaces that contrast with its environment.",
+        "Spot the automobile with a streamlined, rectangular silhouette and reflective surfaces, making it unique from the area around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035840.jpg",
+            "points": [
+                [
+                    211.0,
+                    183.0
+                ],
+                [
+                    211.0,
+                    184.0
+                ],
+                [
+                    210.0,
+                    184.0
+                ],
+                [
+                    210.0,
+                    195.0
+                ],
+                [
+                    211.0,
+                    195.0
+                ],
+                [
+                    211.0,
+                    198.0
+                ],
+                [
+                    212.0,
+                    198.0
+                ],
+                [
+                    212.0,
+                    199.0
+                ],
+                [
+                    215.0,
+                    199.0
+                ],
+                [
+                    215.0,
+                    198.0
+                ],
+                [
+                    216.0,
+                    198.0
+                ],
+                [
+                    216.0,
+                    197.0
+                ],
+                [
+                    217.0,
+                    197.0
+                ],
+                [
+                    217.0,
+                    194.0
+                ],
+                [
+                    218.0,
+                    194.0
+                ],
+                [
+                    218.0,
+                    185.0
+                ],
+                [
+                    217.0,
+                    185.0
+                ],
+                [
+                    217.0,
+                    183.0
+                ],
+                [
+                    211.0,
+                    183.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

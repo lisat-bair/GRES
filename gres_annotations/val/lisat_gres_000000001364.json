@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Locate the large, elongated, rectangular object with windows and wheels, typically colored in bright hues or marked with stripes, in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001364.jpg",
+            "points": [
+                [
+                    119.0,
+                    246.0
+                ],
+                [
+                    119.0,
+                    248.0
+                ],
+                [
+                    118.0,
+                    248.0
+                ],
+                [
+                    118.0,
+                    252.0
+                ],
+                [
+                    119.0,
+                    252.0
+                ],
+                [
+                    119.0,
+                    253.0
+                ],
+                [
+                    120.0,
+                    253.0
+                ],
+                [
+                    120.0,
+                    254.0
+                ],
+                [
+                    126.0,
+                    254.0
+                ],
+                [
+                    126.0,
+                    255.0
+                ],
+                [
+                    138.0,
+                    255.0
+                ],
+                [
+                    138.0,
+                    254.0
+                ],
+                [
+                    139.0,
+                    254.0
+                ],
+                [
+                    139.0,
+                    253.0
+                ],
+                [
+                    140.0,
+                    253.0
+                ],
+                [
+                    140.0,
+                    248.0
+                ],
+                [
+                    139.0,
+                    248.0
+                ],
+                [
+                    139.0,
+                    247.0
+                ],
+                [
+                    129.0,
+                    247.0
+                ],
+                [
+                    129.0,
+                    246.0
+                ],
+                [
+                    119.0,
+                    246.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

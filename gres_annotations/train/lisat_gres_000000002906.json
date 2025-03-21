@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the elongated, metal-clad form with several axles, typical of a truck towing a trailer bed.",
+        "Find the extended, rectangular object with metallic surfaces and numerous axles, which is indicative of a truck coupled with a trailer bed.",
+        "Observe the long, rectangular figure with metal surfaces and many axles, commonly seen in a truck with a trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002906.jpg",
+            "points": [
+                [
+                    89.0,
+                    250.0
+                ],
+                [
+                    89.0,
+                    251.0
+                ],
+                [
+                    88.0,
+                    251.0
+                ],
+                [
+                    88.0,
+                    260.0
+                ],
+                [
+                    87.0,
+                    260.0
+                ],
+                [
+                    87.0,
+                    265.0
+                ],
+                [
+                    88.0,
+                    265.0
+                ],
+                [
+                    88.0,
+                    275.0
+                ],
+                [
+                    89.0,
+                    275.0
+                ],
+                [
+                    89.0,
+                    276.0
+                ],
+                [
+                    90.0,
+                    276.0
+                ],
+                [
+                    90.0,
+                    277.0
+                ],
+                [
+                    94.0,
+                    277.0
+                ],
+                [
+                    94.0,
+                    278.0
+                ],
+                [
+                    99.0,
+                    278.0
+                ],
+                [
+                    99.0,
+                    277.0
+                ],
+                [
+                    101.0,
+                    277.0
+                ],
+                [
+                    101.0,
+                    276.0
+                ],
+                [
+                    102.0,
+                    276.0
+                ],
+                [
+                    102.0,
+                    275.0
+                ],
+                [
+                    103.0,
+                    275.0
+                ],
+                [
+                    103.0,
+                    272.0
+                ],
+                [
+                    104.0,
+                    272.0
+                ],
+                [
+                    104.0,
+                    259.0
+                ],
+                [
+                    103.0,
+                    259.0
+                ],
+                [
+                    103.0,
+                    256.0
+                ],
+                [
+                    102.0,
+                    256.0
+                ],
+                [
+                    102.0,
+                    255.0
+                ],
+                [
+                    101.0,
+                    255.0
+                ],
+                [
+                    101.0,
+                    254.0
+                ],
+                [
+                    100.0,
+                    254.0
+                ],
+                [
+                    100.0,
+                    252.0
+                ],
+                [
+                    99.0,
+                    252.0
+                ],
+                [
+                    99.0,
+                    251.0
+                ],
+                [
+                    98.0,
+                    251.0
+                ],
+                [
+                    98.0,
+                    250.0
+                ],
+                [
+                    89.0,
+                    250.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the car by locating the rectangular shape with defined edges and contrasting color against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020825.jpg",
+            "points": [
+                [
+                    279.0,
+                    57.0
+                ],
+                [
+                    279.0,
+                    58.0
+                ],
+                [
+                    278.0,
+                    58.0
+                ],
+                [
+                    278.0,
+                    60.0
+                ],
+                [
+                    277.0,
+                    60.0
+                ],
+                [
+                    277.0,
+                    70.0
+                ],
+                [
+                    278.0,
+                    70.0
+                ],
+                [
+                    278.0,
+                    71.0
+                ],
+                [
+                    280.0,
+                    71.0
+                ],
+                [
+                    280.0,
+                    72.0
+                ],
+                [
+                    284.0,
+                    72.0
+                ],
+                [
+                    284.0,
+                    71.0
+                ],
+                [
+                    285.0,
+                    71.0
+                ],
+                [
+                    285.0,
+                    62.0
+                ],
+                [
+                    284.0,
+                    62.0
+                ],
+                [
+                    284.0,
+                    58.0
+                ],
+                [
+                    282.0,
+                    58.0
+                ],
+                [
+                    282.0,
+                    57.0
+                ],
+                [
+                    279.0,
+                    57.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

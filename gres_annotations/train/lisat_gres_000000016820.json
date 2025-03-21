@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for the bus featuring big windows and vibrant colors, whether it's on the road or in a parking lot.",
+        "Spot the bus that has large windows and noticeable colors either on the street or in a parking area.",
+        "Find the bus with prominent windows and vivid colors, whether it's driving or parked."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016820.jpg",
+            "points": [
+                [
+                    182.0,
+                    423.0
+                ],
+                [
+                    182.0,
+                    424.0
+                ],
+                [
+                    178.0,
+                    424.0
+                ],
+                [
+                    178.0,
+                    425.0
+                ],
+                [
+                    176.0,
+                    425.0
+                ],
+                [
+                    176.0,
+                    426.0
+                ],
+                [
+                    175.0,
+                    426.0
+                ],
+                [
+                    175.0,
+                    428.0
+                ],
+                [
+                    174.0,
+                    428.0
+                ],
+                [
+                    174.0,
+                    430.0
+                ],
+                [
+                    173.0,
+                    430.0
+                ],
+                [
+                    173.0,
+                    431.0
+                ],
+                [
+                    174.0,
+                    431.0
+                ],
+                [
+                    174.0,
+                    432.0
+                ],
+                [
+                    175.0,
+                    432.0
+                ],
+                [
+                    175.0,
+                    433.0
+                ],
+                [
+                    179.0,
+                    433.0
+                ],
+                [
+                    179.0,
+                    434.0
+                ],
+                [
+                    183.0,
+                    434.0
+                ],
+                [
+                    183.0,
+                    433.0
+                ],
+                [
+                    198.0,
+                    433.0
+                ],
+                [
+                    198.0,
+                    434.0
+                ],
+                [
+                    200.0,
+                    434.0
+                ],
+                [
+                    200.0,
+                    433.0
+                ],
+                [
+                    202.0,
+                    433.0
+                ],
+                [
+                    202.0,
+                    432.0
+                ],
+                [
+                    203.0,
+                    432.0
+                ],
+                [
+                    203.0,
+                    426.0
+                ],
+                [
+                    202.0,
+                    426.0
+                ],
+                [
+                    202.0,
+                    425.0
+                ],
+                [
+                    201.0,
+                    425.0
+                ],
+                [
+                    201.0,
+                    424.0
+                ],
+                [
+                    198.0,
+                    424.0
+                ],
+                [
+                    198.0,
+                    423.0
+                ],
+                [
+                    182.0,
+                    423.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

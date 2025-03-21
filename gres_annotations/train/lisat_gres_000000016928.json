@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the truck by spotting the big, white, rectangular figure set against the dark backdrop in the picture.",
+        "Identify the vehicle by looking for the prominent, white, rectangular form standing out against the dark background in the image.",
+        "Detect the truck by recognizing the substantial, white, rectangular shape contrasting with the dark background in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016928.jpg",
+            "points": [
+                [
+                    376.0,
+                    268.0
+                ],
+                [
+                    376.0,
+                    269.0
+                ],
+                [
+                    375.0,
+                    269.0
+                ],
+                [
+                    375.0,
+                    271.0
+                ],
+                [
+                    374.0,
+                    271.0
+                ],
+                [
+                    374.0,
+                    277.0
+                ],
+                [
+                    375.0,
+                    277.0
+                ],
+                [
+                    375.0,
+                    280.0
+                ],
+                [
+                    376.0,
+                    280.0
+                ],
+                [
+                    376.0,
+                    281.0
+                ],
+                [
+                    378.0,
+                    281.0
+                ],
+                [
+                    378.0,
+                    280.0
+                ],
+                [
+                    379.0,
+                    280.0
+                ],
+                [
+                    379.0,
+                    279.0
+                ],
+                [
+                    380.0,
+                    279.0
+                ],
+                [
+                    380.0,
+                    277.0
+                ],
+                [
+                    381.0,
+                    277.0
+                ],
+                [
+                    381.0,
+                    276.0
+                ],
+                [
+                    382.0,
+                    276.0
+                ],
+                [
+                    382.0,
+                    269.0
+                ],
+                [
+                    381.0,
+                    269.0
+                ],
+                [
+                    381.0,
+                    268.0
+                ],
+                [
+                    376.0,
+                    268.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

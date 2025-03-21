@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the vehicle that features unique shiny metallic surfaces, identifiable wheel designs, and a long body.",
+        "Point out the automobile with notable reflective metallic finishes, distinct wheel configurations, and a stretched form.",
+        "Find the car characterized by its special gleaming metallic exterior, recognizable wheel patterns, and extended frame."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016834.jpg",
+            "points": [
+                [
+                    50.0,
+                    256.0
+                ],
+                [
+                    50.0,
+                    257.0
+                ],
+                [
+                    46.0,
+                    257.0
+                ],
+                [
+                    46.0,
+                    258.0
+                ],
+                [
+                    45.0,
+                    258.0
+                ],
+                [
+                    45.0,
+                    264.0
+                ],
+                [
+                    47.0,
+                    264.0
+                ],
+                [
+                    47.0,
+                    265.0
+                ],
+                [
+                    57.0,
+                    265.0
+                ],
+                [
+                    57.0,
+                    264.0
+                ],
+                [
+                    61.0,
+                    264.0
+                ],
+                [
+                    61.0,
+                    263.0
+                ],
+                [
+                    62.0,
+                    263.0
+                ],
+                [
+                    62.0,
+                    258.0
+                ],
+                [
+                    61.0,
+                    258.0
+                ],
+                [
+                    61.0,
+                    257.0
+                ],
+                [
+                    58.0,
+                    257.0
+                ],
+                [
+                    58.0,
+                    256.0
+                ],
+                [
+                    50.0,
+                    256.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

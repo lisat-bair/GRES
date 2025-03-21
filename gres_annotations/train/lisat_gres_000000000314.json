@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the car that stands out due to its unique features, even though the image is not clear.",
+        "Find the car with unique characteristics, despite the blurry quality of the image.",
+        "Locate the vehicle with prominent features, even though the picture is not very clear."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000314.jpg",
+            "points": [
+                [
+                    176.0,
+                    247.0
+                ],
+                [
+                    176.0,
+                    248.0
+                ],
+                [
+                    175.0,
+                    248.0
+                ],
+                [
+                    175.0,
+                    249.0
+                ],
+                [
+                    174.0,
+                    249.0
+                ],
+                [
+                    174.0,
+                    261.0
+                ],
+                [
+                    175.0,
+                    261.0
+                ],
+                [
+                    175.0,
+                    262.0
+                ],
+                [
+                    176.0,
+                    262.0
+                ],
+                [
+                    176.0,
+                    263.0
+                ],
+                [
+                    182.0,
+                    263.0
+                ],
+                [
+                    182.0,
+                    262.0
+                ],
+                [
+                    183.0,
+                    262.0
+                ],
+                [
+                    183.0,
+                    260.0
+                ],
+                [
+                    184.0,
+                    260.0
+                ],
+                [
+                    184.0,
+                    249.0
+                ],
+                [
+                    183.0,
+                    249.0
+                ],
+                [
+                    183.0,
+                    248.0
+                ],
+                [
+                    181.0,
+                    248.0
+                ],
+                [
+                    181.0,
+                    247.0
+                ],
+                [
+                    176.0,
+                    247.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

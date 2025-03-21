@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Find the compact rectangular-shaped haul truck with visible wheels in the top-left corner of the picture.",
+        "In the image's upper-left section, identify the haul truck characterized by its small rectangular form and noticeable wheels.",
+        "Spot the truck with a compact rectangular build and distinct wheels located at the picture's top-left."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012191.jpg",
+            "points": [
+                [
+                    0.0,
+                    82.0
+                ],
+                [
+                    0.0,
+                    93.0
+                ],
+                [
+                    17.0,
+                    93.0
+                ],
+                [
+                    17.0,
+                    92.0
+                ],
+                [
+                    18.0,
+                    92.0
+                ],
+                [
+                    18.0,
+                    84.0
+                ],
+                [
+                    17.0,
+                    84.0
+                ],
+                [
+                    17.0,
+                    83.0
+                ],
+                [
+                    12.0,
+                    83.0
+                ],
+                [
+                    12.0,
+                    82.0
+                ],
+                [
+                    0.0,
+                    82.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

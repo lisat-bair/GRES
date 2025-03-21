@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Divide the big yellow bus with several windows and wheels as it travels down the road.",
+        "Break down the large, rectangular yellow vehicle featuring many windows and wheels moving along the street.",
+        "Separate the spacious, yellow rectangular vehicle that has numerous windows and wheels from the road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026568.jpg",
+            "points": [
+                [
+                    444.0,
+                    434.0
+                ],
+                [
+                    444.0,
+                    435.0
+                ],
+                [
+                    441.0,
+                    435.0
+                ],
+                [
+                    441.0,
+                    436.0
+                ],
+                [
+                    439.0,
+                    436.0
+                ],
+                [
+                    439.0,
+                    437.0
+                ],
+                [
+                    438.0,
+                    437.0
+                ],
+                [
+                    438.0,
+                    439.0
+                ],
+                [
+                    437.0,
+                    439.0
+                ],
+                [
+                    437.0,
+                    443.0
+                ],
+                [
+                    438.0,
+                    443.0
+                ],
+                [
+                    438.0,
+                    444.0
+                ],
+                [
+                    440.0,
+                    444.0
+                ],
+                [
+                    440.0,
+                    445.0
+                ],
+                [
+                    445.0,
+                    445.0
+                ],
+                [
+                    445.0,
+                    446.0
+                ],
+                [
+                    457.0,
+                    446.0
+                ],
+                [
+                    457.0,
+                    445.0
+                ],
+                [
+                    458.0,
+                    445.0
+                ],
+                [
+                    458.0,
+                    444.0
+                ],
+                [
+                    459.0,
+                    444.0
+                ],
+                [
+                    459.0,
+                    438.0
+                ],
+                [
+                    458.0,
+                    438.0
+                ],
+                [
+                    458.0,
+                    436.0
+                ],
+                [
+                    456.0,
+                    436.0
+                ],
+                [
+                    456.0,
+                    435.0
+                ],
+                [
+                    449.0,
+                    435.0
+                ],
+                [
+                    449.0,
+                    434.0
+                ],
+                [
+                    444.0,
+                    434.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

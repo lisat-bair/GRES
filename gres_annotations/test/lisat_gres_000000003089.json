@@ -1,0 +1,115 @@
+{
+    "text": [
+        "Locate the car with a metallic sheen and distinct rectangular shape with four visible wheels contrasting against the earthy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003089.jpg",
+            "points": [
+                [
+                    453.0,
+                    217.0
+                ],
+                [
+                    453.0,
+                    225.0
+                ],
+                [
+                    454.0,
+                    225.0
+                ],
+                [
+                    454.0,
+                    228.0
+                ],
+                [
+                    455.0,
+                    228.0
+                ],
+                [
+                    455.0,
+                    231.0
+                ],
+                [
+                    456.0,
+                    231.0
+                ],
+                [
+                    456.0,
+                    232.0
+                ],
+                [
+                    457.0,
+                    232.0
+                ],
+                [
+                    457.0,
+                    233.0
+                ],
+                [
+                    458.0,
+                    233.0
+                ],
+                [
+                    458.0,
+                    232.0
+                ],
+                [
+                    462.0,
+                    232.0
+                ],
+                [
+                    462.0,
+                    229.0
+                ],
+                [
+                    463.0,
+                    229.0
+                ],
+                [
+                    463.0,
+                    222.0
+                ],
+                [
+                    462.0,
+                    222.0
+                ],
+                [
+                    462.0,
+                    220.0
+                ],
+                [
+                    461.0,
+                    220.0
+                ],
+                [
+                    461.0,
+                    218.0
+                ],
+                [
+                    460.0,
+                    218.0
+                ],
+                [
+                    460.0,
+                    217.0
+                ],
+                [
+                    453.0,
+                    217.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the vehicle near the lower boundary of the picture, nearly out of sight.",
+        "Identify the automobile positioned close to the bottom margin of the image, almost disappearing from view.",
+        "Spot the car situated at the base of the photo, nearly beyond the frame."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028756.jpg",
+            "points": [
+                [
+                    235.0,
+                    508.0
+                ],
+                [
+                    235.0,
+                    509.0
+                ],
+                [
+                    234.0,
+                    509.0
+                ],
+                [
+                    234.0,
+                    510.0
+                ],
+                [
+                    233.0,
+                    510.0
+                ],
+                [
+                    233.0,
+                    512.0
+                ],
+                [
+                    252.0,
+                    512.0
+                ],
+                [
+                    252.0,
+                    511.0
+                ],
+                [
+                    249.0,
+                    511.0
+                ],
+                [
+                    249.0,
+                    510.0
+                ],
+                [
+                    246.0,
+                    510.0
+                ],
+                [
+                    246.0,
+                    509.0
+                ],
+                [
+                    241.0,
+                    509.0
+                ],
+                [
+                    241.0,
+                    508.0
+                ],
+                [
+                    235.0,
+                    508.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

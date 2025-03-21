@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the vehicle by finding the rectangular form that has a metallic sheen and stands out against the dim backdrop.",
+        "Look for the car by identifying the rectangle with shiny reflections and clear edges against the darker setting.",
+        "Locate the automobile by observing the rectangular shape that reflects light and is distinct against the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001167.jpg",
+            "points": [
+                [
+                    196.0,
+                    263.0
+                ],
+                [
+                    196.0,
+                    264.0
+                ],
+                [
+                    195.0,
+                    264.0
+                ],
+                [
+                    195.0,
+                    268.0
+                ],
+                [
+                    197.0,
+                    268.0
+                ],
+                [
+                    197.0,
+                    269.0
+                ],
+                [
+                    198.0,
+                    269.0
+                ],
+                [
+                    198.0,
+                    270.0
+                ],
+                [
+                    201.0,
+                    270.0
+                ],
+                [
+                    201.0,
+                    271.0
+                ],
+                [
+                    206.0,
+                    271.0
+                ],
+                [
+                    206.0,
+                    270.0
+                ],
+                [
+                    207.0,
+                    270.0
+                ],
+                [
+                    207.0,
+                    265.0
+                ],
+                [
+                    206.0,
+                    265.0
+                ],
+                [
+                    206.0,
+                    264.0
+                ],
+                [
+                    203.0,
+                    264.0
+                ],
+                [
+                    203.0,
+                    263.0
+                ],
+                [
+                    196.0,
+                    263.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

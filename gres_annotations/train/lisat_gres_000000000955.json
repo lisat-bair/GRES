@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the vehicle that has a long flatbed and prominent large wheels on a sandy surface.",
+        "Spot the truck featuring an elongated flatbed with noticeable big wheels on the sandy ground.",
+        "Find the lorry with a stretched flatbed and clearly visible large wheels in the sandy area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000955.jpg",
+            "points": [
+                [
+                    444.0,
+                    118.0
+                ],
+                [
+                    444.0,
+                    119.0
+                ],
+                [
+                    441.0,
+                    119.0
+                ],
+                [
+                    441.0,
+                    120.0
+                ],
+                [
+                    440.0,
+                    120.0
+                ],
+                [
+                    440.0,
+                    124.0
+                ],
+                [
+                    441.0,
+                    124.0
+                ],
+                [
+                    441.0,
+                    125.0
+                ],
+                [
+                    442.0,
+                    125.0
+                ],
+                [
+                    442.0,
+                    126.0
+                ],
+                [
+                    447.0,
+                    126.0
+                ],
+                [
+                    447.0,
+                    127.0
+                ],
+                [
+                    453.0,
+                    127.0
+                ],
+                [
+                    453.0,
+                    128.0
+                ],
+                [
+                    456.0,
+                    128.0
+                ],
+                [
+                    456.0,
+                    129.0
+                ],
+                [
+                    461.0,
+                    129.0
+                ],
+                [
+                    461.0,
+                    130.0
+                ],
+                [
+                    468.0,
+                    130.0
+                ],
+                [
+                    468.0,
+                    128.0
+                ],
+                [
+                    469.0,
+                    128.0
+                ],
+                [
+                    469.0,
+                    122.0
+                ],
+                [
+                    463.0,
+                    122.0
+                ],
+                [
+                    463.0,
+                    121.0
+                ],
+                [
+                    458.0,
+                    121.0
+                ],
+                [
+                    458.0,
+                    120.0
+                ],
+                [
+                    447.0,
+                    120.0
+                ],
+                [
+                    447.0,
+                    119.0
+                ],
+                [
+                    445.0,
+                    119.0
+                ],
+                [
+                    445.0,
+                    118.0
+                ],
+                [
+                    444.0,
+                    118.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

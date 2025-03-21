@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the big yellow vehicle that has many windows and is shaped like a rectangle, typical of a bus.",
+        "Look for the large, rectangular yellow vehicle with numerous windows, commonly recognized as a bus.",
+        "Find the yellow vehicle with a significant rectangular form and several windows, which is a typical feature of a bus."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006075.jpg",
+            "points": [
+                [
+                    211.0,
+                    21.0
+                ],
+                [
+                    211.0,
+                    22.0
+                ],
+                [
+                    208.0,
+                    22.0
+                ],
+                [
+                    208.0,
+                    23.0
+                ],
+                [
+                    205.0,
+                    23.0
+                ],
+                [
+                    205.0,
+                    24.0
+                ],
+                [
+                    204.0,
+                    24.0
+                ],
+                [
+                    204.0,
+                    25.0
+                ],
+                [
+                    203.0,
+                    25.0
+                ],
+                [
+                    203.0,
+                    30.0
+                ],
+                [
+                    204.0,
+                    30.0
+                ],
+                [
+                    204.0,
+                    32.0
+                ],
+                [
+                    205.0,
+                    32.0
+                ],
+                [
+                    205.0,
+                    34.0
+                ],
+                [
+                    206.0,
+                    34.0
+                ],
+                [
+                    206.0,
+                    35.0
+                ],
+                [
+                    207.0,
+                    35.0
+                ],
+                [
+                    207.0,
+                    36.0
+                ],
+                [
+                    209.0,
+                    36.0
+                ],
+                [
+                    209.0,
+                    35.0
+                ],
+                [
+                    213.0,
+                    35.0
+                ],
+                [
+                    213.0,
+                    34.0
+                ],
+                [
+                    218.0,
+                    34.0
+                ],
+                [
+                    218.0,
+                    33.0
+                ],
+                [
+                    220.0,
+                    33.0
+                ],
+                [
+                    220.0,
+                    32.0
+                ],
+                [
+                    221.0,
+                    32.0
+                ],
+                [
+                    221.0,
+                    29.0
+                ],
+                [
+                    220.0,
+                    29.0
+                ],
+                [
+                    220.0,
+                    27.0
+                ],
+                [
+                    219.0,
+                    27.0
+                ],
+                [
+                    219.0,
+                    24.0
+                ],
+                [
+                    218.0,
+                    24.0
+                ],
+                [
+                    218.0,
+                    23.0
+                ],
+                [
+                    217.0,
+                    23.0
+                ],
+                [
+                    217.0,
+                    21.0
+                ],
+                [
+                    211.0,
+                    21.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

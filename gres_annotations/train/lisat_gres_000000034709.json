@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle with a glossy, metal exterior and sharp angular lines, which likely reflects light, standing out against the darker surroundings.",
+        "Spot the automobile that has a sleek, shiny surface and unique angular features, probably catching light, contrasting with the darker backdrop.",
+        "Locate the car characterized by its smooth metallic finish and distinct angular edges, likely reflecting light, set against a darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034709.jpg",
+            "points": [
+                [
+                    2.0,
+                    0.0
+                ],
+                [
+                    2.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    2.0
+                ],
+                [
+                    1.0,
+                    6.0
+                ],
+                [
+                    2.0,
+                    6.0
+                ],
+                [
+                    2.0,
+                    7.0
+                ],
+                [
+                    3.0,
+                    7.0
+                ],
+                [
+                    3.0,
+                    8.0
+                ],
+                [
+                    4.0,
+                    8.0
+                ],
+                [
+                    4.0,
+                    9.0
+                ],
+                [
+                    10.0,
+                    9.0
+                ],
+                [
+                    10.0,
+                    8.0
+                ],
+                [
+                    12.0,
+                    8.0
+                ],
+                [
+                    12.0,
+                    7.0
+                ],
+                [
+                    13.0,
+                    7.0
+                ],
+                [
+                    13.0,
+                    6.0
+                ],
+                [
+                    14.0,
+                    6.0
+                ],
+                [
+                    14.0,
+                    5.0
+                ],
+                [
+                    15.0,
+                    5.0
+                ],
+                [
+                    15.0,
+                    3.0
+                ],
+                [
+                    16.0,
+                    3.0
+                ],
+                [
+                    16.0,
+                    0.0
+                ],
+                [
+                    2.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the truck that is rectangular and has a light gray color contrasting with the darker background.",
+        "Find the truck that has a rectangular design and a light gray shade standing out against the darker surroundings.",
+        "Spot the truck with a rectangular form and a light gray tint that contrasts with the darker area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034807.jpg",
+            "points": [
+                [
+                    473.0,
+                    381.0
+                ],
+                [
+                    473.0,
+                    382.0
+                ],
+                [
+                    472.0,
+                    382.0
+                ],
+                [
+                    472.0,
+                    383.0
+                ],
+                [
+                    471.0,
+                    383.0
+                ],
+                [
+                    471.0,
+                    385.0
+                ],
+                [
+                    470.0,
+                    385.0
+                ],
+                [
+                    470.0,
+                    388.0
+                ],
+                [
+                    469.0,
+                    388.0
+                ],
+                [
+                    469.0,
+                    392.0
+                ],
+                [
+                    468.0,
+                    392.0
+                ],
+                [
+                    468.0,
+                    400.0
+                ],
+                [
+                    470.0,
+                    400.0
+                ],
+                [
+                    470.0,
+                    401.0
+                ],
+                [
+                    475.0,
+                    401.0
+                ],
+                [
+                    475.0,
+                    400.0
+                ],
+                [
+                    477.0,
+                    400.0
+                ],
+                [
+                    477.0,
+                    395.0
+                ],
+                [
+                    478.0,
+                    395.0
+                ],
+                [
+                    478.0,
+                    389.0
+                ],
+                [
+                    479.0,
+                    389.0
+                ],
+                [
+                    479.0,
+                    384.0
+                ],
+                [
+                    478.0,
+                    384.0
+                ],
+                [
+                    478.0,
+                    383.0
+                ],
+                [
+                    477.0,
+                    383.0
+                ],
+                [
+                    477.0,
+                    382.0
+                ],
+                [
+                    476.0,
+                    382.0
+                ],
+                [
+                    476.0,
+                    381.0
+                ],
+                [
+                    473.0,
+                    381.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

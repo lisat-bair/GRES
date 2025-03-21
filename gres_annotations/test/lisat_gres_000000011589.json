@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Identify the car with a glossy, metallic surface and distinct rectangular shapes typically associated with windows and headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011589.jpg",
+            "points": [
+                [
+                    315.0,
+                    0.0
+                ],
+                [
+                    315.0,
+                    1.0
+                ],
+                [
+                    312.0,
+                    1.0
+                ],
+                [
+                    312.0,
+                    2.0
+                ],
+                [
+                    310.0,
+                    2.0
+                ],
+                [
+                    310.0,
+                    4.0
+                ],
+                [
+                    309.0,
+                    4.0
+                ],
+                [
+                    309.0,
+                    8.0
+                ],
+                [
+                    310.0,
+                    8.0
+                ],
+                [
+                    310.0,
+                    9.0
+                ],
+                [
+                    321.0,
+                    9.0
+                ],
+                [
+                    321.0,
+                    8.0
+                ],
+                [
+                    323.0,
+                    8.0
+                ],
+                [
+                    323.0,
+                    7.0
+                ],
+                [
+                    324.0,
+                    7.0
+                ],
+                [
+                    324.0,
+                    4.0
+                ],
+                [
+                    325.0,
+                    4.0
+                ],
+                [
+                    325.0,
+                    3.0
+                ],
+                [
+                    324.0,
+                    3.0
+                ],
+                [
+                    324.0,
+                    0.0
+                ],
+                [
+                    315.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

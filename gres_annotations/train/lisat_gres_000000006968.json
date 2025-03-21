@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Recognize the big yellow device equipped with a broad blade or bucket and robust wheels or tracks, usually employed for shifting soil.",
+        "Spot the substantial yellow apparatus that features a wide blade or bucket along with durable tracks or wheels, commonly used for moving dirt.",
+        "Determine the large yellow equipment with a broad blade or bucket and strong wheels or tracks, typically utilized for earth-moving tasks."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006968.jpg",
+            "points": [
+                [
+                    130.0,
+                    390.0
+                ],
+                [
+                    130.0,
+                    391.0
+                ],
+                [
+                    129.0,
+                    391.0
+                ],
+                [
+                    129.0,
+                    393.0
+                ],
+                [
+                    128.0,
+                    393.0
+                ],
+                [
+                    128.0,
+                    396.0
+                ],
+                [
+                    127.0,
+                    396.0
+                ],
+                [
+                    127.0,
+                    398.0
+                ],
+                [
+                    126.0,
+                    398.0
+                ],
+                [
+                    126.0,
+                    401.0
+                ],
+                [
+                    125.0,
+                    401.0
+                ],
+                [
+                    125.0,
+                    407.0
+                ],
+                [
+                    126.0,
+                    407.0
+                ],
+                [
+                    126.0,
+                    408.0
+                ],
+                [
+                    127.0,
+                    408.0
+                ],
+                [
+                    127.0,
+                    409.0
+                ],
+                [
+                    129.0,
+                    409.0
+                ],
+                [
+                    129.0,
+                    408.0
+                ],
+                [
+                    131.0,
+                    408.0
+                ],
+                [
+                    131.0,
+                    407.0
+                ],
+                [
+                    132.0,
+                    407.0
+                ],
+                [
+                    132.0,
+                    406.0
+                ],
+                [
+                    133.0,
+                    406.0
+                ],
+                [
+                    133.0,
+                    405.0
+                ],
+                [
+                    134.0,
+                    405.0
+                ],
+                [
+                    134.0,
+                    403.0
+                ],
+                [
+                    135.0,
+                    403.0
+                ],
+                [
+                    135.0,
+                    399.0
+                ],
+                [
+                    136.0,
+                    399.0
+                ],
+                [
+                    136.0,
+                    397.0
+                ],
+                [
+                    137.0,
+                    397.0
+                ],
+                [
+                    137.0,
+                    392.0
+                ],
+                [
+                    136.0,
+                    392.0
+                ],
+                [
+                    136.0,
+                    391.0
+                ],
+                [
+                    135.0,
+                    391.0
+                ],
+                [
+                    135.0,
+                    390.0
+                ],
+                [
+                    130.0,
+                    390.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "To find the shed, look for the red, rectangular building with a slanted roof set against the dark backdrop.",
+        "Locate the shed by spotting the red, rectangular structure with an inclined roof against the dark background.",
+        "Find the shed by identifying the red, box-shaped structure with a sloped roof situated against the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036050.jpg",
+            "points": [
+                [
+                    320.0,
+                    316.0
+                ],
+                [
+                    320.0,
+                    317.0
+                ],
+                [
+                    319.0,
+                    317.0
+                ],
+                [
+                    319.0,
+                    326.0
+                ],
+                [
+                    320.0,
+                    326.0
+                ],
+                [
+                    320.0,
+                    327.0
+                ],
+                [
+                    332.0,
+                    327.0
+                ],
+                [
+                    332.0,
+                    326.0
+                ],
+                [
+                    333.0,
+                    326.0
+                ],
+                [
+                    333.0,
+                    318.0
+                ],
+                [
+                    332.0,
+                    318.0
+                ],
+                [
+                    332.0,
+                    317.0
+                ],
+                [
+                    331.0,
+                    317.0
+                ],
+                [
+                    331.0,
+                    316.0
+                ],
+                [
+                    320.0,
+                    316.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

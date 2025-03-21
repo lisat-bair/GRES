@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the vehicle with a dark green exterior and a noticeable white front portion.",
+        "Locate the truck featuring a deep green body and an eye-catching white front.",
+        "Find the truck that has a green body with a striking white front area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007512.jpg",
+            "points": [
+                [
+                    42.0,
+                    361.0
+                ],
+                [
+                    42.0,
+                    362.0
+                ],
+                [
+                    41.0,
+                    362.0
+                ],
+                [
+                    41.0,
+                    364.0
+                ],
+                [
+                    40.0,
+                    364.0
+                ],
+                [
+                    40.0,
+                    373.0
+                ],
+                [
+                    41.0,
+                    373.0
+                ],
+                [
+                    41.0,
+                    374.0
+                ],
+                [
+                    42.0,
+                    374.0
+                ],
+                [
+                    42.0,
+                    375.0
+                ],
+                [
+                    43.0,
+                    375.0
+                ],
+                [
+                    43.0,
+                    376.0
+                ],
+                [
+                    44.0,
+                    376.0
+                ],
+                [
+                    44.0,
+                    377.0
+                ],
+                [
+                    46.0,
+                    377.0
+                ],
+                [
+                    46.0,
+                    376.0
+                ],
+                [
+                    47.0,
+                    376.0
+                ],
+                [
+                    47.0,
+                    374.0
+                ],
+                [
+                    48.0,
+                    374.0
+                ],
+                [
+                    48.0,
+                    362.0
+                ],
+                [
+                    47.0,
+                    362.0
+                ],
+                [
+                    47.0,
+                    361.0
+                ],
+                [
+                    42.0,
+                    361.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

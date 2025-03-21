@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the shed that features a sizeable rectangular shape and a light-colored outside, standing out against its darker environment.",
+        "Find the shed with a big rectangular design and a pale exterior, which contrasts with the darker area around it.",
+        "Spot the shed that has a large rectangular form with a light exterior, distinguishing itself from the darker backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008373.jpg",
+            "points": [
+                [
+                    386.0,
+                    173.0
+                ],
+                [
+                    386.0,
+                    174.0
+                ],
+                [
+                    385.0,
+                    174.0
+                ],
+                [
+                    385.0,
+                    175.0
+                ],
+                [
+                    384.0,
+                    175.0
+                ],
+                [
+                    384.0,
+                    188.0
+                ],
+                [
+                    385.0,
+                    188.0
+                ],
+                [
+                    385.0,
+                    189.0
+                ],
+                [
+                    395.0,
+                    189.0
+                ],
+                [
+                    395.0,
+                    188.0
+                ],
+                [
+                    396.0,
+                    188.0
+                ],
+                [
+                    396.0,
+                    187.0
+                ],
+                [
+                    397.0,
+                    187.0
+                ],
+                [
+                    397.0,
+                    182.0
+                ],
+                [
+                    398.0,
+                    182.0
+                ],
+                [
+                    398.0,
+                    177.0
+                ],
+                [
+                    397.0,
+                    177.0
+                ],
+                [
+                    397.0,
+                    175.0
+                ],
+                [
+                    396.0,
+                    175.0
+                ],
+                [
+                    396.0,
+                    174.0
+                ],
+                [
+                    394.0,
+                    174.0
+                ],
+                [
+                    394.0,
+                    173.0
+                ],
+                [
+                    386.0,
+                    173.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

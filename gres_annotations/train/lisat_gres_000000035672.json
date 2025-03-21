@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the big boxy form with windows and wheels, usually in vivid hues, that is distinct from its environment.",
+        "Locate the sizable rectangular object with wheels and windows, often in bright shades, that contrasts with its setting.",
+        "Find the large rectangular structure with wheels and windows, typically in striking colors, that stands apart from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035672.jpg",
+            "points": [
+                [
+                    15.0,
+                    0.0
+                ],
+                [
+                    15.0,
+                    2.0
+                ],
+                [
+                    16.0,
+                    2.0
+                ],
+                [
+                    16.0,
+                    3.0
+                ],
+                [
+                    18.0,
+                    3.0
+                ],
+                [
+                    18.0,
+                    4.0
+                ],
+                [
+                    21.0,
+                    4.0
+                ],
+                [
+                    21.0,
+                    5.0
+                ],
+                [
+                    23.0,
+                    5.0
+                ],
+                [
+                    23.0,
+                    6.0
+                ],
+                [
+                    28.0,
+                    6.0
+                ],
+                [
+                    28.0,
+                    5.0
+                ],
+                [
+                    29.0,
+                    5.0
+                ],
+                [
+                    29.0,
+                    4.0
+                ],
+                [
+                    30.0,
+                    4.0
+                ],
+                [
+                    30.0,
+                    3.0
+                ],
+                [
+                    31.0,
+                    3.0
+                ],
+                [
+                    31.0,
+                    2.0
+                ],
+                [
+                    30.0,
+                    2.0
+                ],
+                [
+                    30.0,
+                    0.0
+                ],
+                [
+                    15.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

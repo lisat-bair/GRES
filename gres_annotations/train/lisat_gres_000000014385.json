@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Identify the aircraft in the picture featuring a sizable, metallic fuselage, a cylindrical form, horizontal wings, and a tail fin at the back.",
+        "Find the airplane in the photo that possesses a large, metallic body, a cylindrical shape, horizontal wings, and a rear tail fin.",
+        "Spot the plane in the image which has a big, metallic structure, a cylindrical shape, horizontal wings, and a tail fin located at the rear."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014385.jpg",
+            "points": [
+                [
+                    0.0,
+                    464.0
+                ],
+                [
+                    0.0,
+                    485.0
+                ],
+                [
+                    3.0,
+                    485.0
+                ],
+                [
+                    3.0,
+                    484.0
+                ],
+                [
+                    9.0,
+                    484.0
+                ],
+                [
+                    9.0,
+                    483.0
+                ],
+                [
+                    10.0,
+                    483.0
+                ],
+                [
+                    10.0,
+                    476.0
+                ],
+                [
+                    9.0,
+                    476.0
+                ],
+                [
+                    9.0,
+                    475.0
+                ],
+                [
+                    8.0,
+                    475.0
+                ],
+                [
+                    8.0,
+                    473.0
+                ],
+                [
+                    7.0,
+                    473.0
+                ],
+                [
+                    7.0,
+                    471.0
+                ],
+                [
+                    6.0,
+                    471.0
+                ],
+                [
+                    6.0,
+                    469.0
+                ],
+                [
+                    5.0,
+                    469.0
+                ],
+                [
+                    5.0,
+                    468.0
+                ],
+                [
+                    4.0,
+                    468.0
+                ],
+                [
+                    4.0,
+                    467.0
+                ],
+                [
+                    3.0,
+                    467.0
+                ],
+                [
+                    3.0,
+                    466.0
+                ],
+                [
+                    2.0,
+                    466.0
+                ],
+                [
+                    2.0,
+                    465.0
+                ],
+                [
+                    1.0,
+                    465.0
+                ],
+                [
+                    1.0,
+                    464.0
+                ],
+                [
+                    0.0,
+                    464.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

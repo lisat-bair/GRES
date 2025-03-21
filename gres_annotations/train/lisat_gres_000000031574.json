@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the big, yellow bus with many windows and wheels on the street.",
+        "Locate the large yellow vehicle with several windows and wheels moving along the road.",
+        "Find the extensive rectangular yellow automobile with numerous windows and wheels on the road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031574.jpg",
+            "points": [
+                [
+                    235.0,
+                    457.0
+                ],
+                [
+                    235.0,
+                    458.0
+                ],
+                [
+                    234.0,
+                    458.0
+                ],
+                [
+                    234.0,
+                    463.0
+                ],
+                [
+                    233.0,
+                    463.0
+                ],
+                [
+                    233.0,
+                    469.0
+                ],
+                [
+                    232.0,
+                    469.0
+                ],
+                [
+                    232.0,
+                    474.0
+                ],
+                [
+                    231.0,
+                    474.0
+                ],
+                [
+                    231.0,
+                    480.0
+                ],
+                [
+                    230.0,
+                    480.0
+                ],
+                [
+                    230.0,
+                    485.0
+                ],
+                [
+                    229.0,
+                    485.0
+                ],
+                [
+                    229.0,
+                    493.0
+                ],
+                [
+                    230.0,
+                    493.0
+                ],
+                [
+                    230.0,
+                    494.0
+                ],
+                [
+                    238.0,
+                    494.0
+                ],
+                [
+                    238.0,
+                    489.0
+                ],
+                [
+                    239.0,
+                    489.0
+                ],
+                [
+                    239.0,
+                    482.0
+                ],
+                [
+                    240.0,
+                    482.0
+                ],
+                [
+                    240.0,
+                    476.0
+                ],
+                [
+                    241.0,
+                    476.0
+                ],
+                [
+                    241.0,
+                    471.0
+                ],
+                [
+                    242.0,
+                    471.0
+                ],
+                [
+                    242.0,
+                    465.0
+                ],
+                [
+                    243.0,
+                    465.0
+                ],
+                [
+                    243.0,
+                    458.0
+                ],
+                [
+                    241.0,
+                    458.0
+                ],
+                [
+                    241.0,
+                    457.0
+                ],
+                [
+                    235.0,
+                    457.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

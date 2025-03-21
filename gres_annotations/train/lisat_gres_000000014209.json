@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the big, boxy vehicle in the picture that features several windows and vibrant colors such as yellow or red.",
+        "Find the large, rectangular transport with numerous windows and vivid hues like yellow or red in the photo.",
+        "Locate the sizable, rectangular vehicle adorned with multiple windows and striking colors such as yellow or red in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014209.jpg",
+            "points": [
+                [
+                    0.0,
+                    70.0
+                ],
+                [
+                    0.0,
+                    93.0
+                ],
+                [
+                    4.0,
+                    93.0
+                ],
+                [
+                    4.0,
+                    92.0
+                ],
+                [
+                    6.0,
+                    92.0
+                ],
+                [
+                    6.0,
+                    91.0
+                ],
+                [
+                    7.0,
+                    91.0
+                ],
+                [
+                    7.0,
+                    90.0
+                ],
+                [
+                    8.0,
+                    90.0
+                ],
+                [
+                    8.0,
+                    88.0
+                ],
+                [
+                    7.0,
+                    88.0
+                ],
+                [
+                    7.0,
+                    86.0
+                ],
+                [
+                    6.0,
+                    86.0
+                ],
+                [
+                    6.0,
+                    80.0
+                ],
+                [
+                    7.0,
+                    80.0
+                ],
+                [
+                    7.0,
+                    79.0
+                ],
+                [
+                    6.0,
+                    79.0
+                ],
+                [
+                    6.0,
+                    78.0
+                ],
+                [
+                    5.0,
+                    78.0
+                ],
+                [
+                    5.0,
+                    74.0
+                ],
+                [
+                    4.0,
+                    74.0
+                ],
+                [
+                    4.0,
+                    71.0
+                ],
+                [
+                    3.0,
+                    71.0
+                ],
+                [
+                    3.0,
+                    70.0
+                ],
+                [
+                    0.0,
+                    70.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

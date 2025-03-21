@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the barge as the elongated, slender, and flat-bottomed vessel with a dark hue, drifting on the water, standing out against the blue surface.",
+        "Notice the barge as the lengthy, narrow, flat-bottomed structure with a dark shade, floating on the water, contrasting with the blue water surface.",
+        "Observe the barge as the long, slim, flat-bottomed object with a dark color, resting on the water, distinct from the blue water surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016748.jpg",
+            "points": [
+                [
+                    11.0,
+                    242.0
+                ],
+                [
+                    11.0,
+                    243.0
+                ],
+                [
+                    0.0,
+                    243.0
+                ],
+                [
+                    0.0,
+                    274.0
+                ],
+                [
+                    70.0,
+                    274.0
+                ],
+                [
+                    70.0,
+                    273.0
+                ],
+                [
+                    76.0,
+                    273.0
+                ],
+                [
+                    76.0,
+                    272.0
+                ],
+                [
+                    80.0,
+                    272.0
+                ],
+                [
+                    80.0,
+                    271.0
+                ],
+                [
+                    81.0,
+                    271.0
+                ],
+                [
+                    81.0,
+                    244.0
+                ],
+                [
+                    80.0,
+                    244.0
+                ],
+                [
+                    80.0,
+                    243.0
+                ],
+                [
+                    12.0,
+                    243.0
+                ],
+                [
+                    12.0,
+                    242.0
+                ],
+                [
+                    11.0,
+                    242.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the compact car with unique wheels in the upper-left section of the image, close to the center.",
+        "Search for the vehicle with distinct wheels and small size positioned in the top-left corner near the middle of the picture.",
+        "Identify the small-sized car with noticeable wheels located towards the center in the upper-left part of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000610.jpg",
+            "points": [
+                [
+                    169.0,
+                    35.0
+                ],
+                [
+                    169.0,
+                    36.0
+                ],
+                [
+                    168.0,
+                    36.0
+                ],
+                [
+                    168.0,
+                    37.0
+                ],
+                [
+                    166.0,
+                    37.0
+                ],
+                [
+                    166.0,
+                    38.0
+                ],
+                [
+                    165.0,
+                    38.0
+                ],
+                [
+                    165.0,
+                    39.0
+                ],
+                [
+                    163.0,
+                    39.0
+                ],
+                [
+                    163.0,
+                    40.0
+                ],
+                [
+                    162.0,
+                    40.0
+                ],
+                [
+                    162.0,
+                    41.0
+                ],
+                [
+                    160.0,
+                    41.0
+                ],
+                [
+                    160.0,
+                    44.0
+                ],
+                [
+                    161.0,
+                    44.0
+                ],
+                [
+                    161.0,
+                    45.0
+                ],
+                [
+                    162.0,
+                    45.0
+                ],
+                [
+                    162.0,
+                    46.0
+                ],
+                [
+                    166.0,
+                    46.0
+                ],
+                [
+                    166.0,
+                    45.0
+                ],
+                [
+                    167.0,
+                    45.0
+                ],
+                [
+                    167.0,
+                    44.0
+                ],
+                [
+                    169.0,
+                    44.0
+                ],
+                [
+                    169.0,
+                    43.0
+                ],
+                [
+                    170.0,
+                    43.0
+                ],
+                [
+                    170.0,
+                    42.0
+                ],
+                [
+                    171.0,
+                    42.0
+                ],
+                [
+                    171.0,
+                    41.0
+                ],
+                [
+                    172.0,
+                    41.0
+                ],
+                [
+                    172.0,
+                    40.0
+                ],
+                [
+                    174.0,
+                    40.0
+                ],
+                [
+                    174.0,
+                    39.0
+                ],
+                [
+                    175.0,
+                    39.0
+                ],
+                [
+                    175.0,
+                    36.0
+                ],
+                [
+                    173.0,
+                    36.0
+                ],
+                [
+                    173.0,
+                    35.0
+                ],
+                [
+                    169.0,
+                    35.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

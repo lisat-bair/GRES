@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the big, dark-hued cylindrical train engine with a horizontal trail of smoke in the picture.",
+        "Find the substantial, dark-shaded cylindrical locomotive emitting a smoke plume across the image horizontally.",
+        "Spot the large, dark-colored train engine in the image, with a smoke trail stretching horizontally."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000453.jpg",
+            "points": [
+                [
+                    396.0,
+                    234.0
+                ],
+                [
+                    396.0,
+                    235.0
+                ],
+                [
+                    394.0,
+                    235.0
+                ],
+                [
+                    394.0,
+                    237.0
+                ],
+                [
+                    393.0,
+                    237.0
+                ],
+                [
+                    393.0,
+                    244.0
+                ],
+                [
+                    394.0,
+                    244.0
+                ],
+                [
+                    394.0,
+                    245.0
+                ],
+                [
+                    395.0,
+                    245.0
+                ],
+                [
+                    395.0,
+                    246.0
+                ],
+                [
+                    400.0,
+                    246.0
+                ],
+                [
+                    400.0,
+                    247.0
+                ],
+                [
+                    416.0,
+                    247.0
+                ],
+                [
+                    416.0,
+                    248.0
+                ],
+                [
+                    444.0,
+                    248.0
+                ],
+                [
+                    444.0,
+                    249.0
+                ],
+                [
+                    461.0,
+                    249.0
+                ],
+                [
+                    461.0,
+                    248.0
+                ],
+                [
+                    462.0,
+                    248.0
+                ],
+                [
+                    462.0,
+                    238.0
+                ],
+                [
+                    456.0,
+                    238.0
+                ],
+                [
+                    456.0,
+                    237.0
+                ],
+                [
+                    438.0,
+                    237.0
+                ],
+                [
+                    438.0,
+                    236.0
+                ],
+                [
+                    426.0,
+                    236.0
+                ],
+                [
+                    426.0,
+                    235.0
+                ],
+                [
+                    406.0,
+                    235.0
+                ],
+                [
+                    406.0,
+                    234.0
+                ],
+                [
+                    396.0,
+                    234.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the shed that is positioned close to the middle of the picture.",
+        "Find the shed situated near the central part of the image.",
+        "Spot the shed that is placed near the center of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020668.jpg",
+            "points": [
+                [
+                    176.0,
+                    240.0
+                ],
+                [
+                    176.0,
+                    249.0
+                ],
+                [
+                    175.0,
+                    249.0
+                ],
+                [
+                    175.0,
+                    256.0
+                ],
+                [
+                    176.0,
+                    256.0
+                ],
+                [
+                    176.0,
+                    258.0
+                ],
+                [
+                    187.0,
+                    258.0
+                ],
+                [
+                    187.0,
+                    257.0
+                ],
+                [
+                    194.0,
+                    257.0
+                ],
+                [
+                    194.0,
+                    254.0
+                ],
+                [
+                    195.0,
+                    254.0
+                ],
+                [
+                    195.0,
+                    252.0
+                ],
+                [
+                    194.0,
+                    252.0
+                ],
+                [
+                    194.0,
+                    247.0
+                ],
+                [
+                    193.0,
+                    247.0
+                ],
+                [
+                    193.0,
+                    242.0
+                ],
+                [
+                    192.0,
+                    242.0
+                ],
+                [
+                    192.0,
+                    240.0
+                ],
+                [
+                    176.0,
+                    240.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the passenger vehicle in the picture, even though the view is unclear and the details are indistinct.",
+        "Find the passenger car in the photo, despite the poor visibility and absence of recognizable characteristics.",
+        "Spot the passenger automobile in the image, despite the limited visibility and lack of clear features."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028274.jpg",
+            "points": [
+                [
+                    188.0,
+                    0.0
+                ],
+                [
+                    188.0,
+                    2.0
+                ],
+                [
+                    189.0,
+                    2.0
+                ],
+                [
+                    189.0,
+                    3.0
+                ],
+                [
+                    190.0,
+                    3.0
+                ],
+                [
+                    190.0,
+                    4.0
+                ],
+                [
+                    191.0,
+                    4.0
+                ],
+                [
+                    191.0,
+                    5.0
+                ],
+                [
+                    196.0,
+                    5.0
+                ],
+                [
+                    196.0,
+                    4.0
+                ],
+                [
+                    217.0,
+                    4.0
+                ],
+                [
+                    217.0,
+                    3.0
+                ],
+                [
+                    220.0,
+                    3.0
+                ],
+                [
+                    220.0,
+                    2.0
+                ],
+                [
+                    223.0,
+                    2.0
+                ],
+                [
+                    223.0,
+                    1.0
+                ],
+                [
+                    224.0,
+                    1.0
+                ],
+                [
+                    224.0,
+                    0.0
+                ],
+                [
+                    188.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

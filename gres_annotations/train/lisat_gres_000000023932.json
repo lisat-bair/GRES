@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the vehicle with a unique cabin connected to an elongated flatbed, characterized by several wheels and a boxy form.",
+        "Locate the truck that has a special cabin linked to a lengthy flatbed, comprising numerous wheels and a rectangular design.",
+        "Find the truck with an unusual cabin attached to a long flatbed, marked by many wheels and a rectangular outline."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023932.jpg",
+            "points": [
+                [
+                    511.0,
+                    56.0
+                ],
+                [
+                    511.0,
+                    60.0
+                ],
+                [
+                    510.0,
+                    60.0
+                ],
+                [
+                    510.0,
+                    62.0
+                ],
+                [
+                    509.0,
+                    62.0
+                ],
+                [
+                    509.0,
+                    68.0
+                ],
+                [
+                    508.0,
+                    68.0
+                ],
+                [
+                    508.0,
+                    76.0
+                ],
+                [
+                    509.0,
+                    76.0
+                ],
+                [
+                    509.0,
+                    80.0
+                ],
+                [
+                    510.0,
+                    80.0
+                ],
+                [
+                    510.0,
+                    81.0
+                ],
+                [
+                    512.0,
+                    81.0
+                ],
+                [
+                    512.0,
+                    56.0
+                ],
+                [
+                    511.0,
+                    56.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

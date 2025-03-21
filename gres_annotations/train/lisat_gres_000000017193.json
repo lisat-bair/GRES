@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the vessel located at the upper-right corner of the picture, notable for its small and compact form.",
+        "Locate the boat in the upper right area of the image, distinguished by its compact and small shape.",
+        "Find the small, compact-shaped boat positioned towards the top right of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017193.jpg",
+            "points": [
+                [
+                    368.0,
+                    195.0
+                ],
+                [
+                    368.0,
+                    196.0
+                ],
+                [
+                    363.0,
+                    196.0
+                ],
+                [
+                    363.0,
+                    197.0
+                ],
+                [
+                    362.0,
+                    197.0
+                ],
+                [
+                    362.0,
+                    198.0
+                ],
+                [
+                    361.0,
+                    198.0
+                ],
+                [
+                    361.0,
+                    203.0
+                ],
+                [
+                    362.0,
+                    203.0
+                ],
+                [
+                    362.0,
+                    204.0
+                ],
+                [
+                    364.0,
+                    204.0
+                ],
+                [
+                    364.0,
+                    205.0
+                ],
+                [
+                    372.0,
+                    205.0
+                ],
+                [
+                    372.0,
+                    204.0
+                ],
+                [
+                    375.0,
+                    204.0
+                ],
+                [
+                    375.0,
+                    203.0
+                ],
+                [
+                    376.0,
+                    203.0
+                ],
+                [
+                    376.0,
+                    202.0
+                ],
+                [
+                    377.0,
+                    202.0
+                ],
+                [
+                    377.0,
+                    197.0
+                ],
+                [
+                    376.0,
+                    197.0
+                ],
+                [
+                    376.0,
+                    196.0
+                ],
+                [
+                    374.0,
+                    196.0
+                ],
+                [
+                    374.0,
+                    195.0
+                ],
+                [
+                    368.0,
+                    195.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

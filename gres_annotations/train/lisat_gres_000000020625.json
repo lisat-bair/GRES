@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the little red rectangle that stands out from the darker background.",
+        "Locate the small, red-tinted rectangular shape that contrasts with the darker surroundings.",
+        "Find the tiny rectangular structure with a reddish color, differentiating it from the darker elements around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020625.jpg",
+            "points": [
+                [
+                    85.0,
+                    76.0
+                ],
+                [
+                    85.0,
+                    77.0
+                ],
+                [
+                    83.0,
+                    77.0
+                ],
+                [
+                    83.0,
+                    78.0
+                ],
+                [
+                    82.0,
+                    78.0
+                ],
+                [
+                    82.0,
+                    84.0
+                ],
+                [
+                    83.0,
+                    84.0
+                ],
+                [
+                    83.0,
+                    91.0
+                ],
+                [
+                    84.0,
+                    91.0
+                ],
+                [
+                    84.0,
+                    93.0
+                ],
+                [
+                    85.0,
+                    93.0
+                ],
+                [
+                    85.0,
+                    94.0
+                ],
+                [
+                    95.0,
+                    94.0
+                ],
+                [
+                    95.0,
+                    93.0
+                ],
+                [
+                    97.0,
+                    93.0
+                ],
+                [
+                    97.0,
+                    92.0
+                ],
+                [
+                    99.0,
+                    92.0
+                ],
+                [
+                    99.0,
+                    90.0
+                ],
+                [
+                    100.0,
+                    90.0
+                ],
+                [
+                    100.0,
+                    83.0
+                ],
+                [
+                    99.0,
+                    83.0
+                ],
+                [
+                    99.0,
+                    79.0
+                ],
+                [
+                    98.0,
+                    79.0
+                ],
+                [
+                    98.0,
+                    77.0
+                ],
+                [
+                    96.0,
+                    77.0
+                ],
+                [
+                    96.0,
+                    78.0
+                ],
+                [
+                    94.0,
+                    78.0
+                ],
+                [
+                    94.0,
+                    77.0
+                ],
+                [
+                    88.0,
+                    77.0
+                ],
+                [
+                    88.0,
+                    76.0
+                ],
+                [
+                    85.0,
+                    76.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

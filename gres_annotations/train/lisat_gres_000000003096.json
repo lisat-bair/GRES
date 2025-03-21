@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the vehicle that has shiny surfaces and sharp outlines, located in the center against a different-colored background.",
+        "Spot the automobile featuring glossy exteriors and clear borders, placed centrally against a contrasting backdrop.",
+        "Locate the car characterized by its reflective finish and defined edges, sitting in the middle against an opposing background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003096.jpg",
+            "points": [
+                [
+                    19.0,
+                    335.0
+                ],
+                [
+                    19.0,
+                    336.0
+                ],
+                [
+                    17.0,
+                    336.0
+                ],
+                [
+                    17.0,
+                    339.0
+                ],
+                [
+                    16.0,
+                    339.0
+                ],
+                [
+                    16.0,
+                    345.0
+                ],
+                [
+                    15.0,
+                    345.0
+                ],
+                [
+                    15.0,
+                    348.0
+                ],
+                [
+                    16.0,
+                    348.0
+                ],
+                [
+                    16.0,
+                    350.0
+                ],
+                [
+                    17.0,
+                    350.0
+                ],
+                [
+                    17.0,
+                    351.0
+                ],
+                [
+                    18.0,
+                    351.0
+                ],
+                [
+                    18.0,
+                    352.0
+                ],
+                [
+                    19.0,
+                    352.0
+                ],
+                [
+                    19.0,
+                    353.0
+                ],
+                [
+                    22.0,
+                    353.0
+                ],
+                [
+                    22.0,
+                    352.0
+                ],
+                [
+                    24.0,
+                    352.0
+                ],
+                [
+                    24.0,
+                    350.0
+                ],
+                [
+                    25.0,
+                    350.0
+                ],
+                [
+                    25.0,
+                    349.0
+                ],
+                [
+                    26.0,
+                    349.0
+                ],
+                [
+                    26.0,
+                    348.0
+                ],
+                [
+                    27.0,
+                    348.0
+                ],
+                [
+                    27.0,
+                    342.0
+                ],
+                [
+                    28.0,
+                    342.0
+                ],
+                [
+                    28.0,
+                    339.0
+                ],
+                [
+                    27.0,
+                    339.0
+                ],
+                [
+                    27.0,
+                    338.0
+                ],
+                [
+                    26.0,
+                    338.0
+                ],
+                [
+                    26.0,
+                    337.0
+                ],
+                [
+                    25.0,
+                    337.0
+                ],
+                [
+                    25.0,
+                    336.0
+                ],
+                [
+                    23.0,
+                    336.0
+                ],
+                [
+                    23.0,
+                    335.0
+                ],
+                [
+                    19.0,
+                    335.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

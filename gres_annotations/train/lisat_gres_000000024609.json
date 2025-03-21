@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the slender, white form set against a darker backdrop, suggesting it's a small boat.",
+        "Notice the elongated and streamlined white shape contrasting with the darker background, indicative of a small vessel.",
+        "Observe the narrow white figure against the darker scenery, hinting at the presence of a small boat."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024609.jpg",
+            "points": [
+                [
+                    480.0,
+                    313.0
+                ],
+                [
+                    480.0,
+                    314.0
+                ],
+                [
+                    479.0,
+                    314.0
+                ],
+                [
+                    479.0,
+                    315.0
+                ],
+                [
+                    478.0,
+                    315.0
+                ],
+                [
+                    478.0,
+                    320.0
+                ],
+                [
+                    479.0,
+                    320.0
+                ],
+                [
+                    479.0,
+                    323.0
+                ],
+                [
+                    480.0,
+                    323.0
+                ],
+                [
+                    480.0,
+                    326.0
+                ],
+                [
+                    481.0,
+                    326.0
+                ],
+                [
+                    481.0,
+                    327.0
+                ],
+                [
+                    482.0,
+                    327.0
+                ],
+                [
+                    482.0,
+                    328.0
+                ],
+                [
+                    493.0,
+                    328.0
+                ],
+                [
+                    493.0,
+                    327.0
+                ],
+                [
+                    494.0,
+                    327.0
+                ],
+                [
+                    494.0,
+                    326.0
+                ],
+                [
+                    495.0,
+                    326.0
+                ],
+                [
+                    495.0,
+                    324.0
+                ],
+                [
+                    496.0,
+                    324.0
+                ],
+                [
+                    496.0,
+                    321.0
+                ],
+                [
+                    495.0,
+                    321.0
+                ],
+                [
+                    495.0,
+                    319.0
+                ],
+                [
+                    494.0,
+                    319.0
+                ],
+                [
+                    494.0,
+                    318.0
+                ],
+                [
+                    493.0,
+                    318.0
+                ],
+                [
+                    493.0,
+                    317.0
+                ],
+                [
+                    492.0,
+                    317.0
+                ],
+                [
+                    492.0,
+                    316.0
+                ],
+                [
+                    491.0,
+                    316.0
+                ],
+                [
+                    491.0,
+                    315.0
+                ],
+                [
+                    490.0,
+                    315.0
+                ],
+                [
+                    490.0,
+                    314.0
+                ],
+                [
+                    488.0,
+                    314.0
+                ],
+                [
+                    488.0,
+                    313.0
+                ],
+                [
+                    480.0,
+                    313.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

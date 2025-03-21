@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the truck that contrasts with the dimmer background in the picture.",
+        "Identify the truck that is noticeable against the shadowy environment in the photo.",
+        "Spot the truck that is distinct compared to the darker setting in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010971.jpg",
+            "points": [
+                [
+                    374.0,
+                    401.0
+                ],
+                [
+                    374.0,
+                    402.0
+                ],
+                [
+                    372.0,
+                    402.0
+                ],
+                [
+                    372.0,
+                    403.0
+                ],
+                [
+                    371.0,
+                    403.0
+                ],
+                [
+                    371.0,
+                    408.0
+                ],
+                [
+                    372.0,
+                    408.0
+                ],
+                [
+                    372.0,
+                    409.0
+                ],
+                [
+                    373.0,
+                    409.0
+                ],
+                [
+                    373.0,
+                    410.0
+                ],
+                [
+                    376.0,
+                    410.0
+                ],
+                [
+                    376.0,
+                    411.0
+                ],
+                [
+                    378.0,
+                    411.0
+                ],
+                [
+                    378.0,
+                    410.0
+                ],
+                [
+                    387.0,
+                    410.0
+                ],
+                [
+                    387.0,
+                    409.0
+                ],
+                [
+                    389.0,
+                    409.0
+                ],
+                [
+                    389.0,
+                    407.0
+                ],
+                [
+                    390.0,
+                    407.0
+                ],
+                [
+                    390.0,
+                    405.0
+                ],
+                [
+                    389.0,
+                    405.0
+                ],
+                [
+                    389.0,
+                    402.0
+                ],
+                [
+                    388.0,
+                    402.0
+                ],
+                [
+                    388.0,
+                    401.0
+                ],
+                [
+                    374.0,
+                    401.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

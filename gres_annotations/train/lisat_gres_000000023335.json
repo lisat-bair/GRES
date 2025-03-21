@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Identify the trailer in the picture, which is usually a long rectangle with noticeable wheels at both the front and rear, often larger and lying horizontally.",
+        "Spot the trailer in the photograph, distinguished by its extended rectangular form featuring prominent wheels on both ends, generally bigger and set horizontally.",
+        "Find the trailer in the image, marked by its stretched rectangular outline with visible wheels at the front and back, typically larger and horizontally aligned."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023335.jpg",
+            "points": [
+                [
+                    511.0,
+                    328.0
+                ],
+                [
+                    511.0,
+                    330.0
+                ],
+                [
+                    510.0,
+                    330.0
+                ],
+                [
+                    510.0,
+                    336.0
+                ],
+                [
+                    509.0,
+                    336.0
+                ],
+                [
+                    509.0,
+                    337.0
+                ],
+                [
+                    508.0,
+                    337.0
+                ],
+                [
+                    508.0,
+                    339.0
+                ],
+                [
+                    507.0,
+                    339.0
+                ],
+                [
+                    507.0,
+                    341.0
+                ],
+                [
+                    506.0,
+                    341.0
+                ],
+                [
+                    506.0,
+                    348.0
+                ],
+                [
+                    505.0,
+                    348.0
+                ],
+                [
+                    505.0,
+                    353.0
+                ],
+                [
+                    508.0,
+                    353.0
+                ],
+                [
+                    508.0,
+                    352.0
+                ],
+                [
+                    512.0,
+                    352.0
+                ],
+                [
+                    512.0,
+                    328.0
+                ],
+                [
+                    511.0,
+                    328.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

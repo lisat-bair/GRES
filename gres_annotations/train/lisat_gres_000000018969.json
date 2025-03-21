@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the car by finding the rectangular form with shiny surfaces usually seen in headlights and a noticeable color difference from its surroundings.",
+        "Recognize the vehicle by looking for the rectangle with reflective areas common in headlights and a clear color contrast with the background.",
+        "Locate the automobile by identifying the rectangular shape with reflective parts often present in headlights and a notable color distinction from the backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018969.jpg",
+            "points": [
+                [
+                    452.0,
+                    197.0
+                ],
+                [
+                    452.0,
+                    198.0
+                ],
+                [
+                    450.0,
+                    198.0
+                ],
+                [
+                    450.0,
+                    199.0
+                ],
+                [
+                    449.0,
+                    199.0
+                ],
+                [
+                    449.0,
+                    200.0
+                ],
+                [
+                    448.0,
+                    200.0
+                ],
+                [
+                    448.0,
+                    207.0
+                ],
+                [
+                    452.0,
+                    207.0
+                ],
+                [
+                    452.0,
+                    208.0
+                ],
+                [
+                    455.0,
+                    208.0
+                ],
+                [
+                    455.0,
+                    207.0
+                ],
+                [
+                    461.0,
+                    207.0
+                ],
+                [
+                    461.0,
+                    206.0
+                ],
+                [
+                    463.0,
+                    206.0
+                ],
+                [
+                    463.0,
+                    198.0
+                ],
+                [
+                    462.0,
+                    198.0
+                ],
+                [
+                    462.0,
+                    197.0
+                ],
+                [
+                    452.0,
+                    197.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

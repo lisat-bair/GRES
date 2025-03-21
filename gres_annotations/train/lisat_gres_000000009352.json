@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Identify the vehicle that stands out due to its unique design and wheels, typically seen in shiny or metallic hues, set against the surroundings.",
+        "Find the automobile characterized by its unusual form and tires, commonly appearing in glossy or metallic shades, contrasting with its environment.",
+        "Spot the car that is noticeable for its distinct shape and wheels, often displayed in metallic or glossy finishes, standing out from the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009352.jpg",
+            "points": [
+                [
+                    214.0,
+                    259.0
+                ],
+                [
+                    214.0,
+                    260.0
+                ],
+                [
+                    213.0,
+                    260.0
+                ],
+                [
+                    213.0,
+                    261.0
+                ],
+                [
+                    212.0,
+                    261.0
+                ],
+                [
+                    212.0,
+                    272.0
+                ],
+                [
+                    213.0,
+                    272.0
+                ],
+                [
+                    213.0,
+                    276.0
+                ],
+                [
+                    214.0,
+                    276.0
+                ],
+                [
+                    214.0,
+                    277.0
+                ],
+                [
+                    216.0,
+                    277.0
+                ],
+                [
+                    216.0,
+                    278.0
+                ],
+                [
+                    225.0,
+                    278.0
+                ],
+                [
+                    225.0,
+                    277.0
+                ],
+                [
+                    226.0,
+                    277.0
+                ],
+                [
+                    226.0,
+                    276.0
+                ],
+                [
+                    227.0,
+                    276.0
+                ],
+                [
+                    227.0,
+                    271.0
+                ],
+                [
+                    226.0,
+                    271.0
+                ],
+                [
+                    226.0,
+                    268.0
+                ],
+                [
+                    225.0,
+                    268.0
+                ],
+                [
+                    225.0,
+                    266.0
+                ],
+                [
+                    224.0,
+                    266.0
+                ],
+                [
+                    224.0,
+                    264.0
+                ],
+                [
+                    223.0,
+                    264.0
+                ],
+                [
+                    223.0,
+                    263.0
+                ],
+                [
+                    222.0,
+                    263.0
+                ],
+                [
+                    222.0,
+                    262.0
+                ],
+                [
+                    220.0,
+                    262.0
+                ],
+                [
+                    220.0,
+                    261.0
+                ],
+                [
+                    219.0,
+                    261.0
+                ],
+                [
+                    219.0,
+                    260.0
+                ],
+                [
+                    217.0,
+                    260.0
+                ],
+                [
+                    217.0,
+                    259.0
+                ],
+                [
+                    214.0,
+                    259.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the building that features a distinctive dome shape and a large cross on its peak.",
+        "Locate the structure characterized by its singular dome and a noticeable cross crowning it.",
+        "Spot the building that boasts a one-of-a-kind dome and a significant cross at its summit."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015940.jpg",
+            "points": [
+                [
+                    30.0,
+                    273.0
+                ],
+                [
+                    30.0,
+                    274.0
+                ],
+                [
+                    27.0,
+                    274.0
+                ],
+                [
+                    27.0,
+                    275.0
+                ],
+                [
+                    26.0,
+                    275.0
+                ],
+                [
+                    26.0,
+                    277.0
+                ],
+                [
+                    25.0,
+                    277.0
+                ],
+                [
+                    25.0,
+                    282.0
+                ],
+                [
+                    26.0,
+                    282.0
+                ],
+                [
+                    26.0,
+                    285.0
+                ],
+                [
+                    28.0,
+                    285.0
+                ],
+                [
+                    28.0,
+                    286.0
+                ],
+                [
+                    29.0,
+                    286.0
+                ],
+                [
+                    29.0,
+                    285.0
+                ],
+                [
+                    33.0,
+                    285.0
+                ],
+                [
+                    33.0,
+                    284.0
+                ],
+                [
+                    34.0,
+                    284.0
+                ],
+                [
+                    34.0,
+                    282.0
+                ],
+                [
+                    35.0,
+                    282.0
+                ],
+                [
+                    35.0,
+                    281.0
+                ],
+                [
+                    36.0,
+                    281.0
+                ],
+                [
+                    36.0,
+                    278.0
+                ],
+                [
+                    35.0,
+                    278.0
+                ],
+                [
+                    35.0,
+                    276.0
+                ],
+                [
+                    34.0,
+                    276.0
+                ],
+                [
+                    34.0,
+                    274.0
+                ],
+                [
+                    33.0,
+                    274.0
+                ],
+                [
+                    33.0,
+                    273.0
+                ],
+                [
+                    30.0,
+                    273.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

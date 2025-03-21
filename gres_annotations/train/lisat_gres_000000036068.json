@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Recognize the horizontally stretched, rectangular blue form, typical of a truck with a trailer bed.",
+        "Locate the long, blue rectangular structure that extends sideways, indicative of a truck with a trailer bed.",
+        "Spot the blue, rectangular, horizontally oriented elongated shape, which is characteristic of a truck with a trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036068.jpg",
+            "points": [
+                [
+                    51.0,
+                    33.0
+                ],
+                [
+                    51.0,
+                    34.0
+                ],
+                [
+                    50.0,
+                    34.0
+                ],
+                [
+                    50.0,
+                    35.0
+                ],
+                [
+                    44.0,
+                    35.0
+                ],
+                [
+                    44.0,
+                    34.0
+                ],
+                [
+                    39.0,
+                    34.0
+                ],
+                [
+                    39.0,
+                    35.0
+                ],
+                [
+                    38.0,
+                    35.0
+                ],
+                [
+                    38.0,
+                    36.0
+                ],
+                [
+                    37.0,
+                    36.0
+                ],
+                [
+                    37.0,
+                    43.0
+                ],
+                [
+                    38.0,
+                    43.0
+                ],
+                [
+                    38.0,
+                    44.0
+                ],
+                [
+                    46.0,
+                    44.0
+                ],
+                [
+                    46.0,
+                    43.0
+                ],
+                [
+                    51.0,
+                    43.0
+                ],
+                [
+                    51.0,
+                    44.0
+                ],
+                [
+                    88.0,
+                    44.0
+                ],
+                [
+                    88.0,
+                    43.0
+                ],
+                [
+                    91.0,
+                    43.0
+                ],
+                [
+                    91.0,
+                    42.0
+                ],
+                [
+                    92.0,
+                    42.0
+                ],
+                [
+                    92.0,
+                    34.0
+                ],
+                [
+                    91.0,
+                    34.0
+                ],
+                [
+                    91.0,
+                    33.0
+                ],
+                [
+                    51.0,
+                    33.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

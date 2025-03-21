@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the big, yellow equipment that has noticeable wheels or tracks on the dirt ground.",
+        "Search for the large yellow machine with distinct wheels or tracks on a soil surface.",
+        "Identify the prominent yellow machinery with significant wheels or tracks on an earthy terrain."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026036.jpg",
+            "points": [
+                [
+                    228.0,
+                    147.0
+                ],
+                [
+                    228.0,
+                    148.0
+                ],
+                [
+                    227.0,
+                    148.0
+                ],
+                [
+                    227.0,
+                    163.0
+                ],
+                [
+                    228.0,
+                    163.0
+                ],
+                [
+                    228.0,
+                    164.0
+                ],
+                [
+                    236.0,
+                    164.0
+                ],
+                [
+                    236.0,
+                    163.0
+                ],
+                [
+                    237.0,
+                    163.0
+                ],
+                [
+                    237.0,
+                    158.0
+                ],
+                [
+                    238.0,
+                    158.0
+                ],
+                [
+                    238.0,
+                    149.0
+                ],
+                [
+                    237.0,
+                    149.0
+                ],
+                [
+                    237.0,
+                    148.0
+                ],
+                [
+                    235.0,
+                    148.0
+                ],
+                [
+                    235.0,
+                    147.0
+                ],
+                [
+                    228.0,
+                    147.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

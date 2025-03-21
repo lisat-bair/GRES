@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the truck that is dark in color and has a rectangular shape within the picture.",
+        "Look for a truck with a dark hue and a rectangular outline in the image.",
+        "Identify the truck that appears dark and has a rectangular form in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018171.jpg",
+            "points": [
+                [
+                    73.0,
+                    121.0
+                ],
+                [
+                    73.0,
+                    123.0
+                ],
+                [
+                    72.0,
+                    123.0
+                ],
+                [
+                    72.0,
+                    124.0
+                ],
+                [
+                    73.0,
+                    124.0
+                ],
+                [
+                    73.0,
+                    128.0
+                ],
+                [
+                    74.0,
+                    128.0
+                ],
+                [
+                    74.0,
+                    130.0
+                ],
+                [
+                    75.0,
+                    130.0
+                ],
+                [
+                    75.0,
+                    132.0
+                ],
+                [
+                    76.0,
+                    132.0
+                ],
+                [
+                    76.0,
+                    133.0
+                ],
+                [
+                    77.0,
+                    133.0
+                ],
+                [
+                    77.0,
+                    134.0
+                ],
+                [
+                    80.0,
+                    134.0
+                ],
+                [
+                    80.0,
+                    133.0
+                ],
+                [
+                    82.0,
+                    133.0
+                ],
+                [
+                    82.0,
+                    128.0
+                ],
+                [
+                    81.0,
+                    128.0
+                ],
+                [
+                    81.0,
+                    125.0
+                ],
+                [
+                    80.0,
+                    125.0
+                ],
+                [
+                    80.0,
+                    124.0
+                ],
+                [
+                    79.0,
+                    124.0
+                ],
+                [
+                    79.0,
+                    122.0
+                ],
+                [
+                    78.0,
+                    122.0
+                ],
+                [
+                    78.0,
+                    121.0
+                ],
+                [
+                    73.0,
+                    121.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

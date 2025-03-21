@@ -1,0 +1,61 @@
+{
+    "text": [
+        "Spot the ship in the picture that features a different hue and geometric forms.",
+        "Find the boat with a unique color scheme and sharp shapes in the photo.",
+        "Locate the maritime craft displaying a distinct color and angular patterns in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013119.jpg",
+            "points": [
+                [
+                    504.0,
+                    0.0
+                ],
+                [
+                    504.0,
+                    4.0
+                ],
+                [
+                    505.0,
+                    4.0
+                ],
+                [
+                    505.0,
+                    6.0
+                ],
+                [
+                    508.0,
+                    6.0
+                ],
+                [
+                    508.0,
+                    7.0
+                ],
+                [
+                    512.0,
+                    7.0
+                ],
+                [
+                    512.0,
+                    0.0
+                ],
+                [
+                    504.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

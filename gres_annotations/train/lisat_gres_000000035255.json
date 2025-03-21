@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the metal vehicle that stands on four round wheels against a different backdrop.",
+        "Locate the shiny automobile with a quartet of circular tires on a distinct background.",
+        "Find the metallic car featuring four round wheels set against a contrasting scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035255.jpg",
+            "points": [
+                [
+                    22.0,
+                    356.0
+                ],
+                [
+                    22.0,
+                    357.0
+                ],
+                [
+                    20.0,
+                    357.0
+                ],
+                [
+                    20.0,
+                    359.0
+                ],
+                [
+                    19.0,
+                    359.0
+                ],
+                [
+                    19.0,
+                    361.0
+                ],
+                [
+                    20.0,
+                    361.0
+                ],
+                [
+                    20.0,
+                    362.0
+                ],
+                [
+                    21.0,
+                    362.0
+                ],
+                [
+                    21.0,
+                    363.0
+                ],
+                [
+                    23.0,
+                    363.0
+                ],
+                [
+                    23.0,
+                    364.0
+                ],
+                [
+                    25.0,
+                    364.0
+                ],
+                [
+                    25.0,
+                    365.0
+                ],
+                [
+                    28.0,
+                    365.0
+                ],
+                [
+                    28.0,
+                    366.0
+                ],
+                [
+                    31.0,
+                    366.0
+                ],
+                [
+                    31.0,
+                    367.0
+                ],
+                [
+                    36.0,
+                    367.0
+                ],
+                [
+                    36.0,
+                    366.0
+                ],
+                [
+                    37.0,
+                    366.0
+                ],
+                [
+                    37.0,
+                    364.0
+                ],
+                [
+                    38.0,
+                    364.0
+                ],
+                [
+                    38.0,
+                    361.0
+                ],
+                [
+                    37.0,
+                    361.0
+                ],
+                [
+                    37.0,
+                    360.0
+                ],
+                [
+                    36.0,
+                    360.0
+                ],
+                [
+                    36.0,
+                    359.0
+                ],
+                [
+                    33.0,
+                    359.0
+                ],
+                [
+                    33.0,
+                    358.0
+                ],
+                [
+                    28.0,
+                    358.0
+                ],
+                [
+                    28.0,
+                    357.0
+                ],
+                [
+                    23.0,
+                    357.0
+                ],
+                [
+                    23.0,
+                    356.0
+                ],
+                [
+                    22.0,
+                    356.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

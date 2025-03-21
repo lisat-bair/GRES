@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the loader positioned in the middle at the top of the picture.",
+        "Find the loader that is situated at the central top of the image.",
+        "Spot the loader placed at the top-center of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028775.jpg",
+            "points": [
+                [
+                    236.0,
+                    0.0
+                ],
+                [
+                    236.0,
+                    2.0
+                ],
+                [
+                    237.0,
+                    2.0
+                ],
+                [
+                    237.0,
+                    3.0
+                ],
+                [
+                    238.0,
+                    3.0
+                ],
+                [
+                    238.0,
+                    4.0
+                ],
+                [
+                    239.0,
+                    4.0
+                ],
+                [
+                    239.0,
+                    5.0
+                ],
+                [
+                    240.0,
+                    5.0
+                ],
+                [
+                    240.0,
+                    6.0
+                ],
+                [
+                    242.0,
+                    6.0
+                ],
+                [
+                    242.0,
+                    7.0
+                ],
+                [
+                    244.0,
+                    7.0
+                ],
+                [
+                    244.0,
+                    8.0
+                ],
+                [
+                    246.0,
+                    8.0
+                ],
+                [
+                    246.0,
+                    9.0
+                ],
+                [
+                    247.0,
+                    9.0
+                ],
+                [
+                    247.0,
+                    8.0
+                ],
+                [
+                    249.0,
+                    8.0
+                ],
+                [
+                    249.0,
+                    7.0
+                ],
+                [
+                    250.0,
+                    7.0
+                ],
+                [
+                    250.0,
+                    6.0
+                ],
+                [
+                    251.0,
+                    6.0
+                ],
+                [
+                    251.0,
+                    4.0
+                ],
+                [
+                    252.0,
+                    4.0
+                ],
+                [
+                    252.0,
+                    0.0
+                ],
+                [
+                    236.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

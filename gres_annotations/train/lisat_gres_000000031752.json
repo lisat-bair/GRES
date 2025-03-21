@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the vehicle with a long arm located in the bottom-right corner of the image, which is used for lifting heavy loads.",
+        "Find the machine in the lower-right corner of the picture that features a long arm for hoisting heavy items.",
+        "Locate the vehicle in the bottom-right section of the image that possesses a long arm designed to elevate heavy objects."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031752.jpg",
+            "points": [
+                [
+                    334.0,
+                    503.0
+                ],
+                [
+                    334.0,
+                    504.0
+                ],
+                [
+                    330.0,
+                    504.0
+                ],
+                [
+                    330.0,
+                    505.0
+                ],
+                [
+                    327.0,
+                    505.0
+                ],
+                [
+                    327.0,
+                    506.0
+                ],
+                [
+                    325.0,
+                    506.0
+                ],
+                [
+                    325.0,
+                    507.0
+                ],
+                [
+                    323.0,
+                    507.0
+                ],
+                [
+                    323.0,
+                    508.0
+                ],
+                [
+                    322.0,
+                    508.0
+                ],
+                [
+                    322.0,
+                    509.0
+                ],
+                [
+                    321.0,
+                    509.0
+                ],
+                [
+                    321.0,
+                    510.0
+                ],
+                [
+                    320.0,
+                    510.0
+                ],
+                [
+                    320.0,
+                    511.0
+                ],
+                [
+                    319.0,
+                    511.0
+                ],
+                [
+                    319.0,
+                    512.0
+                ],
+                [
+                    341.0,
+                    512.0
+                ],
+                [
+                    341.0,
+                    508.0
+                ],
+                [
+                    340.0,
+                    508.0
+                ],
+                [
+                    340.0,
+                    505.0
+                ],
+                [
+                    339.0,
+                    505.0
+                ],
+                [
+                    339.0,
+                    504.0
+                ],
+                [
+                    336.0,
+                    504.0
+                ],
+                [
+                    336.0,
+                    503.0
+                ],
+                [
+                    334.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

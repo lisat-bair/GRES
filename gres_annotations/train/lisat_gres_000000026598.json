@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the big yellow truck that features a flat, open-top bed and large tires amidst the brown mining landscape.",
+        "Locate the yellow truck with oversized tires and an open, flat bed in the brown mining environment.",
+        "Find the large yellow truck with a flat, open-top bed and oversized wheels in the area with brown mining terrain."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026598.jpg",
+            "points": [
+                [
+                    214.0,
+                    38.0
+                ],
+                [
+                    214.0,
+                    39.0
+                ],
+                [
+                    212.0,
+                    39.0
+                ],
+                [
+                    212.0,
+                    40.0
+                ],
+                [
+                    211.0,
+                    40.0
+                ],
+                [
+                    211.0,
+                    53.0
+                ],
+                [
+                    210.0,
+                    53.0
+                ],
+                [
+                    210.0,
+                    60.0
+                ],
+                [
+                    209.0,
+                    60.0
+                ],
+                [
+                    209.0,
+                    74.0
+                ],
+                [
+                    211.0,
+                    74.0
+                ],
+                [
+                    211.0,
+                    75.0
+                ],
+                [
+                    219.0,
+                    75.0
+                ],
+                [
+                    219.0,
+                    74.0
+                ],
+                [
+                    220.0,
+                    74.0
+                ],
+                [
+                    220.0,
+                    70.0
+                ],
+                [
+                    221.0,
+                    70.0
+                ],
+                [
+                    221.0,
+                    63.0
+                ],
+                [
+                    222.0,
+                    63.0
+                ],
+                [
+                    222.0,
+                    55.0
+                ],
+                [
+                    223.0,
+                    55.0
+                ],
+                [
+                    223.0,
+                    41.0
+                ],
+                [
+                    220.0,
+                    41.0
+                ],
+                [
+                    220.0,
+                    40.0
+                ],
+                [
+                    218.0,
+                    40.0
+                ],
+                [
+                    218.0,
+                    39.0
+                ],
+                [
+                    216.0,
+                    39.0
+                ],
+                [
+                    216.0,
+                    38.0
+                ],
+                [
+                    214.0,
+                    38.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the truck in the picture that has a sizable rectangular trailer, marked by its unique elongated bed and cab shape.",
+        "Spot the truck within the image featuring a prominent rectangular trailer, distinguished by its long bed and cab profile.",
+        "Find the truck in the photo that includes a big rectangular trailer, identifiable by its distinctive long bed and silhouette of the cab."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028219.jpg",
+            "points": [
+                [
+                    511.0,
+                    485.0
+                ],
+                [
+                    511.0,
+                    486.0
+                ],
+                [
+                    510.0,
+                    486.0
+                ],
+                [
+                    510.0,
+                    488.0
+                ],
+                [
+                    509.0,
+                    488.0
+                ],
+                [
+                    509.0,
+                    489.0
+                ],
+                [
+                    508.0,
+                    489.0
+                ],
+                [
+                    508.0,
+                    490.0
+                ],
+                [
+                    507.0,
+                    490.0
+                ],
+                [
+                    507.0,
+                    492.0
+                ],
+                [
+                    506.0,
+                    492.0
+                ],
+                [
+                    506.0,
+                    495.0
+                ],
+                [
+                    505.0,
+                    495.0
+                ],
+                [
+                    505.0,
+                    498.0
+                ],
+                [
+                    506.0,
+                    498.0
+                ],
+                [
+                    506.0,
+                    499.0
+                ],
+                [
+                    510.0,
+                    499.0
+                ],
+                [
+                    510.0,
+                    498.0
+                ],
+                [
+                    512.0,
+                    498.0
+                ],
+                [
+                    512.0,
+                    485.0
+                ],
+                [
+                    511.0,
+                    485.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

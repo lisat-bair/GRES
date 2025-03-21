@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the big, yellow truck with a unique rectangular cargo area, standing out against the earthy backdrop.",
+        "Find the sizable, yellow vehicle featuring a distinct rectangular load space, in contrast to the natural earth tones around it.",
+        "Locate the prominent yellow vehicle with a characteristic rectangular bed, which contrasts sharply with the surrounding earth colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026977.jpg",
+            "points": [
+                [
+                    295.0,
+                    207.0
+                ],
+                [
+                    295.0,
+                    208.0
+                ],
+                [
+                    288.0,
+                    208.0
+                ],
+                [
+                    288.0,
+                    210.0
+                ],
+                [
+                    287.0,
+                    210.0
+                ],
+                [
+                    287.0,
+                    213.0
+                ],
+                [
+                    288.0,
+                    213.0
+                ],
+                [
+                    288.0,
+                    216.0
+                ],
+                [
+                    289.0,
+                    216.0
+                ],
+                [
+                    289.0,
+                    217.0
+                ],
+                [
+                    290.0,
+                    217.0
+                ],
+                [
+                    290.0,
+                    218.0
+                ],
+                [
+                    301.0,
+                    218.0
+                ],
+                [
+                    301.0,
+                    217.0
+                ],
+                [
+                    305.0,
+                    217.0
+                ],
+                [
+                    305.0,
+                    216.0
+                ],
+                [
+                    306.0,
+                    216.0
+                ],
+                [
+                    306.0,
+                    215.0
+                ],
+                [
+                    307.0,
+                    215.0
+                ],
+                [
+                    307.0,
+                    212.0
+                ],
+                [
+                    306.0,
+                    212.0
+                ],
+                [
+                    306.0,
+                    210.0
+                ],
+                [
+                    305.0,
+                    210.0
+                ],
+                [
+                    305.0,
+                    208.0
+                ],
+                [
+                    303.0,
+                    208.0
+                ],
+                [
+                    303.0,
+                    207.0
+                ],
+                [
+                    295.0,
+                    207.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

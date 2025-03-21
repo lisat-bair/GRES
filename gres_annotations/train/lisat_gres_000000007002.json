@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the digger situated at the lower-right corner of the picture.",
+        "Spot the excavator positioned in the bottom-right section of the image.",
+        "Find the construction vehicle located in the lower right of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007002.jpg",
+            "points": [
+                [
+                    170.0,
+                    501.0
+                ],
+                [
+                    170.0,
+                    502.0
+                ],
+                [
+                    168.0,
+                    502.0
+                ],
+                [
+                    168.0,
+                    503.0
+                ],
+                [
+                    166.0,
+                    503.0
+                ],
+                [
+                    166.0,
+                    504.0
+                ],
+                [
+                    165.0,
+                    504.0
+                ],
+                [
+                    165.0,
+                    505.0
+                ],
+                [
+                    163.0,
+                    505.0
+                ],
+                [
+                    163.0,
+                    506.0
+                ],
+                [
+                    161.0,
+                    506.0
+                ],
+                [
+                    161.0,
+                    507.0
+                ],
+                [
+                    160.0,
+                    507.0
+                ],
+                [
+                    160.0,
+                    509.0
+                ],
+                [
+                    159.0,
+                    509.0
+                ],
+                [
+                    159.0,
+                    510.0
+                ],
+                [
+                    157.0,
+                    510.0
+                ],
+                [
+                    157.0,
+                    511.0
+                ],
+                [
+                    156.0,
+                    511.0
+                ],
+                [
+                    156.0,
+                    512.0
+                ],
+                [
+                    176.0,
+                    512.0
+                ],
+                [
+                    176.0,
+                    505.0
+                ],
+                [
+                    175.0,
+                    505.0
+                ],
+                [
+                    175.0,
+                    503.0
+                ],
+                [
+                    174.0,
+                    503.0
+                ],
+                [
+                    174.0,
+                    502.0
+                ],
+                [
+                    173.0,
+                    502.0
+                ],
+                [
+                    173.0,
+                    501.0
+                ],
+                [
+                    170.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

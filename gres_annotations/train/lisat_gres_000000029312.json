@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the white car with distinct edges set against a shadowy backdrop.",
+        "Locate the sharply contoured white vehicle against a dimly lit background.",
+        "Find the white automobile with crisp lines in contrast to the dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029312.jpg",
+            "points": [
+                [
+                    108.0,
+                    17.0
+                ],
+                [
+                    108.0,
+                    18.0
+                ],
+                [
+                    105.0,
+                    18.0
+                ],
+                [
+                    105.0,
+                    19.0
+                ],
+                [
+                    104.0,
+                    19.0
+                ],
+                [
+                    104.0,
+                    20.0
+                ],
+                [
+                    103.0,
+                    20.0
+                ],
+                [
+                    103.0,
+                    24.0
+                ],
+                [
+                    104.0,
+                    24.0
+                ],
+                [
+                    104.0,
+                    25.0
+                ],
+                [
+                    110.0,
+                    25.0
+                ],
+                [
+                    110.0,
+                    24.0
+                ],
+                [
+                    111.0,
+                    24.0
+                ],
+                [
+                    111.0,
+                    22.0
+                ],
+                [
+                    112.0,
+                    22.0
+                ],
+                [
+                    112.0,
+                    17.0
+                ],
+                [
+                    108.0,
+                    17.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

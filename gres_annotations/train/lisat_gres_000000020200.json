@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the vehicle that features a long, white form with smooth, curved edges set against a darker backdrop.",
+        "Locate the automobile characterized by a bright, white, stretched-out silhouette and rounded corners on a darker background.",
+        "Find the car that has an elongated, white shape with rounded edges, contrasting with a darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020200.jpg",
+            "points": [
+                [
+                    363.0,
+                    268.0
+                ],
+                [
+                    363.0,
+                    269.0
+                ],
+                [
+                    362.0,
+                    269.0
+                ],
+                [
+                    362.0,
+                    270.0
+                ],
+                [
+                    361.0,
+                    270.0
+                ],
+                [
+                    361.0,
+                    274.0
+                ],
+                [
+                    362.0,
+                    274.0
+                ],
+                [
+                    362.0,
+                    275.0
+                ],
+                [
+                    363.0,
+                    275.0
+                ],
+                [
+                    363.0,
+                    276.0
+                ],
+                [
+                    365.0,
+                    276.0
+                ],
+                [
+                    365.0,
+                    277.0
+                ],
+                [
+                    366.0,
+                    277.0
+                ],
+                [
+                    366.0,
+                    278.0
+                ],
+                [
+                    369.0,
+                    278.0
+                ],
+                [
+                    369.0,
+                    279.0
+                ],
+                [
+                    377.0,
+                    279.0
+                ],
+                [
+                    377.0,
+                    277.0
+                ],
+                [
+                    378.0,
+                    277.0
+                ],
+                [
+                    378.0,
+                    274.0
+                ],
+                [
+                    377.0,
+                    274.0
+                ],
+                [
+                    377.0,
+                    273.0
+                ],
+                [
+                    375.0,
+                    273.0
+                ],
+                [
+                    375.0,
+                    272.0
+                ],
+                [
+                    373.0,
+                    272.0
+                ],
+                [
+                    373.0,
+                    271.0
+                ],
+                [
+                    371.0,
+                    271.0
+                ],
+                [
+                    371.0,
+                    270.0
+                ],
+                [
+                    369.0,
+                    270.0
+                ],
+                [
+                    369.0,
+                    269.0
+                ],
+                [
+                    367.0,
+                    269.0
+                ],
+                [
+                    367.0,
+                    268.0
+                ],
+                [
+                    363.0,
+                    268.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

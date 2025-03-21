@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Identify the truck that stands out due to its unique characteristics like color, shape, or size in comparison to nearby objects.",
+        "Find the truck that has a unique feature set, including a distinctive color, shape, or size, relative to its surroundings.",
+        "Spot the truck that is different from nearby objects due to its special attributes, such as an uncommon color, shape, or size."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025606.jpg",
+            "points": [
+                [
+                    503.0,
+                    101.0
+                ],
+                [
+                    503.0,
+                    102.0
+                ],
+                [
+                    499.0,
+                    102.0
+                ],
+                [
+                    499.0,
+                    104.0
+                ],
+                [
+                    498.0,
+                    104.0
+                ],
+                [
+                    498.0,
+                    115.0
+                ],
+                [
+                    497.0,
+                    115.0
+                ],
+                [
+                    497.0,
+                    118.0
+                ],
+                [
+                    498.0,
+                    118.0
+                ],
+                [
+                    498.0,
+                    122.0
+                ],
+                [
+                    499.0,
+                    122.0
+                ],
+                [
+                    499.0,
+                    124.0
+                ],
+                [
+                    500.0,
+                    124.0
+                ],
+                [
+                    500.0,
+                    127.0
+                ],
+                [
+                    501.0,
+                    127.0
+                ],
+                [
+                    501.0,
+                    128.0
+                ],
+                [
+                    504.0,
+                    128.0
+                ],
+                [
+                    504.0,
+                    129.0
+                ],
+                [
+                    507.0,
+                    129.0
+                ],
+                [
+                    507.0,
+                    130.0
+                ],
+                [
+                    510.0,
+                    130.0
+                ],
+                [
+                    510.0,
+                    131.0
+                ],
+                [
+                    512.0,
+                    131.0
+                ],
+                [
+                    512.0,
+                    102.0
+                ],
+                [
+                    506.0,
+                    102.0
+                ],
+                [
+                    506.0,
+                    101.0
+                ],
+                [
+                    503.0,
+                    101.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

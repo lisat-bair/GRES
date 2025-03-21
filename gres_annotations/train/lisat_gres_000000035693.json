@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the bus that has a long rectangular form and noticeable wheels, often made of metal or painted.",
+        "Find the bus characterized by its elongated rectangular design and prominent wheels, usually metallic or colored.",
+        "Spot the bus with an extended rectangular shape and distinct wheels, commonly either metallic or painted."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035693.jpg",
+            "points": [
+                [
+                    122.0,
+                    40.0
+                ],
+                [
+                    122.0,
+                    41.0
+                ],
+                [
+                    119.0,
+                    41.0
+                ],
+                [
+                    119.0,
+                    42.0
+                ],
+                [
+                    118.0,
+                    42.0
+                ],
+                [
+                    118.0,
+                    44.0
+                ],
+                [
+                    117.0,
+                    44.0
+                ],
+                [
+                    117.0,
+                    46.0
+                ],
+                [
+                    116.0,
+                    46.0
+                ],
+                [
+                    116.0,
+                    50.0
+                ],
+                [
+                    115.0,
+                    50.0
+                ],
+                [
+                    115.0,
+                    56.0
+                ],
+                [
+                    117.0,
+                    56.0
+                ],
+                [
+                    117.0,
+                    57.0
+                ],
+                [
+                    121.0,
+                    57.0
+                ],
+                [
+                    121.0,
+                    56.0
+                ],
+                [
+                    122.0,
+                    56.0
+                ],
+                [
+                    122.0,
+                    54.0
+                ],
+                [
+                    123.0,
+                    54.0
+                ],
+                [
+                    123.0,
+                    52.0
+                ],
+                [
+                    124.0,
+                    52.0
+                ],
+                [
+                    124.0,
+                    48.0
+                ],
+                [
+                    125.0,
+                    48.0
+                ],
+                [
+                    125.0,
+                    45.0
+                ],
+                [
+                    126.0,
+                    45.0
+                ],
+                [
+                    126.0,
+                    41.0
+                ],
+                [
+                    124.0,
+                    41.0
+                ],
+                [
+                    124.0,
+                    40.0
+                ],
+                [
+                    122.0,
+                    40.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

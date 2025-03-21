@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the trailer situated in the upper-left corner of the image, characterized by its elongated rectangular form and prominent wheels, usually metallic or painted, attached to a truck cab at the front.",
+        "Identify the trailer positioned at the image's top-left, which has a long rectangular design with noticeable wheels, generally metallic or painted, and is linked to a truck cab at its front.",
+        "Look for the trailer in the top-left section of the picture, noted for its lengthy rectangular shape and distinct wheels, often metallic or painted, joined to the truck cab upfront."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011518.jpg",
+            "points": [
+                [
+                    0.0,
+                    25.0
+                ],
+                [
+                    0.0,
+                    64.0
+                ],
+                [
+                    3.0,
+                    64.0
+                ],
+                [
+                    3.0,
+                    63.0
+                ],
+                [
+                    4.0,
+                    63.0
+                ],
+                [
+                    4.0,
+                    62.0
+                ],
+                [
+                    5.0,
+                    62.0
+                ],
+                [
+                    5.0,
+                    56.0
+                ],
+                [
+                    4.0,
+                    56.0
+                ],
+                [
+                    4.0,
+                    52.0
+                ],
+                [
+                    5.0,
+                    52.0
+                ],
+                [
+                    5.0,
+                    49.0
+                ],
+                [
+                    4.0,
+                    49.0
+                ],
+                [
+                    4.0,
+                    42.0
+                ],
+                [
+                    5.0,
+                    42.0
+                ],
+                [
+                    5.0,
+                    32.0
+                ],
+                [
+                    6.0,
+                    32.0
+                ],
+                [
+                    6.0,
+                    31.0
+                ],
+                [
+                    5.0,
+                    31.0
+                ],
+                [
+                    5.0,
+                    29.0
+                ],
+                [
+                    4.0,
+                    29.0
+                ],
+                [
+                    4.0,
+                    28.0
+                ],
+                [
+                    3.0,
+                    28.0
+                ],
+                [
+                    3.0,
+                    27.0
+                ],
+                [
+                    2.0,
+                    27.0
+                ],
+                [
+                    2.0,
+                    26.0
+                ],
+                [
+                    1.0,
+                    26.0
+                ],
+                [
+                    1.0,
+                    25.0
+                ],
+                [
+                    0.0,
+                    25.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

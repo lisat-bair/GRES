@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the structure marked by its unique dark gray and black shades, which features numerous rectangular windows and faint vertical and horizontal lines.",
+        "Identify the edifice distinguished by its dark gray and black tones, adorned with several rectangular windows and understated vertical and horizontal stripes.",
+        "Spot the building notable for its particular dark gray and black colors, characterized by an array of rectangular windows and gentle vertical and horizontal patterns."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003388.jpg",
+            "points": [
+                [
+                    62.0,
+                    0.0
+                ],
+                [
+                    62.0,
+                    33.0
+                ],
+                [
+                    63.0,
+                    33.0
+                ],
+                [
+                    63.0,
+                    35.0
+                ],
+                [
+                    65.0,
+                    35.0
+                ],
+                [
+                    65.0,
+                    36.0
+                ],
+                [
+                    69.0,
+                    36.0
+                ],
+                [
+                    69.0,
+                    37.0
+                ],
+                [
+                    75.0,
+                    37.0
+                ],
+                [
+                    75.0,
+                    38.0
+                ],
+                [
+                    84.0,
+                    38.0
+                ],
+                [
+                    84.0,
+                    37.0
+                ],
+                [
+                    86.0,
+                    37.0
+                ],
+                [
+                    86.0,
+                    36.0
+                ],
+                [
+                    88.0,
+                    36.0
+                ],
+                [
+                    88.0,
+                    35.0
+                ],
+                [
+                    89.0,
+                    35.0
+                ],
+                [
+                    89.0,
+                    34.0
+                ],
+                [
+                    90.0,
+                    34.0
+                ],
+                [
+                    90.0,
+                    31.0
+                ],
+                [
+                    91.0,
+                    31.0
+                ],
+                [
+                    91.0,
+                    21.0
+                ],
+                [
+                    92.0,
+                    21.0
+                ],
+                [
+                    92.0,
+                    5.0
+                ],
+                [
+                    93.0,
+                    5.0
+                ],
+                [
+                    93.0,
+                    0.0
+                ],
+                [
+                    62.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

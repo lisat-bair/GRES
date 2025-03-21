@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Locate the vehicle that has a white rectangular form with a dark round element in the middle set against a contrasting backdrop.",
+        "Find the automobile featuring a rectangular white design with a dark circular mark at its center placed against a contrasting background.",
+        "Spot the car characterized by a white rectangular shape with a dark circle in the middle positioned against a contrasting background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002576.jpg",
+            "points": [
+                [
+                    295.0,
+                    345.0
+                ],
+                [
+                    295.0,
+                    347.0
+                ],
+                [
+                    294.0,
+                    347.0
+                ],
+                [
+                    294.0,
+                    349.0
+                ],
+                [
+                    293.0,
+                    349.0
+                ],
+                [
+                    293.0,
+                    352.0
+                ],
+                [
+                    294.0,
+                    352.0
+                ],
+                [
+                    294.0,
+                    353.0
+                ],
+                [
+                    297.0,
+                    353.0
+                ],
+                [
+                    297.0,
+                    354.0
+                ],
+                [
+                    300.0,
+                    354.0
+                ],
+                [
+                    300.0,
+                    355.0
+                ],
+                [
+                    303.0,
+                    355.0
+                ],
+                [
+                    303.0,
+                    356.0
+                ],
+                [
+                    313.0,
+                    356.0
+                ],
+                [
+                    313.0,
+                    355.0
+                ],
+                [
+                    315.0,
+                    355.0
+                ],
+                [
+                    315.0,
+                    352.0
+                ],
+                [
+                    314.0,
+                    352.0
+                ],
+                [
+                    314.0,
+                    351.0
+                ],
+                [
+                    313.0,
+                    351.0
+                ],
+                [
+                    313.0,
+                    350.0
+                ],
+                [
+                    311.0,
+                    350.0
+                ],
+                [
+                    311.0,
+                    349.0
+                ],
+                [
+                    309.0,
+                    349.0
+                ],
+                [
+                    309.0,
+                    348.0
+                ],
+                [
+                    306.0,
+                    348.0
+                ],
+                [
+                    306.0,
+                    347.0
+                ],
+                [
+                    303.0,
+                    347.0
+                ],
+                [
+                    303.0,
+                    346.0
+                ],
+                [
+                    300.0,
+                    346.0
+                ],
+                [
+                    300.0,
+                    345.0
+                ],
+                [
+                    295.0,
+                    345.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

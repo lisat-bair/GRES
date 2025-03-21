@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the vehicle that features a big, shiny construction with a sleek, mirrored exterior and distinct outlines, highlighted by its polished sheen and prominent curves.",
+        "Find the automobile that boasts a sizable, metal framework with a smooth, reflective face and sharp corners, noted for its glossy surface and noticeable bend.",
+        "Spot the car that possesses a large, metallic form with a smooth, glossy outer layer and well-defined edges, marked by its shiny finish and evident curvature."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015269.jpg",
+            "points": [
+                [
+                    164.0,
+                    468.0
+                ],
+                [
+                    164.0,
+                    469.0
+                ],
+                [
+                    163.0,
+                    469.0
+                ],
+                [
+                    163.0,
+                    470.0
+                ],
+                [
+                    162.0,
+                    470.0
+                ],
+                [
+                    162.0,
+                    472.0
+                ],
+                [
+                    163.0,
+                    472.0
+                ],
+                [
+                    163.0,
+                    474.0
+                ],
+                [
+                    165.0,
+                    474.0
+                ],
+                [
+                    165.0,
+                    475.0
+                ],
+                [
+                    168.0,
+                    475.0
+                ],
+                [
+                    168.0,
+                    476.0
+                ],
+                [
+                    176.0,
+                    476.0
+                ],
+                [
+                    176.0,
+                    470.0
+                ],
+                [
+                    174.0,
+                    470.0
+                ],
+                [
+                    174.0,
+                    469.0
+                ],
+                [
+                    172.0,
+                    469.0
+                ],
+                [
+                    172.0,
+                    468.0
+                ],
+                [
+                    164.0,
+                    468.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

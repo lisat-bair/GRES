@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Look for the bus that is notable for its big, rectangular form with clear horizontal stripes and windows.",
+        "Find the bus that stands out due to its massive, rectangular design featuring distinctive horizontal lines and windows.",
+        "Spot the bus that is marked by its large rectangular shape and prominent horizontal lines and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005517.jpg",
+            "points": [
+                [
+                    386.0,
+                    504.0
+                ],
+                [
+                    386.0,
+                    506.0
+                ],
+                [
+                    385.0,
+                    506.0
+                ],
+                [
+                    385.0,
+                    508.0
+                ],
+                [
+                    384.0,
+                    508.0
+                ],
+                [
+                    384.0,
+                    512.0
+                ],
+                [
+                    395.0,
+                    512.0
+                ],
+                [
+                    395.0,
+                    507.0
+                ],
+                [
+                    394.0,
+                    507.0
+                ],
+                [
+                    394.0,
+                    505.0
+                ],
+                [
+                    392.0,
+                    505.0
+                ],
+                [
+                    392.0,
+                    504.0
+                ],
+                [
+                    386.0,
+                    504.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

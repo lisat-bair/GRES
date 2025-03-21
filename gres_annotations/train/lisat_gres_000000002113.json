@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Identify the structure in the picture that is completely black and lacks any distinguishable characteristics.",
+        "Find the edifice in the photo that looks completely dark and has no visible details or features.",
+        "Spot the construction in the image that is entirely devoid of any features and appears all black."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002113.jpg",
+            "points": [
+                [
+                    2.0,
+                    255.0
+                ],
+                [
+                    2.0,
+                    256.0
+                ],
+                [
+                    0.0,
+                    256.0
+                ],
+                [
+                    0.0,
+                    325.0
+                ],
+                [
+                    2.0,
+                    325.0
+                ],
+                [
+                    2.0,
+                    324.0
+                ],
+                [
+                    4.0,
+                    324.0
+                ],
+                [
+                    4.0,
+                    307.0
+                ],
+                [
+                    5.0,
+                    307.0
+                ],
+                [
+                    5.0,
+                    264.0
+                ],
+                [
+                    6.0,
+                    264.0
+                ],
+                [
+                    6.0,
+                    262.0
+                ],
+                [
+                    5.0,
+                    262.0
+                ],
+                [
+                    5.0,
+                    260.0
+                ],
+                [
+                    6.0,
+                    260.0
+                ],
+                [
+                    6.0,
+                    259.0
+                ],
+                [
+                    5.0,
+                    259.0
+                ],
+                [
+                    5.0,
+                    258.0
+                ],
+                [
+                    4.0,
+                    258.0
+                ],
+                [
+                    4.0,
+                    256.0
+                ],
+                [
+                    3.0,
+                    256.0
+                ],
+                [
+                    3.0,
+                    255.0
+                ],
+                [
+                    2.0,
+                    255.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Look for the crane by spotting its long, prominent arm and boom, which are usually painted in bright or vivid colors that stand out against their surroundings.",
+        "To identify the crane, search for a sizable, elongated arm and boom structure that is often in a bright or striking color that contrasts with the environment.",
+        "Spot the crane by finding the large, extended arm and boom, typically in a vibrant or bold color, which contrasts with its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012955.jpg",
+            "points": [
+                [
+                    101,
+                    418
+                ],
+                [
+                    134,
+                    418
+                ],
+                [
+                    134,
+                    443
+                ],
+                [
+                    101,
+                    443
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

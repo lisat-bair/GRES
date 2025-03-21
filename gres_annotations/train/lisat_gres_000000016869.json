@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Identify the extended form with a clear rectangular design and metallic exterior, suggesting it is a truck with a trailer bed.",
+        "Recognize the long structure featuring a prominent rectangular shape and metallic finish, characteristic of a truck with a trailer bed.",
+        "Discern the elongated figure with a noticeable rectangular shape and metal surface, typical of a truck with a trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016869.jpg",
+            "points": [
+                [
+                    234.0,
+                    243.0
+                ],
+                [
+                    234.0,
+                    244.0
+                ],
+                [
+                    229.0,
+                    244.0
+                ],
+                [
+                    229.0,
+                    245.0
+                ],
+                [
+                    224.0,
+                    245.0
+                ],
+                [
+                    224.0,
+                    246.0
+                ],
+                [
+                    220.0,
+                    246.0
+                ],
+                [
+                    220.0,
+                    251.0
+                ],
+                [
+                    221.0,
+                    251.0
+                ],
+                [
+                    221.0,
+                    252.0
+                ],
+                [
+                    225.0,
+                    252.0
+                ],
+                [
+                    225.0,
+                    253.0
+                ],
+                [
+                    246.0,
+                    253.0
+                ],
+                [
+                    246.0,
+                    252.0
+                ],
+                [
+                    247.0,
+                    252.0
+                ],
+                [
+                    247.0,
+                    246.0
+                ],
+                [
+                    246.0,
+                    246.0
+                ],
+                [
+                    246.0,
+                    245.0
+                ],
+                [
+                    245.0,
+                    245.0
+                ],
+                [
+                    245.0,
+                    244.0
+                ],
+                [
+                    241.0,
+                    244.0
+                ],
+                [
+                    241.0,
+                    243.0
+                ],
+                [
+                    234.0,
+                    243.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

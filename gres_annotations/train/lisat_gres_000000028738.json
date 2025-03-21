@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the vehicle that has a metal exterior and a shiny finish that catches the surrounding light.",
+        "Locate the automobile with a metallic frame and a polished surface that reflects the light around it.",
+        "Find the car whose metal body gleams with a glossy texture, reflecting the ambient lighting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028738.jpg",
+            "points": [
+                [
+                    424.0,
+                    271.0
+                ],
+                [
+                    424.0,
+                    272.0
+                ],
+                [
+                    421.0,
+                    272.0
+                ],
+                [
+                    421.0,
+                    273.0
+                ],
+                [
+                    419.0,
+                    273.0
+                ],
+                [
+                    419.0,
+                    275.0
+                ],
+                [
+                    418.0,
+                    275.0
+                ],
+                [
+                    418.0,
+                    277.0
+                ],
+                [
+                    419.0,
+                    277.0
+                ],
+                [
+                    419.0,
+                    280.0
+                ],
+                [
+                    420.0,
+                    280.0
+                ],
+                [
+                    420.0,
+                    281.0
+                ],
+                [
+                    421.0,
+                    281.0
+                ],
+                [
+                    421.0,
+                    282.0
+                ],
+                [
+                    422.0,
+                    282.0
+                ],
+                [
+                    422.0,
+                    283.0
+                ],
+                [
+                    425.0,
+                    283.0
+                ],
+                [
+                    425.0,
+                    284.0
+                ],
+                [
+                    426.0,
+                    284.0
+                ],
+                [
+                    426.0,
+                    283.0
+                ],
+                [
+                    432.0,
+                    283.0
+                ],
+                [
+                    432.0,
+                    282.0
+                ],
+                [
+                    435.0,
+                    282.0
+                ],
+                [
+                    435.0,
+                    281.0
+                ],
+                [
+                    436.0,
+                    281.0
+                ],
+                [
+                    436.0,
+                    280.0
+                ],
+                [
+                    437.0,
+                    280.0
+                ],
+                [
+                    437.0,
+                    279.0
+                ],
+                [
+                    438.0,
+                    279.0
+                ],
+                [
+                    438.0,
+                    274.0
+                ],
+                [
+                    437.0,
+                    274.0
+                ],
+                [
+                    437.0,
+                    273.0
+                ],
+                [
+                    436.0,
+                    273.0
+                ],
+                [
+                    436.0,
+                    272.0
+                ],
+                [
+                    433.0,
+                    272.0
+                ],
+                [
+                    433.0,
+                    271.0
+                ],
+                [
+                    424.0,
+                    271.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

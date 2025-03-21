@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Recognize the truck by its large size, dark color, distinct rectangular headlights, and a prominent front grille.",
+        "The truck can be identified by its prominent front grille, distinct rectangular headlights, large size, and dark color.",
+        "Spot the truck by looking for its distinct rectangular headlights, a prominent front grille, and its large, dark-colored body."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015270.jpg",
+            "points": [
+                [
+                    511.0,
+                    397.0
+                ],
+                [
+                    511.0,
+                    398.0
+                ],
+                [
+                    510.0,
+                    398.0
+                ],
+                [
+                    510.0,
+                    400.0
+                ],
+                [
+                    509.0,
+                    400.0
+                ],
+                [
+                    509.0,
+                    401.0
+                ],
+                [
+                    508.0,
+                    401.0
+                ],
+                [
+                    508.0,
+                    406.0
+                ],
+                [
+                    509.0,
+                    406.0
+                ],
+                [
+                    509.0,
+                    407.0
+                ],
+                [
+                    512.0,
+                    407.0
+                ],
+                [
+                    512.0,
+                    397.0
+                ],
+                [
+                    511.0,
+                    397.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

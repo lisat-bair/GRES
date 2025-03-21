@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the truck that has a curved, stretched shape and a shiny metallic finish against a dark background.",
+        "Spot the truck that features a curved, extended form with a metallic luster set against a dark backdrop.",
+        "Find the truck with an arched, elongated design and a metallic gloss contrasting a dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005046.jpg",
+            "points": [
+                [
+                    439.0,
+                    349.0
+                ],
+                [
+                    439.0,
+                    350.0
+                ],
+                [
+                    437.0,
+                    350.0
+                ],
+                [
+                    437.0,
+                    352.0
+                ],
+                [
+                    436.0,
+                    352.0
+                ],
+                [
+                    436.0,
+                    364.0
+                ],
+                [
+                    435.0,
+                    364.0
+                ],
+                [
+                    435.0,
+                    366.0
+                ],
+                [
+                    436.0,
+                    366.0
+                ],
+                [
+                    436.0,
+                    369.0
+                ],
+                [
+                    439.0,
+                    369.0
+                ],
+                [
+                    439.0,
+                    370.0
+                ],
+                [
+                    440.0,
+                    370.0
+                ],
+                [
+                    440.0,
+                    371.0
+                ],
+                [
+                    446.0,
+                    371.0
+                ],
+                [
+                    446.0,
+                    369.0
+                ],
+                [
+                    447.0,
+                    369.0
+                ],
+                [
+                    447.0,
+                    352.0
+                ],
+                [
+                    446.0,
+                    352.0
+                ],
+                [
+                    446.0,
+                    350.0
+                ],
+                [
+                    445.0,
+                    350.0
+                ],
+                [
+                    445.0,
+                    349.0
+                ],
+                [
+                    439.0,
+                    349.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

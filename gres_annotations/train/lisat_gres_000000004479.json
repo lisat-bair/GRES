@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the boat with its long white form standing out against the dark water.",
+        "Notice the vessel whose stretched white silhouette contrasts with the shadowy water.",
+        "Locate the ship marked by its extended white outline set against the murky water."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004479.jpg",
+            "points": [
+                [
+                    77.0,
+                    386.0
+                ],
+                [
+                    77.0,
+                    387.0
+                ],
+                [
+                    69.0,
+                    387.0
+                ],
+                [
+                    69.0,
+                    388.0
+                ],
+                [
+                    67.0,
+                    388.0
+                ],
+                [
+                    67.0,
+                    389.0
+                ],
+                [
+                    66.0,
+                    389.0
+                ],
+                [
+                    66.0,
+                    390.0
+                ],
+                [
+                    65.0,
+                    390.0
+                ],
+                [
+                    65.0,
+                    394.0
+                ],
+                [
+                    66.0,
+                    394.0
+                ],
+                [
+                    66.0,
+                    396.0
+                ],
+                [
+                    69.0,
+                    396.0
+                ],
+                [
+                    69.0,
+                    397.0
+                ],
+                [
+                    70.0,
+                    397.0
+                ],
+                [
+                    70.0,
+                    396.0
+                ],
+                [
+                    79.0,
+                    396.0
+                ],
+                [
+                    79.0,
+                    395.0
+                ],
+                [
+                    82.0,
+                    395.0
+                ],
+                [
+                    82.0,
+                    394.0
+                ],
+                [
+                    84.0,
+                    394.0
+                ],
+                [
+                    84.0,
+                    393.0
+                ],
+                [
+                    85.0,
+                    393.0
+                ],
+                [
+                    85.0,
+                    389.0
+                ],
+                [
+                    84.0,
+                    389.0
+                ],
+                [
+                    84.0,
+                    387.0
+                ],
+                [
+                    81.0,
+                    387.0
+                ],
+                [
+                    81.0,
+                    386.0
+                ],
+                [
+                    77.0,
+                    386.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

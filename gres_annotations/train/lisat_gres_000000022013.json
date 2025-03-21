@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the vehicle by finding its gleaming metal exterior and unique angular design that stands out from its surroundings.",
+        "Locate the automobile by observing its reflective metallic surface and sharp angles that contrast with the backdrop.",
+        "Detect the car by identifying the lustrous metallic finish and distinct angular features that differ from the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022013.jpg",
+            "points": [
+                [
+                    62.0,
+                    2.0
+                ],
+                [
+                    62.0,
+                    3.0
+                ],
+                [
+                    61.0,
+                    3.0
+                ],
+                [
+                    61.0,
+                    4.0
+                ],
+                [
+                    60.0,
+                    4.0
+                ],
+                [
+                    60.0,
+                    7.0
+                ],
+                [
+                    59.0,
+                    7.0
+                ],
+                [
+                    59.0,
+                    12.0
+                ],
+                [
+                    60.0,
+                    12.0
+                ],
+                [
+                    60.0,
+                    13.0
+                ],
+                [
+                    61.0,
+                    13.0
+                ],
+                [
+                    61.0,
+                    14.0
+                ],
+                [
+                    62.0,
+                    14.0
+                ],
+                [
+                    62.0,
+                    15.0
+                ],
+                [
+                    64.0,
+                    15.0
+                ],
+                [
+                    64.0,
+                    14.0
+                ],
+                [
+                    66.0,
+                    14.0
+                ],
+                [
+                    66.0,
+                    13.0
+                ],
+                [
+                    67.0,
+                    13.0
+                ],
+                [
+                    67.0,
+                    12.0
+                ],
+                [
+                    68.0,
+                    12.0
+                ],
+                [
+                    68.0,
+                    11.0
+                ],
+                [
+                    69.0,
+                    11.0
+                ],
+                [
+                    69.0,
+                    9.0
+                ],
+                [
+                    70.0,
+                    9.0
+                ],
+                [
+                    70.0,
+                    4.0
+                ],
+                [
+                    69.0,
+                    4.0
+                ],
+                [
+                    69.0,
+                    3.0
+                ],
+                [
+                    68.0,
+                    3.0
+                ],
+                [
+                    68.0,
+                    2.0
+                ],
+                [
+                    62.0,
+                    2.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

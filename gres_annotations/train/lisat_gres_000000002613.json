@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the car with sleek lines and shiny surfaces contrasted against the dim backdrop.",
+        "Spot the automobile featuring gentle contours and metallic sheen set against the darker surroundings.",
+        "Identify the vehicle with flowing curves and reflective metal finish against the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002613.jpg",
+            "points": [
+                [
+                    116.0,
+                    289.0
+                ],
+                [
+                    116.0,
+                    290.0
+                ],
+                [
+                    115.0,
+                    290.0
+                ],
+                [
+                    115.0,
+                    294.0
+                ],
+                [
+                    116.0,
+                    294.0
+                ],
+                [
+                    116.0,
+                    296.0
+                ],
+                [
+                    117.0,
+                    296.0
+                ],
+                [
+                    117.0,
+                    297.0
+                ],
+                [
+                    118.0,
+                    297.0
+                ],
+                [
+                    118.0,
+                    298.0
+                ],
+                [
+                    119.0,
+                    298.0
+                ],
+                [
+                    119.0,
+                    299.0
+                ],
+                [
+                    123.0,
+                    299.0
+                ],
+                [
+                    123.0,
+                    298.0
+                ],
+                [
+                    124.0,
+                    298.0
+                ],
+                [
+                    124.0,
+                    296.0
+                ],
+                [
+                    123.0,
+                    296.0
+                ],
+                [
+                    123.0,
+                    294.0
+                ],
+                [
+                    122.0,
+                    294.0
+                ],
+                [
+                    122.0,
+                    292.0
+                ],
+                [
+                    121.0,
+                    292.0
+                ],
+                [
+                    121.0,
+                    290.0
+                ],
+                [
+                    119.0,
+                    290.0
+                ],
+                [
+                    119.0,
+                    289.0
+                ],
+                [
+                    116.0,
+                    289.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

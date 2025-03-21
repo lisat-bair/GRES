@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the truck in the image that has a unique rectangular design and noticeable metal elements.",
+        "Identify the truck within the picture that features a unique rectangular form and striking metallic aspects.",
+        "Spot the truck in the photo characterized by its distinctive rectangular shape and prominent metallic traits."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015274.jpg",
+            "points": [
+                [
+                    245.0,
+                    177.0
+                ],
+                [
+                    245.0,
+                    178.0
+                ],
+                [
+                    244.0,
+                    178.0
+                ],
+                [
+                    244.0,
+                    179.0
+                ],
+                [
+                    243.0,
+                    179.0
+                ],
+                [
+                    243.0,
+                    182.0
+                ],
+                [
+                    242.0,
+                    182.0
+                ],
+                [
+                    242.0,
+                    194.0
+                ],
+                [
+                    243.0,
+                    194.0
+                ],
+                [
+                    243.0,
+                    195.0
+                ],
+                [
+                    247.0,
+                    195.0
+                ],
+                [
+                    247.0,
+                    194.0
+                ],
+                [
+                    249.0,
+                    194.0
+                ],
+                [
+                    249.0,
+                    193.0
+                ],
+                [
+                    250.0,
+                    193.0
+                ],
+                [
+                    250.0,
+                    192.0
+                ],
+                [
+                    251.0,
+                    192.0
+                ],
+                [
+                    251.0,
+                    187.0
+                ],
+                [
+                    252.0,
+                    187.0
+                ],
+                [
+                    252.0,
+                    180.0
+                ],
+                [
+                    251.0,
+                    180.0
+                ],
+                [
+                    251.0,
+                    178.0
+                ],
+                [
+                    249.0,
+                    178.0
+                ],
+                [
+                    249.0,
+                    177.0
+                ],
+                [
+                    245.0,
+                    177.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the big yellow truck with an enormous open cargo area and giant tires set against the natural backdrop.",
+        "Spot the large yellow vehicle featuring a huge open-box bed and oversized wheels against the earthy scenery.",
+        "Identify the massive yellow truck with a vast open-box rear and large tires amidst the earthy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001984.jpg",
+            "points": [
+                [
+                    126.0,
+                    7.0
+                ],
+                [
+                    126.0,
+                    8.0
+                ],
+                [
+                    118.0,
+                    8.0
+                ],
+                [
+                    118.0,
+                    9.0
+                ],
+                [
+                    109.0,
+                    9.0
+                ],
+                [
+                    109.0,
+                    10.0
+                ],
+                [
+                    99.0,
+                    10.0
+                ],
+                [
+                    99.0,
+                    11.0
+                ],
+                [
+                    97.0,
+                    11.0
+                ],
+                [
+                    97.0,
+                    12.0
+                ],
+                [
+                    95.0,
+                    12.0
+                ],
+                [
+                    95.0,
+                    18.0
+                ],
+                [
+                    96.0,
+                    18.0
+                ],
+                [
+                    96.0,
+                    21.0
+                ],
+                [
+                    106.0,
+                    21.0
+                ],
+                [
+                    106.0,
+                    20.0
+                ],
+                [
+                    113.0,
+                    20.0
+                ],
+                [
+                    113.0,
+                    19.0
+                ],
+                [
+                    119.0,
+                    19.0
+                ],
+                [
+                    119.0,
+                    18.0
+                ],
+                [
+                    123.0,
+                    18.0
+                ],
+                [
+                    123.0,
+                    17.0
+                ],
+                [
+                    128.0,
+                    17.0
+                ],
+                [
+                    128.0,
+                    16.0
+                ],
+                [
+                    131.0,
+                    16.0
+                ],
+                [
+                    131.0,
+                    15.0
+                ],
+                [
+                    132.0,
+                    15.0
+                ],
+                [
+                    132.0,
+                    12.0
+                ],
+                [
+                    131.0,
+                    12.0
+                ],
+                [
+                    131.0,
+                    9.0
+                ],
+                [
+                    130.0,
+                    9.0
+                ],
+                [
+                    130.0,
+                    8.0
+                ],
+                [
+                    128.0,
+                    8.0
+                ],
+                [
+                    128.0,
+                    7.0
+                ],
+                [
+                    126.0,
+                    7.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

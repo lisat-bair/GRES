@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the dark-colored truck, which stands out due to its long and rectangular form.",
+        "Identify the truck that is darker in hue, noticeable by its stretched-out and rectangular design.",
+        "Search for the truck that has a deeper color, recognizable by its extended rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024279.jpg",
+            "points": [
+                [
+                    428.0,
+                    119.0
+                ],
+                [
+                    428.0,
+                    120.0
+                ],
+                [
+                    426.0,
+                    120.0
+                ],
+                [
+                    426.0,
+                    124.0
+                ],
+                [
+                    427.0,
+                    124.0
+                ],
+                [
+                    427.0,
+                    125.0
+                ],
+                [
+                    428.0,
+                    125.0
+                ],
+                [
+                    428.0,
+                    126.0
+                ],
+                [
+                    429.0,
+                    126.0
+                ],
+                [
+                    429.0,
+                    127.0
+                ],
+                [
+                    436.0,
+                    127.0
+                ],
+                [
+                    436.0,
+                    128.0
+                ],
+                [
+                    443.0,
+                    128.0
+                ],
+                [
+                    443.0,
+                    127.0
+                ],
+                [
+                    444.0,
+                    127.0
+                ],
+                [
+                    444.0,
+                    126.0
+                ],
+                [
+                    445.0,
+                    126.0
+                ],
+                [
+                    445.0,
+                    121.0
+                ],
+                [
+                    444.0,
+                    121.0
+                ],
+                [
+                    444.0,
+                    120.0
+                ],
+                [
+                    441.0,
+                    120.0
+                ],
+                [
+                    441.0,
+                    119.0
+                ],
+                [
+                    428.0,
+                    119.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

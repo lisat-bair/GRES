@@ -1,0 +1,169 @@
+{
+    "text": [
+        "Look for the container crane characterized by its towering metallic framework and lattice design, commonly located by shipping containers.",
+        "Spot the container crane that features a high metallic build with a lattice frame, usually situated near shipping containers.",
+        "Find the container crane distinguished by its tall metal structure and lattice framework, which is often positioned around shipping containers."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024905.jpg",
+            "points": [
+                [
+                    477.0,
+                    508.0
+                ],
+                [
+                    477.0,
+                    509.0
+                ],
+                [
+                    478.0,
+                    509.0
+                ],
+                [
+                    478.0,
+                    508.0
+                ],
+                [
+                    477.0,
+                    508.0
+                ],
+                [
+                    503.0,
+                    497.0
+                ],
+                [
+                    503.0,
+                    498.0
+                ],
+                [
+                    501.0,
+                    498.0
+                ],
+                [
+                    501.0,
+                    499.0
+                ],
+                [
+                    500.0,
+                    499.0
+                ],
+                [
+                    500.0,
+                    498.0
+                ],
+                [
+                    499.0,
+                    498.0
+                ],
+                [
+                    499.0,
+                    499.0
+                ],
+                [
+                    496.0,
+                    499.0
+                ],
+                [
+                    496.0,
+                    498.0
+                ],
+                [
+                    490.0,
+                    498.0
+                ],
+                [
+                    490.0,
+                    499.0
+                ],
+                [
+                    486.0,
+                    499.0
+                ],
+                [
+                    486.0,
+                    500.0
+                ],
+                [
+                    483.0,
+                    500.0
+                ],
+                [
+                    483.0,
+                    501.0
+                ],
+                [
+                    481.0,
+                    501.0
+                ],
+                [
+                    481.0,
+                    504.0
+                ],
+                [
+                    482.0,
+                    504.0
+                ],
+                [
+                    482.0,
+                    506.0
+                ],
+                [
+                    481.0,
+                    506.0
+                ],
+                [
+                    481.0,
+                    507.0
+                ],
+                [
+                    480.0,
+                    507.0
+                ],
+                [
+                    480.0,
+                    509.0
+                ],
+                [
+                    479.0,
+                    509.0
+                ],
+                [
+                    479.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    498.0
+                ],
+                [
+                    506.0,
+                    498.0
+                ],
+                [
+                    506.0,
+                    497.0
+                ],
+                [
+                    503.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

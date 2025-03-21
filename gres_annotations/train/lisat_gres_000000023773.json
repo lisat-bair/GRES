@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the bus that is long, has many windows, and comes in a unique color pattern.",
+        "Spot the bus characterized by its extended form, numerous windows, and specific color design.",
+        "Find the bus with an extended shape, several windows, and a noticeable color combination."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023773.jpg",
+            "points": [
+                [
+                    24.0,
+                    56.0
+                ],
+                [
+                    24.0,
+                    57.0
+                ],
+                [
+                    23.0,
+                    57.0
+                ],
+                [
+                    23.0,
+                    58.0
+                ],
+                [
+                    22.0,
+                    58.0
+                ],
+                [
+                    22.0,
+                    60.0
+                ],
+                [
+                    21.0,
+                    60.0
+                ],
+                [
+                    21.0,
+                    62.0
+                ],
+                [
+                    20.0,
+                    62.0
+                ],
+                [
+                    20.0,
+                    65.0
+                ],
+                [
+                    19.0,
+                    65.0
+                ],
+                [
+                    19.0,
+                    70.0
+                ],
+                [
+                    20.0,
+                    70.0
+                ],
+                [
+                    20.0,
+                    71.0
+                ],
+                [
+                    24.0,
+                    71.0
+                ],
+                [
+                    24.0,
+                    70.0
+                ],
+                [
+                    25.0,
+                    70.0
+                ],
+                [
+                    25.0,
+                    68.0
+                ],
+                [
+                    26.0,
+                    68.0
+                ],
+                [
+                    26.0,
+                    66.0
+                ],
+                [
+                    27.0,
+                    66.0
+                ],
+                [
+                    27.0,
+                    63.0
+                ],
+                [
+                    28.0,
+                    63.0
+                ],
+                [
+                    28.0,
+                    60.0
+                ],
+                [
+                    29.0,
+                    60.0
+                ],
+                [
+                    29.0,
+                    58.0
+                ],
+                [
+                    28.0,
+                    58.0
+                ],
+                [
+                    28.0,
+                    57.0
+                ],
+                [
+                    27.0,
+                    57.0
+                ],
+                [
+                    27.0,
+                    56.0
+                ],
+                [
+                    24.0,
+                    56.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

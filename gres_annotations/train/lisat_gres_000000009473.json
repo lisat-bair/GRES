@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the big, red, rectangle-shaped object that has windows and wheels to spot the bus in the picture.",
+        "In the photo, identify the bus by looking for the large, red shape with windows and wheels that resembles a rectangle.",
+        "To locate the bus in the image, search for the sizable red rectangle that features windows and wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009473.jpg",
+            "points": [
+                [
+                    399.0,
+                    268.0
+                ],
+                [
+                    399.0,
+                    269.0
+                ],
+                [
+                    398.0,
+                    269.0
+                ],
+                [
+                    398.0,
+                    274.0
+                ],
+                [
+                    399.0,
+                    274.0
+                ],
+                [
+                    399.0,
+                    276.0
+                ],
+                [
+                    400.0,
+                    276.0
+                ],
+                [
+                    400.0,
+                    277.0
+                ],
+                [
+                    403.0,
+                    277.0
+                ],
+                [
+                    403.0,
+                    278.0
+                ],
+                [
+                    407.0,
+                    278.0
+                ],
+                [
+                    407.0,
+                    279.0
+                ],
+                [
+                    413.0,
+                    279.0
+                ],
+                [
+                    413.0,
+                    280.0
+                ],
+                [
+                    415.0,
+                    280.0
+                ],
+                [
+                    415.0,
+                    279.0
+                ],
+                [
+                    416.0,
+                    279.0
+                ],
+                [
+                    416.0,
+                    278.0
+                ],
+                [
+                    417.0,
+                    278.0
+                ],
+                [
+                    417.0,
+                    272.0
+                ],
+                [
+                    416.0,
+                    272.0
+                ],
+                [
+                    416.0,
+                    271.0
+                ],
+                [
+                    413.0,
+                    271.0
+                ],
+                [
+                    413.0,
+                    270.0
+                ],
+                [
+                    408.0,
+                    270.0
+                ],
+                [
+                    408.0,
+                    269.0
+                ],
+                [
+                    403.0,
+                    269.0
+                ],
+                [
+                    403.0,
+                    268.0
+                ],
+                [
+                    399.0,
+                    268.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Locate the truck with a unique rectangular shape positioned in the top-left of the image near the middle.",
+        "Find the distinctly rectangular-shaped truck situated towards the top-left side of the image, close to the center.",
+        "Spot the truck that has a distinct rectangular form in the top-left section of the image, near the center."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025779.jpg",
+            "points": [
+                [
+                    0.0,
+                    265.0
+                ],
+                [
+                    0.0,
+                    285.0
+                ],
+                [
+                    4.0,
+                    285.0
+                ],
+                [
+                    4.0,
+                    286.0
+                ],
+                [
+                    18.0,
+                    286.0
+                ],
+                [
+                    18.0,
+                    287.0
+                ],
+                [
+                    27.0,
+                    287.0
+                ],
+                [
+                    27.0,
+                    286.0
+                ],
+                [
+                    28.0,
+                    286.0
+                ],
+                [
+                    28.0,
+                    285.0
+                ],
+                [
+                    29.0,
+                    285.0
+                ],
+                [
+                    29.0,
+                    277.0
+                ],
+                [
+                    28.0,
+                    277.0
+                ],
+                [
+                    28.0,
+                    275.0
+                ],
+                [
+                    27.0,
+                    275.0
+                ],
+                [
+                    27.0,
+                    274.0
+                ],
+                [
+                    26.0,
+                    274.0
+                ],
+                [
+                    26.0,
+                    272.0
+                ],
+                [
+                    25.0,
+                    272.0
+                ],
+                [
+                    25.0,
+                    271.0
+                ],
+                [
+                    24.0,
+                    271.0
+                ],
+                [
+                    24.0,
+                    270.0
+                ],
+                [
+                    23.0,
+                    270.0
+                ],
+                [
+                    23.0,
+                    269.0
+                ],
+                [
+                    22.0,
+                    269.0
+                ],
+                [
+                    22.0,
+                    268.0
+                ],
+                [
+                    20.0,
+                    268.0
+                ],
+                [
+                    20.0,
+                    267.0
+                ],
+                [
+                    17.0,
+                    267.0
+                ],
+                [
+                    17.0,
+                    266.0
+                ],
+                [
+                    9.0,
+                    266.0
+                ],
+                [
+                    9.0,
+                    265.0
+                ],
+                [
+                    0.0,
+                    265.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

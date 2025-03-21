@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the yellow toy car that features unique dark wheels on a contrasting backdrop.",
+        "Look for the toy car in yellow that stands out with its dark wheels against a different background.",
+        "Find the yellow toy car with its noticeable dark wheels set against a contrasting background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000391.jpg",
+            "points": [
+                [
+                    208.0,
+                    393.0
+                ],
+                [
+                    208.0,
+                    395.0
+                ],
+                [
+                    207.0,
+                    395.0
+                ],
+                [
+                    207.0,
+                    398.0
+                ],
+                [
+                    206.0,
+                    398.0
+                ],
+                [
+                    206.0,
+                    400.0
+                ],
+                [
+                    205.0,
+                    400.0
+                ],
+                [
+                    205.0,
+                    402.0
+                ],
+                [
+                    204.0,
+                    402.0
+                ],
+                [
+                    204.0,
+                    408.0
+                ],
+                [
+                    206.0,
+                    408.0
+                ],
+                [
+                    206.0,
+                    409.0
+                ],
+                [
+                    208.0,
+                    409.0
+                ],
+                [
+                    208.0,
+                    408.0
+                ],
+                [
+                    210.0,
+                    408.0
+                ],
+                [
+                    210.0,
+                    407.0
+                ],
+                [
+                    211.0,
+                    407.0
+                ],
+                [
+                    211.0,
+                    405.0
+                ],
+                [
+                    212.0,
+                    405.0
+                ],
+                [
+                    212.0,
+                    402.0
+                ],
+                [
+                    213.0,
+                    402.0
+                ],
+                [
+                    213.0,
+                    398.0
+                ],
+                [
+                    214.0,
+                    398.0
+                ],
+                [
+                    214.0,
+                    394.0
+                ],
+                [
+                    213.0,
+                    394.0
+                ],
+                [
+                    213.0,
+                    393.0
+                ],
+                [
+                    208.0,
+                    393.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the bus in the lower-left corner of the image, characterized by its unique windows and sleek design.",
+        "Spot the bus located in the bottom-left area of the picture, noted for its distinctive windows and aerodynamic form.",
+        "Identify the bus in the image's lower-left section, known for its special windows and smooth shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034689.jpg",
+            "points": [
+                [
+                    60.0,
+                    373.0
+                ],
+                [
+                    60.0,
+                    374.0
+                ],
+                [
+                    59.0,
+                    374.0
+                ],
+                [
+                    59.0,
+                    375.0
+                ],
+                [
+                    58.0,
+                    375.0
+                ],
+                [
+                    58.0,
+                    386.0
+                ],
+                [
+                    59.0,
+                    386.0
+                ],
+                [
+                    59.0,
+                    388.0
+                ],
+                [
+                    66.0,
+                    388.0
+                ],
+                [
+                    66.0,
+                    385.0
+                ],
+                [
+                    67.0,
+                    385.0
+                ],
+                [
+                    67.0,
+                    376.0
+                ],
+                [
+                    66.0,
+                    376.0
+                ],
+                [
+                    66.0,
+                    374.0
+                ],
+                [
+                    64.0,
+                    374.0
+                ],
+                [
+                    64.0,
+                    373.0
+                ],
+                [
+                    60.0,
+                    373.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

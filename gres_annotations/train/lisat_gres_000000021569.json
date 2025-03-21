@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that has a glossy metal exterior and mirrors that reflect against a soft-focus backdrop.",
+        "Spot the automobile with a gleaming metallic finish and reflective panes standing out from the out-of-focus scenery.",
+        "Identify the car that features a lustrous metallic surface and reflective windows, set against a blurred background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021569.jpg",
+            "points": [
+                [
+                    297.0,
+                    362.0
+                ],
+                [
+                    297.0,
+                    363.0
+                ],
+                [
+                    296.0,
+                    363.0
+                ],
+                [
+                    296.0,
+                    369.0
+                ],
+                [
+                    297.0,
+                    369.0
+                ],
+                [
+                    297.0,
+                    372.0
+                ],
+                [
+                    298.0,
+                    372.0
+                ],
+                [
+                    298.0,
+                    374.0
+                ],
+                [
+                    302.0,
+                    374.0
+                ],
+                [
+                    302.0,
+                    373.0
+                ],
+                [
+                    303.0,
+                    373.0
+                ],
+                [
+                    303.0,
+                    371.0
+                ],
+                [
+                    304.0,
+                    371.0
+                ],
+                [
+                    304.0,
+                    367.0
+                ],
+                [
+                    303.0,
+                    367.0
+                ],
+                [
+                    303.0,
+                    365.0
+                ],
+                [
+                    302.0,
+                    365.0
+                ],
+                [
+                    302.0,
+                    364.0
+                ],
+                [
+                    301.0,
+                    364.0
+                ],
+                [
+                    301.0,
+                    363.0
+                ],
+                [
+                    300.0,
+                    363.0
+                ],
+                [
+                    300.0,
+                    362.0
+                ],
+                [
+                    297.0,
+                    362.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Identify the shed by looking for the rectangular building with a wooden texture and a sloping roof, which stands out against the greenery around it.",
+        "Spot the shed by finding the rectangular structure with a wooden appearance and an inclined roof, distinct from the lush surroundings.",
+        "Locate the shed by recognizing the rectangular form with a wooden surface and a slanted roof, which is different from the green environment nearby."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018670.jpg",
+            "points": [
+                [
+                    378.0,
+                    182.0
+                ],
+                [
+                    378.0,
+                    183.0
+                ],
+                [
+                    375.0,
+                    183.0
+                ],
+                [
+                    375.0,
+                    184.0
+                ],
+                [
+                    371.0,
+                    184.0
+                ],
+                [
+                    371.0,
+                    185.0
+                ],
+                [
+                    370.0,
+                    185.0
+                ],
+                [
+                    370.0,
+                    189.0
+                ],
+                [
+                    371.0,
+                    189.0
+                ],
+                [
+                    371.0,
+                    194.0
+                ],
+                [
+                    372.0,
+                    194.0
+                ],
+                [
+                    372.0,
+                    198.0
+                ],
+                [
+                    373.0,
+                    198.0
+                ],
+                [
+                    373.0,
+                    199.0
+                ],
+                [
+                    374.0,
+                    199.0
+                ],
+                [
+                    374.0,
+                    200.0
+                ],
+                [
+                    377.0,
+                    200.0
+                ],
+                [
+                    377.0,
+                    201.0
+                ],
+                [
+                    386.0,
+                    201.0
+                ],
+                [
+                    386.0,
+                    200.0
+                ],
+                [
+                    389.0,
+                    200.0
+                ],
+                [
+                    389.0,
+                    199.0
+                ],
+                [
+                    391.0,
+                    199.0
+                ],
+                [
+                    391.0,
+                    198.0
+                ],
+                [
+                    392.0,
+                    198.0
+                ],
+                [
+                    392.0,
+                    190.0
+                ],
+                [
+                    391.0,
+                    190.0
+                ],
+                [
+                    391.0,
+                    185.0
+                ],
+                [
+                    390.0,
+                    185.0
+                ],
+                [
+                    390.0,
+                    184.0
+                ],
+                [
+                    389.0,
+                    184.0
+                ],
+                [
+                    389.0,
+                    183.0
+                ],
+                [
+                    387.0,
+                    183.0
+                ],
+                [
+                    387.0,
+                    182.0
+                ],
+                [
+                    378.0,
+                    182.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

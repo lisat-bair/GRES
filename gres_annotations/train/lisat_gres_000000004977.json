@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the vehicle by spotting the metallic rectangular form with noticeable wheels.",
+        "Find the automobile by identifying the rectangular metal shape with visible wheels.",
+        "Spot the car by recognizing the noticeable wheels and the rectangular form made of metal."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004977.jpg",
+            "points": [
+                [
+                    511.0,
+                    474.0
+                ],
+                [
+                    511.0,
+                    475.0
+                ],
+                [
+                    510.0,
+                    475.0
+                ],
+                [
+                    510.0,
+                    476.0
+                ],
+                [
+                    509.0,
+                    476.0
+                ],
+                [
+                    509.0,
+                    477.0
+                ],
+                [
+                    508.0,
+                    477.0
+                ],
+                [
+                    508.0,
+                    479.0
+                ],
+                [
+                    507.0,
+                    479.0
+                ],
+                [
+                    507.0,
+                    481.0
+                ],
+                [
+                    506.0,
+                    481.0
+                ],
+                [
+                    506.0,
+                    482.0
+                ],
+                [
+                    508.0,
+                    482.0
+                ],
+                [
+                    508.0,
+                    483.0
+                ],
+                [
+                    510.0,
+                    483.0
+                ],
+                [
+                    510.0,
+                    482.0
+                ],
+                [
+                    512.0,
+                    482.0
+                ],
+                [
+                    512.0,
+                    474.0
+                ],
+                [
+                    511.0,
+                    474.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

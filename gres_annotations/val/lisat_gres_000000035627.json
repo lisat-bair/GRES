@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the truck, focusing on the large, rectangular, dark-colored vehicle with reflective surfaces."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035627.jpg",
+            "points": [
+                [
+                    484.0,
+                    336.0
+                ],
+                [
+                    484.0,
+                    338.0
+                ],
+                [
+                    483.0,
+                    338.0
+                ],
+                [
+                    483.0,
+                    350.0
+                ],
+                [
+                    484.0,
+                    350.0
+                ],
+                [
+                    484.0,
+                    351.0
+                ],
+                [
+                    489.0,
+                    351.0
+                ],
+                [
+                    489.0,
+                    350.0
+                ],
+                [
+                    490.0,
+                    350.0
+                ],
+                [
+                    490.0,
+                    345.0
+                ],
+                [
+                    489.0,
+                    345.0
+                ],
+                [
+                    489.0,
+                    337.0
+                ],
+                [
+                    488.0,
+                    337.0
+                ],
+                [
+                    488.0,
+                    336.0
+                ],
+                [
+                    484.0,
+                    336.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

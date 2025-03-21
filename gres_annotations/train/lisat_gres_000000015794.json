@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Point out the vehicle located in the upper-left corner of the picture.",
+        "Spot the automobile in the top-left section of the image.",
+        "Find the car situated in the upper-left area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015794.jpg",
+            "points": [
+                [
+                    13.0,
+                    210.0
+                ],
+                [
+                    13.0,
+                    211.0
+                ],
+                [
+                    12.0,
+                    211.0
+                ],
+                [
+                    12.0,
+                    216.0
+                ],
+                [
+                    16.0,
+                    216.0
+                ],
+                [
+                    16.0,
+                    215.0
+                ],
+                [
+                    17.0,
+                    215.0
+                ],
+                [
+                    17.0,
+                    211.0
+                ],
+                [
+                    16.0,
+                    211.0
+                ],
+                [
+                    16.0,
+                    210.0
+                ],
+                [
+                    13.0,
+                    210.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

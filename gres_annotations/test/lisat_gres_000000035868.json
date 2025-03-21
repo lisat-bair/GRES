@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Locate the dark-colored vehicle with a distinct rectangular shape and visible windows on the road surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035868.jpg",
+            "points": [
+                [
+                    192.0,
+                    10.0
+                ],
+                [
+                    192.0,
+                    11.0
+                ],
+                [
+                    185.0,
+                    11.0
+                ],
+                [
+                    185.0,
+                    12.0
+                ],
+                [
+                    183.0,
+                    12.0
+                ],
+                [
+                    183.0,
+                    17.0
+                ],
+                [
+                    185.0,
+                    17.0
+                ],
+                [
+                    185.0,
+                    18.0
+                ],
+                [
+                    197.0,
+                    18.0
+                ],
+                [
+                    197.0,
+                    17.0
+                ],
+                [
+                    199.0,
+                    17.0
+                ],
+                [
+                    199.0,
+                    14.0
+                ],
+                [
+                    200.0,
+                    14.0
+                ],
+                [
+                    200.0,
+                    13.0
+                ],
+                [
+                    199.0,
+                    13.0
+                ],
+                [
+                    199.0,
+                    11.0
+                ],
+                [
+                    197.0,
+                    11.0
+                ],
+                [
+                    197.0,
+                    10.0
+                ],
+                [
+                    192.0,
+                    10.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

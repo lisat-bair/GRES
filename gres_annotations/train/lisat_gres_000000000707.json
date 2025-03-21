@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the bus that has a long rectangular design and several windows, standing out against the backdrop texture.",
+        "Look for the elongated rectangular bus with many windows, which is distinct from the texture behind it.",
+        "Find the bus characterized by a stretched rectangular form and numerous windows, which contrasts with the background texture."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000707.jpg",
+            "points": [
+                [
+                    382.0,
+                    254.0
+                ],
+                [
+                    382.0,
+                    255.0
+                ],
+                [
+                    379.0,
+                    255.0
+                ],
+                [
+                    379.0,
+                    256.0
+                ],
+                [
+                    377.0,
+                    256.0
+                ],
+                [
+                    377.0,
+                    257.0
+                ],
+                [
+                    374.0,
+                    257.0
+                ],
+                [
+                    374.0,
+                    258.0
+                ],
+                [
+                    372.0,
+                    258.0
+                ],
+                [
+                    372.0,
+                    259.0
+                ],
+                [
+                    370.0,
+                    259.0
+                ],
+                [
+                    370.0,
+                    260.0
+                ],
+                [
+                    369.0,
+                    260.0
+                ],
+                [
+                    369.0,
+                    265.0
+                ],
+                [
+                    374.0,
+                    265.0
+                ],
+                [
+                    374.0,
+                    264.0
+                ],
+                [
+                    377.0,
+                    264.0
+                ],
+                [
+                    377.0,
+                    263.0
+                ],
+                [
+                    380.0,
+                    263.0
+                ],
+                [
+                    380.0,
+                    262.0
+                ],
+                [
+                    383.0,
+                    262.0
+                ],
+                [
+                    383.0,
+                    261.0
+                ],
+                [
+                    386.0,
+                    261.0
+                ],
+                [
+                    386.0,
+                    260.0
+                ],
+                [
+                    388.0,
+                    260.0
+                ],
+                [
+                    388.0,
+                    259.0
+                ],
+                [
+                    389.0,
+                    259.0
+                ],
+                [
+                    389.0,
+                    255.0
+                ],
+                [
+                    387.0,
+                    255.0
+                ],
+                [
+                    387.0,
+                    254.0
+                ],
+                [
+                    382.0,
+                    254.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

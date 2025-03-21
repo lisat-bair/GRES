@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the construction vehicle in the picture that features a unique arm and bucket.",
+        "Find the machinery in the photo that has a notable arm and bucket.",
+        "Locate the engineering vehicle in the image that is characterized by its distinct arm and bucket."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034713.jpg",
+            "points": [
+                [
+                    430.0,
+                    119.0
+                ],
+                [
+                    430.0,
+                    120.0
+                ],
+                [
+                    427.0,
+                    120.0
+                ],
+                [
+                    427.0,
+                    121.0
+                ],
+                [
+                    424.0,
+                    121.0
+                ],
+                [
+                    424.0,
+                    122.0
+                ],
+                [
+                    423.0,
+                    122.0
+                ],
+                [
+                    423.0,
+                    123.0
+                ],
+                [
+                    422.0,
+                    123.0
+                ],
+                [
+                    422.0,
+                    124.0
+                ],
+                [
+                    421.0,
+                    124.0
+                ],
+                [
+                    421.0,
+                    127.0
+                ],
+                [
+                    422.0,
+                    127.0
+                ],
+                [
+                    422.0,
+                    128.0
+                ],
+                [
+                    424.0,
+                    128.0
+                ],
+                [
+                    424.0,
+                    129.0
+                ],
+                [
+                    429.0,
+                    129.0
+                ],
+                [
+                    429.0,
+                    130.0
+                ],
+                [
+                    432.0,
+                    130.0
+                ],
+                [
+                    432.0,
+                    129.0
+                ],
+                [
+                    436.0,
+                    129.0
+                ],
+                [
+                    436.0,
+                    128.0
+                ],
+                [
+                    438.0,
+                    128.0
+                ],
+                [
+                    438.0,
+                    127.0
+                ],
+                [
+                    439.0,
+                    127.0
+                ],
+                [
+                    439.0,
+                    122.0
+                ],
+                [
+                    438.0,
+                    122.0
+                ],
+                [
+                    438.0,
+                    121.0
+                ],
+                [
+                    437.0,
+                    121.0
+                ],
+                [
+                    437.0,
+                    120.0
+                ],
+                [
+                    434.0,
+                    120.0
+                ],
+                [
+                    434.0,
+                    119.0
+                ],
+                [
+                    430.0,
+                    119.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

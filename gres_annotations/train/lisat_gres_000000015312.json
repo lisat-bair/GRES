@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the truck that has a unique shape and vibrant colors, making it easily distinguishable from its surroundings.",
+        "Identify the vehicle with an unusual design and prominent hues, setting it apart from other objects nearby.",
+        "Spot the lorry that features a distinctive form and bright colors, which makes it noticeable among the nearby elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015312.jpg",
+            "points": [
+                [
+                    4.0,
+                    390.0
+                ],
+                [
+                    4.0,
+                    391.0
+                ],
+                [
+                    3.0,
+                    391.0
+                ],
+                [
+                    3.0,
+                    392.0
+                ],
+                [
+                    2.0,
+                    392.0
+                ],
+                [
+                    2.0,
+                    394.0
+                ],
+                [
+                    0.0,
+                    394.0
+                ],
+                [
+                    0.0,
+                    408.0
+                ],
+                [
+                    4.0,
+                    408.0
+                ],
+                [
+                    4.0,
+                    407.0
+                ],
+                [
+                    5.0,
+                    407.0
+                ],
+                [
+                    5.0,
+                    406.0
+                ],
+                [
+                    6.0,
+                    406.0
+                ],
+                [
+                    6.0,
+                    405.0
+                ],
+                [
+                    7.0,
+                    405.0
+                ],
+                [
+                    7.0,
+                    404.0
+                ],
+                [
+                    8.0,
+                    404.0
+                ],
+                [
+                    8.0,
+                    403.0
+                ],
+                [
+                    9.0,
+                    403.0
+                ],
+                [
+                    9.0,
+                    401.0
+                ],
+                [
+                    10.0,
+                    401.0
+                ],
+                [
+                    10.0,
+                    397.0
+                ],
+                [
+                    11.0,
+                    397.0
+                ],
+                [
+                    11.0,
+                    394.0
+                ],
+                [
+                    10.0,
+                    394.0
+                ],
+                [
+                    10.0,
+                    391.0
+                ],
+                [
+                    8.0,
+                    391.0
+                ],
+                [
+                    8.0,
+                    390.0
+                ],
+                [
+                    4.0,
+                    390.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

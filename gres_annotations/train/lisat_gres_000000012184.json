@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the big, rectangular form with windows lined up in a series, characteristic of a bus, within the picture.",
+        "Find the sizable, rectangular structure featuring windows arranged in a line, common to buses, in the photo.",
+        "Locate the large, rectangular object with windows set in a row, typical of buses, in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012184.jpg",
+            "points": [
+                [
+                    373.0,
+                    203.0
+                ],
+                [
+                    373.0,
+                    204.0
+                ],
+                [
+                    363.0,
+                    204.0
+                ],
+                [
+                    363.0,
+                    205.0
+                ],
+                [
+                    362.0,
+                    205.0
+                ],
+                [
+                    362.0,
+                    213.0
+                ],
+                [
+                    363.0,
+                    213.0
+                ],
+                [
+                    363.0,
+                    214.0
+                ],
+                [
+                    375.0,
+                    214.0
+                ],
+                [
+                    375.0,
+                    215.0
+                ],
+                [
+                    394.0,
+                    215.0
+                ],
+                [
+                    394.0,
+                    214.0
+                ],
+                [
+                    396.0,
+                    214.0
+                ],
+                [
+                    396.0,
+                    213.0
+                ],
+                [
+                    397.0,
+                    213.0
+                ],
+                [
+                    397.0,
+                    207.0
+                ],
+                [
+                    396.0,
+                    207.0
+                ],
+                [
+                    396.0,
+                    204.0
+                ],
+                [
+                    393.0,
+                    204.0
+                ],
+                [
+                    393.0,
+                    203.0
+                ],
+                [
+                    373.0,
+                    203.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

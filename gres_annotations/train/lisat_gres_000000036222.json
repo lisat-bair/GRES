@@ -1,0 +1,157 @@
+{
+    "text": [
+        "The bus in the picture can be recognized as a long vehicle featuring unique windows and bright colors such as yellow or blue.",
+        "In the image, the bus is characterized by its extended shape, noticeable windows, and vivid hues like yellow or blue.",
+        "Spot the bus in the photograph as a lengthy vehicle with prominent windows and striking colors like yellow or blue."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036222.jpg",
+            "points": [
+                [
+                    344.0,
+                    201.0
+                ],
+                [
+                    344.0,
+                    202.0
+                ],
+                [
+                    343.0,
+                    202.0
+                ],
+                [
+                    343.0,
+                    208.0
+                ],
+                [
+                    344.0,
+                    208.0
+                ],
+                [
+                    344.0,
+                    211.0
+                ],
+                [
+                    345.0,
+                    211.0
+                ],
+                [
+                    345.0,
+                    214.0
+                ],
+                [
+                    346.0,
+                    214.0
+                ],
+                [
+                    346.0,
+                    216.0
+                ],
+                [
+                    347.0,
+                    216.0
+                ],
+                [
+                    347.0,
+                    218.0
+                ],
+                [
+                    348.0,
+                    218.0
+                ],
+                [
+                    348.0,
+                    219.0
+                ],
+                [
+                    350.0,
+                    219.0
+                ],
+                [
+                    350.0,
+                    220.0
+                ],
+                [
+                    354.0,
+                    220.0
+                ],
+                [
+                    354.0,
+                    219.0
+                ],
+                [
+                    356.0,
+                    219.0
+                ],
+                [
+                    356.0,
+                    213.0
+                ],
+                [
+                    355.0,
+                    213.0
+                ],
+                [
+                    355.0,
+                    211.0
+                ],
+                [
+                    354.0,
+                    211.0
+                ],
+                [
+                    354.0,
+                    208.0
+                ],
+                [
+                    353.0,
+                    208.0
+                ],
+                [
+                    353.0,
+                    206.0
+                ],
+                [
+                    352.0,
+                    206.0
+                ],
+                [
+                    352.0,
+                    204.0
+                ],
+                [
+                    351.0,
+                    204.0
+                ],
+                [
+                    351.0,
+                    203.0
+                ],
+                [
+                    350.0,
+                    203.0
+                ],
+                [
+                    350.0,
+                    201.0
+                ],
+                [
+                    344.0,
+                    201.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

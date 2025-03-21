@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the structure that has a dark rectangular form with a small circular detail in the center and a consistent surface texture.",
+        "Find the building characterized by a dark, rectangular shape with a centered small circular feature and an even texture.",
+        "Spot the edifice with a dark, rectangular design that includes a small circle in the middle and a uniform texture."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019920.jpg",
+            "points": [
+                [
+                    43.0,
+                    176.0
+                ],
+                [
+                    43.0,
+                    177.0
+                ],
+                [
+                    6.0,
+                    177.0
+                ],
+                [
+                    6.0,
+                    179.0
+                ],
+                [
+                    5.0,
+                    179.0
+                ],
+                [
+                    5.0,
+                    188.0
+                ],
+                [
+                    6.0,
+                    188.0
+                ],
+                [
+                    6.0,
+                    196.0
+                ],
+                [
+                    7.0,
+                    196.0
+                ],
+                [
+                    7.0,
+                    197.0
+                ],
+                [
+                    8.0,
+                    197.0
+                ],
+                [
+                    8.0,
+                    198.0
+                ],
+                [
+                    40.0,
+                    198.0
+                ],
+                [
+                    40.0,
+                    197.0
+                ],
+                [
+                    58.0,
+                    197.0
+                ],
+                [
+                    58.0,
+                    196.0
+                ],
+                [
+                    59.0,
+                    196.0
+                ],
+                [
+                    59.0,
+                    180.0
+                ],
+                [
+                    58.0,
+                    180.0
+                ],
+                [
+                    58.0,
+                    177.0
+                ],
+                [
+                    56.0,
+                    177.0
+                ],
+                [
+                    56.0,
+                    176.0
+                ],
+                [
+                    45.0,
+                    176.0
+                ],
+                [
+                    45.0,
+                    177.0
+                ],
+                [
+                    44.0,
+                    177.0
+                ],
+                [
+                    44.0,
+                    176.0
+                ],
+                [
+                    43.0,
+                    176.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

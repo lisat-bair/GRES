@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the bus situated in the image's bottom-right corner.",
+        "Identify the bus positioned at the lower-right section of the picture.",
+        "Spot the bus located at the bottom-right side of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035096.jpg",
+            "points": [
+                [
+                    434.0,
+                    435.0
+                ],
+                [
+                    434.0,
+                    436.0
+                ],
+                [
+                    432.0,
+                    436.0
+                ],
+                [
+                    432.0,
+                    438.0
+                ],
+                [
+                    431.0,
+                    438.0
+                ],
+                [
+                    431.0,
+                    443.0
+                ],
+                [
+                    430.0,
+                    443.0
+                ],
+                [
+                    430.0,
+                    450.0
+                ],
+                [
+                    431.0,
+                    450.0
+                ],
+                [
+                    431.0,
+                    451.0
+                ],
+                [
+                    436.0,
+                    451.0
+                ],
+                [
+                    436.0,
+                    449.0
+                ],
+                [
+                    437.0,
+                    449.0
+                ],
+                [
+                    437.0,
+                    446.0
+                ],
+                [
+                    438.0,
+                    446.0
+                ],
+                [
+                    438.0,
+                    440.0
+                ],
+                [
+                    439.0,
+                    440.0
+                ],
+                [
+                    439.0,
+                    437.0
+                ],
+                [
+                    438.0,
+                    437.0
+                ],
+                [
+                    438.0,
+                    436.0
+                ],
+                [
+                    437.0,
+                    436.0
+                ],
+                [
+                    437.0,
+                    435.0
+                ],
+                [
+                    434.0,
+                    435.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

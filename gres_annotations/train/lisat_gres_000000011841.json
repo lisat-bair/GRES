@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Isolate the bus found in the upper-left corner of the picture based on the given coordinates.",
+        "Extract the bus positioned at the top-left area of the image using the specified coordinates.",
+        "Separate the bus situated in the top-left section of the photo from the indicated coordinates."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011841.jpg",
+            "points": [
+                [
+                    32.0,
+                    31.0
+                ],
+                [
+                    32.0,
+                    32.0
+                ],
+                [
+                    31.0,
+                    32.0
+                ],
+                [
+                    31.0,
+                    33.0
+                ],
+                [
+                    30.0,
+                    33.0
+                ],
+                [
+                    30.0,
+                    34.0
+                ],
+                [
+                    29.0,
+                    34.0
+                ],
+                [
+                    29.0,
+                    38.0
+                ],
+                [
+                    30.0,
+                    38.0
+                ],
+                [
+                    30.0,
+                    39.0
+                ],
+                [
+                    31.0,
+                    39.0
+                ],
+                [
+                    31.0,
+                    40.0
+                ],
+                [
+                    32.0,
+                    40.0
+                ],
+                [
+                    32.0,
+                    41.0
+                ],
+                [
+                    36.0,
+                    41.0
+                ],
+                [
+                    36.0,
+                    40.0
+                ],
+                [
+                    37.0,
+                    40.0
+                ],
+                [
+                    37.0,
+                    39.0
+                ],
+                [
+                    38.0,
+                    39.0
+                ],
+                [
+                    38.0,
+                    38.0
+                ],
+                [
+                    39.0,
+                    38.0
+                ],
+                [
+                    39.0,
+                    33.0
+                ],
+                [
+                    38.0,
+                    33.0
+                ],
+                [
+                    38.0,
+                    32.0
+                ],
+                [
+                    37.0,
+                    32.0
+                ],
+                [
+                    37.0,
+                    31.0
+                ],
+                [
+                    32.0,
+                    31.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

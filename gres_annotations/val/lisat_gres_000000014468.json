@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Locate the truck with a distinct blue color and rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014468.jpg",
+            "points": [
+                [
+                    86.0,
+                    0.0
+                ],
+                [
+                    86.0,
+                    3.0
+                ],
+                [
+                    87.0,
+                    3.0
+                ],
+                [
+                    87.0,
+                    4.0
+                ],
+                [
+                    88.0,
+                    4.0
+                ],
+                [
+                    88.0,
+                    9.0
+                ],
+                [
+                    89.0,
+                    9.0
+                ],
+                [
+                    89.0,
+                    10.0
+                ],
+                [
+                    90.0,
+                    10.0
+                ],
+                [
+                    90.0,
+                    11.0
+                ],
+                [
+                    95.0,
+                    11.0
+                ],
+                [
+                    95.0,
+                    6.0
+                ],
+                [
+                    94.0,
+                    6.0
+                ],
+                [
+                    94.0,
+                    0.0
+                ],
+                [
+                    86.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Identify the car with a sleek, metallic surface and distinct reflective features that contrast with the surrounding environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033630.jpg",
+            "points": [
+                [
+                    89.0,
+                    176.0
+                ],
+                [
+                    89.0,
+                    177.0
+                ],
+                [
+                    88.0,
+                    177.0
+                ],
+                [
+                    88.0,
+                    178.0
+                ],
+                [
+                    87.0,
+                    178.0
+                ],
+                [
+                    87.0,
+                    180.0
+                ],
+                [
+                    88.0,
+                    180.0
+                ],
+                [
+                    88.0,
+                    181.0
+                ],
+                [
+                    89.0,
+                    181.0
+                ],
+                [
+                    89.0,
+                    182.0
+                ],
+                [
+                    94.0,
+                    182.0
+                ],
+                [
+                    94.0,
+                    181.0
+                ],
+                [
+                    95.0,
+                    181.0
+                ],
+                [
+                    95.0,
+                    177.0
+                ],
+                [
+                    94.0,
+                    177.0
+                ],
+                [
+                    94.0,
+                    176.0
+                ],
+                [
+                    89.0,
+                    176.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

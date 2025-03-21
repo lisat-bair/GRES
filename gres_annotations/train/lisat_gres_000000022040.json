@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the metallic cylinder with a round top that stands out against the shadowy background.",
+        "Observe the shiny cylindrical form with a circular top that contrasts with the dim backdrop.",
+        "Find the cylinder with a metal surface and a round top that starkly contrasts the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022040.jpg",
+            "points": [
+                [
+                    21.0,
+                    500.0
+                ],
+                [
+                    21.0,
+                    501.0
+                ],
+                [
+                    19.0,
+                    501.0
+                ],
+                [
+                    19.0,
+                    502.0
+                ],
+                [
+                    17.0,
+                    502.0
+                ],
+                [
+                    17.0,
+                    503.0
+                ],
+                [
+                    16.0,
+                    503.0
+                ],
+                [
+                    16.0,
+                    504.0
+                ],
+                [
+                    15.0,
+                    504.0
+                ],
+                [
+                    15.0,
+                    505.0
+                ],
+                [
+                    14.0,
+                    505.0
+                ],
+                [
+                    14.0,
+                    507.0
+                ],
+                [
+                    13.0,
+                    507.0
+                ],
+                [
+                    13.0,
+                    510.0
+                ],
+                [
+                    12.0,
+                    510.0
+                ],
+                [
+                    12.0,
+                    512.0
+                ],
+                [
+                    45.0,
+                    512.0
+                ],
+                [
+                    45.0,
+                    511.0
+                ],
+                [
+                    44.0,
+                    511.0
+                ],
+                [
+                    44.0,
+                    509.0
+                ],
+                [
+                    43.0,
+                    509.0
+                ],
+                [
+                    43.0,
+                    507.0
+                ],
+                [
+                    42.0,
+                    507.0
+                ],
+                [
+                    42.0,
+                    505.0
+                ],
+                [
+                    41.0,
+                    505.0
+                ],
+                [
+                    41.0,
+                    504.0
+                ],
+                [
+                    39.0,
+                    504.0
+                ],
+                [
+                    39.0,
+                    503.0
+                ],
+                [
+                    37.0,
+                    503.0
+                ],
+                [
+                    37.0,
+                    502.0
+                ],
+                [
+                    35.0,
+                    502.0
+                ],
+                [
+                    35.0,
+                    501.0
+                ],
+                [
+                    33.0,
+                    501.0
+                ],
+                [
+                    33.0,
+                    500.0
+                ],
+                [
+                    21.0,
+                    500.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

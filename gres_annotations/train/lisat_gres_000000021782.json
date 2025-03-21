@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Look for the truck that has a rectangular form, a shiny metallic surface, and a unique curved design on a dark base.",
+        "Spot the truck possessing a rectangular silhouette, a metallic gloss, and a notable curved motif set against a dark backdrop.",
+        "Find the truck characterized by its rectangular shape, metallic luster, and a distinct curved pattern over a dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021782.jpg",
+            "points": [
+                [
+                    0.0,
+                    24.0
+                ],
+                [
+                    0.0,
+                    42.0
+                ],
+                [
+                    4.0,
+                    42.0
+                ],
+                [
+                    4.0,
+                    41.0
+                ],
+                [
+                    12.0,
+                    41.0
+                ],
+                [
+                    12.0,
+                    40.0
+                ],
+                [
+                    16.0,
+                    40.0
+                ],
+                [
+                    16.0,
+                    36.0
+                ],
+                [
+                    17.0,
+                    36.0
+                ],
+                [
+                    17.0,
+                    34.0
+                ],
+                [
+                    16.0,
+                    34.0
+                ],
+                [
+                    16.0,
+                    32.0
+                ],
+                [
+                    17.0,
+                    32.0
+                ],
+                [
+                    17.0,
+                    27.0
+                ],
+                [
+                    16.0,
+                    27.0
+                ],
+                [
+                    16.0,
+                    26.0
+                ],
+                [
+                    15.0,
+                    26.0
+                ],
+                [
+                    15.0,
+                    25.0
+                ],
+                [
+                    9.0,
+                    25.0
+                ],
+                [
+                    9.0,
+                    24.0
+                ],
+                [
+                    0.0,
+                    24.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

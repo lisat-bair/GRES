@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Even with the image being blurry and lacking clear features, pinpoint the building.",
+        "Despite the unclear and indistinct characteristics, recognize the building in the picture.",
+        "Determine the building in the photograph, even with its blurriness and absence of prominent features."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002527.jpg",
+            "points": [
+                [
+                    369.0,
+                    503.0
+                ],
+                [
+                    369.0,
+                    504.0
+                ],
+                [
+                    368.0,
+                    504.0
+                ],
+                [
+                    368.0,
+                    505.0
+                ],
+                [
+                    366.0,
+                    505.0
+                ],
+                [
+                    366.0,
+                    507.0
+                ],
+                [
+                    365.0,
+                    507.0
+                ],
+                [
+                    365.0,
+                    508.0
+                ],
+                [
+                    364.0,
+                    508.0
+                ],
+                [
+                    364.0,
+                    510.0
+                ],
+                [
+                    363.0,
+                    510.0
+                ],
+                [
+                    363.0,
+                    512.0
+                ],
+                [
+                    384.0,
+                    512.0
+                ],
+                [
+                    384.0,
+                    510.0
+                ],
+                [
+                    383.0,
+                    510.0
+                ],
+                [
+                    383.0,
+                    508.0
+                ],
+                [
+                    382.0,
+                    508.0
+                ],
+                [
+                    382.0,
+                    507.0
+                ],
+                [
+                    381.0,
+                    507.0
+                ],
+                [
+                    381.0,
+                    505.0
+                ],
+                [
+                    380.0,
+                    505.0
+                ],
+                [
+                    380.0,
+                    504.0
+                ],
+                [
+                    379.0,
+                    504.0
+                ],
+                [
+                    379.0,
+                    503.0
+                ],
+                [
+                    369.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

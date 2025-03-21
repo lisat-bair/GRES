@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the massive vehicle that has a unique box-like form and wheels, with an additional long trailer hitched at the back.",
+        "Find the huge automobile characterized by its prominent rectangular design and wheels, accompanied by a separate extended trailer connected at the rear.",
+        "Look for the big transportation unit that boasts a specific rectangular silhouette and wheels, with a distinct long trailer appended to its back."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002093.jpg",
+            "points": [
+                [
+                    0.0,
+                    184.0
+                ],
+                [
+                    0.0,
+                    213.0
+                ],
+                [
+                    1.0,
+                    213.0
+                ],
+                [
+                    1.0,
+                    211.0
+                ],
+                [
+                    2.0,
+                    211.0
+                ],
+                [
+                    2.0,
+                    205.0
+                ],
+                [
+                    3.0,
+                    205.0
+                ],
+                [
+                    3.0,
+                    200.0
+                ],
+                [
+                    4.0,
+                    200.0
+                ],
+                [
+                    4.0,
+                    196.0
+                ],
+                [
+                    5.0,
+                    196.0
+                ],
+                [
+                    5.0,
+                    190.0
+                ],
+                [
+                    6.0,
+                    190.0
+                ],
+                [
+                    6.0,
+                    185.0
+                ],
+                [
+                    4.0,
+                    185.0
+                ],
+                [
+                    4.0,
+                    184.0
+                ],
+                [
+                    0.0,
+                    184.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck located at the top-center of the picture, identifiable by its unique shape and placement.",
+        "Identify the truck situated in the image's top-center, marked by its noticeable shape and location.",
+        "Spot the truck positioned at the top-center of the image, distinguished by its particular shape and spot."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036100.jpg",
+            "points": [
+                [
+                    264.0,
+                    0.0
+                ],
+                [
+                    264.0,
+                    3.0
+                ],
+                [
+                    263.0,
+                    3.0
+                ],
+                [
+                    263.0,
+                    8.0
+                ],
+                [
+                    265.0,
+                    8.0
+                ],
+                [
+                    265.0,
+                    9.0
+                ],
+                [
+                    269.0,
+                    9.0
+                ],
+                [
+                    269.0,
+                    8.0
+                ],
+                [
+                    270.0,
+                    8.0
+                ],
+                [
+                    270.0,
+                    6.0
+                ],
+                [
+                    271.0,
+                    6.0
+                ],
+                [
+                    271.0,
+                    3.0
+                ],
+                [
+                    272.0,
+                    3.0
+                ],
+                [
+                    272.0,
+                    0.0
+                ],
+                [
+                    264.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

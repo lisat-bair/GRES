@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for the vehicle that features a notable white area set against darker sections, particularly emphasizing its unique rectangular windows and doors.",
+        "Spot the automobile characterized by a striking white part amidst dark surroundings, with distinctive rectangular windows and doors.",
+        "Find the car distinguished by its significant white portion contrasting with darker areas, paying special attention to its rectangular windows and doors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013843.jpg",
+            "points": [
+                [
+                    441.0,
+                    196.0
+                ],
+                [
+                    441.0,
+                    197.0
+                ],
+                [
+                    440.0,
+                    197.0
+                ],
+                [
+                    440.0,
+                    199.0
+                ],
+                [
+                    439.0,
+                    199.0
+                ],
+                [
+                    439.0,
+                    202.0
+                ],
+                [
+                    440.0,
+                    202.0
+                ],
+                [
+                    440.0,
+                    204.0
+                ],
+                [
+                    441.0,
+                    204.0
+                ],
+                [
+                    441.0,
+                    205.0
+                ],
+                [
+                    443.0,
+                    205.0
+                ],
+                [
+                    443.0,
+                    206.0
+                ],
+                [
+                    444.0,
+                    206.0
+                ],
+                [
+                    444.0,
+                    207.0
+                ],
+                [
+                    445.0,
+                    207.0
+                ],
+                [
+                    445.0,
+                    208.0
+                ],
+                [
+                    453.0,
+                    208.0
+                ],
+                [
+                    453.0,
+                    207.0
+                ],
+                [
+                    454.0,
+                    207.0
+                ],
+                [
+                    454.0,
+                    205.0
+                ],
+                [
+                    455.0,
+                    205.0
+                ],
+                [
+                    455.0,
+                    203.0
+                ],
+                [
+                    454.0,
+                    203.0
+                ],
+                [
+                    454.0,
+                    201.0
+                ],
+                [
+                    452.0,
+                    201.0
+                ],
+                [
+                    452.0,
+                    200.0
+                ],
+                [
+                    451.0,
+                    200.0
+                ],
+                [
+                    451.0,
+                    199.0
+                ],
+                [
+                    449.0,
+                    199.0
+                ],
+                [
+                    449.0,
+                    198.0
+                ],
+                [
+                    447.0,
+                    198.0
+                ],
+                [
+                    447.0,
+                    197.0
+                ],
+                [
+                    445.0,
+                    197.0
+                ],
+                [
+                    445.0,
+                    196.0
+                ],
+                [
+                    441.0,
+                    196.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

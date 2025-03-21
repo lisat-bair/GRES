@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Recognize the shed as the rectangular building with horizontal wooden boards and a sloped roof.",
+        "Spot the shed as the rectangular structure featuring horizontal wood planks and a pitched roof.",
+        "Notice the shed as the rectangular edifice with wooden planks laid horizontally and a gabled top."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014717.jpg",
+            "points": [
+                [
+                    62.0,
+                    144.0
+                ],
+                [
+                    62.0,
+                    145.0
+                ],
+                [
+                    60.0,
+                    145.0
+                ],
+                [
+                    60.0,
+                    147.0
+                ],
+                [
+                    57.0,
+                    147.0
+                ],
+                [
+                    57.0,
+                    148.0
+                ],
+                [
+                    56.0,
+                    148.0
+                ],
+                [
+                    56.0,
+                    149.0
+                ],
+                [
+                    55.0,
+                    149.0
+                ],
+                [
+                    55.0,
+                    152.0
+                ],
+                [
+                    56.0,
+                    152.0
+                ],
+                [
+                    56.0,
+                    153.0
+                ],
+                [
+                    60.0,
+                    153.0
+                ],
+                [
+                    60.0,
+                    158.0
+                ],
+                [
+                    61.0,
+                    158.0
+                ],
+                [
+                    61.0,
+                    160.0
+                ],
+                [
+                    62.0,
+                    160.0
+                ],
+                [
+                    62.0,
+                    161.0
+                ],
+                [
+                    87.0,
+                    161.0
+                ],
+                [
+                    87.0,
+                    151.0
+                ],
+                [
+                    88.0,
+                    151.0
+                ],
+                [
+                    88.0,
+                    147.0
+                ],
+                [
+                    87.0,
+                    147.0
+                ],
+                [
+                    87.0,
+                    145.0
+                ],
+                [
+                    70.0,
+                    145.0
+                ],
+                [
+                    70.0,
+                    144.0
+                ],
+                [
+                    62.0,
+                    144.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

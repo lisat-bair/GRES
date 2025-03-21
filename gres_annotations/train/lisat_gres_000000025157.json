@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Look for a car in the picture that has a metallic finish, four wheels, and a typical vehicle form.",
+        "Spot the automobile in the photo that features a shiny metal surface, four wheels, and a familiar car outline.",
+        "Find the vehicle in the image that displays a metallic luster, four wheels, and a distinct car shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025157.jpg",
+            "points": [
+                [
+                    74.0,
+                    471.0
+                ],
+                [
+                    74.0,
+                    472.0
+                ],
+                [
+                    73.0,
+                    472.0
+                ],
+                [
+                    73.0,
+                    473.0
+                ],
+                [
+                    72.0,
+                    473.0
+                ],
+                [
+                    72.0,
+                    475.0
+                ],
+                [
+                    73.0,
+                    475.0
+                ],
+                [
+                    73.0,
+                    477.0
+                ],
+                [
+                    75.0,
+                    477.0
+                ],
+                [
+                    75.0,
+                    478.0
+                ],
+                [
+                    81.0,
+                    478.0
+                ],
+                [
+                    81.0,
+                    477.0
+                ],
+                [
+                    84.0,
+                    477.0
+                ],
+                [
+                    84.0,
+                    476.0
+                ],
+                [
+                    85.0,
+                    476.0
+                ],
+                [
+                    85.0,
+                    473.0
+                ],
+                [
+                    84.0,
+                    473.0
+                ],
+                [
+                    84.0,
+                    472.0
+                ],
+                [
+                    83.0,
+                    472.0
+                ],
+                [
+                    83.0,
+                    471.0
+                ],
+                [
+                    74.0,
+                    471.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the truck situated in the upper-right section of the picture.",
+        "Spot the truck positioned in the top-right area of the image.",
+        "Identify the truck located in the top-right corner of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014360.jpg",
+            "points": [
+                [
+                    511.0,
+                    257.0
+                ],
+                [
+                    511.0,
+                    258.0
+                ],
+                [
+                    509.0,
+                    258.0
+                ],
+                [
+                    509.0,
+                    260.0
+                ],
+                [
+                    508.0,
+                    260.0
+                ],
+                [
+                    508.0,
+                    265.0
+                ],
+                [
+                    509.0,
+                    265.0
+                ],
+                [
+                    509.0,
+                    266.0
+                ],
+                [
+                    510.0,
+                    266.0
+                ],
+                [
+                    510.0,
+                    267.0
+                ],
+                [
+                    512.0,
+                    267.0
+                ],
+                [
+                    512.0,
+                    257.0
+                ],
+                [
+                    511.0,
+                    257.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

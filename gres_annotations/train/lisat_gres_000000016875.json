@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the vehicle that looks like a big box on wheels and is commonly used to carry several passengers.",
+        "Search for the automobile that resembles a large rectangle on wheels, usually employed in moving many people.",
+        "Identify the transport that appears as a sizable rectangular object with wheels, typically utilized for ferrying numerous passengers."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016875.jpg",
+            "points": [
+                [
+                    450.0,
+                    48.0
+                ],
+                [
+                    450.0,
+                    50.0
+                ],
+                [
+                    449.0,
+                    50.0
+                ],
+                [
+                    449.0,
+                    70.0
+                ],
+                [
+                    450.0,
+                    70.0
+                ],
+                [
+                    450.0,
+                    71.0
+                ],
+                [
+                    459.0,
+                    71.0
+                ],
+                [
+                    459.0,
+                    70.0
+                ],
+                [
+                    460.0,
+                    70.0
+                ],
+                [
+                    460.0,
+                    51.0
+                ],
+                [
+                    459.0,
+                    51.0
+                ],
+                [
+                    459.0,
+                    48.0
+                ],
+                [
+                    450.0,
+                    48.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

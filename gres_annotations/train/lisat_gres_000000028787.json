@@ -1,0 +1,137 @@
+{
+    "text": [
+        "Locate the liquid container situated in the bottom-right corner of the picture.",
+        "Find the liquid tank positioned at the lower-right side of the image.",
+        "Pinpoint the liquid reservoir in the bottom-right area of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028787.jpg",
+            "points": [
+                [
+                    450.0,
+                    505.0
+                ],
+                [
+                    450.0,
+                    506.0
+                ],
+                [
+                    449.0,
+                    506.0
+                ],
+                [
+                    449.0,
+                    507.0
+                ],
+                [
+                    447.0,
+                    507.0
+                ],
+                [
+                    447.0,
+                    508.0
+                ],
+                [
+                    443.0,
+                    508.0
+                ],
+                [
+                    443.0,
+                    509.0
+                ],
+                [
+                    441.0,
+                    509.0
+                ],
+                [
+                    441.0,
+                    512.0
+                ],
+                [
+                    468.0,
+                    512.0
+                ],
+                [
+                    468.0,
+                    507.0
+                ],
+                [
+                    464.0,
+                    507.0
+                ],
+                [
+                    464.0,
+                    508.0
+                ],
+                [
+                    460.0,
+                    508.0
+                ],
+                [
+                    460.0,
+                    506.0
+                ],
+                [
+                    459.0,
+                    506.0
+                ],
+                [
+                    459.0,
+                    505.0
+                ],
+                [
+                    456.0,
+                    505.0
+                ],
+                [
+                    456.0,
+                    506.0
+                ],
+                [
+                    453.0,
+                    506.0
+                ],
+                [
+                    453.0,
+                    505.0
+                ],
+                [
+                    450.0,
+                    505.0
+                ],
+                [
+                    470.0,
+                    511.0
+                ],
+                [
+                    470.0,
+                    512.0
+                ],
+                [
+                    472.0,
+                    512.0
+                ],
+                [
+                    472.0,
+                    511.0
+                ],
+                [
+                    470.0,
+                    511.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

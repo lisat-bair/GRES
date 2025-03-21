@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the excavator in the top-right section of the picture, which could be partially or entirely out of view.",
+        "Spot the excavator located in the upper-right corner of the image, potentially not fully visible or entirely missing.",
+        "Find the excavator positioned at the top-right edge of the photo, which may be partially or completely out of the frame."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016514.jpg",
+            "points": [
+                [
+                    511.0,
+                    61.0
+                ],
+                [
+                    511.0,
+                    62.0
+                ],
+                [
+                    508.0,
+                    62.0
+                ],
+                [
+                    508.0,
+                    63.0
+                ],
+                [
+                    505.0,
+                    63.0
+                ],
+                [
+                    505.0,
+                    64.0
+                ],
+                [
+                    503.0,
+                    64.0
+                ],
+                [
+                    503.0,
+                    65.0
+                ],
+                [
+                    502.0,
+                    65.0
+                ],
+                [
+                    502.0,
+                    66.0
+                ],
+                [
+                    501.0,
+                    66.0
+                ],
+                [
+                    501.0,
+                    67.0
+                ],
+                [
+                    500.0,
+                    67.0
+                ],
+                [
+                    500.0,
+                    71.0
+                ],
+                [
+                    501.0,
+                    71.0
+                ],
+                [
+                    501.0,
+                    76.0
+                ],
+                [
+                    502.0,
+                    76.0
+                ],
+                [
+                    502.0,
+                    79.0
+                ],
+                [
+                    501.0,
+                    79.0
+                ],
+                [
+                    501.0,
+                    84.0
+                ],
+                [
+                    503.0,
+                    84.0
+                ],
+                [
+                    503.0,
+                    85.0
+                ],
+                [
+                    504.0,
+                    85.0
+                ],
+                [
+                    504.0,
+                    86.0
+                ],
+                [
+                    509.0,
+                    86.0
+                ],
+                [
+                    509.0,
+                    85.0
+                ],
+                [
+                    512.0,
+                    85.0
+                ],
+                [
+                    512.0,
+                    61.0
+                ],
+                [
+                    511.0,
+                    61.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

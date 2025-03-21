@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the vessel featuring a white, long design and streamlined form set against a dark backdrop.",
+        "Identify the ship with a white, extended build and smooth silhouette situated on a contrasting dark background.",
+        "Spot the craft that has a white, elongated structure and a sleek shape contrasted by a dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026275.jpg",
+            "points": [
+                [
+                    321.0,
+                    378.0
+                ],
+                [
+                    321.0,
+                    379.0
+                ],
+                [
+                    319.0,
+                    379.0
+                ],
+                [
+                    319.0,
+                    380.0
+                ],
+                [
+                    318.0,
+                    380.0
+                ],
+                [
+                    318.0,
+                    382.0
+                ],
+                [
+                    317.0,
+                    382.0
+                ],
+                [
+                    317.0,
+                    384.0
+                ],
+                [
+                    318.0,
+                    384.0
+                ],
+                [
+                    318.0,
+                    387.0
+                ],
+                [
+                    320.0,
+                    387.0
+                ],
+                [
+                    320.0,
+                    388.0
+                ],
+                [
+                    325.0,
+                    388.0
+                ],
+                [
+                    325.0,
+                    389.0
+                ],
+                [
+                    330.0,
+                    389.0
+                ],
+                [
+                    330.0,
+                    388.0
+                ],
+                [
+                    335.0,
+                    388.0
+                ],
+                [
+                    335.0,
+                    387.0
+                ],
+                [
+                    336.0,
+                    387.0
+                ],
+                [
+                    336.0,
+                    386.0
+                ],
+                [
+                    337.0,
+                    386.0
+                ],
+                [
+                    337.0,
+                    382.0
+                ],
+                [
+                    336.0,
+                    382.0
+                ],
+                [
+                    336.0,
+                    381.0
+                ],
+                [
+                    335.0,
+                    381.0
+                ],
+                [
+                    335.0,
+                    380.0
+                ],
+                [
+                    334.0,
+                    380.0
+                ],
+                [
+                    334.0,
+                    379.0
+                ],
+                [
+                    329.0,
+                    379.0
+                ],
+                [
+                    329.0,
+                    378.0
+                ],
+                [
+                    321.0,
+                    378.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

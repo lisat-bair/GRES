@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the trailer in the lower-right corner of the picture, identifiable by its unique wheels, usually metallic or painted, and attached to a truck cab in the front.",
+        "Spot the trailer positioned at the bottom-right of the image, recognized by its distinctive wheels, often metallic or painted, connected to the truck's cab at the front.",
+        "Identify the trailer located in the bottom-right section of the image, distinguished by its special wheels, which are typically metallic or painted, and linked to a truck cab at the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014076.jpg",
+            "points": [
+                [
+                    407.0,
+                    361.0
+                ],
+                [
+                    407.0,
+                    362.0
+                ],
+                [
+                    401.0,
+                    362.0
+                ],
+                [
+                    401.0,
+                    363.0
+                ],
+                [
+                    400.0,
+                    363.0
+                ],
+                [
+                    400.0,
+                    367.0
+                ],
+                [
+                    401.0,
+                    367.0
+                ],
+                [
+                    401.0,
+                    368.0
+                ],
+                [
+                    402.0,
+                    368.0
+                ],
+                [
+                    402.0,
+                    369.0
+                ],
+                [
+                    415.0,
+                    369.0
+                ],
+                [
+                    415.0,
+                    362.0
+                ],
+                [
+                    414.0,
+                    362.0
+                ],
+                [
+                    414.0,
+                    361.0
+                ],
+                [
+                    407.0,
+                    361.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

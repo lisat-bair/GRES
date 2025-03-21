@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Spot the big yellow vehicle equipped with wheels or tracks, which has a blade or scoop at the front or back.",
+        "Locate the sizable yellow machine that comes with either wheels or tracks, and includes a blade or scoop on either end.",
+        "Find the large yellow equipment that uses wheels or tracks, characterized by a front or rear blade or scoop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006547.jpg",
+            "points": [
+                [
+                    401,
+                    195
+                ],
+                [
+                    434,
+                    195
+                ],
+                [
+                    434,
+                    215
+                ],
+                [
+                    401,
+                    215
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

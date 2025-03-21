@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the vehicle situated in the middle of the picture, recognizable by its small size and exact location.",
+        "Identify the automobile located at the heart of the image, set apart by its diminutive dimensions and precise placement.",
+        "Spot the car positioned centrally in the photograph, notable for its petite stature and distinct spot."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002126.jpg",
+            "points": [
+                [
+                    236.0,
+                    169.0
+                ],
+                [
+                    236.0,
+                    170.0
+                ],
+                [
+                    235.0,
+                    170.0
+                ],
+                [
+                    235.0,
+                    171.0
+                ],
+                [
+                    234.0,
+                    171.0
+                ],
+                [
+                    234.0,
+                    172.0
+                ],
+                [
+                    233.0,
+                    172.0
+                ],
+                [
+                    233.0,
+                    175.0
+                ],
+                [
+                    234.0,
+                    175.0
+                ],
+                [
+                    234.0,
+                    176.0
+                ],
+                [
+                    235.0,
+                    176.0
+                ],
+                [
+                    235.0,
+                    177.0
+                ],
+                [
+                    238.0,
+                    177.0
+                ],
+                [
+                    238.0,
+                    178.0
+                ],
+                [
+                    244.0,
+                    178.0
+                ],
+                [
+                    244.0,
+                    179.0
+                ],
+                [
+                    249.0,
+                    179.0
+                ],
+                [
+                    249.0,
+                    177.0
+                ],
+                [
+                    250.0,
+                    177.0
+                ],
+                [
+                    250.0,
+                    175.0
+                ],
+                [
+                    251.0,
+                    175.0
+                ],
+                [
+                    251.0,
+                    172.0
+                ],
+                [
+                    250.0,
+                    172.0
+                ],
+                [
+                    250.0,
+                    171.0
+                ],
+                [
+                    248.0,
+                    171.0
+                ],
+                [
+                    248.0,
+                    170.0
+                ],
+                [
+                    242.0,
+                    170.0
+                ],
+                [
+                    242.0,
+                    169.0
+                ],
+                [
+                    236.0,
+                    169.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

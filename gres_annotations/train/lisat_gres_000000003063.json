@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that has a sleek, pale exterior and noticeable dark wheels.",
+        "Search for the truck that features a light-toned body with prominent black wheels.",
+        "Look for the truck with a smooth, light-hued body and striking black wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003063.jpg",
+            "points": [
+                [
+                    507.0,
+                    451.0
+                ],
+                [
+                    507.0,
+                    452.0
+                ],
+                [
+                    506.0,
+                    452.0
+                ],
+                [
+                    506.0,
+                    453.0
+                ],
+                [
+                    505.0,
+                    453.0
+                ],
+                [
+                    505.0,
+                    456.0
+                ],
+                [
+                    504.0,
+                    456.0
+                ],
+                [
+                    504.0,
+                    463.0
+                ],
+                [
+                    503.0,
+                    463.0
+                ],
+                [
+                    503.0,
+                    471.0
+                ],
+                [
+                    504.0,
+                    471.0
+                ],
+                [
+                    504.0,
+                    472.0
+                ],
+                [
+                    506.0,
+                    472.0
+                ],
+                [
+                    506.0,
+                    473.0
+                ],
+                [
+                    507.0,
+                    473.0
+                ],
+                [
+                    507.0,
+                    474.0
+                ],
+                [
+                    509.0,
+                    474.0
+                ],
+                [
+                    509.0,
+                    473.0
+                ],
+                [
+                    512.0,
+                    473.0
+                ],
+                [
+                    512.0,
+                    452.0
+                ],
+                [
+                    510.0,
+                    452.0
+                ],
+                [
+                    510.0,
+                    451.0
+                ],
+                [
+                    507.0,
+                    451.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

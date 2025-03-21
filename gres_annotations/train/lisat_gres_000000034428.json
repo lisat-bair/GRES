@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the structure that is lighter in color situated amidst a mostly dark environment.",
+        "Identify the building in a lighter shade positioned at the heart of a largely dark backdrop.",
+        "Spot the edifice with a pale hue located centrally in a mainly dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034428.jpg",
+            "points": [
+                [
+                    262.0,
+                    298.0
+                ],
+                [
+                    262.0,
+                    299.0
+                ],
+                [
+                    261.0,
+                    299.0
+                ],
+                [
+                    261.0,
+                    300.0
+                ],
+                [
+                    260.0,
+                    300.0
+                ],
+                [
+                    260.0,
+                    304.0
+                ],
+                [
+                    261.0,
+                    304.0
+                ],
+                [
+                    261.0,
+                    306.0
+                ],
+                [
+                    262.0,
+                    306.0
+                ],
+                [
+                    262.0,
+                    308.0
+                ],
+                [
+                    264.0,
+                    308.0
+                ],
+                [
+                    264.0,
+                    309.0
+                ],
+                [
+                    265.0,
+                    309.0
+                ],
+                [
+                    265.0,
+                    310.0
+                ],
+                [
+                    269.0,
+                    310.0
+                ],
+                [
+                    269.0,
+                    309.0
+                ],
+                [
+                    271.0,
+                    309.0
+                ],
+                [
+                    271.0,
+                    303.0
+                ],
+                [
+                    270.0,
+                    303.0
+                ],
+                [
+                    270.0,
+                    302.0
+                ],
+                [
+                    269.0,
+                    302.0
+                ],
+                [
+                    269.0,
+                    301.0
+                ],
+                [
+                    268.0,
+                    301.0
+                ],
+                [
+                    268.0,
+                    300.0
+                ],
+                [
+                    266.0,
+                    300.0
+                ],
+                [
+                    266.0,
+                    299.0
+                ],
+                [
+                    265.0,
+                    299.0
+                ],
+                [
+                    265.0,
+                    298.0
+                ],
+                [
+                    262.0,
+                    298.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

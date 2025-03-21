@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the edifice that features a unique roof design and a lighter shade than the nearby buildings.",
+        "Identify the structure that has a distinctive roof pattern and is lighter in hue compared to the adjacent buildings.",
+        "Spot the building characterized by an unusual roof style and a paler color relative to the other constructions around."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015743.jpg",
+            "points": [
+                [
+                    502.0,
+                    439.0
+                ],
+                [
+                    502.0,
+                    441.0
+                ],
+                [
+                    501.0,
+                    441.0
+                ],
+                [
+                    501.0,
+                    442.0
+                ],
+                [
+                    499.0,
+                    442.0
+                ],
+                [
+                    499.0,
+                    443.0
+                ],
+                [
+                    498.0,
+                    443.0
+                ],
+                [
+                    498.0,
+                    448.0
+                ],
+                [
+                    499.0,
+                    448.0
+                ],
+                [
+                    499.0,
+                    450.0
+                ],
+                [
+                    500.0,
+                    450.0
+                ],
+                [
+                    500.0,
+                    451.0
+                ],
+                [
+                    502.0,
+                    451.0
+                ],
+                [
+                    502.0,
+                    452.0
+                ],
+                [
+                    507.0,
+                    452.0
+                ],
+                [
+                    507.0,
+                    451.0
+                ],
+                [
+                    508.0,
+                    451.0
+                ],
+                [
+                    508.0,
+                    452.0
+                ],
+                [
+                    512.0,
+                    452.0
+                ],
+                [
+                    512.0,
+                    444.0
+                ],
+                [
+                    511.0,
+                    444.0
+                ],
+                [
+                    511.0,
+                    443.0
+                ],
+                [
+                    509.0,
+                    443.0
+                ],
+                [
+                    509.0,
+                    442.0
+                ],
+                [
+                    507.0,
+                    442.0
+                ],
+                [
+                    507.0,
+                    441.0
+                ],
+                [
+                    506.0,
+                    441.0
+                ],
+                [
+                    506.0,
+                    439.0
+                ],
+                [
+                    502.0,
+                    439.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the car situated in the upper-right section of the picture.",
+        "Identify the passenger vehicle located in the top-right area of the photo.",
+        "Spot the car present in the top-right corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035665.jpg",
+            "points": [
+                [
+                    506.0,
+                    18.0
+                ],
+                [
+                    506.0,
+                    19.0
+                ],
+                [
+                    505.0,
+                    19.0
+                ],
+                [
+                    505.0,
+                    23.0
+                ],
+                [
+                    504.0,
+                    23.0
+                ],
+                [
+                    504.0,
+                    26.0
+                ],
+                [
+                    505.0,
+                    26.0
+                ],
+                [
+                    505.0,
+                    33.0
+                ],
+                [
+                    506.0,
+                    33.0
+                ],
+                [
+                    506.0,
+                    34.0
+                ],
+                [
+                    507.0,
+                    34.0
+                ],
+                [
+                    507.0,
+                    35.0
+                ],
+                [
+                    512.0,
+                    35.0
+                ],
+                [
+                    512.0,
+                    18.0
+                ],
+                [
+                    506.0,
+                    18.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

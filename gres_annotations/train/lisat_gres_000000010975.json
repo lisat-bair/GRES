@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the massive industrial machinery with a yellow color, highlighted by noticeable metal tracks or big wheels, and a sturdy construction for demanding jobs.",
+        "Locate the substantial yellow-hued industrial equipment, characterized by its significant metal tracks or large wheels and a durable build for tough tasks.",
+        "Find the extensive yellow-toned industrial machinery, featuring prominent metallic tracks or large wheels and a strong frame meant for heavy-duty operations."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010975.jpg",
+            "points": [
+                [
+                    0.0,
+                    461.0
+                ],
+                [
+                    0.0,
+                    486.0
+                ],
+                [
+                    1.0,
+                    486.0
+                ],
+                [
+                    1.0,
+                    485.0
+                ],
+                [
+                    2.0,
+                    485.0
+                ],
+                [
+                    2.0,
+                    484.0
+                ],
+                [
+                    1.0,
+                    484.0
+                ],
+                [
+                    1.0,
+                    482.0
+                ],
+                [
+                    2.0,
+                    482.0
+                ],
+                [
+                    2.0,
+                    481.0
+                ],
+                [
+                    3.0,
+                    481.0
+                ],
+                [
+                    3.0,
+                    480.0
+                ],
+                [
+                    4.0,
+                    480.0
+                ],
+                [
+                    4.0,
+                    478.0
+                ],
+                [
+                    5.0,
+                    478.0
+                ],
+                [
+                    5.0,
+                    476.0
+                ],
+                [
+                    6.0,
+                    476.0
+                ],
+                [
+                    6.0,
+                    475.0
+                ],
+                [
+                    7.0,
+                    475.0
+                ],
+                [
+                    7.0,
+                    473.0
+                ],
+                [
+                    8.0,
+                    473.0
+                ],
+                [
+                    8.0,
+                    472.0
+                ],
+                [
+                    9.0,
+                    472.0
+                ],
+                [
+                    9.0,
+                    471.0
+                ],
+                [
+                    10.0,
+                    471.0
+                ],
+                [
+                    10.0,
+                    469.0
+                ],
+                [
+                    11.0,
+                    469.0
+                ],
+                [
+                    11.0,
+                    465.0
+                ],
+                [
+                    10.0,
+                    465.0
+                ],
+                [
+                    10.0,
+                    464.0
+                ],
+                [
+                    9.0,
+                    464.0
+                ],
+                [
+                    9.0,
+                    463.0
+                ],
+                [
+                    7.0,
+                    463.0
+                ],
+                [
+                    7.0,
+                    462.0
+                ],
+                [
+                    3.0,
+                    462.0
+                ],
+                [
+                    3.0,
+                    461.0
+                ],
+                [
+                    0.0,
+                    461.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

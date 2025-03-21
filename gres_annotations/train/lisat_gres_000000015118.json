@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the bus close to the far-right side of the picture.",
+        "Look for the bus situated towards the right border of the image.",
+        "Identify the bus positioned near the right edge of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015118.jpg",
+            "points": [
+                [
+                    511.0,
+                    86.0
+                ],
+                [
+                    511.0,
+                    87.0
+                ],
+                [
+                    509.0,
+                    87.0
+                ],
+                [
+                    509.0,
+                    88.0
+                ],
+                [
+                    508.0,
+                    88.0
+                ],
+                [
+                    508.0,
+                    94.0
+                ],
+                [
+                    509.0,
+                    94.0
+                ],
+                [
+                    509.0,
+                    95.0
+                ],
+                [
+                    510.0,
+                    95.0
+                ],
+                [
+                    510.0,
+                    96.0
+                ],
+                [
+                    512.0,
+                    96.0
+                ],
+                [
+                    512.0,
+                    86.0
+                ],
+                [
+                    511.0,
+                    86.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

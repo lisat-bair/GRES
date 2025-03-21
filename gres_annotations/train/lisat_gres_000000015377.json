@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Spot the vehicle that is positioned at the lower border of the picture, nearly out of view.",
+        "Locate the automobile situated at the bottom margin of the image, mostly outside the frame.",
+        "Find the car located at the bottom edge of the photograph, nearly completely out of the frame."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015377.jpg",
+            "points": [
+                [
+                    17.0,
+                    509.0
+                ],
+                [
+                    17.0,
+                    510.0
+                ],
+                [
+                    16.0,
+                    510.0
+                ],
+                [
+                    16.0,
+                    511.0
+                ],
+                [
+                    15.0,
+                    511.0
+                ],
+                [
+                    15.0,
+                    512.0
+                ],
+                [
+                    24.0,
+                    512.0
+                ],
+                [
+                    24.0,
+                    510.0
+                ],
+                [
+                    23.0,
+                    510.0
+                ],
+                [
+                    23.0,
+                    509.0
+                ],
+                [
+                    17.0,
+                    509.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

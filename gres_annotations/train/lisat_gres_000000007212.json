@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the sleek vehicle with a shiny metallic exterior in a black and white color palette.",
+        "Search for the aerodynamic automobile that has a metal body and a polished black and white design.",
+        "Identify the smooth car featuring a metallic frame and a glossy combination of black and white colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007212.jpg",
+            "points": [
+                [
+                    131.0,
+                    259.0
+                ],
+                [
+                    131.0,
+                    260.0
+                ],
+                [
+                    128.0,
+                    260.0
+                ],
+                [
+                    128.0,
+                    261.0
+                ],
+                [
+                    126.0,
+                    261.0
+                ],
+                [
+                    126.0,
+                    262.0
+                ],
+                [
+                    124.0,
+                    262.0
+                ],
+                [
+                    124.0,
+                    266.0
+                ],
+                [
+                    125.0,
+                    266.0
+                ],
+                [
+                    125.0,
+                    271.0
+                ],
+                [
+                    132.0,
+                    271.0
+                ],
+                [
+                    132.0,
+                    270.0
+                ],
+                [
+                    135.0,
+                    270.0
+                ],
+                [
+                    135.0,
+                    269.0
+                ],
+                [
+                    137.0,
+                    269.0
+                ],
+                [
+                    137.0,
+                    268.0
+                ],
+                [
+                    139.0,
+                    268.0
+                ],
+                [
+                    139.0,
+                    267.0
+                ],
+                [
+                    141.0,
+                    267.0
+                ],
+                [
+                    141.0,
+                    261.0
+                ],
+                [
+                    140.0,
+                    261.0
+                ],
+                [
+                    140.0,
+                    260.0
+                ],
+                [
+                    138.0,
+                    260.0
+                ],
+                [
+                    138.0,
+                    259.0
+                ],
+                [
+                    131.0,
+                    259.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the car with a sleek design and a shiny silver finish that stands out from its surroundings.",
+        "Locate the vehicle that has a metallic silver exterior and a unique aerodynamic form distinct from its environment.",
+        "Find the silver-colored car with a smooth, aerodynamic shape that is easily distinguishable from the area around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010127.jpg",
+            "points": [
+                [
+                    262.0,
+                    266.0
+                ],
+                [
+                    262.0,
+                    267.0
+                ],
+                [
+                    261.0,
+                    267.0
+                ],
+                [
+                    261.0,
+                    268.0
+                ],
+                [
+                    260.0,
+                    268.0
+                ],
+                [
+                    260.0,
+                    269.0
+                ],
+                [
+                    259.0,
+                    269.0
+                ],
+                [
+                    259.0,
+                    275.0
+                ],
+                [
+                    260.0,
+                    275.0
+                ],
+                [
+                    260.0,
+                    277.0
+                ],
+                [
+                    261.0,
+                    277.0
+                ],
+                [
+                    261.0,
+                    278.0
+                ],
+                [
+                    264.0,
+                    278.0
+                ],
+                [
+                    264.0,
+                    277.0
+                ],
+                [
+                    266.0,
+                    277.0
+                ],
+                [
+                    266.0,
+                    276.0
+                ],
+                [
+                    267.0,
+                    276.0
+                ],
+                [
+                    267.0,
+                    275.0
+                ],
+                [
+                    268.0,
+                    275.0
+                ],
+                [
+                    268.0,
+                    274.0
+                ],
+                [
+                    269.0,
+                    274.0
+                ],
+                [
+                    269.0,
+                    273.0
+                ],
+                [
+                    270.0,
+                    273.0
+                ],
+                [
+                    270.0,
+                    272.0
+                ],
+                [
+                    271.0,
+                    272.0
+                ],
+                [
+                    271.0,
+                    269.0
+                ],
+                [
+                    270.0,
+                    269.0
+                ],
+                [
+                    270.0,
+                    268.0
+                ],
+                [
+                    269.0,
+                    268.0
+                ],
+                [
+                    269.0,
+                    267.0
+                ],
+                [
+                    268.0,
+                    267.0
+                ],
+                [
+                    268.0,
+                    266.0
+                ],
+                [
+                    262.0,
+                    266.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

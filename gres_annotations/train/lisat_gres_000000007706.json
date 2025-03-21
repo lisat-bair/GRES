@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the digger located in the upper-right section of the picture.",
+        "Find the excavation machine positioned in the top-right part of the image.",
+        "Locate the excavator that appears in the top-right corner of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007706.jpg",
+            "points": [
+                [
+                    511.0,
+                    111.0
+                ],
+                [
+                    511.0,
+                    112.0
+                ],
+                [
+                    507.0,
+                    112.0
+                ],
+                [
+                    507.0,
+                    113.0
+                ],
+                [
+                    505.0,
+                    113.0
+                ],
+                [
+                    505.0,
+                    115.0
+                ],
+                [
+                    504.0,
+                    115.0
+                ],
+                [
+                    504.0,
+                    122.0
+                ],
+                [
+                    505.0,
+                    122.0
+                ],
+                [
+                    505.0,
+                    133.0
+                ],
+                [
+                    506.0,
+                    133.0
+                ],
+                [
+                    506.0,
+                    137.0
+                ],
+                [
+                    507.0,
+                    137.0
+                ],
+                [
+                    507.0,
+                    139.0
+                ],
+                [
+                    508.0,
+                    139.0
+                ],
+                [
+                    508.0,
+                    140.0
+                ],
+                [
+                    510.0,
+                    140.0
+                ],
+                [
+                    510.0,
+                    141.0
+                ],
+                [
+                    512.0,
+                    141.0
+                ],
+                [
+                    512.0,
+                    111.0
+                ],
+                [
+                    511.0,
+                    111.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

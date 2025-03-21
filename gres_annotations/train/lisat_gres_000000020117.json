@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the truck in the picture that has a unique white color and a rectangular form.",
+        "Spot the vehicle in the image that is characterized by its unusual white hue and rectangular outline.",
+        "Locate the truck in the photo that stands out with its white color and rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020117.jpg",
+            "points": [
+                [
+                    326.0,
+                    466.0
+                ],
+                [
+                    326.0,
+                    467.0
+                ],
+                [
+                    325.0,
+                    467.0
+                ],
+                [
+                    325.0,
+                    469.0
+                ],
+                [
+                    324.0,
+                    469.0
+                ],
+                [
+                    324.0,
+                    472.0
+                ],
+                [
+                    323.0,
+                    472.0
+                ],
+                [
+                    323.0,
+                    481.0
+                ],
+                [
+                    324.0,
+                    481.0
+                ],
+                [
+                    324.0,
+                    482.0
+                ],
+                [
+                    325.0,
+                    482.0
+                ],
+                [
+                    325.0,
+                    483.0
+                ],
+                [
+                    333.0,
+                    483.0
+                ],
+                [
+                    333.0,
+                    482.0
+                ],
+                [
+                    334.0,
+                    482.0
+                ],
+                [
+                    334.0,
+                    481.0
+                ],
+                [
+                    335.0,
+                    481.0
+                ],
+                [
+                    335.0,
+                    478.0
+                ],
+                [
+                    336.0,
+                    478.0
+                ],
+                [
+                    336.0,
+                    471.0
+                ],
+                [
+                    335.0,
+                    471.0
+                ],
+                [
+                    335.0,
+                    468.0
+                ],
+                [
+                    334.0,
+                    468.0
+                ],
+                [
+                    334.0,
+                    467.0
+                ],
+                [
+                    333.0,
+                    467.0
+                ],
+                [
+                    333.0,
+                    466.0
+                ],
+                [
+                    326.0,
+                    466.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

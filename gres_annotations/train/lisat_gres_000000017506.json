@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the vehicle situated in the upper-left section of the picture.",
+        "Identify the automobile positioned at the top left of the image.",
+        "Spot the car located in the image's upper-left corner."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017506.jpg",
+            "points": [
+                [
+                    0.0,
+                    494.0
+                ],
+                [
+                    0.0,
+                    504.0
+                ],
+                [
+                    3.0,
+                    504.0
+                ],
+                [
+                    3.0,
+                    503.0
+                ],
+                [
+                    5.0,
+                    503.0
+                ],
+                [
+                    5.0,
+                    501.0
+                ],
+                [
+                    6.0,
+                    501.0
+                ],
+                [
+                    6.0,
+                    498.0
+                ],
+                [
+                    5.0,
+                    498.0
+                ],
+                [
+                    5.0,
+                    496.0
+                ],
+                [
+                    4.0,
+                    496.0
+                ],
+                [
+                    4.0,
+                    495.0
+                ],
+                [
+                    2.0,
+                    495.0
+                ],
+                [
+                    2.0,
+                    494.0
+                ],
+                [
+                    0.0,
+                    494.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Look for the shed that has a unique blue roof and is rectangular in shape, contrasting with the brown earth around it.",
+        "Spot the rectangular shed featuring a distinctive blue roof, which stands out from the brown ground surrounding it.",
+        "Find the shed characterized by its blue roof and rectangular form, making it noticeable against the brown soil nearby."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031947.jpg",
+            "points": [
+                [
+                    195,
+                    307
+                ],
+                [
+                    238,
+                    307
+                ],
+                [
+                    238,
+                    354
+                ],
+                [
+                    195,
+                    354
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

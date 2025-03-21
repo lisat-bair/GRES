@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Locate the truck that has a unique white cab and a darker-colored trailer.",
+        "Find the truck featuring a distinctive white cab paired with a darker trailer.",
+        "Spot the truck with a noticeable white cab and a trailer in a darker shade."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036112.jpg",
+            "points": [
+                [
+                    384.0,
+                    410.0
+                ],
+                [
+                    384.0,
+                    411.0
+                ],
+                [
+                    383.0,
+                    411.0
+                ],
+                [
+                    383.0,
+                    420.0
+                ],
+                [
+                    384.0,
+                    420.0
+                ],
+                [
+                    384.0,
+                    421.0
+                ],
+                [
+                    389.0,
+                    421.0
+                ],
+                [
+                    389.0,
+                    419.0
+                ],
+                [
+                    390.0,
+                    419.0
+                ],
+                [
+                    390.0,
+                    414.0
+                ],
+                [
+                    389.0,
+                    414.0
+                ],
+                [
+                    389.0,
+                    411.0
+                ],
+                [
+                    388.0,
+                    411.0
+                ],
+                [
+                    388.0,
+                    410.0
+                ],
+                [
+                    384.0,
+                    410.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

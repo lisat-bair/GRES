@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the small rectangular trailer with noticeable wheels, often metallic or colorfully painted, in the lower-right corner of the image.",
+        "In the bottom-right section of the picture, identify the compact trailer that has a rectangular shape and clearly visible wheels, usually metallic or painted.",
+        "Spot the trailer with a compact, rectangular design and distinctive wheels, usually metallic or in color, located at the bottom-right of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026078.jpg",
+            "points": [
+                [
+                    154.0,
+                    349.0
+                ],
+                [
+                    154.0,
+                    350.0
+                ],
+                [
+                    153.0,
+                    350.0
+                ],
+                [
+                    153.0,
+                    356.0
+                ],
+                [
+                    154.0,
+                    356.0
+                ],
+                [
+                    154.0,
+                    357.0
+                ],
+                [
+                    160.0,
+                    357.0
+                ],
+                [
+                    160.0,
+                    358.0
+                ],
+                [
+                    168.0,
+                    358.0
+                ],
+                [
+                    168.0,
+                    359.0
+                ],
+                [
+                    178.0,
+                    359.0
+                ],
+                [
+                    178.0,
+                    353.0
+                ],
+                [
+                    176.0,
+                    353.0
+                ],
+                [
+                    176.0,
+                    352.0
+                ],
+                [
+                    168.0,
+                    352.0
+                ],
+                [
+                    168.0,
+                    351.0
+                ],
+                [
+                    162.0,
+                    351.0
+                ],
+                [
+                    162.0,
+                    350.0
+                ],
+                [
+                    158.0,
+                    350.0
+                ],
+                [
+                    158.0,
+                    349.0
+                ],
+                [
+                    154.0,
+                    349.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

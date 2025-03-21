@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Look for the truck that is white and has a box-like shape.",
+        "Find the vehicle that is colored white and has a square build.",
+        "Spot the truck that features a white hue and a boxy design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026453.jpg",
+            "points": [
+                [
+                    508.0,
+                    28.0
+                ],
+                [
+                    508.0,
+                    29.0
+                ],
+                [
+                    505.0,
+                    29.0
+                ],
+                [
+                    505.0,
+                    31.0
+                ],
+                [
+                    504.0,
+                    31.0
+                ],
+                [
+                    504.0,
+                    39.0
+                ],
+                [
+                    505.0,
+                    39.0
+                ],
+                [
+                    505.0,
+                    40.0
+                ],
+                [
+                    506.0,
+                    40.0
+                ],
+                [
+                    506.0,
+                    41.0
+                ],
+                [
+                    512.0,
+                    41.0
+                ],
+                [
+                    512.0,
+                    29.0
+                ],
+                [
+                    510.0,
+                    29.0
+                ],
+                [
+                    510.0,
+                    28.0
+                ],
+                [
+                    508.0,
+                    28.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

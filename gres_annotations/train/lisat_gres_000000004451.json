@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Spot the tiny, white, oval object located against a dark backdrop in the bottom-right corner of the picture.",
+        "Find the small, white, oval-shaped item positioned in the bottom-right on a dark background within the image.",
+        "Locate the little, white, oval form on the dark surface towards the bottom-right of the picture."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004451.jpg",
+            "points": [
+                [
+                    426.0,
+                    423.0
+                ],
+                [
+                    426.0,
+                    429.0
+                ],
+                [
+                    429.0,
+                    429.0
+                ],
+                [
+                    429.0,
+                    430.0
+                ],
+                [
+                    430.0,
+                    430.0
+                ],
+                [
+                    430.0,
+                    429.0
+                ],
+                [
+                    438.0,
+                    429.0
+                ],
+                [
+                    438.0,
+                    428.0
+                ],
+                [
+                    440.0,
+                    428.0
+                ],
+                [
+                    440.0,
+                    424.0
+                ],
+                [
+                    438.0,
+                    424.0
+                ],
+                [
+                    438.0,
+                    423.0
+                ],
+                [
+                    426.0,
+                    423.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

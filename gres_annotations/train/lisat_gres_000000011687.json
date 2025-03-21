@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the truck that is uniquely white and rectangular, contrasting with the darker surroundings.",
+        "Look for the truck that is notably white and rectangular, as it stands out against the dark backdrop.",
+        "Notice the truck characterized by its distinct white color and rectangular form, which sets it apart from the darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011687.jpg",
+            "points": [
+                [
+                    494.0,
+                    95.0
+                ],
+                [
+                    494.0,
+                    96.0
+                ],
+                [
+                    493.0,
+                    96.0
+                ],
+                [
+                    493.0,
+                    97.0
+                ],
+                [
+                    492.0,
+                    97.0
+                ],
+                [
+                    492.0,
+                    98.0
+                ],
+                [
+                    491.0,
+                    98.0
+                ],
+                [
+                    491.0,
+                    101.0
+                ],
+                [
+                    492.0,
+                    101.0
+                ],
+                [
+                    492.0,
+                    102.0
+                ],
+                [
+                    493.0,
+                    102.0
+                ],
+                [
+                    493.0,
+                    103.0
+                ],
+                [
+                    494.0,
+                    103.0
+                ],
+                [
+                    494.0,
+                    104.0
+                ],
+                [
+                    497.0,
+                    104.0
+                ],
+                [
+                    497.0,
+                    105.0
+                ],
+                [
+                    498.0,
+                    105.0
+                ],
+                [
+                    498.0,
+                    104.0
+                ],
+                [
+                    499.0,
+                    104.0
+                ],
+                [
+                    499.0,
+                    103.0
+                ],
+                [
+                    500.0,
+                    103.0
+                ],
+                [
+                    500.0,
+                    101.0
+                ],
+                [
+                    501.0,
+                    101.0
+                ],
+                [
+                    501.0,
+                    97.0
+                ],
+                [
+                    500.0,
+                    97.0
+                ],
+                [
+                    500.0,
+                    96.0
+                ],
+                [
+                    499.0,
+                    96.0
+                ],
+                [
+                    499.0,
+                    95.0
+                ],
+                [
+                    494.0,
+                    95.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

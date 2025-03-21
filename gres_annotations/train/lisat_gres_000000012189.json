@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the engineering vehicle by finding the unique, large, dark, and angular forms set against a lighter backdrop.",
+        "Locate the engineering vehicle by identifying the prominent dark, angular shapes that contrast with the bright background.",
+        "Find the engineering vehicle by observing the distinctive large, dark, and angular configurations that stand out against the light background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012189.jpg",
+            "points": [
+                [
+                    456.0,
+                    0.0
+                ],
+                [
+                    456.0,
+                    1.0
+                ],
+                [
+                    457.0,
+                    1.0
+                ],
+                [
+                    457.0,
+                    3.0
+                ],
+                [
+                    458.0,
+                    3.0
+                ],
+                [
+                    458.0,
+                    5.0
+                ],
+                [
+                    459.0,
+                    5.0
+                ],
+                [
+                    459.0,
+                    8.0
+                ],
+                [
+                    467.0,
+                    8.0
+                ],
+                [
+                    467.0,
+                    7.0
+                ],
+                [
+                    468.0,
+                    7.0
+                ],
+                [
+                    468.0,
+                    8.0
+                ],
+                [
+                    472.0,
+                    8.0
+                ],
+                [
+                    472.0,
+                    9.0
+                ],
+                [
+                    478.0,
+                    9.0
+                ],
+                [
+                    478.0,
+                    8.0
+                ],
+                [
+                    486.0,
+                    8.0
+                ],
+                [
+                    486.0,
+                    9.0
+                ],
+                [
+                    489.0,
+                    9.0
+                ],
+                [
+                    489.0,
+                    2.0
+                ],
+                [
+                    488.0,
+                    2.0
+                ],
+                [
+                    488.0,
+                    0.0
+                ],
+                [
+                    456.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

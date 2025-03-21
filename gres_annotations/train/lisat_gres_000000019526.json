@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the truck in the picture that has a big rectangular form, headlights that can be seen, shiny surfaces, and horizontal stripes showing the trailer bed.",
+        "Identify the truck in the photo characterized by a large rectangular shape, noticeable headlights, reflective areas, and horizontal lines marking the trailer bed.",
+        "Spot the truck in the image with a prominent rectangular design, visible headlights, reflective parts, and horizontal lines denoting the trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019526.jpg",
+            "points": [
+                [
+                    226.0,
+                    30.0
+                ],
+                [
+                    226.0,
+                    31.0
+                ],
+                [
+                    214.0,
+                    31.0
+                ],
+                [
+                    214.0,
+                    32.0
+                ],
+                [
+                    202.0,
+                    32.0
+                ],
+                [
+                    202.0,
+                    33.0
+                ],
+                [
+                    200.0,
+                    33.0
+                ],
+                [
+                    200.0,
+                    34.0
+                ],
+                [
+                    199.0,
+                    34.0
+                ],
+                [
+                    199.0,
+                    37.0
+                ],
+                [
+                    200.0,
+                    37.0
+                ],
+                [
+                    200.0,
+                    38.0
+                ],
+                [
+                    201.0,
+                    38.0
+                ],
+                [
+                    201.0,
+                    40.0
+                ],
+                [
+                    203.0,
+                    40.0
+                ],
+                [
+                    203.0,
+                    41.0
+                ],
+                [
+                    213.0,
+                    41.0
+                ],
+                [
+                    213.0,
+                    40.0
+                ],
+                [
+                    233.0,
+                    40.0
+                ],
+                [
+                    233.0,
+                    39.0
+                ],
+                [
+                    237.0,
+                    39.0
+                ],
+                [
+                    237.0,
+                    37.0
+                ],
+                [
+                    238.0,
+                    37.0
+                ],
+                [
+                    238.0,
+                    35.0
+                ],
+                [
+                    239.0,
+                    35.0
+                ],
+                [
+                    239.0,
+                    34.0
+                ],
+                [
+                    238.0,
+                    34.0
+                ],
+                [
+                    238.0,
+                    31.0
+                ],
+                [
+                    237.0,
+                    31.0
+                ],
+                [
+                    237.0,
+                    30.0
+                ],
+                [
+                    226.0,
+                    30.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

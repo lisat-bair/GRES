@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Detect the vehicle featuring a metallic exterior, four wheels, and headlights, standing out from its surroundings.",
+        "Spot the automobile that has a metallic frame, equipped with four wheels and headlights, and is distinguishable from its background.",
+        "Find the car characterized by a metallic body, having four wheels and headlights, which is noticeable against the backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023240.jpg",
+            "points": [
+                [
+                    94.0,
+                    392.0
+                ],
+                [
+                    94.0,
+                    393.0
+                ],
+                [
+                    93.0,
+                    393.0
+                ],
+                [
+                    93.0,
+                    403.0
+                ],
+                [
+                    94.0,
+                    403.0
+                ],
+                [
+                    94.0,
+                    406.0
+                ],
+                [
+                    99.0,
+                    406.0
+                ],
+                [
+                    99.0,
+                    405.0
+                ],
+                [
+                    100.0,
+                    405.0
+                ],
+                [
+                    100.0,
+                    394.0
+                ],
+                [
+                    99.0,
+                    394.0
+                ],
+                [
+                    99.0,
+                    392.0
+                ],
+                [
+                    94.0,
+                    392.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

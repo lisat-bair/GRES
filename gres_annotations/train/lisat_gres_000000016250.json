@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the structure that stands tall and slender, featuring a light-hued exterior against a darker setting.",
+        "Locate the edifice with a towering, slim profile and a bright-colored front, set against a dimmer backdrop.",
+        "Find the construction that features a high, narrow shape with a pale facade, contrasting with its darker surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016250.jpg",
+            "points": [
+                [
+                    507.0,
+                    80.0
+                ],
+                [
+                    507.0,
+                    82.0
+                ],
+                [
+                    506.0,
+                    82.0
+                ],
+                [
+                    506.0,
+                    84.0
+                ],
+                [
+                    505.0,
+                    84.0
+                ],
+                [
+                    505.0,
+                    86.0
+                ],
+                [
+                    506.0,
+                    86.0
+                ],
+                [
+                    506.0,
+                    90.0
+                ],
+                [
+                    507.0,
+                    90.0
+                ],
+                [
+                    507.0,
+                    92.0
+                ],
+                [
+                    508.0,
+                    92.0
+                ],
+                [
+                    508.0,
+                    93.0
+                ],
+                [
+                    509.0,
+                    93.0
+                ],
+                [
+                    509.0,
+                    94.0
+                ],
+                [
+                    510.0,
+                    94.0
+                ],
+                [
+                    510.0,
+                    93.0
+                ],
+                [
+                    512.0,
+                    93.0
+                ],
+                [
+                    512.0,
+                    81.0
+                ],
+                [
+                    510.0,
+                    81.0
+                ],
+                [
+                    510.0,
+                    80.0
+                ],
+                [
+                    507.0,
+                    80.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

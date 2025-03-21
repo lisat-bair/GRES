@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the rectangular truck that features a white and red paint job with a unique logo on its side.",
+        "Search for the truck that is rectangular, has a white and red color pattern, and displays a distinct emblem on its side.",
+        "Look for the truck with a rectangular shape, decorated in white and red, and sporting a noticeable logo on the side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017381.jpg",
+            "points": [
+                [
+                    337.0,
+                    426.0
+                ],
+                [
+                    337.0,
+                    427.0
+                ],
+                [
+                    336.0,
+                    427.0
+                ],
+                [
+                    336.0,
+                    428.0
+                ],
+                [
+                    335.0,
+                    428.0
+                ],
+                [
+                    335.0,
+                    431.0
+                ],
+                [
+                    336.0,
+                    431.0
+                ],
+                [
+                    336.0,
+                    432.0
+                ],
+                [
+                    337.0,
+                    432.0
+                ],
+                [
+                    337.0,
+                    434.0
+                ],
+                [
+                    338.0,
+                    434.0
+                ],
+                [
+                    338.0,
+                    436.0
+                ],
+                [
+                    339.0,
+                    436.0
+                ],
+                [
+                    339.0,
+                    438.0
+                ],
+                [
+                    340.0,
+                    438.0
+                ],
+                [
+                    340.0,
+                    440.0
+                ],
+                [
+                    341.0,
+                    440.0
+                ],
+                [
+                    341.0,
+                    441.0
+                ],
+                [
+                    346.0,
+                    441.0
+                ],
+                [
+                    346.0,
+                    440.0
+                ],
+                [
+                    348.0,
+                    440.0
+                ],
+                [
+                    348.0,
+                    437.0
+                ],
+                [
+                    347.0,
+                    437.0
+                ],
+                [
+                    347.0,
+                    435.0
+                ],
+                [
+                    346.0,
+                    435.0
+                ],
+                [
+                    346.0,
+                    433.0
+                ],
+                [
+                    345.0,
+                    433.0
+                ],
+                [
+                    345.0,
+                    431.0
+                ],
+                [
+                    344.0,
+                    431.0
+                ],
+                [
+                    344.0,
+                    430.0
+                ],
+                [
+                    343.0,
+                    430.0
+                ],
+                [
+                    343.0,
+                    428.0
+                ],
+                [
+                    342.0,
+                    428.0
+                ],
+                [
+                    342.0,
+                    427.0
+                ],
+                [
+                    341.0,
+                    427.0
+                ],
+                [
+                    341.0,
+                    426.0
+                ],
+                [
+                    337.0,
+                    426.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

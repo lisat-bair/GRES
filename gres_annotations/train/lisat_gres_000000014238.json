@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the luminous bus depicted in the picture, a sizable rectangular object equipped with wheels and windows.",
+        "Locate the radiant bus shown in the image, a big rectangular structure with wheels and windows.",
+        "Find the glowing bus featured in the image, a large boxy object that has wheels and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014238.jpg",
+            "points": [
+                [
+                    454.0,
+                    0.0
+                ],
+                [
+                    454.0,
+                    3.0
+                ],
+                [
+                    455.0,
+                    3.0
+                ],
+                [
+                    455.0,
+                    4.0
+                ],
+                [
+                    456.0,
+                    4.0
+                ],
+                [
+                    456.0,
+                    5.0
+                ],
+                [
+                    460.0,
+                    5.0
+                ],
+                [
+                    460.0,
+                    6.0
+                ],
+                [
+                    465.0,
+                    6.0
+                ],
+                [
+                    465.0,
+                    5.0
+                ],
+                [
+                    469.0,
+                    5.0
+                ],
+                [
+                    469.0,
+                    4.0
+                ],
+                [
+                    470.0,
+                    4.0
+                ],
+                [
+                    470.0,
+                    3.0
+                ],
+                [
+                    471.0,
+                    3.0
+                ],
+                [
+                    471.0,
+                    0.0
+                ],
+                [
+                    454.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

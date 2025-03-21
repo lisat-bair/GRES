@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Identify the big, rectangular metal formation that has wheels on each end, typical of a truck with a trailer bed.",
+        "Find the expansive, rectangular metallic framework that features wheels at both extremities, typical of a truck with a trailer bed.",
+        "Spot the sizeable, rectangular metal construction equipped with wheels at either end, resembling a truck with a trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005600.jpg",
+            "points": [
+                [
+                    473.0,
+                    499.0
+                ],
+                [
+                    473.0,
+                    500.0
+                ],
+                [
+                    467.0,
+                    500.0
+                ],
+                [
+                    467.0,
+                    507.0
+                ],
+                [
+                    468.0,
+                    507.0
+                ],
+                [
+                    468.0,
+                    508.0
+                ],
+                [
+                    469.0,
+                    508.0
+                ],
+                [
+                    469.0,
+                    509.0
+                ],
+                [
+                    472.0,
+                    509.0
+                ],
+                [
+                    472.0,
+                    508.0
+                ],
+                [
+                    479.0,
+                    508.0
+                ],
+                [
+                    479.0,
+                    507.0
+                ],
+                [
+                    481.0,
+                    507.0
+                ],
+                [
+                    481.0,
+                    506.0
+                ],
+                [
+                    482.0,
+                    506.0
+                ],
+                [
+                    482.0,
+                    505.0
+                ],
+                [
+                    483.0,
+                    505.0
+                ],
+                [
+                    483.0,
+                    504.0
+                ],
+                [
+                    484.0,
+                    504.0
+                ],
+                [
+                    484.0,
+                    500.0
+                ],
+                [
+                    482.0,
+                    500.0
+                ],
+                [
+                    482.0,
+                    499.0
+                ],
+                [
+                    473.0,
+                    499.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

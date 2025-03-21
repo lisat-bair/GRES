@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that stands out with a white roof and a dark body, contrasting sharply with the landscape around it.",
+        "Search for the automobile that features a unique white roof paired with a dark body, creating a contrast with the nearby scenery.",
+        "Identify the car that is notable for its white roof and dark body, which contrasts with the environment where it is located."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025872.jpg",
+            "points": [
+                [
+                    394.0,
+                    371.0
+                ],
+                [
+                    394.0,
+                    372.0
+                ],
+                [
+                    393.0,
+                    372.0
+                ],
+                [
+                    393.0,
+                    375.0
+                ],
+                [
+                    392.0,
+                    375.0
+                ],
+                [
+                    392.0,
+                    379.0
+                ],
+                [
+                    393.0,
+                    379.0
+                ],
+                [
+                    393.0,
+                    380.0
+                ],
+                [
+                    396.0,
+                    380.0
+                ],
+                [
+                    396.0,
+                    381.0
+                ],
+                [
+                    409.0,
+                    381.0
+                ],
+                [
+                    409.0,
+                    380.0
+                ],
+                [
+                    410.0,
+                    380.0
+                ],
+                [
+                    410.0,
+                    379.0
+                ],
+                [
+                    411.0,
+                    379.0
+                ],
+                [
+                    411.0,
+                    374.0
+                ],
+                [
+                    409.0,
+                    374.0
+                ],
+                [
+                    409.0,
+                    373.0
+                ],
+                [
+                    408.0,
+                    373.0
+                ],
+                [
+                    408.0,
+                    372.0
+                ],
+                [
+                    405.0,
+                    372.0
+                ],
+                [
+                    405.0,
+                    371.0
+                ],
+                [
+                    394.0,
+                    371.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the vehicle positioned in the middle of the picture, concentrating on the section outlined by its unique form and characteristics.",
+        "Identify the automobile located at the heart of the image, paying attention to the part defined by its specific contour and features.",
+        "Spot the car situated centrally in the photograph, directing your focus to the region marked by its distinctive outline and details."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020651.jpg",
+            "points": [
+                [
+                    245.0,
+                    295.0
+                ],
+                [
+                    245.0,
+                    296.0
+                ],
+                [
+                    244.0,
+                    296.0
+                ],
+                [
+                    244.0,
+                    300.0
+                ],
+                [
+                    245.0,
+                    300.0
+                ],
+                [
+                    245.0,
+                    301.0
+                ],
+                [
+                    246.0,
+                    301.0
+                ],
+                [
+                    246.0,
+                    302.0
+                ],
+                [
+                    251.0,
+                    302.0
+                ],
+                [
+                    251.0,
+                    301.0
+                ],
+                [
+                    252.0,
+                    301.0
+                ],
+                [
+                    252.0,
+                    296.0
+                ],
+                [
+                    251.0,
+                    296.0
+                ],
+                [
+                    251.0,
+                    295.0
+                ],
+                [
+                    245.0,
+                    295.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

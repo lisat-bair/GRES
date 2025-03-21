@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the vehicle that has a shiny metallic finish, a boxy design, and round tires.",
+        "Find the automobile that features a unique metallic gloss, a square-like body, and circular wheels.",
+        "Seek out the car characterized by a special metallic luster, a rectangular shape, and round wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017148.jpg",
+            "points": [
+                [
+                    143.0,
+                    352.0
+                ],
+                [
+                    143.0,
+                    353.0
+                ],
+                [
+                    142.0,
+                    353.0
+                ],
+                [
+                    142.0,
+                    355.0
+                ],
+                [
+                    141.0,
+                    355.0
+                ],
+                [
+                    141.0,
+                    357.0
+                ],
+                [
+                    142.0,
+                    357.0
+                ],
+                [
+                    142.0,
+                    359.0
+                ],
+                [
+                    144.0,
+                    359.0
+                ],
+                [
+                    144.0,
+                    360.0
+                ],
+                [
+                    146.0,
+                    360.0
+                ],
+                [
+                    146.0,
+                    361.0
+                ],
+                [
+                    149.0,
+                    361.0
+                ],
+                [
+                    149.0,
+                    362.0
+                ],
+                [
+                    151.0,
+                    362.0
+                ],
+                [
+                    151.0,
+                    363.0
+                ],
+                [
+                    156.0,
+                    363.0
+                ],
+                [
+                    156.0,
+                    362.0
+                ],
+                [
+                    157.0,
+                    362.0
+                ],
+                [
+                    157.0,
+                    361.0
+                ],
+                [
+                    158.0,
+                    361.0
+                ],
+                [
+                    158.0,
+                    356.0
+                ],
+                [
+                    157.0,
+                    356.0
+                ],
+                [
+                    157.0,
+                    355.0
+                ],
+                [
+                    155.0,
+                    355.0
+                ],
+                [
+                    155.0,
+                    354.0
+                ],
+                [
+                    152.0,
+                    354.0
+                ],
+                [
+                    152.0,
+                    353.0
+                ],
+                [
+                    148.0,
+                    353.0
+                ],
+                [
+                    148.0,
+                    352.0
+                ],
+                [
+                    143.0,
+                    352.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

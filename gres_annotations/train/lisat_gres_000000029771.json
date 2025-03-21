@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Display the long, stretched vehicle featuring multiple windows and a noticeable front windshield.",
+        "Present the extended vehicle with a series of windows and a distinguished front windshield.",
+        "Reveal the lengthy vehicle adorned with rows of windows and a striking front windshield."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029771.jpg",
+            "points": [
+                [
+                    509.0,
+                    257.0
+                ],
+                [
+                    509.0,
+                    258.0
+                ],
+                [
+                    504.0,
+                    258.0
+                ],
+                [
+                    504.0,
+                    259.0
+                ],
+                [
+                    503.0,
+                    259.0
+                ],
+                [
+                    503.0,
+                    260.0
+                ],
+                [
+                    502.0,
+                    260.0
+                ],
+                [
+                    502.0,
+                    264.0
+                ],
+                [
+                    503.0,
+                    264.0
+                ],
+                [
+                    503.0,
+                    265.0
+                ],
+                [
+                    504.0,
+                    265.0
+                ],
+                [
+                    504.0,
+                    266.0
+                ],
+                [
+                    506.0,
+                    266.0
+                ],
+                [
+                    506.0,
+                    267.0
+                ],
+                [
+                    508.0,
+                    267.0
+                ],
+                [
+                    508.0,
+                    268.0
+                ],
+                [
+                    510.0,
+                    268.0
+                ],
+                [
+                    510.0,
+                    269.0
+                ],
+                [
+                    512.0,
+                    269.0
+                ],
+                [
+                    512.0,
+                    258.0
+                ],
+                [
+                    511.0,
+                    258.0
+                ],
+                [
+                    511.0,
+                    257.0
+                ],
+                [
+                    509.0,
+                    257.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

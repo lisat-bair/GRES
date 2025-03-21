@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the truck that displays a blue and white color scheme and has a rectangular shape that is prominently visible in the picture.",
+        "Locate the truck marked by a blue and white pattern and characterized by a distinctly rectangular shape in the image.",
+        "Find the truck that showcases a combination of blue and white colors with a noticeable rectangular form in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029336.jpg",
+            "points": [
+                [
+                    189.0,
+                    188.0
+                ],
+                [
+                    189.0,
+                    189.0
+                ],
+                [
+                    187.0,
+                    189.0
+                ],
+                [
+                    187.0,
+                    198.0
+                ],
+                [
+                    188.0,
+                    198.0
+                ],
+                [
+                    188.0,
+                    200.0
+                ],
+                [
+                    189.0,
+                    200.0
+                ],
+                [
+                    189.0,
+                    202.0
+                ],
+                [
+                    191.0,
+                    202.0
+                ],
+                [
+                    191.0,
+                    203.0
+                ],
+                [
+                    195.0,
+                    203.0
+                ],
+                [
+                    195.0,
+                    202.0
+                ],
+                [
+                    196.0,
+                    202.0
+                ],
+                [
+                    196.0,
+                    201.0
+                ],
+                [
+                    197.0,
+                    201.0
+                ],
+                [
+                    197.0,
+                    192.0
+                ],
+                [
+                    196.0,
+                    192.0
+                ],
+                [
+                    196.0,
+                    191.0
+                ],
+                [
+                    195.0,
+                    191.0
+                ],
+                [
+                    195.0,
+                    190.0
+                ],
+                [
+                    194.0,
+                    190.0
+                ],
+                [
+                    194.0,
+                    189.0
+                ],
+                [
+                    192.0,
+                    189.0
+                ],
+                [
+                    192.0,
+                    188.0
+                ],
+                [
+                    189.0,
+                    188.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

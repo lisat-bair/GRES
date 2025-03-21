@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for the structure that stands out with its unique light brown hue, rectangle form, and window or panel grid pattern on its exterior.",
+        "Spot the building characterized by its light brown color, rectangular design, and grid-shaped arrangement of windows or panels on the front.",
+        "Find the edifice with a distinctively light brown shade, rectangular outline, and a facade featuring a grid of windows or panels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011686.jpg",
+            "points": [
+                [
+                    421.0,
+                    353.0
+                ],
+                [
+                    421.0,
+                    354.0
+                ],
+                [
+                    417.0,
+                    354.0
+                ],
+                [
+                    417.0,
+                    355.0
+                ],
+                [
+                    413.0,
+                    355.0
+                ],
+                [
+                    413.0,
+                    356.0
+                ],
+                [
+                    410.0,
+                    356.0
+                ],
+                [
+                    410.0,
+                    357.0
+                ],
+                [
+                    408.0,
+                    357.0
+                ],
+                [
+                    408.0,
+                    358.0
+                ],
+                [
+                    407.0,
+                    358.0
+                ],
+                [
+                    407.0,
+                    359.0
+                ],
+                [
+                    406.0,
+                    359.0
+                ],
+                [
+                    406.0,
+                    361.0
+                ],
+                [
+                    405.0,
+                    361.0
+                ],
+                [
+                    405.0,
+                    366.0
+                ],
+                [
+                    407.0,
+                    366.0
+                ],
+                [
+                    407.0,
+                    367.0
+                ],
+                [
+                    410.0,
+                    367.0
+                ],
+                [
+                    410.0,
+                    366.0
+                ],
+                [
+                    415.0,
+                    366.0
+                ],
+                [
+                    415.0,
+                    365.0
+                ],
+                [
+                    418.0,
+                    365.0
+                ],
+                [
+                    418.0,
+                    364.0
+                ],
+                [
+                    421.0,
+                    364.0
+                ],
+                [
+                    421.0,
+                    363.0
+                ],
+                [
+                    424.0,
+                    363.0
+                ],
+                [
+                    424.0,
+                    362.0
+                ],
+                [
+                    425.0,
+                    362.0
+                ],
+                [
+                    425.0,
+                    356.0
+                ],
+                [
+                    424.0,
+                    356.0
+                ],
+                [
+                    424.0,
+                    354.0
+                ],
+                [
+                    422.0,
+                    354.0
+                ],
+                [
+                    422.0,
+                    353.0
+                ],
+                [
+                    421.0,
+                    353.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the truck that is a vivid shade of red, has a big rectangular form, and displays a noticeable logo or text on its side.",
+        "Spot the vehicle that is a striking red hue, features a large boxy shape, and bears a clearly visible logo or writing on its side.",
+        "Find the truck characterized by its bright red color, prominent rectangular structure, and the logo or text that stands out on its side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020780.jpg",
+            "points": [
+                [
+                    403.0,
+                    129.0
+                ],
+                [
+                    403.0,
+                    130.0
+                ],
+                [
+                    401.0,
+                    130.0
+                ],
+                [
+                    401.0,
+                    131.0
+                ],
+                [
+                    400.0,
+                    131.0
+                ],
+                [
+                    400.0,
+                    133.0
+                ],
+                [
+                    399.0,
+                    133.0
+                ],
+                [
+                    399.0,
+                    148.0
+                ],
+                [
+                    400.0,
+                    148.0
+                ],
+                [
+                    400.0,
+                    150.0
+                ],
+                [
+                    406.0,
+                    150.0
+                ],
+                [
+                    406.0,
+                    149.0
+                ],
+                [
+                    407.0,
+                    149.0
+                ],
+                [
+                    407.0,
+                    140.0
+                ],
+                [
+                    408.0,
+                    140.0
+                ],
+                [
+                    408.0,
+                    133.0
+                ],
+                [
+                    407.0,
+                    133.0
+                ],
+                [
+                    407.0,
+                    131.0
+                ],
+                [
+                    406.0,
+                    131.0
+                ],
+                [
+                    406.0,
+                    130.0
+                ],
+                [
+                    405.0,
+                    130.0
+                ],
+                [
+                    405.0,
+                    129.0
+                ],
+                [
+                    403.0,
+                    129.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

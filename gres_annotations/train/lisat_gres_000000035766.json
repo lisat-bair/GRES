@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the car in the lower right corner of the picture that is small and compact.",
+        "Spot the vehicle with a compact form in the bottom right section of the image.",
+        "Identify the compact-shaped car located in the bottom right area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035766.jpg",
+            "points": [
+                [
+                    393.0,
+                    454.0
+                ],
+                [
+                    393.0,
+                    455.0
+                ],
+                [
+                    392.0,
+                    455.0
+                ],
+                [
+                    392.0,
+                    458.0
+                ],
+                [
+                    391.0,
+                    458.0
+                ],
+                [
+                    391.0,
+                    462.0
+                ],
+                [
+                    390.0,
+                    462.0
+                ],
+                [
+                    390.0,
+                    469.0
+                ],
+                [
+                    395.0,
+                    469.0
+                ],
+                [
+                    395.0,
+                    468.0
+                ],
+                [
+                    396.0,
+                    468.0
+                ],
+                [
+                    396.0,
+                    467.0
+                ],
+                [
+                    397.0,
+                    467.0
+                ],
+                [
+                    397.0,
+                    466.0
+                ],
+                [
+                    398.0,
+                    466.0
+                ],
+                [
+                    398.0,
+                    465.0
+                ],
+                [
+                    399.0,
+                    465.0
+                ],
+                [
+                    399.0,
+                    464.0
+                ],
+                [
+                    400.0,
+                    464.0
+                ],
+                [
+                    400.0,
+                    457.0
+                ],
+                [
+                    399.0,
+                    457.0
+                ],
+                [
+                    399.0,
+                    455.0
+                ],
+                [
+                    398.0,
+                    455.0
+                ],
+                [
+                    398.0,
+                    454.0
+                ],
+                [
+                    393.0,
+                    454.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

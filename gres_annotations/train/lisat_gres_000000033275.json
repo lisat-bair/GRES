@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the truck that is big and rectangular, standing out with its yellow or orange color against the brown backdrop.",
+        "Identify the large, rectangular truck that is notable for its yellow or orange hue contrasting with the brown surroundings.",
+        "Spot the truck with a broad, rectangular form that is distinguished by its yellow or orange tint set against the brown scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033275.jpg",
+            "points": [
+                [
+                    507.0,
+                    391.0
+                ],
+                [
+                    507.0,
+                    392.0
+                ],
+                [
+                    503.0,
+                    392.0
+                ],
+                [
+                    503.0,
+                    393.0
+                ],
+                [
+                    501.0,
+                    393.0
+                ],
+                [
+                    501.0,
+                    394.0
+                ],
+                [
+                    500.0,
+                    394.0
+                ],
+                [
+                    500.0,
+                    395.0
+                ],
+                [
+                    499.0,
+                    395.0
+                ],
+                [
+                    499.0,
+                    396.0
+                ],
+                [
+                    498.0,
+                    396.0
+                ],
+                [
+                    498.0,
+                    398.0
+                ],
+                [
+                    497.0,
+                    398.0
+                ],
+                [
+                    497.0,
+                    404.0
+                ],
+                [
+                    498.0,
+                    404.0
+                ],
+                [
+                    498.0,
+                    406.0
+                ],
+                [
+                    499.0,
+                    406.0
+                ],
+                [
+                    499.0,
+                    409.0
+                ],
+                [
+                    500.0,
+                    409.0
+                ],
+                [
+                    500.0,
+                    411.0
+                ],
+                [
+                    501.0,
+                    411.0
+                ],
+                [
+                    501.0,
+                    413.0
+                ],
+                [
+                    502.0,
+                    413.0
+                ],
+                [
+                    502.0,
+                    414.0
+                ],
+                [
+                    503.0,
+                    414.0
+                ],
+                [
+                    503.0,
+                    415.0
+                ],
+                [
+                    512.0,
+                    415.0
+                ],
+                [
+                    512.0,
+                    391.0
+                ],
+                [
+                    507.0,
+                    391.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

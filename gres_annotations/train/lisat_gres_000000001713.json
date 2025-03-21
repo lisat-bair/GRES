@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the vehicle that has a shiny black exterior, a long design, and a unique front grille featuring horizontal bars.",
+        "Search for the automobile characterized by its sleek black finish, elongated form, and a front grille with horizontal slats.",
+        "Identify the car that possesses a glossy black surface, an extended shape, and a front grille adorned with horizontal lines."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001713.jpg",
+            "points": [
+                [
+                    194.0,
+                    431.0
+                ],
+                [
+                    194.0,
+                    432.0
+                ],
+                [
+                    193.0,
+                    432.0
+                ],
+                [
+                    193.0,
+                    442.0
+                ],
+                [
+                    194.0,
+                    442.0
+                ],
+                [
+                    194.0,
+                    444.0
+                ],
+                [
+                    196.0,
+                    444.0
+                ],
+                [
+                    196.0,
+                    445.0
+                ],
+                [
+                    198.0,
+                    445.0
+                ],
+                [
+                    198.0,
+                    444.0
+                ],
+                [
+                    200.0,
+                    444.0
+                ],
+                [
+                    200.0,
+                    440.0
+                ],
+                [
+                    201.0,
+                    440.0
+                ],
+                [
+                    201.0,
+                    433.0
+                ],
+                [
+                    200.0,
+                    433.0
+                ],
+                [
+                    200.0,
+                    432.0
+                ],
+                [
+                    199.0,
+                    432.0
+                ],
+                [
+                    199.0,
+                    431.0
+                ],
+                [
+                    194.0,
+                    431.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

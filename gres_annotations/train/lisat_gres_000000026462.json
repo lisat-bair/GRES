@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the truck that stands out with its rectangular design and a bright hue against a darker backdrop.",
+        "Search for the truck that has a unique rectangular form, showcasing a noticeable light color set against a dark background.",
+        "Identify the truck distinguished by its rectangular shape, marked by a prominent light color contrasting with a darker setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026462.jpg",
+            "points": [
+                [
+                    0.0,
+                    367.0
+                ],
+                [
+                    0.0,
+                    377.0
+                ],
+                [
+                    5.0,
+                    377.0
+                ],
+                [
+                    5.0,
+                    376.0
+                ],
+                [
+                    7.0,
+                    376.0
+                ],
+                [
+                    7.0,
+                    375.0
+                ],
+                [
+                    8.0,
+                    375.0
+                ],
+                [
+                    8.0,
+                    369.0
+                ],
+                [
+                    7.0,
+                    369.0
+                ],
+                [
+                    7.0,
+                    368.0
+                ],
+                [
+                    5.0,
+                    368.0
+                ],
+                [
+                    5.0,
+                    367.0
+                ],
+                [
+                    0.0,
+                    367.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

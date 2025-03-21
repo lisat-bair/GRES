@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the bus with its elongated rectangular shape, large windows, and distinct yellow color often associated with school transportation."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030224.jpg",
+            "points": [
+                [
+                    462.0,
+                    120.0
+                ],
+                [
+                    462.0,
+                    121.0
+                ],
+                [
+                    453.0,
+                    121.0
+                ],
+                [
+                    453.0,
+                    123.0
+                ],
+                [
+                    452.0,
+                    123.0
+                ],
+                [
+                    452.0,
+                    126.0
+                ],
+                [
+                    453.0,
+                    126.0
+                ],
+                [
+                    453.0,
+                    128.0
+                ],
+                [
+                    459.0,
+                    128.0
+                ],
+                [
+                    459.0,
+                    129.0
+                ],
+                [
+                    467.0,
+                    129.0
+                ],
+                [
+                    467.0,
+                    128.0
+                ],
+                [
+                    480.0,
+                    128.0
+                ],
+                [
+                    480.0,
+                    125.0
+                ],
+                [
+                    481.0,
+                    125.0
+                ],
+                [
+                    481.0,
+                    124.0
+                ],
+                [
+                    480.0,
+                    124.0
+                ],
+                [
+                    480.0,
+                    120.0
+                ],
+                [
+                    462.0,
+                    120.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

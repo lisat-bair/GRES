@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the car with defined edges and a horizontal alignment, typically found on roads or driveways."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000657.jpg",
+            "points": [
+                [
+                    127.0,
+                    3.0
+                ],
+                [
+                    127.0,
+                    4.0
+                ],
+                [
+                    125.0,
+                    4.0
+                ],
+                [
+                    125.0,
+                    5.0
+                ],
+                [
+                    124.0,
+                    5.0
+                ],
+                [
+                    124.0,
+                    16.0
+                ],
+                [
+                    125.0,
+                    16.0
+                ],
+                [
+                    125.0,
+                    17.0
+                ],
+                [
+                    130.0,
+                    17.0
+                ],
+                [
+                    130.0,
+                    16.0
+                ],
+                [
+                    131.0,
+                    16.0
+                ],
+                [
+                    131.0,
+                    12.0
+                ],
+                [
+                    132.0,
+                    12.0
+                ],
+                [
+                    132.0,
+                    9.0
+                ],
+                [
+                    131.0,
+                    9.0
+                ],
+                [
+                    131.0,
+                    4.0
+                ],
+                [
+                    129.0,
+                    4.0
+                ],
+                [
+                    129.0,
+                    3.0
+                ],
+                [
+                    127.0,
+                    3.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

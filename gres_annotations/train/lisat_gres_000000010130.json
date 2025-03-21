@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Identify the big yellow rectangular object with windows, usually seen on roads, as the bus in the picture.",
+        "Find the large yellow rectangular form with windows, commonly found on streets, as the bus in the photo.",
+        "Spot the large yellow rectangular figure with windows, generally located on roads, as the bus in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010130.jpg",
+            "points": [
+                [
+                    160.0,
+                    399.0
+                ],
+                [
+                    160.0,
+                    400.0
+                ],
+                [
+                    158.0,
+                    400.0
+                ],
+                [
+                    158.0,
+                    419.0
+                ],
+                [
+                    159.0,
+                    419.0
+                ],
+                [
+                    159.0,
+                    420.0
+                ],
+                [
+                    161.0,
+                    420.0
+                ],
+                [
+                    161.0,
+                    419.0
+                ],
+                [
+                    162.0,
+                    419.0
+                ],
+                [
+                    162.0,
+                    418.0
+                ],
+                [
+                    163.0,
+                    418.0
+                ],
+                [
+                    163.0,
+                    417.0
+                ],
+                [
+                    164.0,
+                    417.0
+                ],
+                [
+                    164.0,
+                    416.0
+                ],
+                [
+                    165.0,
+                    416.0
+                ],
+                [
+                    165.0,
+                    415.0
+                ],
+                [
+                    166.0,
+                    415.0
+                ],
+                [
+                    166.0,
+                    412.0
+                ],
+                [
+                    167.0,
+                    412.0
+                ],
+                [
+                    167.0,
+                    401.0
+                ],
+                [
+                    166.0,
+                    401.0
+                ],
+                [
+                    166.0,
+                    400.0
+                ],
+                [
+                    164.0,
+                    400.0
+                ],
+                [
+                    164.0,
+                    399.0
+                ],
+                [
+                    160.0,
+                    399.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

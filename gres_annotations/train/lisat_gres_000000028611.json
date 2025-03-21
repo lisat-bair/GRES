@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Locate the structure in the picture that has a unique rectangular form, a notable beige hue, and evenly arranged windows.",
+        "Find the building in the image that stands out with its rectangular design, noticeable beige coloration, and symmetrical window pattern.",
+        "Spot the edifice in the photo characterized by its rectangular shape, prominent beige tint, and balanced window layout."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028611.jpg",
+            "points": [
+                [
+                    14.0,
+                    176.0
+                ],
+                [
+                    14.0,
+                    177.0
+                ],
+                [
+                    11.0,
+                    177.0
+                ],
+                [
+                    11.0,
+                    184.0
+                ],
+                [
+                    12.0,
+                    184.0
+                ],
+                [
+                    12.0,
+                    185.0
+                ],
+                [
+                    22.0,
+                    185.0
+                ],
+                [
+                    22.0,
+                    184.0
+                ],
+                [
+                    23.0,
+                    184.0
+                ],
+                [
+                    23.0,
+                    178.0
+                ],
+                [
+                    22.0,
+                    178.0
+                ],
+                [
+                    22.0,
+                    177.0
+                ],
+                [
+                    21.0,
+                    177.0
+                ],
+                [
+                    21.0,
+                    176.0
+                ],
+                [
+                    14.0,
+                    176.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

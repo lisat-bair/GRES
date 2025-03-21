@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the mid-sized car that has unique tires and a sleek, reflective body design.",
+        "Locate the vehicle with a medium build, notable wheels, and a smooth, light-catching exterior.",
+        "Spot the passenger car with distinct wheels, a medium-sized frame, and a shiny, aerodynamically shaped body."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028867.jpg",
+            "points": [
+                [
+                    121.0,
+                    378.0
+                ],
+                [
+                    121.0,
+                    379.0
+                ],
+                [
+                    120.0,
+                    379.0
+                ],
+                [
+                    120.0,
+                    380.0
+                ],
+                [
+                    119.0,
+                    380.0
+                ],
+                [
+                    119.0,
+                    385.0
+                ],
+                [
+                    120.0,
+                    385.0
+                ],
+                [
+                    120.0,
+                    389.0
+                ],
+                [
+                    121.0,
+                    389.0
+                ],
+                [
+                    121.0,
+                    390.0
+                ],
+                [
+                    122.0,
+                    390.0
+                ],
+                [
+                    122.0,
+                    391.0
+                ],
+                [
+                    123.0,
+                    391.0
+                ],
+                [
+                    123.0,
+                    392.0
+                ],
+                [
+                    124.0,
+                    392.0
+                ],
+                [
+                    124.0,
+                    393.0
+                ],
+                [
+                    125.0,
+                    393.0
+                ],
+                [
+                    125.0,
+                    395.0
+                ],
+                [
+                    126.0,
+                    395.0
+                ],
+                [
+                    126.0,
+                    396.0
+                ],
+                [
+                    131.0,
+                    396.0
+                ],
+                [
+                    131.0,
+                    392.0
+                ],
+                [
+                    132.0,
+                    392.0
+                ],
+                [
+                    132.0,
+                    391.0
+                ],
+                [
+                    131.0,
+                    391.0
+                ],
+                [
+                    131.0,
+                    389.0
+                ],
+                [
+                    130.0,
+                    389.0
+                ],
+                [
+                    130.0,
+                    387.0
+                ],
+                [
+                    129.0,
+                    387.0
+                ],
+                [
+                    129.0,
+                    385.0
+                ],
+                [
+                    128.0,
+                    385.0
+                ],
+                [
+                    128.0,
+                    382.0
+                ],
+                [
+                    127.0,
+                    382.0
+                ],
+                [
+                    127.0,
+                    378.0
+                ],
+                [
+                    121.0,
+                    378.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

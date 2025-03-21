@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the bus that stands out with large wheels and windows, often painted in bright colors and displaying transit signs.",
+        "Look for the bus characterized by big wheels and windows, usually adorned with vibrant colors and marked with transportation symbols.",
+        "Seek the bus distinguished by its noticeable wheels and windows, generally featuring bright hues and transportation markings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007520.jpg",
+            "points": [
+                [
+                    420.0,
+                    88.0
+                ],
+                [
+                    420.0,
+                    89.0
+                ],
+                [
+                    395.0,
+                    89.0
+                ],
+                [
+                    395.0,
+                    90.0
+                ],
+                [
+                    394.0,
+                    90.0
+                ],
+                [
+                    394.0,
+                    91.0
+                ],
+                [
+                    393.0,
+                    91.0
+                ],
+                [
+                    393.0,
+                    98.0
+                ],
+                [
+                    394.0,
+                    98.0
+                ],
+                [
+                    394.0,
+                    99.0
+                ],
+                [
+                    395.0,
+                    99.0
+                ],
+                [
+                    395.0,
+                    100.0
+                ],
+                [
+                    429.0,
+                    100.0
+                ],
+                [
+                    429.0,
+                    99.0
+                ],
+                [
+                    431.0,
+                    99.0
+                ],
+                [
+                    431.0,
+                    92.0
+                ],
+                [
+                    430.0,
+                    92.0
+                ],
+                [
+                    430.0,
+                    91.0
+                ],
+                [
+                    429.0,
+                    91.0
+                ],
+                [
+                    429.0,
+                    90.0
+                ],
+                [
+                    428.0,
+                    90.0
+                ],
+                [
+                    428.0,
+                    89.0
+                ],
+                [
+                    425.0,
+                    89.0
+                ],
+                [
+                    425.0,
+                    88.0
+                ],
+                [
+                    420.0,
+                    88.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

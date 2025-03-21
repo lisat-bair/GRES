@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the tent positioned in the upper-right corner of the picture.",
+        "Identify the tent located in the top-right section of the image.",
+        "Spot the tent placed in the top-right area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031356.jpg",
+            "points": [
+                [
+                    324.0,
+                    171.0
+                ],
+                [
+                    324.0,
+                    172.0
+                ],
+                [
+                    318.0,
+                    172.0
+                ],
+                [
+                    318.0,
+                    173.0
+                ],
+                [
+                    317.0,
+                    173.0
+                ],
+                [
+                    317.0,
+                    189.0
+                ],
+                [
+                    319.0,
+                    189.0
+                ],
+                [
+                    319.0,
+                    190.0
+                ],
+                [
+                    330.0,
+                    190.0
+                ],
+                [
+                    330.0,
+                    189.0
+                ],
+                [
+                    335.0,
+                    189.0
+                ],
+                [
+                    335.0,
+                    188.0
+                ],
+                [
+                    337.0,
+                    188.0
+                ],
+                [
+                    337.0,
+                    186.0
+                ],
+                [
+                    338.0,
+                    186.0
+                ],
+                [
+                    338.0,
+                    180.0
+                ],
+                [
+                    339.0,
+                    180.0
+                ],
+                [
+                    339.0,
+                    177.0
+                ],
+                [
+                    338.0,
+                    177.0
+                ],
+                [
+                    338.0,
+                    174.0
+                ],
+                [
+                    337.0,
+                    174.0
+                ],
+                [
+                    337.0,
+                    172.0
+                ],
+                [
+                    335.0,
+                    172.0
+                ],
+                [
+                    335.0,
+                    171.0
+                ],
+                [
+                    324.0,
+                    171.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

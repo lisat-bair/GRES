@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the vehicle positioned in the upper-left corner of the picture, close to the side, with a compact rectangular form.",
+        "Identify the automobile in the top-left area of the image, adjacent to the boundary, characterized by a small rectangular appearance.",
+        "Spot the car located near the edge in the upper-left section of the image, featuring a modest rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014366.jpg",
+            "points": [
+                [
+                    0.0,
+                    77.0
+                ],
+                [
+                    0.0,
+                    92.0
+                ],
+                [
+                    1.0,
+                    92.0
+                ],
+                [
+                    1.0,
+                    91.0
+                ],
+                [
+                    2.0,
+                    91.0
+                ],
+                [
+                    2.0,
+                    90.0
+                ],
+                [
+                    3.0,
+                    90.0
+                ],
+                [
+                    3.0,
+                    86.0
+                ],
+                [
+                    4.0,
+                    86.0
+                ],
+                [
+                    4.0,
+                    78.0
+                ],
+                [
+                    3.0,
+                    78.0
+                ],
+                [
+                    3.0,
+                    77.0
+                ],
+                [
+                    0.0,
+                    77.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

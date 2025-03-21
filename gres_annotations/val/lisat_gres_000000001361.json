@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Identify the truck by its distinct rectangular shape and prominent contrasting color against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001361.jpg",
+            "points": [
+                [
+                    27.0,
+                    264.0
+                ],
+                [
+                    27.0,
+                    265.0
+                ],
+                [
+                    26.0,
+                    265.0
+                ],
+                [
+                    26.0,
+                    268.0
+                ],
+                [
+                    25.0,
+                    268.0
+                ],
+                [
+                    25.0,
+                    274.0
+                ],
+                [
+                    26.0,
+                    274.0
+                ],
+                [
+                    26.0,
+                    275.0
+                ],
+                [
+                    29.0,
+                    275.0
+                ],
+                [
+                    29.0,
+                    274.0
+                ],
+                [
+                    30.0,
+                    274.0
+                ],
+                [
+                    30.0,
+                    264.0
+                ],
+                [
+                    27.0,
+                    264.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

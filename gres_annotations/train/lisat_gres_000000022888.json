@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the long vehicle with many windows that has a unique red and white design.",
+        "Locate the large, stretched transport featuring numerous windows and a red and white color scheme.",
+        "Find the lengthy vehicle characterized by multiple windows and a specific red and white pattern."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022888.jpg",
+            "points": [
+                [
+                    240.0,
+                    241.0
+                ],
+                [
+                    240.0,
+                    242.0
+                ],
+                [
+                    238.0,
+                    242.0
+                ],
+                [
+                    238.0,
+                    243.0
+                ],
+                [
+                    237.0,
+                    243.0
+                ],
+                [
+                    237.0,
+                    244.0
+                ],
+                [
+                    234.0,
+                    244.0
+                ],
+                [
+                    234.0,
+                    245.0
+                ],
+                [
+                    233.0,
+                    245.0
+                ],
+                [
+                    233.0,
+                    248.0
+                ],
+                [
+                    234.0,
+                    248.0
+                ],
+                [
+                    234.0,
+                    249.0
+                ],
+                [
+                    237.0,
+                    249.0
+                ],
+                [
+                    237.0,
+                    250.0
+                ],
+                [
+                    244.0,
+                    250.0
+                ],
+                [
+                    244.0,
+                    251.0
+                ],
+                [
+                    251.0,
+                    251.0
+                ],
+                [
+                    251.0,
+                    250.0
+                ],
+                [
+                    253.0,
+                    250.0
+                ],
+                [
+                    253.0,
+                    247.0
+                ],
+                [
+                    254.0,
+                    247.0
+                ],
+                [
+                    254.0,
+                    241.0
+                ],
+                [
+                    240.0,
+                    241.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

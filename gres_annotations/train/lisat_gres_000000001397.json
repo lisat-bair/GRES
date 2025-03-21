@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the trailer in the lower-left corner of the picture, highlighting its elongated rectangular form attached to a truck cab at the front.",
+        "In the bottom-left section of the image, identify the trailer, noting its long rectangular shape linked to the truck cab at the front.",
+        "Find the trailer in the image's lower-left area by concentrating on its extended rectangular shape connected to a truck cab ahead."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001397.jpg",
+            "points": [
+                [
+                    297.0,
+                    416.0
+                ],
+                [
+                    297.0,
+                    417.0
+                ],
+                [
+                    295.0,
+                    417.0
+                ],
+                [
+                    295.0,
+                    427.0
+                ],
+                [
+                    296.0,
+                    427.0
+                ],
+                [
+                    296.0,
+                    432.0
+                ],
+                [
+                    297.0,
+                    432.0
+                ],
+                [
+                    297.0,
+                    433.0
+                ],
+                [
+                    299.0,
+                    433.0
+                ],
+                [
+                    299.0,
+                    434.0
+                ],
+                [
+                    300.0,
+                    434.0
+                ],
+                [
+                    300.0,
+                    433.0
+                ],
+                [
+                    302.0,
+                    433.0
+                ],
+                [
+                    302.0,
+                    432.0
+                ],
+                [
+                    303.0,
+                    432.0
+                ],
+                [
+                    303.0,
+                    426.0
+                ],
+                [
+                    302.0,
+                    426.0
+                ],
+                [
+                    302.0,
+                    417.0
+                ],
+                [
+                    301.0,
+                    417.0
+                ],
+                [
+                    301.0,
+                    416.0
+                ],
+                [
+                    297.0,
+                    416.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

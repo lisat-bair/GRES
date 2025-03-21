@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Look for the truck that stands out with its unique rectangular form, dark hue, and larger dimensions than nearby items.",
+        "Spot the truck that features a distinctive rectangular design, dark shade, and is larger in size relative to other objects around it.",
+        "Find the truck characterized by its unique rectangular shape, dark coloration, and greater size compared to surrounding objects."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030919.jpg",
+            "points": [
+                [
+                    0.0,
+                    378.0
+                ],
+                [
+                    0.0,
+                    398.0
+                ],
+                [
+                    7.0,
+                    398.0
+                ],
+                [
+                    7.0,
+                    386.0
+                ],
+                [
+                    6.0,
+                    386.0
+                ],
+                [
+                    6.0,
+                    382.0
+                ],
+                [
+                    5.0,
+                    382.0
+                ],
+                [
+                    5.0,
+                    381.0
+                ],
+                [
+                    4.0,
+                    381.0
+                ],
+                [
+                    4.0,
+                    378.0
+                ],
+                [
+                    0.0,
+                    378.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

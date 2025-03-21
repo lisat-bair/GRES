@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the truck that has a white, rectangular body and a prominent cabin section.",
+        "Identify the truck featuring a white, rectangular form and a distinct cabin space.",
+        "Spot the truck with a rectangular, white body and a pronounced cabin area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021226.jpg",
+            "points": [
+                [
+                    216.0,
+                    468.0
+                ],
+                [
+                    216.0,
+                    469.0
+                ],
+                [
+                    213.0,
+                    469.0
+                ],
+                [
+                    213.0,
+                    470.0
+                ],
+                [
+                    211.0,
+                    470.0
+                ],
+                [
+                    211.0,
+                    471.0
+                ],
+                [
+                    209.0,
+                    471.0
+                ],
+                [
+                    209.0,
+                    473.0
+                ],
+                [
+                    208.0,
+                    473.0
+                ],
+                [
+                    208.0,
+                    477.0
+                ],
+                [
+                    209.0,
+                    477.0
+                ],
+                [
+                    209.0,
+                    478.0
+                ],
+                [
+                    216.0,
+                    478.0
+                ],
+                [
+                    216.0,
+                    477.0
+                ],
+                [
+                    218.0,
+                    477.0
+                ],
+                [
+                    218.0,
+                    476.0
+                ],
+                [
+                    221.0,
+                    476.0
+                ],
+                [
+                    221.0,
+                    475.0
+                ],
+                [
+                    222.0,
+                    475.0
+                ],
+                [
+                    222.0,
+                    474.0
+                ],
+                [
+                    223.0,
+                    474.0
+                ],
+                [
+                    223.0,
+                    470.0
+                ],
+                [
+                    222.0,
+                    470.0
+                ],
+                [
+                    222.0,
+                    468.0
+                ],
+                [
+                    216.0,
+                    468.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

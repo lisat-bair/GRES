@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Locate the container ship positioned in the top-left section of the picture.",
+        "Find the container ship situated in the upper-left corner of the photo.",
+        "Spot the container ship that is located in the top-left area of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009566.jpg",
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    28.0
+                ],
+                [
+                    2.0,
+                    28.0
+                ],
+                [
+                    2.0,
+                    29.0
+                ],
+                [
+                    4.0,
+                    29.0
+                ],
+                [
+                    4.0,
+                    28.0
+                ],
+                [
+                    5.0,
+                    28.0
+                ],
+                [
+                    5.0,
+                    27.0
+                ],
+                [
+                    10.0,
+                    27.0
+                ],
+                [
+                    10.0,
+                    26.0
+                ],
+                [
+                    12.0,
+                    26.0
+                ],
+                [
+                    12.0,
+                    25.0
+                ],
+                [
+                    15.0,
+                    25.0
+                ],
+                [
+                    15.0,
+                    24.0
+                ],
+                [
+                    22.0,
+                    24.0
+                ],
+                [
+                    22.0,
+                    23.0
+                ],
+                [
+                    28.0,
+                    23.0
+                ],
+                [
+                    28.0,
+                    22.0
+                ],
+                [
+                    30.0,
+                    22.0
+                ],
+                [
+                    30.0,
+                    21.0
+                ],
+                [
+                    31.0,
+                    21.0
+                ],
+                [
+                    31.0,
+                    19.0
+                ],
+                [
+                    32.0,
+                    19.0
+                ],
+                [
+                    32.0,
+                    18.0
+                ],
+                [
+                    33.0,
+                    18.0
+                ],
+                [
+                    33.0,
+                    17.0
+                ],
+                [
+                    44.0,
+                    17.0
+                ],
+                [
+                    44.0,
+                    16.0
+                ],
+                [
+                    61.0,
+                    16.0
+                ],
+                [
+                    61.0,
+                    15.0
+                ],
+                [
+                    63.0,
+                    15.0
+                ],
+                [
+                    63.0,
+                    13.0
+                ],
+                [
+                    64.0,
+                    13.0
+                ],
+                [
+                    64.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

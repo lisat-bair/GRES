@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the truck that is dark in color, has a rectangular form, and a noticeable grille.",
+        "Find the truck that features a dark hue, a rectangular shape, and a visible grille.",
+        "Spot the truck with a dark shade, a rectangular design, and an apparent grille."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002097.jpg",
+            "points": [
+                [
+                    64.0,
+                    436.0
+                ],
+                [
+                    64.0,
+                    437.0
+                ],
+                [
+                    63.0,
+                    437.0
+                ],
+                [
+                    63.0,
+                    440.0
+                ],
+                [
+                    62.0,
+                    440.0
+                ],
+                [
+                    62.0,
+                    442.0
+                ],
+                [
+                    63.0,
+                    442.0
+                ],
+                [
+                    63.0,
+                    443.0
+                ],
+                [
+                    64.0,
+                    443.0
+                ],
+                [
+                    64.0,
+                    444.0
+                ],
+                [
+                    66.0,
+                    444.0
+                ],
+                [
+                    66.0,
+                    445.0
+                ],
+                [
+                    70.0,
+                    445.0
+                ],
+                [
+                    70.0,
+                    446.0
+                ],
+                [
+                    79.0,
+                    446.0
+                ],
+                [
+                    79.0,
+                    445.0
+                ],
+                [
+                    80.0,
+                    445.0
+                ],
+                [
+                    80.0,
+                    438.0
+                ],
+                [
+                    77.0,
+                    438.0
+                ],
+                [
+                    77.0,
+                    437.0
+                ],
+                [
+                    75.0,
+                    437.0
+                ],
+                [
+                    75.0,
+                    436.0
+                ],
+                [
+                    64.0,
+                    436.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

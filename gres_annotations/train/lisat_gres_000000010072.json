@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the large, box-shaped vehicle with windows and a unique hue, commonly yellow or red, usually seen on streets or close to bus depots.",
+        "Locate the sizable, windowed vehicle with a notable color, typically yellow or red, frequently observed on roads or near bus terminals.",
+        "Find the prominent, rectangular vehicle with windows and a distinctive color, often yellow or red, that is usually found on streets or at bus stops."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010072.jpg",
+            "points": [
+                [
+                    278.0,
+                    185.0
+                ],
+                [
+                    278.0,
+                    186.0
+                ],
+                [
+                    274.0,
+                    186.0
+                ],
+                [
+                    274.0,
+                    187.0
+                ],
+                [
+                    272.0,
+                    187.0
+                ],
+                [
+                    272.0,
+                    188.0
+                ],
+                [
+                    269.0,
+                    188.0
+                ],
+                [
+                    269.0,
+                    189.0
+                ],
+                [
+                    266.0,
+                    189.0
+                ],
+                [
+                    266.0,
+                    190.0
+                ],
+                [
+                    265.0,
+                    190.0
+                ],
+                [
+                    265.0,
+                    191.0
+                ],
+                [
+                    264.0,
+                    191.0
+                ],
+                [
+                    264.0,
+                    196.0
+                ],
+                [
+                    265.0,
+                    196.0
+                ],
+                [
+                    265.0,
+                    197.0
+                ],
+                [
+                    266.0,
+                    197.0
+                ],
+                [
+                    266.0,
+                    198.0
+                ],
+                [
+                    268.0,
+                    198.0
+                ],
+                [
+                    268.0,
+                    197.0
+                ],
+                [
+                    271.0,
+                    197.0
+                ],
+                [
+                    271.0,
+                    196.0
+                ],
+                [
+                    274.0,
+                    196.0
+                ],
+                [
+                    274.0,
+                    195.0
+                ],
+                [
+                    276.0,
+                    195.0
+                ],
+                [
+                    276.0,
+                    194.0
+                ],
+                [
+                    279.0,
+                    194.0
+                ],
+                [
+                    279.0,
+                    193.0
+                ],
+                [
+                    281.0,
+                    193.0
+                ],
+                [
+                    281.0,
+                    191.0
+                ],
+                [
+                    282.0,
+                    191.0
+                ],
+                [
+                    282.0,
+                    189.0
+                ],
+                [
+                    281.0,
+                    189.0
+                ],
+                [
+                    281.0,
+                    186.0
+                ],
+                [
+                    280.0,
+                    186.0
+                ],
+                [
+                    280.0,
+                    185.0
+                ],
+                [
+                    278.0,
+                    185.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

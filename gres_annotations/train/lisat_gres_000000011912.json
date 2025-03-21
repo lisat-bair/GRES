@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the vehicle located in the lower-right corner of the picture, characterized by its small form and stylish appearance.",
+        "Spot the automobile with a streamlined design and compact shape in the bottom-right section of the image.",
+        "Identify the car in the image's bottom-right that features a sleek design and compact build."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011912.jpg",
+            "points": [
+                [
+                    110.0,
+                    451.0
+                ],
+                [
+                    110.0,
+                    452.0
+                ],
+                [
+                    109.0,
+                    452.0
+                ],
+                [
+                    109.0,
+                    453.0
+                ],
+                [
+                    108.0,
+                    453.0
+                ],
+                [
+                    108.0,
+                    455.0
+                ],
+                [
+                    109.0,
+                    455.0
+                ],
+                [
+                    109.0,
+                    457.0
+                ],
+                [
+                    110.0,
+                    457.0
+                ],
+                [
+                    110.0,
+                    458.0
+                ],
+                [
+                    111.0,
+                    458.0
+                ],
+                [
+                    111.0,
+                    459.0
+                ],
+                [
+                    113.0,
+                    459.0
+                ],
+                [
+                    113.0,
+                    460.0
+                ],
+                [
+                    116.0,
+                    460.0
+                ],
+                [
+                    116.0,
+                    461.0
+                ],
+                [
+                    119.0,
+                    461.0
+                ],
+                [
+                    119.0,
+                    462.0
+                ],
+                [
+                    121.0,
+                    462.0
+                ],
+                [
+                    121.0,
+                    461.0
+                ],
+                [
+                    123.0,
+                    461.0
+                ],
+                [
+                    123.0,
+                    460.0
+                ],
+                [
+                    124.0,
+                    460.0
+                ],
+                [
+                    124.0,
+                    455.0
+                ],
+                [
+                    123.0,
+                    455.0
+                ],
+                [
+                    123.0,
+                    454.0
+                ],
+                [
+                    121.0,
+                    454.0
+                ],
+                [
+                    121.0,
+                    453.0
+                ],
+                [
+                    117.0,
+                    453.0
+                ],
+                [
+                    117.0,
+                    452.0
+                ],
+                [
+                    114.0,
+                    452.0
+                ],
+                [
+                    114.0,
+                    451.0
+                ],
+                [
+                    110.0,
+                    451.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the bus by its long rectangular form, big windows, and unique color scheme.",
+        "Spot the bus through its stretched rectangle shape, sizable windows, and notable color design.",
+        "Recognize the bus by its extended rectangle silhouette, prominent windows, and characteristic color pattern."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020767.jpg",
+            "points": [
+                [
+                    39.0,
+                    87.0
+                ],
+                [
+                    39.0,
+                    88.0
+                ],
+                [
+                    38.0,
+                    88.0
+                ],
+                [
+                    38.0,
+                    89.0
+                ],
+                [
+                    37.0,
+                    89.0
+                ],
+                [
+                    37.0,
+                    92.0
+                ],
+                [
+                    36.0,
+                    92.0
+                ],
+                [
+                    36.0,
+                    95.0
+                ],
+                [
+                    35.0,
+                    95.0
+                ],
+                [
+                    35.0,
+                    99.0
+                ],
+                [
+                    34.0,
+                    99.0
+                ],
+                [
+                    34.0,
+                    100.0
+                ],
+                [
+                    35.0,
+                    100.0
+                ],
+                [
+                    35.0,
+                    103.0
+                ],
+                [
+                    37.0,
+                    103.0
+                ],
+                [
+                    37.0,
+                    104.0
+                ],
+                [
+                    40.0,
+                    104.0
+                ],
+                [
+                    40.0,
+                    103.0
+                ],
+                [
+                    41.0,
+                    103.0
+                ],
+                [
+                    41.0,
+                    102.0
+                ],
+                [
+                    42.0,
+                    102.0
+                ],
+                [
+                    42.0,
+                    101.0
+                ],
+                [
+                    43.0,
+                    101.0
+                ],
+                [
+                    43.0,
+                    99.0
+                ],
+                [
+                    44.0,
+                    99.0
+                ],
+                [
+                    44.0,
+                    96.0
+                ],
+                [
+                    45.0,
+                    96.0
+                ],
+                [
+                    45.0,
+                    93.0
+                ],
+                [
+                    46.0,
+                    93.0
+                ],
+                [
+                    46.0,
+                    89.0
+                ],
+                [
+                    45.0,
+                    89.0
+                ],
+                [
+                    45.0,
+                    88.0
+                ],
+                [
+                    43.0,
+                    88.0
+                ],
+                [
+                    43.0,
+                    87.0
+                ],
+                [
+                    39.0,
+                    87.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

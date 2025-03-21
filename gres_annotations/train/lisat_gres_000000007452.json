@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the truck that stands out with its metallic color and rectangular form among the darker background.",
+        "Spot the truck featuring a unique metallic hue and a rectangular shape against the darker environment.",
+        "Find the truck characterized by its distinct metallic shade and rectangular outline in the midst of the darker setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007452.jpg",
+            "points": [
+                [
+                    100.0,
+                    262.0
+                ],
+                [
+                    100.0,
+                    263.0
+                ],
+                [
+                    99.0,
+                    263.0
+                ],
+                [
+                    99.0,
+                    270.0
+                ],
+                [
+                    100.0,
+                    270.0
+                ],
+                [
+                    100.0,
+                    271.0
+                ],
+                [
+                    101.0,
+                    271.0
+                ],
+                [
+                    101.0,
+                    272.0
+                ],
+                [
+                    103.0,
+                    272.0
+                ],
+                [
+                    103.0,
+                    273.0
+                ],
+                [
+                    105.0,
+                    273.0
+                ],
+                [
+                    105.0,
+                    272.0
+                ],
+                [
+                    106.0,
+                    272.0
+                ],
+                [
+                    106.0,
+                    264.0
+                ],
+                [
+                    105.0,
+                    264.0
+                ],
+                [
+                    105.0,
+                    262.0
+                ],
+                [
+                    100.0,
+                    262.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

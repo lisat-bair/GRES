@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the storage tank that is large and cylindrical, with a smooth metal exterior and noticeable shadows.",
+        "Identify the large, cylindrical storage tank that has a sleek metallic surface and clearly visible shadows.",
+        "Spot the storage tank that is both large and cylindrical, characterized by a smooth metallic finish and distinct shadowing."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022956.jpg",
+            "points": [
+                [
+                    0.0,
+                    136.0
+                ],
+                [
+                    0.0,
+                    179.0
+                ],
+                [
+                    2.0,
+                    179.0
+                ],
+                [
+                    2.0,
+                    178.0
+                ],
+                [
+                    6.0,
+                    178.0
+                ],
+                [
+                    6.0,
+                    177.0
+                ],
+                [
+                    7.0,
+                    177.0
+                ],
+                [
+                    7.0,
+                    176.0
+                ],
+                [
+                    8.0,
+                    176.0
+                ],
+                [
+                    8.0,
+                    167.0
+                ],
+                [
+                    7.0,
+                    167.0
+                ],
+                [
+                    7.0,
+                    164.0
+                ],
+                [
+                    8.0,
+                    164.0
+                ],
+                [
+                    8.0,
+                    141.0
+                ],
+                [
+                    7.0,
+                    141.0
+                ],
+                [
+                    7.0,
+                    140.0
+                ],
+                [
+                    6.0,
+                    140.0
+                ],
+                [
+                    6.0,
+                    139.0
+                ],
+                [
+                    5.0,
+                    139.0
+                ],
+                [
+                    5.0,
+                    138.0
+                ],
+                [
+                    4.0,
+                    138.0
+                ],
+                [
+                    4.0,
+                    136.0
+                ],
+                [
+                    0.0,
+                    136.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

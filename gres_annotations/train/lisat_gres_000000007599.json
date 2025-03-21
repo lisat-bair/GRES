@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the bus that is painted in a bright yellow shade and has several windows in the picture.",
+        "Spot the vehicle in the image that is colored bright yellow and features numerous windows.",
+        "Identify the bright yellow bus with many windows visible in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007599.jpg",
+            "points": [
+                [
+                    259.0,
+                    501.0
+                ],
+                [
+                    259.0,
+                    502.0
+                ],
+                [
+                    253.0,
+                    502.0
+                ],
+                [
+                    253.0,
+                    503.0
+                ],
+                [
+                    249.0,
+                    503.0
+                ],
+                [
+                    249.0,
+                    504.0
+                ],
+                [
+                    244.0,
+                    504.0
+                ],
+                [
+                    244.0,
+                    505.0
+                ],
+                [
+                    240.0,
+                    505.0
+                ],
+                [
+                    240.0,
+                    506.0
+                ],
+                [
+                    237.0,
+                    506.0
+                ],
+                [
+                    237.0,
+                    507.0
+                ],
+                [
+                    235.0,
+                    507.0
+                ],
+                [
+                    235.0,
+                    508.0
+                ],
+                [
+                    234.0,
+                    508.0
+                ],
+                [
+                    234.0,
+                    512.0
+                ],
+                [
+                    275.0,
+                    512.0
+                ],
+                [
+                    275.0,
+                    510.0
+                ],
+                [
+                    276.0,
+                    510.0
+                ],
+                [
+                    276.0,
+                    503.0
+                ],
+                [
+                    275.0,
+                    503.0
+                ],
+                [
+                    275.0,
+                    502.0
+                ],
+                [
+                    274.0,
+                    502.0
+                ],
+                [
+                    274.0,
+                    501.0
+                ],
+                [
+                    259.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

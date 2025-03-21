@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the sizable rectangular vehicle with wheels and an attached cabin, usually made of metal and extended in shape.",
+        "Locate the big rectangular object with wheels and a connected cab, often metallic and stretched out.",
+        "Recognize the large box-like structure on wheels that has an attached cab, typically made of metal and long in form."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033177.jpg",
+            "points": [
+                [
+                    508.0,
+                    264.0
+                ],
+                [
+                    508.0,
+                    265.0
+                ],
+                [
+                    507.0,
+                    265.0
+                ],
+                [
+                    507.0,
+                    270.0
+                ],
+                [
+                    508.0,
+                    270.0
+                ],
+                [
+                    508.0,
+                    281.0
+                ],
+                [
+                    507.0,
+                    281.0
+                ],
+                [
+                    507.0,
+                    290.0
+                ],
+                [
+                    508.0,
+                    290.0
+                ],
+                [
+                    508.0,
+                    291.0
+                ],
+                [
+                    512.0,
+                    291.0
+                ],
+                [
+                    512.0,
+                    265.0
+                ],
+                [
+                    510.0,
+                    265.0
+                ],
+                [
+                    510.0,
+                    264.0
+                ],
+                [
+                    508.0,
+                    264.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

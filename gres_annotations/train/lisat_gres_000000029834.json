@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the truck located in the bottom-left corner of the image with a trailer bed connected.",
+        "Find the truck positioned in the lower left part of the picture that has a trailer bed attached.",
+        "Locate the truck at the bottom left of the image which has a trailer bed linked to it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029834.jpg",
+            "points": [
+                [
+                    37.0,
+                    481.0
+                ],
+                [
+                    37.0,
+                    482.0
+                ],
+                [
+                    33.0,
+                    482.0
+                ],
+                [
+                    33.0,
+                    483.0
+                ],
+                [
+                    32.0,
+                    483.0
+                ],
+                [
+                    32.0,
+                    488.0
+                ],
+                [
+                    33.0,
+                    488.0
+                ],
+                [
+                    33.0,
+                    492.0
+                ],
+                [
+                    34.0,
+                    492.0
+                ],
+                [
+                    34.0,
+                    496.0
+                ],
+                [
+                    35.0,
+                    496.0
+                ],
+                [
+                    35.0,
+                    501.0
+                ],
+                [
+                    36.0,
+                    501.0
+                ],
+                [
+                    36.0,
+                    505.0
+                ],
+                [
+                    37.0,
+                    505.0
+                ],
+                [
+                    37.0,
+                    511.0
+                ],
+                [
+                    38.0,
+                    511.0
+                ],
+                [
+                    38.0,
+                    512.0
+                ],
+                [
+                    47.0,
+                    512.0
+                ],
+                [
+                    47.0,
+                    508.0
+                ],
+                [
+                    46.0,
+                    508.0
+                ],
+                [
+                    46.0,
+                    505.0
+                ],
+                [
+                    45.0,
+                    505.0
+                ],
+                [
+                    45.0,
+                    501.0
+                ],
+                [
+                    44.0,
+                    501.0
+                ],
+                [
+                    44.0,
+                    496.0
+                ],
+                [
+                    43.0,
+                    496.0
+                ],
+                [
+                    43.0,
+                    492.0
+                ],
+                [
+                    42.0,
+                    492.0
+                ],
+                [
+                    42.0,
+                    487.0
+                ],
+                [
+                    41.0,
+                    487.0
+                ],
+                [
+                    41.0,
+                    483.0
+                ],
+                [
+                    40.0,
+                    483.0
+                ],
+                [
+                    40.0,
+                    482.0
+                ],
+                [
+                    39.0,
+                    482.0
+                ],
+                [
+                    39.0,
+                    481.0
+                ],
+                [
+                    37.0,
+                    481.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

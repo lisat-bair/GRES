@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Notice the trailer bed, characterized by its long, rectangular form and metallic hue, standing out against the background.",
+        "Spot the trailer bed, distinguished by its elongated rectangle shape and metal color, differing from its surroundings.",
+        "Observe the trailer bed, with its extended rectangular outline and shiny metal appearance, contrasting with its environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031034.jpg",
+            "points": [
+                [
+                    192.0,
+                    269.0
+                ],
+                [
+                    192.0,
+                    270.0
+                ],
+                [
+                    190.0,
+                    270.0
+                ],
+                [
+                    190.0,
+                    271.0
+                ],
+                [
+                    188.0,
+                    271.0
+                ],
+                [
+                    188.0,
+                    276.0
+                ],
+                [
+                    189.0,
+                    276.0
+                ],
+                [
+                    189.0,
+                    277.0
+                ],
+                [
+                    190.0,
+                    277.0
+                ],
+                [
+                    190.0,
+                    279.0
+                ],
+                [
+                    191.0,
+                    279.0
+                ],
+                [
+                    191.0,
+                    280.0
+                ],
+                [
+                    192.0,
+                    280.0
+                ],
+                [
+                    192.0,
+                    281.0
+                ],
+                [
+                    193.0,
+                    281.0
+                ],
+                [
+                    193.0,
+                    282.0
+                ],
+                [
+                    194.0,
+                    282.0
+                ],
+                [
+                    194.0,
+                    283.0
+                ],
+                [
+                    201.0,
+                    283.0
+                ],
+                [
+                    201.0,
+                    282.0
+                ],
+                [
+                    202.0,
+                    282.0
+                ],
+                [
+                    202.0,
+                    279.0
+                ],
+                [
+                    201.0,
+                    279.0
+                ],
+                [
+                    201.0,
+                    277.0
+                ],
+                [
+                    200.0,
+                    277.0
+                ],
+                [
+                    200.0,
+                    276.0
+                ],
+                [
+                    199.0,
+                    276.0
+                ],
+                [
+                    199.0,
+                    274.0
+                ],
+                [
+                    198.0,
+                    274.0
+                ],
+                [
+                    198.0,
+                    272.0
+                ],
+                [
+                    197.0,
+                    272.0
+                ],
+                [
+                    197.0,
+                    271.0
+                ],
+                [
+                    196.0,
+                    271.0
+                ],
+                [
+                    196.0,
+                    270.0
+                ],
+                [
+                    194.0,
+                    270.0
+                ],
+                [
+                    194.0,
+                    269.0
+                ],
+                [
+                    192.0,
+                    269.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

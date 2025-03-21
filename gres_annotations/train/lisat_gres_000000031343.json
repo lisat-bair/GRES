@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the helipad, which is usually marked with a circular or square area featuring an 'H' symbol, often in contrasting colors like white or yellow against a darker backdrop.",
+        "Identify the helipad characterized by a circular or square zone, displaying an 'H' mark, commonly in contrasting shades such as white or yellow on a darker surface.",
+        "Spot the helipad, distinguished by either a circular or square section with an 'H' sign, typically colored in white or yellow to stand out against a darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031343.jpg",
+            "points": [
+                [
+                    511.0,
+                    424.0
+                ],
+                [
+                    511.0,
+                    426.0
+                ],
+                [
+                    510.0,
+                    426.0
+                ],
+                [
+                    510.0,
+                    428.0
+                ],
+                [
+                    509.0,
+                    428.0
+                ],
+                [
+                    509.0,
+                    430.0
+                ],
+                [
+                    508.0,
+                    430.0
+                ],
+                [
+                    508.0,
+                    433.0
+                ],
+                [
+                    507.0,
+                    433.0
+                ],
+                [
+                    507.0,
+                    438.0
+                ],
+                [
+                    506.0,
+                    438.0
+                ],
+                [
+                    506.0,
+                    445.0
+                ],
+                [
+                    505.0,
+                    445.0
+                ],
+                [
+                    505.0,
+                    450.0
+                ],
+                [
+                    504.0,
+                    450.0
+                ],
+                [
+                    504.0,
+                    454.0
+                ],
+                [
+                    503.0,
+                    454.0
+                ],
+                [
+                    503.0,
+                    457.0
+                ],
+                [
+                    502.0,
+                    457.0
+                ],
+                [
+                    502.0,
+                    462.0
+                ],
+                [
+                    501.0,
+                    462.0
+                ],
+                [
+                    501.0,
+                    466.0
+                ],
+                [
+                    502.0,
+                    466.0
+                ],
+                [
+                    502.0,
+                    467.0
+                ],
+                [
+                    503.0,
+                    467.0
+                ],
+                [
+                    503.0,
+                    468.0
+                ],
+                [
+                    506.0,
+                    468.0
+                ],
+                [
+                    506.0,
+                    469.0
+                ],
+                [
+                    510.0,
+                    469.0
+                ],
+                [
+                    510.0,
+                    470.0
+                ],
+                [
+                    512.0,
+                    470.0
+                ],
+                [
+                    512.0,
+                    424.0
+                ],
+                [
+                    511.0,
+                    424.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

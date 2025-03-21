@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the vehicle in the picture that has a shiny, reflective exterior and is long in shape.",
+        "Search for the automobile in the image that features a sleek, mirror-like finish and an extended form.",
+        "Identify the car with the gleaming, polished surface and stretched silhouette among the items shown in the picture."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007256.jpg",
+            "points": [
+                [
+                    253.0,
+                    184.0
+                ],
+                [
+                    253.0,
+                    185.0
+                ],
+                [
+                    251.0,
+                    185.0
+                ],
+                [
+                    251.0,
+                    187.0
+                ],
+                [
+                    250.0,
+                    187.0
+                ],
+                [
+                    250.0,
+                    188.0
+                ],
+                [
+                    249.0,
+                    188.0
+                ],
+                [
+                    249.0,
+                    190.0
+                ],
+                [
+                    248.0,
+                    190.0
+                ],
+                [
+                    248.0,
+                    192.0
+                ],
+                [
+                    247.0,
+                    192.0
+                ],
+                [
+                    247.0,
+                    193.0
+                ],
+                [
+                    248.0,
+                    193.0
+                ],
+                [
+                    248.0,
+                    195.0
+                ],
+                [
+                    250.0,
+                    195.0
+                ],
+                [
+                    250.0,
+                    196.0
+                ],
+                [
+                    254.0,
+                    196.0
+                ],
+                [
+                    254.0,
+                    194.0
+                ],
+                [
+                    255.0,
+                    194.0
+                ],
+                [
+                    255.0,
+                    193.0
+                ],
+                [
+                    256.0,
+                    193.0
+                ],
+                [
+                    256.0,
+                    191.0
+                ],
+                [
+                    257.0,
+                    191.0
+                ],
+                [
+                    257.0,
+                    190.0
+                ],
+                [
+                    258.0,
+                    190.0
+                ],
+                [
+                    258.0,
+                    187.0
+                ],
+                [
+                    257.0,
+                    187.0
+                ],
+                [
+                    257.0,
+                    185.0
+                ],
+                [
+                    256.0,
+                    185.0
+                ],
+                [
+                    256.0,
+                    184.0
+                ],
+                [
+                    253.0,
+                    184.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

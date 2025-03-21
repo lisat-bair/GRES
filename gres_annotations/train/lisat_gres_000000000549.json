@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the vehicle that features a white, arched exterior and noticeable glossy surfaces.",
+        "Find the automobile that has a curved, white body and standout shiny areas.",
+        "Spot the car characterized by a white, rounded shape and prominent reflective panels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000549.jpg",
+            "points": [
+                [
+                    450.0,
+                    284.0
+                ],
+                [
+                    450.0,
+                    285.0
+                ],
+                [
+                    449.0,
+                    285.0
+                ],
+                [
+                    449.0,
+                    286.0
+                ],
+                [
+                    448.0,
+                    286.0
+                ],
+                [
+                    448.0,
+                    288.0
+                ],
+                [
+                    447.0,
+                    288.0
+                ],
+                [
+                    447.0,
+                    293.0
+                ],
+                [
+                    446.0,
+                    293.0
+                ],
+                [
+                    446.0,
+                    295.0
+                ],
+                [
+                    447.0,
+                    295.0
+                ],
+                [
+                    447.0,
+                    298.0
+                ],
+                [
+                    449.0,
+                    298.0
+                ],
+                [
+                    449.0,
+                    299.0
+                ],
+                [
+                    454.0,
+                    299.0
+                ],
+                [
+                    454.0,
+                    298.0
+                ],
+                [
+                    455.0,
+                    298.0
+                ],
+                [
+                    455.0,
+                    297.0
+                ],
+                [
+                    456.0,
+                    297.0
+                ],
+                [
+                    456.0,
+                    295.0
+                ],
+                [
+                    457.0,
+                    295.0
+                ],
+                [
+                    457.0,
+                    293.0
+                ],
+                [
+                    458.0,
+                    293.0
+                ],
+                [
+                    458.0,
+                    287.0
+                ],
+                [
+                    457.0,
+                    287.0
+                ],
+                [
+                    457.0,
+                    286.0
+                ],
+                [
+                    456.0,
+                    286.0
+                ],
+                [
+                    456.0,
+                    285.0
+                ],
+                [
+                    455.0,
+                    285.0
+                ],
+                [
+                    455.0,
+                    284.0
+                ],
+                [
+                    450.0,
+                    284.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

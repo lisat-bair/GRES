@@ -1,0 +1,67 @@
+{
+    "text": [
+        "Identify the vehicle with a white, boxy shape and large, evenly spaced windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000664.jpg",
+            "points": [
+                [
+                    309.0,
+                    64.0
+                ],
+                [
+                    309.0,
+                    70.0
+                ],
+                [
+                    308.0,
+                    70.0
+                ],
+                [
+                    308.0,
+                    76.0
+                ],
+                [
+                    309.0,
+                    76.0
+                ],
+                [
+                    309.0,
+                    77.0
+                ],
+                [
+                    314.0,
+                    77.0
+                ],
+                [
+                    314.0,
+                    76.0
+                ],
+                [
+                    315.0,
+                    76.0
+                ],
+                [
+                    315.0,
+                    64.0
+                ],
+                [
+                    309.0,
+                    64.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

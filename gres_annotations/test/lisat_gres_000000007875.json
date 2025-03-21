@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Identify the car with a distinct outline, shiny surface, and visible wheels and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007875.jpg",
+            "points": [
+                [
+                    369.0,
+                    436.0
+                ],
+                [
+                    369.0,
+                    439.0
+                ],
+                [
+                    368.0,
+                    439.0
+                ],
+                [
+                    368.0,
+                    445.0
+                ],
+                [
+                    369.0,
+                    445.0
+                ],
+                [
+                    369.0,
+                    448.0
+                ],
+                [
+                    370.0,
+                    448.0
+                ],
+                [
+                    370.0,
+                    449.0
+                ],
+                [
+                    374.0,
+                    449.0
+                ],
+                [
+                    374.0,
+                    448.0
+                ],
+                [
+                    375.0,
+                    448.0
+                ],
+                [
+                    375.0,
+                    443.0
+                ],
+                [
+                    374.0,
+                    443.0
+                ],
+                [
+                    374.0,
+                    438.0
+                ],
+                [
+                    373.0,
+                    438.0
+                ],
+                [
+                    373.0,
+                    436.0
+                ],
+                [
+                    369.0,
+                    436.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

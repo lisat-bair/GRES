@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the car that has a sleek, rounded design and a glossy metal exterior that gleams in the light.",
+        "Locate the automobile with a streamlined, curved form and a polished metallic finish that reflects light.",
+        "Spot the vehicle characterized by its smooth, arched shape and a shiny, reflective metal surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005914.jpg",
+            "points": [
+                [
+                    122.0,
+                    398.0
+                ],
+                [
+                    122.0,
+                    399.0
+                ],
+                [
+                    121.0,
+                    399.0
+                ],
+                [
+                    121.0,
+                    400.0
+                ],
+                [
+                    120.0,
+                    400.0
+                ],
+                [
+                    120.0,
+                    402.0
+                ],
+                [
+                    119.0,
+                    402.0
+                ],
+                [
+                    119.0,
+                    405.0
+                ],
+                [
+                    120.0,
+                    405.0
+                ],
+                [
+                    120.0,
+                    406.0
+                ],
+                [
+                    121.0,
+                    406.0
+                ],
+                [
+                    121.0,
+                    407.0
+                ],
+                [
+                    126.0,
+                    407.0
+                ],
+                [
+                    126.0,
+                    405.0
+                ],
+                [
+                    127.0,
+                    405.0
+                ],
+                [
+                    127.0,
+                    399.0
+                ],
+                [
+                    126.0,
+                    399.0
+                ],
+                [
+                    126.0,
+                    398.0
+                ],
+                [
+                    122.0,
+                    398.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

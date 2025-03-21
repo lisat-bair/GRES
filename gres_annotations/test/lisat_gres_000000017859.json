@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Identify the bus in the top-left of the image based on its bounding box coordinates."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017859.jpg",
+            "points": [
+                [
+                    252.0,
+                    103.0
+                ],
+                [
+                    252.0,
+                    105.0
+                ],
+                [
+                    251.0,
+                    105.0
+                ],
+                [
+                    251.0,
+                    109.0
+                ],
+                [
+                    250.0,
+                    109.0
+                ],
+                [
+                    250.0,
+                    119.0
+                ],
+                [
+                    254.0,
+                    119.0
+                ],
+                [
+                    254.0,
+                    118.0
+                ],
+                [
+                    255.0,
+                    118.0
+                ],
+                [
+                    255.0,
+                    117.0
+                ],
+                [
+                    256.0,
+                    117.0
+                ],
+                [
+                    256.0,
+                    116.0
+                ],
+                [
+                    257.0,
+                    116.0
+                ],
+                [
+                    257.0,
+                    112.0
+                ],
+                [
+                    258.0,
+                    112.0
+                ],
+                [
+                    258.0,
+                    103.0
+                ],
+                [
+                    252.0,
+                    103.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

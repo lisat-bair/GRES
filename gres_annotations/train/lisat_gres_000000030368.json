@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck that appears unclear because the picture is blurry.",
+        "Identify the truck that is hard to distinguish because the photo is not sharp.",
+        "Spot the truck with vague details due to the image being out of focus."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030368.jpg",
+            "points": [
+                [
+                    508.0,
+                    303.0
+                ],
+                [
+                    508.0,
+                    304.0
+                ],
+                [
+                    507.0,
+                    304.0
+                ],
+                [
+                    507.0,
+                    312.0
+                ],
+                [
+                    508.0,
+                    312.0
+                ],
+                [
+                    508.0,
+                    314.0
+                ],
+                [
+                    509.0,
+                    314.0
+                ],
+                [
+                    509.0,
+                    318.0
+                ],
+                [
+                    510.0,
+                    318.0
+                ],
+                [
+                    510.0,
+                    320.0
+                ],
+                [
+                    511.0,
+                    320.0
+                ],
+                [
+                    511.0,
+                    322.0
+                ],
+                [
+                    512.0,
+                    322.0
+                ],
+                [
+                    512.0,
+                    303.0
+                ],
+                [
+                    508.0,
+                    303.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

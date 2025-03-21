@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Locate the shed with vertical wooden paneling and a light color, standing out against a darker background and surrounding foliage."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034408.jpg",
+            "points": [
+                [
+                    322.0,
+                    448.0
+                ],
+                [
+                    322.0,
+                    461.0
+                ],
+                [
+                    323.0,
+                    461.0
+                ],
+                [
+                    323.0,
+                    464.0
+                ],
+                [
+                    324.0,
+                    464.0
+                ],
+                [
+                    324.0,
+                    465.0
+                ],
+                [
+                    325.0,
+                    465.0
+                ],
+                [
+                    325.0,
+                    466.0
+                ],
+                [
+                    328.0,
+                    466.0
+                ],
+                [
+                    328.0,
+                    467.0
+                ],
+                [
+                    335.0,
+                    467.0
+                ],
+                [
+                    335.0,
+                    465.0
+                ],
+                [
+                    336.0,
+                    465.0
+                ],
+                [
+                    336.0,
+                    449.0
+                ],
+                [
+                    334.0,
+                    449.0
+                ],
+                [
+                    334.0,
+                    448.0
+                ],
+                [
+                    322.0,
+                    448.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

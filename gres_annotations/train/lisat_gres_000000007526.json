@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the haul truck that features a prominent yellow exterior and a unique rectangular cargo area designed for transporting heavy materials.",
+        "Spot the haul truck with a bright yellow frame and a distinctive rectangular bed, utilized for moving substantial loads.",
+        "Find the haul truck characterized by its large yellow body and a specific rectangular bed made for carrying hefty cargo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007526.jpg",
+            "points": [
+                [
+                    80.0,
+                    188.0
+                ],
+                [
+                    80.0,
+                    189.0
+                ],
+                [
+                    74.0,
+                    189.0
+                ],
+                [
+                    74.0,
+                    190.0
+                ],
+                [
+                    72.0,
+                    190.0
+                ],
+                [
+                    72.0,
+                    196.0
+                ],
+                [
+                    73.0,
+                    196.0
+                ],
+                [
+                    73.0,
+                    198.0
+                ],
+                [
+                    74.0,
+                    198.0
+                ],
+                [
+                    74.0,
+                    199.0
+                ],
+                [
+                    78.0,
+                    199.0
+                ],
+                [
+                    78.0,
+                    200.0
+                ],
+                [
+                    88.0,
+                    200.0
+                ],
+                [
+                    88.0,
+                    199.0
+                ],
+                [
+                    91.0,
+                    199.0
+                ],
+                [
+                    91.0,
+                    197.0
+                ],
+                [
+                    92.0,
+                    197.0
+                ],
+                [
+                    92.0,
+                    195.0
+                ],
+                [
+                    93.0,
+                    195.0
+                ],
+                [
+                    93.0,
+                    194.0
+                ],
+                [
+                    94.0,
+                    194.0
+                ],
+                [
+                    94.0,
+                    193.0
+                ],
+                [
+                    95.0,
+                    193.0
+                ],
+                [
+                    95.0,
+                    191.0
+                ],
+                [
+                    94.0,
+                    191.0
+                ],
+                [
+                    94.0,
+                    190.0
+                ],
+                [
+                    90.0,
+                    190.0
+                ],
+                [
+                    90.0,
+                    189.0
+                ],
+                [
+                    87.0,
+                    189.0
+                ],
+                [
+                    87.0,
+                    188.0
+                ],
+                [
+                    80.0,
+                    188.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

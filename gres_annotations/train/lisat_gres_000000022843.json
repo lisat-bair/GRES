@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Recognize the big, boxy vehicle characterized by its noticeable windows and a unique yellow hue commonly linked with buses.",
+        "Spot the sizable, rectangular vehicle known for its striking windows and a particular yellow shade often connected with buses.",
+        "Notice the large, rectangular-shaped vehicle that features prominent windows and a distinct yellow color usually related to buses."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022843.jpg",
+            "points": [
+                [
+                    375.0,
+                    356.0
+                ],
+                [
+                    375.0,
+                    358.0
+                ],
+                [
+                    374.0,
+                    358.0
+                ],
+                [
+                    374.0,
+                    361.0
+                ],
+                [
+                    373.0,
+                    361.0
+                ],
+                [
+                    373.0,
+                    363.0
+                ],
+                [
+                    372.0,
+                    363.0
+                ],
+                [
+                    372.0,
+                    366.0
+                ],
+                [
+                    371.0,
+                    366.0
+                ],
+                [
+                    371.0,
+                    369.0
+                ],
+                [
+                    370.0,
+                    369.0
+                ],
+                [
+                    370.0,
+                    371.0
+                ],
+                [
+                    371.0,
+                    371.0
+                ],
+                [
+                    371.0,
+                    372.0
+                ],
+                [
+                    372.0,
+                    372.0
+                ],
+                [
+                    372.0,
+                    373.0
+                ],
+                [
+                    374.0,
+                    373.0
+                ],
+                [
+                    374.0,
+                    374.0
+                ],
+                [
+                    376.0,
+                    374.0
+                ],
+                [
+                    376.0,
+                    373.0
+                ],
+                [
+                    378.0,
+                    373.0
+                ],
+                [
+                    378.0,
+                    372.0
+                ],
+                [
+                    379.0,
+                    372.0
+                ],
+                [
+                    379.0,
+                    371.0
+                ],
+                [
+                    380.0,
+                    371.0
+                ],
+                [
+                    380.0,
+                    369.0
+                ],
+                [
+                    381.0,
+                    369.0
+                ],
+                [
+                    381.0,
+                    367.0
+                ],
+                [
+                    382.0,
+                    367.0
+                ],
+                [
+                    382.0,
+                    365.0
+                ],
+                [
+                    383.0,
+                    365.0
+                ],
+                [
+                    383.0,
+                    363.0
+                ],
+                [
+                    384.0,
+                    363.0
+                ],
+                [
+                    384.0,
+                    357.0
+                ],
+                [
+                    383.0,
+                    357.0
+                ],
+                [
+                    383.0,
+                    356.0
+                ],
+                [
+                    375.0,
+                    356.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

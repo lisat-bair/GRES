@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Look for the bus that has a stretched rectangular form and noticeable windows on the side, usually in a white or light hue.",
+        "Find the bus characterized by its long rectangular shape and prominent side windows, generally painted in white or a light color.",
+        "Search for the bus with an extended rectangle design and visible windows along its sides, often seen in white or lighter shades."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010033.jpg",
+            "points": [
+                [
+                    293.0,
+                    403.0
+                ],
+                [
+                    293.0,
+                    410.0
+                ],
+                [
+                    296.0,
+                    410.0
+                ],
+                [
+                    296.0,
+                    411.0
+                ],
+                [
+                    300.0,
+                    411.0
+                ],
+                [
+                    300.0,
+                    412.0
+                ],
+                [
+                    305.0,
+                    412.0
+                ],
+                [
+                    305.0,
+                    413.0
+                ],
+                [
+                    314.0,
+                    413.0
+                ],
+                [
+                    314.0,
+                    412.0
+                ],
+                [
+                    315.0,
+                    412.0
+                ],
+                [
+                    315.0,
+                    411.0
+                ],
+                [
+                    316.0,
+                    411.0
+                ],
+                [
+                    316.0,
+                    409.0
+                ],
+                [
+                    315.0,
+                    409.0
+                ],
+                [
+                    315.0,
+                    407.0
+                ],
+                [
+                    314.0,
+                    407.0
+                ],
+                [
+                    314.0,
+                    406.0
+                ],
+                [
+                    313.0,
+                    406.0
+                ],
+                [
+                    313.0,
+                    405.0
+                ],
+                [
+                    309.0,
+                    405.0
+                ],
+                [
+                    309.0,
+                    404.0
+                ],
+                [
+                    303.0,
+                    404.0
+                ],
+                [
+                    303.0,
+                    403.0
+                ],
+                [
+                    293.0,
+                    403.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

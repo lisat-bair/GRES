@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the vehicle at the upper-left corner of the picture within the given bounding coordinates.",
+        "Locate the automobile in the top-left section of the image by using the specified boundary points.",
+        "Find the car positioned at the upper-left part of the image based on the designated bounding coordinates."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020443.jpg",
+            "points": [
+                [
+                    298.0,
+                    23.0
+                ],
+                [
+                    298.0,
+                    24.0
+                ],
+                [
+                    296.0,
+                    24.0
+                ],
+                [
+                    296.0,
+                    28.0
+                ],
+                [
+                    295.0,
+                    28.0
+                ],
+                [
+                    295.0,
+                    40.0
+                ],
+                [
+                    296.0,
+                    40.0
+                ],
+                [
+                    296.0,
+                    42.0
+                ],
+                [
+                    297.0,
+                    42.0
+                ],
+                [
+                    297.0,
+                    43.0
+                ],
+                [
+                    300.0,
+                    43.0
+                ],
+                [
+                    300.0,
+                    44.0
+                ],
+                [
+                    305.0,
+                    44.0
+                ],
+                [
+                    305.0,
+                    43.0
+                ],
+                [
+                    306.0,
+                    43.0
+                ],
+                [
+                    306.0,
+                    42.0
+                ],
+                [
+                    308.0,
+                    42.0
+                ],
+                [
+                    308.0,
+                    40.0
+                ],
+                [
+                    309.0,
+                    40.0
+                ],
+                [
+                    309.0,
+                    35.0
+                ],
+                [
+                    308.0,
+                    35.0
+                ],
+                [
+                    308.0,
+                    31.0
+                ],
+                [
+                    307.0,
+                    31.0
+                ],
+                [
+                    307.0,
+                    29.0
+                ],
+                [
+                    306.0,
+                    29.0
+                ],
+                [
+                    306.0,
+                    28.0
+                ],
+                [
+                    305.0,
+                    28.0
+                ],
+                [
+                    305.0,
+                    26.0
+                ],
+                [
+                    304.0,
+                    26.0
+                ],
+                [
+                    304.0,
+                    24.0
+                ],
+                [
+                    300.0,
+                    24.0
+                ],
+                [
+                    300.0,
+                    23.0
+                ],
+                [
+                    298.0,
+                    23.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the vehicle characterized by a lengthy rectangular design and metallic sheen that distinguishes it as a truck with a trailer bed.",
+        "Look for the vehicle that features an elongated rectangular form and metallic touches, identifying it as a truck with a trailer bed.",
+        "Find the vehicle with a long rectangular silhouette and metal highlights, which marks it as a truck equipped with a trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027080.jpg",
+            "points": [
+                [
+                    72.0,
+                    90.0
+                ],
+                [
+                    72.0,
+                    91.0
+                ],
+                [
+                    71.0,
+                    91.0
+                ],
+                [
+                    71.0,
+                    102.0
+                ],
+                [
+                    70.0,
+                    102.0
+                ],
+                [
+                    70.0,
+                    130.0
+                ],
+                [
+                    72.0,
+                    130.0
+                ],
+                [
+                    72.0,
+                    131.0
+                ],
+                [
+                    78.0,
+                    131.0
+                ],
+                [
+                    78.0,
+                    130.0
+                ],
+                [
+                    80.0,
+                    130.0
+                ],
+                [
+                    80.0,
+                    128.0
+                ],
+                [
+                    81.0,
+                    128.0
+                ],
+                [
+                    81.0,
+                    118.0
+                ],
+                [
+                    80.0,
+                    118.0
+                ],
+                [
+                    80.0,
+                    107.0
+                ],
+                [
+                    81.0,
+                    107.0
+                ],
+                [
+                    81.0,
+                    104.0
+                ],
+                [
+                    80.0,
+                    104.0
+                ],
+                [
+                    80.0,
+                    102.0
+                ],
+                [
+                    81.0,
+                    102.0
+                ],
+                [
+                    81.0,
+                    93.0
+                ],
+                [
+                    80.0,
+                    93.0
+                ],
+                [
+                    80.0,
+                    91.0
+                ],
+                [
+                    79.0,
+                    91.0
+                ],
+                [
+                    79.0,
+                    90.0
+                ],
+                [
+                    72.0,
+                    90.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

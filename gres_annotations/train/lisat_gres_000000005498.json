@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Identify the big, yellow, rectangular vehicle that usually serves as public transport and features several windows.",
+        "Find the sizable, yellow, windowed vehicle with a rectangular form, commonly linked to public transit.",
+        "Spot the large, rectangular, yellow vehicle with multiple windows, often used for public transportation."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005498.jpg",
+            "points": [
+                [
+                    475.0,
+                    479.0
+                ],
+                [
+                    475.0,
+                    480.0
+                ],
+                [
+                    473.0,
+                    480.0
+                ],
+                [
+                    473.0,
+                    484.0
+                ],
+                [
+                    472.0,
+                    484.0
+                ],
+                [
+                    472.0,
+                    489.0
+                ],
+                [
+                    473.0,
+                    489.0
+                ],
+                [
+                    473.0,
+                    490.0
+                ],
+                [
+                    475.0,
+                    490.0
+                ],
+                [
+                    475.0,
+                    491.0
+                ],
+                [
+                    488.0,
+                    491.0
+                ],
+                [
+                    488.0,
+                    490.0
+                ],
+                [
+                    490.0,
+                    490.0
+                ],
+                [
+                    490.0,
+                    484.0
+                ],
+                [
+                    489.0,
+                    484.0
+                ],
+                [
+                    489.0,
+                    482.0
+                ],
+                [
+                    487.0,
+                    482.0
+                ],
+                [
+                    487.0,
+                    481.0
+                ],
+                [
+                    485.0,
+                    481.0
+                ],
+                [
+                    485.0,
+                    480.0
+                ],
+                [
+                    480.0,
+                    480.0
+                ],
+                [
+                    480.0,
+                    479.0
+                ],
+                [
+                    475.0,
+                    479.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

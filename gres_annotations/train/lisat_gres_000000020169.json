@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the elongated, yellow transport with numerous windows and a curved front, generally found on streets.",
+        "Look for the extended, yellow automobile featuring several windows and a rounded front, usually seen on roads.",
+        "Spot the lengthy, yellow conveyance possessing multiple windows and a rounded front, commonly situated on highways."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020169.jpg",
+            "points": [
+                [
+                    124.0,
+                    496.0
+                ],
+                [
+                    124.0,
+                    497.0
+                ],
+                [
+                    122.0,
+                    497.0
+                ],
+                [
+                    122.0,
+                    498.0
+                ],
+                [
+                    121.0,
+                    498.0
+                ],
+                [
+                    121.0,
+                    499.0
+                ],
+                [
+                    120.0,
+                    499.0
+                ],
+                [
+                    120.0,
+                    501.0
+                ],
+                [
+                    119.0,
+                    501.0
+                ],
+                [
+                    119.0,
+                    503.0
+                ],
+                [
+                    118.0,
+                    503.0
+                ],
+                [
+                    118.0,
+                    505.0
+                ],
+                [
+                    117.0,
+                    505.0
+                ],
+                [
+                    117.0,
+                    509.0
+                ],
+                [
+                    116.0,
+                    509.0
+                ],
+                [
+                    116.0,
+                    512.0
+                ],
+                [
+                    129.0,
+                    512.0
+                ],
+                [
+                    129.0,
+                    511.0
+                ],
+                [
+                    130.0,
+                    511.0
+                ],
+                [
+                    130.0,
+                    509.0
+                ],
+                [
+                    131.0,
+                    509.0
+                ],
+                [
+                    131.0,
+                    508.0
+                ],
+                [
+                    132.0,
+                    508.0
+                ],
+                [
+                    132.0,
+                    506.0
+                ],
+                [
+                    133.0,
+                    506.0
+                ],
+                [
+                    133.0,
+                    499.0
+                ],
+                [
+                    132.0,
+                    499.0
+                ],
+                [
+                    132.0,
+                    498.0
+                ],
+                [
+                    131.0,
+                    498.0
+                ],
+                [
+                    131.0,
+                    497.0
+                ],
+                [
+                    129.0,
+                    497.0
+                ],
+                [
+                    129.0,
+                    496.0
+                ],
+                [
+                    124.0,
+                    496.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

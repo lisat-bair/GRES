@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the massive vehicle with a hefty, boxy design and oversized wheels that contrasts with its surroundings.",
+        "Locate the big lorry characterized by its chunky, angular frame and prominent wheels that distinguish it from the backdrop.",
+        "Find the substantial truck with a robust, square build and large tires that make it noticeable against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024821.jpg",
+            "points": [
+                [
+                    104.0,
+                    43.0
+                ],
+                [
+                    104.0,
+                    45.0
+                ],
+                [
+                    103.0,
+                    45.0
+                ],
+                [
+                    103.0,
+                    49.0
+                ],
+                [
+                    104.0,
+                    49.0
+                ],
+                [
+                    104.0,
+                    66.0
+                ],
+                [
+                    105.0,
+                    66.0
+                ],
+                [
+                    105.0,
+                    76.0
+                ],
+                [
+                    106.0,
+                    76.0
+                ],
+                [
+                    106.0,
+                    80.0
+                ],
+                [
+                    107.0,
+                    80.0
+                ],
+                [
+                    107.0,
+                    81.0
+                ],
+                [
+                    109.0,
+                    81.0
+                ],
+                [
+                    109.0,
+                    82.0
+                ],
+                [
+                    115.0,
+                    82.0
+                ],
+                [
+                    115.0,
+                    81.0
+                ],
+                [
+                    116.0,
+                    81.0
+                ],
+                [
+                    116.0,
+                    79.0
+                ],
+                [
+                    117.0,
+                    79.0
+                ],
+                [
+                    117.0,
+                    78.0
+                ],
+                [
+                    116.0,
+                    78.0
+                ],
+                [
+                    116.0,
+                    76.0
+                ],
+                [
+                    115.0,
+                    76.0
+                ],
+                [
+                    115.0,
+                    53.0
+                ],
+                [
+                    114.0,
+                    53.0
+                ],
+                [
+                    114.0,
+                    46.0
+                ],
+                [
+                    113.0,
+                    46.0
+                ],
+                [
+                    113.0,
+                    45.0
+                ],
+                [
+                    111.0,
+                    45.0
+                ],
+                [
+                    111.0,
+                    44.0
+                ],
+                [
+                    110.0,
+                    44.0
+                ],
+                [
+                    110.0,
+                    43.0
+                ],
+                [
+                    104.0,
+                    43.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

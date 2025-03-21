@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Locate the car characterized by a unique metallic exterior, sleek design, and noticeable headlights.",
+        "Find the automobile that features a distinctive metal frame, aerodynamic build, and striking headlights.",
+        "Spot the vehicle with an unmistakable metallic body, smooth contours, and eye-catching headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003889.jpg",
+            "points": [
+                [
+                    483.0,
+                    78.0
+                ],
+                [
+                    483.0,
+                    79.0
+                ],
+                [
+                    482.0,
+                    79.0
+                ],
+                [
+                    482.0,
+                    80.0
+                ],
+                [
+                    481.0,
+                    80.0
+                ],
+                [
+                    481.0,
+                    82.0
+                ],
+                [
+                    480.0,
+                    82.0
+                ],
+                [
+                    480.0,
+                    83.0
+                ],
+                [
+                    481.0,
+                    83.0
+                ],
+                [
+                    481.0,
+                    88.0
+                ],
+                [
+                    482.0,
+                    88.0
+                ],
+                [
+                    482.0,
+                    89.0
+                ],
+                [
+                    483.0,
+                    89.0
+                ],
+                [
+                    483.0,
+                    91.0
+                ],
+                [
+                    484.0,
+                    91.0
+                ],
+                [
+                    484.0,
+                    92.0
+                ],
+                [
+                    485.0,
+                    92.0
+                ],
+                [
+                    485.0,
+                    93.0
+                ],
+                [
+                    488.0,
+                    93.0
+                ],
+                [
+                    488.0,
+                    92.0
+                ],
+                [
+                    491.0,
+                    92.0
+                ],
+                [
+                    491.0,
+                    91.0
+                ],
+                [
+                    492.0,
+                    91.0
+                ],
+                [
+                    492.0,
+                    90.0
+                ],
+                [
+                    493.0,
+                    90.0
+                ],
+                [
+                    493.0,
+                    83.0
+                ],
+                [
+                    492.0,
+                    83.0
+                ],
+                [
+                    492.0,
+                    82.0
+                ],
+                [
+                    491.0,
+                    82.0
+                ],
+                [
+                    491.0,
+                    81.0
+                ],
+                [
+                    490.0,
+                    81.0
+                ],
+                [
+                    490.0,
+                    80.0
+                ],
+                [
+                    489.0,
+                    80.0
+                ],
+                [
+                    489.0,
+                    79.0
+                ],
+                [
+                    488.0,
+                    79.0
+                ],
+                [
+                    488.0,
+                    78.0
+                ],
+                [
+                    483.0,
+                    78.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

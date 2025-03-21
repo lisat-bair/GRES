@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Locate the truck in the picture that has a long, rectangular form with visible wheels underneath and a cab at the front, setting it apart from its surroundings.",
+        "Find the truck in the photo characterized by its stretched, rectangular shape, exposed wheels underneath, and a front cabin, making it stand out from the environment.",
+        "Spot the truck in the image which features a rectangular, elongated design, visible wheels below, and a front cabin, differentiating it from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006626.jpg",
+            "points": [
+                [
+                    98.0,
+                    231.0
+                ],
+                [
+                    98.0,
+                    233.0
+                ],
+                [
+                    97.0,
+                    233.0
+                ],
+                [
+                    97.0,
+                    243.0
+                ],
+                [
+                    98.0,
+                    243.0
+                ],
+                [
+                    98.0,
+                    247.0
+                ],
+                [
+                    100.0,
+                    247.0
+                ],
+                [
+                    100.0,
+                    248.0
+                ],
+                [
+                    102.0,
+                    248.0
+                ],
+                [
+                    102.0,
+                    247.0
+                ],
+                [
+                    104.0,
+                    247.0
+                ],
+                [
+                    104.0,
+                    231.0
+                ],
+                [
+                    98.0,
+                    231.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

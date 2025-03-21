@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck that has a big rectangular form and a hinged segment, featuring a long flatbed or enclosed storage space.",
+        "Search for the vehicle with a significant rectangular design and articulated section, marked by a lengthy flatbed or closed cargo zone.",
+        "Identify the truck with a prominent rectangular body and a jointed part, distinguished by an extended flatbed or covered loading area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004830.jpg",
+            "points": [
+                [
+                    372.0,
+                    0.0
+                ],
+                [
+                    372.0,
+                    7.0
+                ],
+                [
+                    373.0,
+                    7.0
+                ],
+                [
+                    373.0,
+                    8.0
+                ],
+                [
+                    375.0,
+                    8.0
+                ],
+                [
+                    375.0,
+                    9.0
+                ],
+                [
+                    381.0,
+                    9.0
+                ],
+                [
+                    381.0,
+                    8.0
+                ],
+                [
+                    382.0,
+                    8.0
+                ],
+                [
+                    382.0,
+                    6.0
+                ],
+                [
+                    383.0,
+                    6.0
+                ],
+                [
+                    383.0,
+                    4.0
+                ],
+                [
+                    384.0,
+                    4.0
+                ],
+                [
+                    384.0,
+                    0.0
+                ],
+                [
+                    372.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

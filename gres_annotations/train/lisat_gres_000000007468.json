@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the structure that features unique rectangular panels in subdued earth colors.",
+        "Find the edifice characterized by its distinctive rectangular panels and soft earth hues.",
+        "Locate the building that stands out with its special rectangular panels and muted earth shades."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007468.jpg",
+            "points": [
+                [
+                    420.0,
+                    231.0
+                ],
+                [
+                    420.0,
+                    232.0
+                ],
+                [
+                    419.0,
+                    232.0
+                ],
+                [
+                    419.0,
+                    237.0
+                ],
+                [
+                    420.0,
+                    237.0
+                ],
+                [
+                    420.0,
+                    246.0
+                ],
+                [
+                    421.0,
+                    246.0
+                ],
+                [
+                    421.0,
+                    250.0
+                ],
+                [
+                    422.0,
+                    250.0
+                ],
+                [
+                    422.0,
+                    251.0
+                ],
+                [
+                    437.0,
+                    251.0
+                ],
+                [
+                    437.0,
+                    250.0
+                ],
+                [
+                    438.0,
+                    250.0
+                ],
+                [
+                    438.0,
+                    245.0
+                ],
+                [
+                    439.0,
+                    245.0
+                ],
+                [
+                    439.0,
+                    241.0
+                ],
+                [
+                    440.0,
+                    241.0
+                ],
+                [
+                    440.0,
+                    233.0
+                ],
+                [
+                    439.0,
+                    233.0
+                ],
+                [
+                    439.0,
+                    232.0
+                ],
+                [
+                    437.0,
+                    232.0
+                ],
+                [
+                    437.0,
+                    231.0
+                ],
+                [
+                    420.0,
+                    231.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the vehicle that has a shiny metallic finish and well-defined symmetrical characteristics common to a car's design.",
+        "Locate the automobile featuring a metallic exterior and noticeable symmetrical attributes that are typical of a car's structure.",
+        "Spot the car with a metallic body and clear symmetrical features that are characteristic of an automobile's form."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025532.jpg",
+            "points": [
+                [
+                    270.0,
+                    187.0
+                ],
+                [
+                    270.0,
+                    188.0
+                ],
+                [
+                    269.0,
+                    188.0
+                ],
+                [
+                    269.0,
+                    189.0
+                ],
+                [
+                    268.0,
+                    189.0
+                ],
+                [
+                    268.0,
+                    192.0
+                ],
+                [
+                    267.0,
+                    192.0
+                ],
+                [
+                    267.0,
+                    199.0
+                ],
+                [
+                    268.0,
+                    199.0
+                ],
+                [
+                    268.0,
+                    202.0
+                ],
+                [
+                    270.0,
+                    202.0
+                ],
+                [
+                    270.0,
+                    203.0
+                ],
+                [
+                    275.0,
+                    203.0
+                ],
+                [
+                    275.0,
+                    202.0
+                ],
+                [
+                    279.0,
+                    202.0
+                ],
+                [
+                    279.0,
+                    201.0
+                ],
+                [
+                    280.0,
+                    201.0
+                ],
+                [
+                    280.0,
+                    199.0
+                ],
+                [
+                    281.0,
+                    199.0
+                ],
+                [
+                    281.0,
+                    198.0
+                ],
+                [
+                    280.0,
+                    198.0
+                ],
+                [
+                    280.0,
+                    189.0
+                ],
+                [
+                    279.0,
+                    189.0
+                ],
+                [
+                    279.0,
+                    187.0
+                ],
+                [
+                    270.0,
+                    187.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

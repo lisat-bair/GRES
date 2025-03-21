@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the vehicle that boasts a glossy black finish and noticeable reflective elements, featuring a smooth, curved design that stands out against its surroundings.",
+        "Find the automobile with a lustrous black exterior and prominent shiny surfaces, marked by a rounded contour that contrasts with the backdrop.",
+        "Locate the car with a polished black body and distinct reflective features, characterized by its curved shape which stands out against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023663.jpg",
+            "points": [
+                [
+                    118.0,
+                    442.0
+                ],
+                [
+                    118.0,
+                    443.0
+                ],
+                [
+                    109.0,
+                    443.0
+                ],
+                [
+                    109.0,
+                    444.0
+                ],
+                [
+                    107.0,
+                    444.0
+                ],
+                [
+                    107.0,
+                    449.0
+                ],
+                [
+                    106.0,
+                    449.0
+                ],
+                [
+                    106.0,
+                    452.0
+                ],
+                [
+                    107.0,
+                    452.0
+                ],
+                [
+                    107.0,
+                    453.0
+                ],
+                [
+                    108.0,
+                    453.0
+                ],
+                [
+                    108.0,
+                    454.0
+                ],
+                [
+                    110.0,
+                    454.0
+                ],
+                [
+                    110.0,
+                    455.0
+                ],
+                [
+                    116.0,
+                    455.0
+                ],
+                [
+                    116.0,
+                    454.0
+                ],
+                [
+                    120.0,
+                    454.0
+                ],
+                [
+                    120.0,
+                    453.0
+                ],
+                [
+                    122.0,
+                    453.0
+                ],
+                [
+                    122.0,
+                    452.0
+                ],
+                [
+                    123.0,
+                    452.0
+                ],
+                [
+                    123.0,
+                    451.0
+                ],
+                [
+                    124.0,
+                    451.0
+                ],
+                [
+                    124.0,
+                    450.0
+                ],
+                [
+                    125.0,
+                    450.0
+                ],
+                [
+                    125.0,
+                    449.0
+                ],
+                [
+                    126.0,
+                    449.0
+                ],
+                [
+                    126.0,
+                    443.0
+                ],
+                [
+                    125.0,
+                    443.0
+                ],
+                [
+                    125.0,
+                    442.0
+                ],
+                [
+                    118.0,
+                    442.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

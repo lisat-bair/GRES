@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the structure with a unique beige exterior that has long rectangular windows and dark lines running horizontally.",
+        "Identify the edifice characterized by its beige surface, vertical rectangular windows, and contrasting dark horizontal stripes.",
+        "Spot the building with a special beige face, featuring long rectangular windows and offset by dark horizontal markings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002104.jpg",
+            "points": [
+                [
+                    508.0,
+                    47.0
+                ],
+                [
+                    508.0,
+                    48.0
+                ],
+                [
+                    507.0,
+                    48.0
+                ],
+                [
+                    507.0,
+                    50.0
+                ],
+                [
+                    506.0,
+                    50.0
+                ],
+                [
+                    506.0,
+                    56.0
+                ],
+                [
+                    505.0,
+                    56.0
+                ],
+                [
+                    505.0,
+                    62.0
+                ],
+                [
+                    504.0,
+                    62.0
+                ],
+                [
+                    504.0,
+                    72.0
+                ],
+                [
+                    505.0,
+                    72.0
+                ],
+                [
+                    505.0,
+                    76.0
+                ],
+                [
+                    506.0,
+                    76.0
+                ],
+                [
+                    506.0,
+                    78.0
+                ],
+                [
+                    507.0,
+                    78.0
+                ],
+                [
+                    507.0,
+                    79.0
+                ],
+                [
+                    512.0,
+                    79.0
+                ],
+                [
+                    512.0,
+                    47.0
+                ],
+                [
+                    508.0,
+                    47.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

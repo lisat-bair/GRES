@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the big rectangular yellow vehicle with many windows that takes up most of the picture.",
+        "Find the large, box-shaped yellow vehicle, characterized by numerous windows, dominating the image.",
+        "Locate the prominent yellow vehicle, rectangular in shape and featuring several windows, that fills much of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003148.jpg",
+            "points": [
+                [
+                    470.0,
+                    310.0
+                ],
+                [
+                    470.0,
+                    311.0
+                ],
+                [
+                    468.0,
+                    311.0
+                ],
+                [
+                    468.0,
+                    313.0
+                ],
+                [
+                    467.0,
+                    313.0
+                ],
+                [
+                    467.0,
+                    318.0
+                ],
+                [
+                    468.0,
+                    318.0
+                ],
+                [
+                    468.0,
+                    319.0
+                ],
+                [
+                    469.0,
+                    319.0
+                ],
+                [
+                    469.0,
+                    320.0
+                ],
+                [
+                    472.0,
+                    320.0
+                ],
+                [
+                    472.0,
+                    321.0
+                ],
+                [
+                    499.0,
+                    321.0
+                ],
+                [
+                    499.0,
+                    320.0
+                ],
+                [
+                    504.0,
+                    320.0
+                ],
+                [
+                    504.0,
+                    317.0
+                ],
+                [
+                    505.0,
+                    317.0
+                ],
+                [
+                    505.0,
+                    312.0
+                ],
+                [
+                    504.0,
+                    312.0
+                ],
+                [
+                    504.0,
+                    311.0
+                ],
+                [
+                    503.0,
+                    311.0
+                ],
+                [
+                    503.0,
+                    310.0
+                ],
+                [
+                    470.0,
+                    310.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the structure characterized by a triangular roof and a facade that blends glass with stone.",
+        "Find the edifice with unique architectural details, including a triangular roof and a glass-stone exterior.",
+        "Locate the building distinguished by its triangular roof and a facade that combines glass and stone."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002226.jpg",
+            "points": [
+                [
+                    511.0,
+                    34.0
+                ],
+                [
+                    511.0,
+                    35.0
+                ],
+                [
+                    509.0,
+                    35.0
+                ],
+                [
+                    509.0,
+                    36.0
+                ],
+                [
+                    508.0,
+                    36.0
+                ],
+                [
+                    508.0,
+                    42.0
+                ],
+                [
+                    509.0,
+                    42.0
+                ],
+                [
+                    509.0,
+                    44.0
+                ],
+                [
+                    508.0,
+                    44.0
+                ],
+                [
+                    508.0,
+                    48.0
+                ],
+                [
+                    507.0,
+                    48.0
+                ],
+                [
+                    507.0,
+                    50.0
+                ],
+                [
+                    508.0,
+                    50.0
+                ],
+                [
+                    508.0,
+                    56.0
+                ],
+                [
+                    509.0,
+                    56.0
+                ],
+                [
+                    509.0,
+                    58.0
+                ],
+                [
+                    512.0,
+                    58.0
+                ],
+                [
+                    512.0,
+                    34.0
+                ],
+                [
+                    511.0,
+                    34.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

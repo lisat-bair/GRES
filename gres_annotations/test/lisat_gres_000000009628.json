@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Locate the passenger vehicle featuring a large, metallic structure with distinct rectangular windows and a rounded front shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009628.jpg",
+            "points": [
+                [
+                    117.0,
+                    381.0
+                ],
+                [
+                    117.0,
+                    382.0
+                ],
+                [
+                    115.0,
+                    382.0
+                ],
+                [
+                    115.0,
+                    383.0
+                ],
+                [
+                    113.0,
+                    383.0
+                ],
+                [
+                    113.0,
+                    387.0
+                ],
+                [
+                    114.0,
+                    387.0
+                ],
+                [
+                    114.0,
+                    388.0
+                ],
+                [
+                    115.0,
+                    388.0
+                ],
+                [
+                    115.0,
+                    389.0
+                ],
+                [
+                    121.0,
+                    389.0
+                ],
+                [
+                    121.0,
+                    387.0
+                ],
+                [
+                    122.0,
+                    387.0
+                ],
+                [
+                    122.0,
+                    382.0
+                ],
+                [
+                    121.0,
+                    382.0
+                ],
+                [
+                    121.0,
+                    381.0
+                ],
+                [
+                    117.0,
+                    381.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

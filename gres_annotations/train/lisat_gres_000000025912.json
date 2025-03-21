@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Spot the truck by its unique rectangular form and dark hue, contrasting with the lighter backdrop.",
+        "Notice the truck's pronounced rectangular design and deep color, which stands out against the brighter background.",
+        "Recognize the truck by its characteristic rectangular shape and dark shade, set against a lighter background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025912.jpg",
+            "points": [
+                [
+                    299,
+                    504
+                ],
+                [
+                    307,
+                    504
+                ],
+                [
+                    307,
+                    512
+                ],
+                [
+                    299,
+                    512
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

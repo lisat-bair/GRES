@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the trailer situated in the upper-left corner of the picture.",
+        "Identify the trailer positioned at the top-left of the image.",
+        "Spot the trailer located in the top-left section of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019552.jpg",
+            "points": [
+                [
+                    21.0,
+                    361.0
+                ],
+                [
+                    21.0,
+                    362.0
+                ],
+                [
+                    5.0,
+                    362.0
+                ],
+                [
+                    5.0,
+                    363.0
+                ],
+                [
+                    0.0,
+                    363.0
+                ],
+                [
+                    0.0,
+                    373.0
+                ],
+                [
+                    10.0,
+                    373.0
+                ],
+                [
+                    10.0,
+                    372.0
+                ],
+                [
+                    24.0,
+                    372.0
+                ],
+                [
+                    24.0,
+                    371.0
+                ],
+                [
+                    29.0,
+                    371.0
+                ],
+                [
+                    29.0,
+                    370.0
+                ],
+                [
+                    30.0,
+                    370.0
+                ],
+                [
+                    30.0,
+                    369.0
+                ],
+                [
+                    32.0,
+                    369.0
+                ],
+                [
+                    32.0,
+                    370.0
+                ],
+                [
+                    37.0,
+                    370.0
+                ],
+                [
+                    37.0,
+                    369.0
+                ],
+                [
+                    41.0,
+                    369.0
+                ],
+                [
+                    41.0,
+                    367.0
+                ],
+                [
+                    42.0,
+                    367.0
+                ],
+                [
+                    42.0,
+                    365.0
+                ],
+                [
+                    41.0,
+                    365.0
+                ],
+                [
+                    41.0,
+                    361.0
+                ],
+                [
+                    31.0,
+                    361.0
+                ],
+                [
+                    31.0,
+                    362.0
+                ],
+                [
+                    27.0,
+                    362.0
+                ],
+                [
+                    27.0,
+                    361.0
+                ],
+                [
+                    21.0,
+                    361.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Identify the car with a metallic body, distinct headlights, and four wheels positioned on a dark surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029288.jpg",
+            "points": [
+                [
+                    205.0,
+                    414.0
+                ],
+                [
+                    205.0,
+                    415.0
+                ],
+                [
+                    200.0,
+                    415.0
+                ],
+                [
+                    200.0,
+                    416.0
+                ],
+                [
+                    199.0,
+                    416.0
+                ],
+                [
+                    199.0,
+                    421.0
+                ],
+                [
+                    200.0,
+                    421.0
+                ],
+                [
+                    200.0,
+                    422.0
+                ],
+                [
+                    212.0,
+                    422.0
+                ],
+                [
+                    212.0,
+                    421.0
+                ],
+                [
+                    215.0,
+                    421.0
+                ],
+                [
+                    215.0,
+                    420.0
+                ],
+                [
+                    216.0,
+                    420.0
+                ],
+                [
+                    216.0,
+                    415.0
+                ],
+                [
+                    215.0,
+                    415.0
+                ],
+                [
+                    215.0,
+                    414.0
+                ],
+                [
+                    205.0,
+                    414.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the truck that has a white cab and a red trailer set against a dark backdrop.",
+        "Look for the truck featuring a white cab in combination with a red trailer, positioned against a dark background.",
+        "Search for the truck with a red trailer and a white cab, standing out against a dim background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009842.jpg",
+            "points": [
+                [
+                    72.0,
+                    119.0
+                ],
+                [
+                    72.0,
+                    120.0
+                ],
+                [
+                    71.0,
+                    120.0
+                ],
+                [
+                    71.0,
+                    121.0
+                ],
+                [
+                    70.0,
+                    121.0
+                ],
+                [
+                    70.0,
+                    125.0
+                ],
+                [
+                    69.0,
+                    125.0
+                ],
+                [
+                    69.0,
+                    131.0
+                ],
+                [
+                    68.0,
+                    131.0
+                ],
+                [
+                    68.0,
+                    136.0
+                ],
+                [
+                    70.0,
+                    136.0
+                ],
+                [
+                    70.0,
+                    137.0
+                ],
+                [
+                    73.0,
+                    137.0
+                ],
+                [
+                    73.0,
+                    136.0
+                ],
+                [
+                    75.0,
+                    136.0
+                ],
+                [
+                    75.0,
+                    135.0
+                ],
+                [
+                    76.0,
+                    135.0
+                ],
+                [
+                    76.0,
+                    132.0
+                ],
+                [
+                    77.0,
+                    132.0
+                ],
+                [
+                    77.0,
+                    129.0
+                ],
+                [
+                    78.0,
+                    129.0
+                ],
+                [
+                    78.0,
+                    124.0
+                ],
+                [
+                    79.0,
+                    124.0
+                ],
+                [
+                    79.0,
+                    120.0
+                ],
+                [
+                    78.0,
+                    120.0
+                ],
+                [
+                    78.0,
+                    119.0
+                ],
+                [
+                    72.0,
+                    119.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the white truck featuring unique side panels and a rectangular cargo section set against a dark backdrop.",
+        "Locate the white truck that has noticeable side panels and a rectangular load area against a dark background.",
+        "Find the white truck distinguished by its side panels and rectangular cargo space, set against a dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026720.jpg",
+            "points": [
+                [
+                    268.0,
+                    57.0
+                ],
+                [
+                    268.0,
+                    58.0
+                ],
+                [
+                    267.0,
+                    58.0
+                ],
+                [
+                    267.0,
+                    61.0
+                ],
+                [
+                    268.0,
+                    61.0
+                ],
+                [
+                    268.0,
+                    62.0
+                ],
+                [
+                    269.0,
+                    62.0
+                ],
+                [
+                    269.0,
+                    63.0
+                ],
+                [
+                    270.0,
+                    63.0
+                ],
+                [
+                    270.0,
+                    64.0
+                ],
+                [
+                    282.0,
+                    64.0
+                ],
+                [
+                    282.0,
+                    65.0
+                ],
+                [
+                    285.0,
+                    65.0
+                ],
+                [
+                    285.0,
+                    64.0
+                ],
+                [
+                    290.0,
+                    64.0
+                ],
+                [
+                    290.0,
+                    58.0
+                ],
+                [
+                    289.0,
+                    58.0
+                ],
+                [
+                    289.0,
+                    57.0
+                ],
+                [
+                    268.0,
+                    57.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

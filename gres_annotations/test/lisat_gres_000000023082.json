@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Locate the car in the bottom-right corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023082.jpg",
+            "points": [
+                [
+                    306.0,
+                    436.0
+                ],
+                [
+                    306.0,
+                    437.0
+                ],
+                [
+                    299.0,
+                    437.0
+                ],
+                [
+                    299.0,
+                    438.0
+                ],
+                [
+                    298.0,
+                    438.0
+                ],
+                [
+                    298.0,
+                    443.0
+                ],
+                [
+                    309.0,
+                    443.0
+                ],
+                [
+                    309.0,
+                    442.0
+                ],
+                [
+                    310.0,
+                    442.0
+                ],
+                [
+                    310.0,
+                    437.0
+                ],
+                [
+                    308.0,
+                    437.0
+                ],
+                [
+                    308.0,
+                    436.0
+                ],
+                [
+                    306.0,
+                    436.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

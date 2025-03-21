@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the building that stands out with its tall structure and dark hues among the neighboring landscape.",
+        "Find the edifice that is characterized by its vertical form and deep shades, contrasting the surrounding area.",
+        "Spot the construction that features a prominent upward design and dark tones, set apart from its environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014703.jpg",
+            "points": [
+                [
+                    202.0,
+                    143.0
+                ],
+                [
+                    202.0,
+                    145.0
+                ],
+                [
+                    201.0,
+                    145.0
+                ],
+                [
+                    201.0,
+                    159.0
+                ],
+                [
+                    202.0,
+                    159.0
+                ],
+                [
+                    202.0,
+                    161.0
+                ],
+                [
+                    212.0,
+                    161.0
+                ],
+                [
+                    212.0,
+                    160.0
+                ],
+                [
+                    213.0,
+                    160.0
+                ],
+                [
+                    213.0,
+                    146.0
+                ],
+                [
+                    212.0,
+                    146.0
+                ],
+                [
+                    212.0,
+                    145.0
+                ],
+                [
+                    211.0,
+                    145.0
+                ],
+                [
+                    211.0,
+                    144.0
+                ],
+                [
+                    208.0,
+                    144.0
+                ],
+                [
+                    208.0,
+                    143.0
+                ],
+                [
+                    202.0,
+                    143.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

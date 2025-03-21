@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the uniquely shaped truck that stands out with its lighter color against a dark backdrop.",
+        "Locate the truck that has an unusual shape and a pale color contrasting with the darker scenery.",
+        "Find the truck that features a distinctive form and a lighter hue set against the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034286.jpg",
+            "points": [
+                [
+                    9.0,
+                    359.0
+                ],
+                [
+                    9.0,
+                    360.0
+                ],
+                [
+                    8.0,
+                    360.0
+                ],
+                [
+                    8.0,
+                    365.0
+                ],
+                [
+                    9.0,
+                    365.0
+                ],
+                [
+                    9.0,
+                    366.0
+                ],
+                [
+                    10.0,
+                    366.0
+                ],
+                [
+                    10.0,
+                    367.0
+                ],
+                [
+                    13.0,
+                    367.0
+                ],
+                [
+                    13.0,
+                    368.0
+                ],
+                [
+                    21.0,
+                    368.0
+                ],
+                [
+                    21.0,
+                    367.0
+                ],
+                [
+                    22.0,
+                    367.0
+                ],
+                [
+                    22.0,
+                    366.0
+                ],
+                [
+                    23.0,
+                    366.0
+                ],
+                [
+                    23.0,
+                    363.0
+                ],
+                [
+                    22.0,
+                    363.0
+                ],
+                [
+                    22.0,
+                    361.0
+                ],
+                [
+                    20.0,
+                    361.0
+                ],
+                [
+                    20.0,
+                    360.0
+                ],
+                [
+                    18.0,
+                    360.0
+                ],
+                [
+                    18.0,
+                    359.0
+                ],
+                [
+                    9.0,
+                    359.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the dark rectangle with shiny surfaces and round wheels situated at the bottom of the picture.",
+        "Look for the dark, boxy form featuring glossy surfaces and circular wheels, positioned at the lower part of the image.",
+        "Find the dark rectangular object with reflective surfaces and round wheels located toward the bottom of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019008.jpg",
+            "points": [
+                [
+                    42.0,
+                    175.0
+                ],
+                [
+                    42.0,
+                    176.0
+                ],
+                [
+                    39.0,
+                    176.0
+                ],
+                [
+                    39.0,
+                    177.0
+                ],
+                [
+                    38.0,
+                    177.0
+                ],
+                [
+                    38.0,
+                    178.0
+                ],
+                [
+                    37.0,
+                    178.0
+                ],
+                [
+                    37.0,
+                    181.0
+                ],
+                [
+                    38.0,
+                    181.0
+                ],
+                [
+                    38.0,
+                    183.0
+                ],
+                [
+                    39.0,
+                    183.0
+                ],
+                [
+                    39.0,
+                    185.0
+                ],
+                [
+                    40.0,
+                    185.0
+                ],
+                [
+                    40.0,
+                    186.0
+                ],
+                [
+                    42.0,
+                    186.0
+                ],
+                [
+                    42.0,
+                    187.0
+                ],
+                [
+                    46.0,
+                    187.0
+                ],
+                [
+                    46.0,
+                    188.0
+                ],
+                [
+                    53.0,
+                    188.0
+                ],
+                [
+                    53.0,
+                    187.0
+                ],
+                [
+                    56.0,
+                    187.0
+                ],
+                [
+                    56.0,
+                    186.0
+                ],
+                [
+                    58.0,
+                    186.0
+                ],
+                [
+                    58.0,
+                    185.0
+                ],
+                [
+                    60.0,
+                    185.0
+                ],
+                [
+                    60.0,
+                    183.0
+                ],
+                [
+                    61.0,
+                    183.0
+                ],
+                [
+                    61.0,
+                    180.0
+                ],
+                [
+                    60.0,
+                    180.0
+                ],
+                [
+                    60.0,
+                    178.0
+                ],
+                [
+                    58.0,
+                    178.0
+                ],
+                [
+                    58.0,
+                    177.0
+                ],
+                [
+                    55.0,
+                    177.0
+                ],
+                [
+                    55.0,
+                    176.0
+                ],
+                [
+                    45.0,
+                    176.0
+                ],
+                [
+                    45.0,
+                    175.0
+                ],
+                [
+                    42.0,
+                    175.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the car that is partially seen in the bottom-right area of the image.",
+        "Spot the vehicle that is partially visible in the lower-right section of the picture.",
+        "Identify the car that can be partially observed in the bottom-right corner of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030480.jpg",
+            "points": [
+                [
+                    484.0,
+                    504.0
+                ],
+                [
+                    484.0,
+                    505.0
+                ],
+                [
+                    481.0,
+                    505.0
+                ],
+                [
+                    481.0,
+                    506.0
+                ],
+                [
+                    480.0,
+                    506.0
+                ],
+                [
+                    480.0,
+                    507.0
+                ],
+                [
+                    479.0,
+                    507.0
+                ],
+                [
+                    479.0,
+                    510.0
+                ],
+                [
+                    478.0,
+                    510.0
+                ],
+                [
+                    478.0,
+                    512.0
+                ],
+                [
+                    491.0,
+                    512.0
+                ],
+                [
+                    491.0,
+                    508.0
+                ],
+                [
+                    490.0,
+                    508.0
+                ],
+                [
+                    490.0,
+                    507.0
+                ],
+                [
+                    489.0,
+                    507.0
+                ],
+                [
+                    489.0,
+                    505.0
+                ],
+                [
+                    485.0,
+                    505.0
+                ],
+                [
+                    485.0,
+                    504.0
+                ],
+                [
+                    484.0,
+                    504.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

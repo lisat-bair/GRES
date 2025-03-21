@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Identify the boat positioned towards the center-right side of the picture.",
+        "Find the vessel located near the center-right area of the image.",
+        "See if you can spot the boat situated in the center-right section of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016513.jpg",
+            "points": [
+                [
+                    177.0,
+                    265.0
+                ],
+                [
+                    177.0,
+                    268.0
+                ],
+                [
+                    178.0,
+                    268.0
+                ],
+                [
+                    178.0,
+                    270.0
+                ],
+                [
+                    179.0,
+                    270.0
+                ],
+                [
+                    179.0,
+                    271.0
+                ],
+                [
+                    182.0,
+                    271.0
+                ],
+                [
+                    182.0,
+                    272.0
+                ],
+                [
+                    191.0,
+                    272.0
+                ],
+                [
+                    191.0,
+                    271.0
+                ],
+                [
+                    193.0,
+                    271.0
+                ],
+                [
+                    193.0,
+                    268.0
+                ],
+                [
+                    192.0,
+                    268.0
+                ],
+                [
+                    192.0,
+                    267.0
+                ],
+                [
+                    189.0,
+                    267.0
+                ],
+                [
+                    189.0,
+                    266.0
+                ],
+                [
+                    184.0,
+                    266.0
+                ],
+                [
+                    184.0,
+                    265.0
+                ],
+                [
+                    177.0,
+                    265.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

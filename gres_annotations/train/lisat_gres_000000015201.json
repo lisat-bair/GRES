@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the bus that is large and rectangular with a striking bright red color and numerous windows on its side.",
+        "Look for the distinctively bright red, large rectangular bus that has multiple windows running along its side.",
+        "Identify the bus with a prominent, bright red color and a large rectangular shape, featuring several windows on its side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015201.jpg",
+            "points": [
+                [
+                    494.0,
+                    471.0
+                ],
+                [
+                    494.0,
+                    472.0
+                ],
+                [
+                    493.0,
+                    472.0
+                ],
+                [
+                    493.0,
+                    474.0
+                ],
+                [
+                    492.0,
+                    474.0
+                ],
+                [
+                    492.0,
+                    480.0
+                ],
+                [
+                    493.0,
+                    480.0
+                ],
+                [
+                    493.0,
+                    481.0
+                ],
+                [
+                    495.0,
+                    481.0
+                ],
+                [
+                    495.0,
+                    482.0
+                ],
+                [
+                    498.0,
+                    482.0
+                ],
+                [
+                    498.0,
+                    483.0
+                ],
+                [
+                    500.0,
+                    483.0
+                ],
+                [
+                    500.0,
+                    484.0
+                ],
+                [
+                    504.0,
+                    484.0
+                ],
+                [
+                    504.0,
+                    485.0
+                ],
+                [
+                    508.0,
+                    485.0
+                ],
+                [
+                    508.0,
+                    486.0
+                ],
+                [
+                    512.0,
+                    486.0
+                ],
+                [
+                    512.0,
+                    474.0
+                ],
+                [
+                    509.0,
+                    474.0
+                ],
+                [
+                    509.0,
+                    473.0
+                ],
+                [
+                    505.0,
+                    473.0
+                ],
+                [
+                    505.0,
+                    472.0
+                ],
+                [
+                    502.0,
+                    472.0
+                ],
+                [
+                    502.0,
+                    471.0
+                ],
+                [
+                    494.0,
+                    471.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

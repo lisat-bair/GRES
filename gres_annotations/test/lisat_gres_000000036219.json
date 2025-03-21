@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the trailer bed with a rectangular shape and multiple wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036219.jpg",
+            "points": [
+                [
+                    224.0,
+                    455.0
+                ],
+                [
+                    224.0,
+                    456.0
+                ],
+                [
+                    223.0,
+                    456.0
+                ],
+                [
+                    223.0,
+                    463.0
+                ],
+                [
+                    226.0,
+                    463.0
+                ],
+                [
+                    226.0,
+                    464.0
+                ],
+                [
+                    231.0,
+                    464.0
+                ],
+                [
+                    231.0,
+                    465.0
+                ],
+                [
+                    240.0,
+                    465.0
+                ],
+                [
+                    240.0,
+                    464.0
+                ],
+                [
+                    241.0,
+                    464.0
+                ],
+                [
+                    241.0,
+                    456.0
+                ],
+                [
+                    232.0,
+                    456.0
+                ],
+                [
+                    232.0,
+                    455.0
+                ],
+                [
+                    224.0,
+                    455.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

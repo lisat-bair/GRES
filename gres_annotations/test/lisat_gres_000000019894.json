@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Identify the truck with a large size, bright yellow color, and distinctive box-like cargo area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019894.jpg",
+            "points": [
+                [
+                    60.0,
+                    0.0
+                ],
+                [
+                    60.0,
+                    6.0
+                ],
+                [
+                    61.0,
+                    6.0
+                ],
+                [
+                    61.0,
+                    8.0
+                ],
+                [
+                    62.0,
+                    8.0
+                ],
+                [
+                    62.0,
+                    9.0
+                ],
+                [
+                    64.0,
+                    9.0
+                ],
+                [
+                    64.0,
+                    10.0
+                ],
+                [
+                    76.0,
+                    10.0
+                ],
+                [
+                    76.0,
+                    9.0
+                ],
+                [
+                    96.0,
+                    9.0
+                ],
+                [
+                    96.0,
+                    8.0
+                ],
+                [
+                    101.0,
+                    8.0
+                ],
+                [
+                    101.0,
+                    7.0
+                ],
+                [
+                    102.0,
+                    7.0
+                ],
+                [
+                    102.0,
+                    0.0
+                ],
+                [
+                    60.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

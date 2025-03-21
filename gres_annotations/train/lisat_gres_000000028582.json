@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the white vehicle with a boxy design and noticeable wheels underneath.",
+        "Spot the white automobile featuring a rectangular form and clearly visible wheels.",
+        "Identify the white car that has a rectangular shape and distinct wheels showing beneath."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028582.jpg",
+            "points": [
+                [
+                    16.0,
+                    448.0
+                ],
+                [
+                    16.0,
+                    449.0
+                ],
+                [
+                    14.0,
+                    449.0
+                ],
+                [
+                    14.0,
+                    454.0
+                ],
+                [
+                    15.0,
+                    454.0
+                ],
+                [
+                    15.0,
+                    455.0
+                ],
+                [
+                    26.0,
+                    455.0
+                ],
+                [
+                    26.0,
+                    454.0
+                ],
+                [
+                    27.0,
+                    454.0
+                ],
+                [
+                    27.0,
+                    453.0
+                ],
+                [
+                    28.0,
+                    453.0
+                ],
+                [
+                    28.0,
+                    450.0
+                ],
+                [
+                    27.0,
+                    450.0
+                ],
+                [
+                    27.0,
+                    449.0
+                ],
+                [
+                    26.0,
+                    449.0
+                ],
+                [
+                    26.0,
+                    448.0
+                ],
+                [
+                    16.0,
+                    448.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

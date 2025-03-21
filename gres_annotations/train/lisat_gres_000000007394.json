@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the big, yellow machine with an extended arm and scoop, commonly seen at building sites.",
+        "Locate the sizable, yellow equipment featuring a lengthy arm and bucket, usually present on construction sites.",
+        "Find the large, yellow vehicle equipped with a long arm and a bucket, often found at construction locations."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007394.jpg",
+            "points": [
+                [
+                    30.0,
+                    0.0
+                ],
+                [
+                    30.0,
+                    1.0
+                ],
+                [
+                    31.0,
+                    1.0
+                ],
+                [
+                    31.0,
+                    2.0
+                ],
+                [
+                    32.0,
+                    2.0
+                ],
+                [
+                    32.0,
+                    3.0
+                ],
+                [
+                    33.0,
+                    3.0
+                ],
+                [
+                    33.0,
+                    4.0
+                ],
+                [
+                    34.0,
+                    4.0
+                ],
+                [
+                    34.0,
+                    5.0
+                ],
+                [
+                    35.0,
+                    5.0
+                ],
+                [
+                    35.0,
+                    6.0
+                ],
+                [
+                    36.0,
+                    6.0
+                ],
+                [
+                    36.0,
+                    7.0
+                ],
+                [
+                    37.0,
+                    7.0
+                ],
+                [
+                    37.0,
+                    8.0
+                ],
+                [
+                    39.0,
+                    8.0
+                ],
+                [
+                    39.0,
+                    9.0
+                ],
+                [
+                    40.0,
+                    9.0
+                ],
+                [
+                    40.0,
+                    8.0
+                ],
+                [
+                    42.0,
+                    8.0
+                ],
+                [
+                    42.0,
+                    7.0
+                ],
+                [
+                    43.0,
+                    7.0
+                ],
+                [
+                    43.0,
+                    6.0
+                ],
+                [
+                    44.0,
+                    6.0
+                ],
+                [
+                    44.0,
+                    5.0
+                ],
+                [
+                    45.0,
+                    5.0
+                ],
+                [
+                    45.0,
+                    3.0
+                ],
+                [
+                    46.0,
+                    3.0
+                ],
+                [
+                    46.0,
+                    0.0
+                ],
+                [
+                    30.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

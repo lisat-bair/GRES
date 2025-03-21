@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Look for the elongated, white passenger vehicle that has several rows of windows on its sides.",
+        "Find the passenger vehicle that is long in shape, painted white, and features multiple rows of side windows.",
+        "Locate the white vehicle with a stretched design and numerous rows of windows running along its sides."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027243.jpg",
+            "points": [
+                [
+                    428.0,
+                    277.0
+                ],
+                [
+                    428.0,
+                    278.0
+                ],
+                [
+                    425.0,
+                    278.0
+                ],
+                [
+                    425.0,
+                    279.0
+                ],
+                [
+                    421.0,
+                    279.0
+                ],
+                [
+                    421.0,
+                    280.0
+                ],
+                [
+                    417.0,
+                    280.0
+                ],
+                [
+                    417.0,
+                    281.0
+                ],
+                [
+                    414.0,
+                    281.0
+                ],
+                [
+                    414.0,
+                    285.0
+                ],
+                [
+                    415.0,
+                    285.0
+                ],
+                [
+                    415.0,
+                    286.0
+                ],
+                [
+                    423.0,
+                    286.0
+                ],
+                [
+                    423.0,
+                    285.0
+                ],
+                [
+                    426.0,
+                    285.0
+                ],
+                [
+                    426.0,
+                    284.0
+                ],
+                [
+                    430.0,
+                    284.0
+                ],
+                [
+                    430.0,
+                    283.0
+                ],
+                [
+                    432.0,
+                    283.0
+                ],
+                [
+                    432.0,
+                    282.0
+                ],
+                [
+                    433.0,
+                    282.0
+                ],
+                [
+                    433.0,
+                    278.0
+                ],
+                [
+                    431.0,
+                    278.0
+                ],
+                [
+                    431.0,
+                    277.0
+                ],
+                [
+                    428.0,
+                    277.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

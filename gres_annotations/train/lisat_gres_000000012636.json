@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the bus that has a big, rectangular design with notable windows and wheels, usually painted in vibrant colors such as yellow or red.",
+        "Spot the bus characterized by a large, boxy structure, recognizable windows and wheels, often seen in bright colors like yellow or red.",
+        "Find the bus with a prominent, rectangular form, distinguishable windows and wheels, often adorned in eye-catching colors like yellow or red."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012636.jpg",
+            "points": [
+                [
+                    274.0,
+                    22.0
+                ],
+                [
+                    274.0,
+                    23.0
+                ],
+                [
+                    273.0,
+                    23.0
+                ],
+                [
+                    273.0,
+                    26.0
+                ],
+                [
+                    272.0,
+                    26.0
+                ],
+                [
+                    272.0,
+                    29.0
+                ],
+                [
+                    271.0,
+                    29.0
+                ],
+                [
+                    271.0,
+                    38.0
+                ],
+                [
+                    272.0,
+                    38.0
+                ],
+                [
+                    272.0,
+                    39.0
+                ],
+                [
+                    274.0,
+                    39.0
+                ],
+                [
+                    274.0,
+                    40.0
+                ],
+                [
+                    276.0,
+                    40.0
+                ],
+                [
+                    276.0,
+                    39.0
+                ],
+                [
+                    277.0,
+                    39.0
+                ],
+                [
+                    277.0,
+                    38.0
+                ],
+                [
+                    278.0,
+                    38.0
+                ],
+                [
+                    278.0,
+                    36.0
+                ],
+                [
+                    279.0,
+                    36.0
+                ],
+                [
+                    279.0,
+                    31.0
+                ],
+                [
+                    280.0,
+                    31.0
+                ],
+                [
+                    280.0,
+                    26.0
+                ],
+                [
+                    281.0,
+                    26.0
+                ],
+                [
+                    281.0,
+                    25.0
+                ],
+                [
+                    280.0,
+                    25.0
+                ],
+                [
+                    280.0,
+                    23.0
+                ],
+                [
+                    279.0,
+                    23.0
+                ],
+                [
+                    279.0,
+                    22.0
+                ],
+                [
+                    274.0,
+                    22.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

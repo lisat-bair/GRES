@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the truck that stands out with its bright white color and rectangular form against the darker environment.",
+        "Locate the vehicle that is uniquely white and rectangular, set against a backdrop of darker hues.",
+        "Find the truck that is notably white and rectangular, contrasting sharply with the surrounding dimness."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015359.jpg",
+            "points": [
+                [
+                    64.0,
+                    417.0
+                ],
+                [
+                    64.0,
+                    418.0
+                ],
+                [
+                    62.0,
+                    418.0
+                ],
+                [
+                    62.0,
+                    419.0
+                ],
+                [
+                    61.0,
+                    419.0
+                ],
+                [
+                    61.0,
+                    420.0
+                ],
+                [
+                    59.0,
+                    420.0
+                ],
+                [
+                    59.0,
+                    422.0
+                ],
+                [
+                    58.0,
+                    422.0
+                ],
+                [
+                    58.0,
+                    425.0
+                ],
+                [
+                    59.0,
+                    425.0
+                ],
+                [
+                    59.0,
+                    429.0
+                ],
+                [
+                    61.0,
+                    429.0
+                ],
+                [
+                    61.0,
+                    428.0
+                ],
+                [
+                    64.0,
+                    428.0
+                ],
+                [
+                    64.0,
+                    427.0
+                ],
+                [
+                    66.0,
+                    427.0
+                ],
+                [
+                    66.0,
+                    426.0
+                ],
+                [
+                    67.0,
+                    426.0
+                ],
+                [
+                    67.0,
+                    425.0
+                ],
+                [
+                    68.0,
+                    425.0
+                ],
+                [
+                    68.0,
+                    424.0
+                ],
+                [
+                    69.0,
+                    424.0
+                ],
+                [
+                    69.0,
+                    423.0
+                ],
+                [
+                    70.0,
+                    423.0
+                ],
+                [
+                    70.0,
+                    422.0
+                ],
+                [
+                    71.0,
+                    422.0
+                ],
+                [
+                    71.0,
+                    420.0
+                ],
+                [
+                    70.0,
+                    420.0
+                ],
+                [
+                    70.0,
+                    419.0
+                ],
+                [
+                    69.0,
+                    419.0
+                ],
+                [
+                    69.0,
+                    418.0
+                ],
+                [
+                    68.0,
+                    418.0
+                ],
+                [
+                    68.0,
+                    417.0
+                ],
+                [
+                    64.0,
+                    417.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

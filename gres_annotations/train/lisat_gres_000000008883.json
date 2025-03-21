@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Locate the shed that has a rectangular form and a unique roof, standing out from the nearby features.",
+        "Find the shed characterized by its rectangular design and distinctive roof, setting it apart from its surroundings.",
+        "Spot the rectangular shed with a notable roof, which is different from the elements around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008883.jpg",
+            "points": [
+                [
+                    272.0,
+                    209.0
+                ],
+                [
+                    272.0,
+                    210.0
+                ],
+                [
+                    270.0,
+                    210.0
+                ],
+                [
+                    270.0,
+                    211.0
+                ],
+                [
+                    268.0,
+                    211.0
+                ],
+                [
+                    268.0,
+                    212.0
+                ],
+                [
+                    267.0,
+                    212.0
+                ],
+                [
+                    267.0,
+                    213.0
+                ],
+                [
+                    265.0,
+                    213.0
+                ],
+                [
+                    265.0,
+                    218.0
+                ],
+                [
+                    266.0,
+                    218.0
+                ],
+                [
+                    266.0,
+                    219.0
+                ],
+                [
+                    267.0,
+                    219.0
+                ],
+                [
+                    267.0,
+                    220.0
+                ],
+                [
+                    268.0,
+                    220.0
+                ],
+                [
+                    268.0,
+                    221.0
+                ],
+                [
+                    269.0,
+                    221.0
+                ],
+                [
+                    269.0,
+                    222.0
+                ],
+                [
+                    271.0,
+                    222.0
+                ],
+                [
+                    271.0,
+                    223.0
+                ],
+                [
+                    274.0,
+                    223.0
+                ],
+                [
+                    274.0,
+                    222.0
+                ],
+                [
+                    276.0,
+                    222.0
+                ],
+                [
+                    276.0,
+                    221.0
+                ],
+                [
+                    277.0,
+                    221.0
+                ],
+                [
+                    277.0,
+                    220.0
+                ],
+                [
+                    278.0,
+                    220.0
+                ],
+                [
+                    278.0,
+                    219.0
+                ],
+                [
+                    279.0,
+                    219.0
+                ],
+                [
+                    279.0,
+                    212.0
+                ],
+                [
+                    278.0,
+                    212.0
+                ],
+                [
+                    278.0,
+                    211.0
+                ],
+                [
+                    277.0,
+                    211.0
+                ],
+                [
+                    277.0,
+                    210.0
+                ],
+                [
+                    276.0,
+                    210.0
+                ],
+                [
+                    276.0,
+                    209.0
+                ],
+                [
+                    272.0,
+                    209.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

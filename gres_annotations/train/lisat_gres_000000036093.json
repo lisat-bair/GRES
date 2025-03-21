@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the bus that is large and rectangular with windows, usually painted in bright colors such as yellow or red, and often seen on the road.",
+        "Search for the large, rectangular-shaped bus with windows, commonly in vibrant colors like yellow or red, typically found on the street.",
+        "Find the bus that is big and rectangular with windows, normally brightly colored in hues like yellow or red, and frequently located on a road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036093.jpg",
+            "points": [
+                [
+                    37.0,
+                    351.0
+                ],
+                [
+                    37.0,
+                    352.0
+                ],
+                [
+                    32.0,
+                    352.0
+                ],
+                [
+                    32.0,
+                    353.0
+                ],
+                [
+                    31.0,
+                    353.0
+                ],
+                [
+                    31.0,
+                    356.0
+                ],
+                [
+                    30.0,
+                    356.0
+                ],
+                [
+                    30.0,
+                    359.0
+                ],
+                [
+                    31.0,
+                    359.0
+                ],
+                [
+                    31.0,
+                    362.0
+                ],
+                [
+                    32.0,
+                    362.0
+                ],
+                [
+                    32.0,
+                    363.0
+                ],
+                [
+                    34.0,
+                    363.0
+                ],
+                [
+                    34.0,
+                    362.0
+                ],
+                [
+                    35.0,
+                    362.0
+                ],
+                [
+                    35.0,
+                    361.0
+                ],
+                [
+                    36.0,
+                    361.0
+                ],
+                [
+                    36.0,
+                    360.0
+                ],
+                [
+                    38.0,
+                    360.0
+                ],
+                [
+                    38.0,
+                    359.0
+                ],
+                [
+                    39.0,
+                    359.0
+                ],
+                [
+                    39.0,
+                    358.0
+                ],
+                [
+                    41.0,
+                    358.0
+                ],
+                [
+                    41.0,
+                    357.0
+                ],
+                [
+                    42.0,
+                    357.0
+                ],
+                [
+                    42.0,
+                    356.0
+                ],
+                [
+                    43.0,
+                    356.0
+                ],
+                [
+                    43.0,
+                    353.0
+                ],
+                [
+                    42.0,
+                    353.0
+                ],
+                [
+                    42.0,
+                    351.0
+                ],
+                [
+                    37.0,
+                    351.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the vehicle in the picture that features sleek curves, shiny exteriors, and standard car shapes.",
+        "Locate the automobile in the image that showcases flowing lines, glossy surfaces, and conventional car profiles.",
+        "Spot the car in the photo characterized by smooth lines, reflective finishes, and typical automotive outlines."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025148.jpg",
+            "points": [
+                [
+                    474.0,
+                    233.0
+                ],
+                [
+                    474.0,
+                    234.0
+                ],
+                [
+                    473.0,
+                    234.0
+                ],
+                [
+                    473.0,
+                    235.0
+                ],
+                [
+                    472.0,
+                    235.0
+                ],
+                [
+                    472.0,
+                    236.0
+                ],
+                [
+                    470.0,
+                    236.0
+                ],
+                [
+                    470.0,
+                    237.0
+                ],
+                [
+                    468.0,
+                    237.0
+                ],
+                [
+                    468.0,
+                    238.0
+                ],
+                [
+                    466.0,
+                    238.0
+                ],
+                [
+                    466.0,
+                    239.0
+                ],
+                [
+                    465.0,
+                    239.0
+                ],
+                [
+                    465.0,
+                    244.0
+                ],
+                [
+                    466.0,
+                    244.0
+                ],
+                [
+                    466.0,
+                    245.0
+                ],
+                [
+                    469.0,
+                    245.0
+                ],
+                [
+                    469.0,
+                    244.0
+                ],
+                [
+                    471.0,
+                    244.0
+                ],
+                [
+                    471.0,
+                    243.0
+                ],
+                [
+                    473.0,
+                    243.0
+                ],
+                [
+                    473.0,
+                    242.0
+                ],
+                [
+                    475.0,
+                    242.0
+                ],
+                [
+                    475.0,
+                    241.0
+                ],
+                [
+                    476.0,
+                    241.0
+                ],
+                [
+                    476.0,
+                    240.0
+                ],
+                [
+                    477.0,
+                    240.0
+                ],
+                [
+                    477.0,
+                    239.0
+                ],
+                [
+                    479.0,
+                    239.0
+                ],
+                [
+                    479.0,
+                    238.0
+                ],
+                [
+                    480.0,
+                    238.0
+                ],
+                [
+                    480.0,
+                    234.0
+                ],
+                [
+                    479.0,
+                    234.0
+                ],
+                [
+                    479.0,
+                    233.0
+                ],
+                [
+                    474.0,
+                    233.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

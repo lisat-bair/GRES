@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Spot the long, rectangular form with prominent windows, commonly linked to buses, set against the dark backdrop.",
+        "Look for the stretched rectangle shape with visible windows, often related to buses, silhouetted against the dark background.",
+        "Find the extended oblong figure featuring distinct windows, usually associated with buses, highlighted against the dark scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003609.jpg",
+            "points": [
+                [
+                    179,
+                    139
+                ],
+                [
+                    210,
+                    139
+                ],
+                [
+                    210,
+                    157
+                ],
+                [
+                    179,
+                    157
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

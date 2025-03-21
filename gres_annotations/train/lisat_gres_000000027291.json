@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the car with a sleek silver finish, curved shape, and clear windows.",
+        "Locate the automobile that features a shiny metallic silver exterior, rounded design, and noticeable windows.",
+        "Find the vehicle that has a metallic silver color, smooth contours, and windows that are visible."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027291.jpg",
+            "points": [
+                [
+                    435.0,
+                    503.0
+                ],
+                [
+                    435.0,
+                    504.0
+                ],
+                [
+                    434.0,
+                    504.0
+                ],
+                [
+                    434.0,
+                    505.0
+                ],
+                [
+                    433.0,
+                    505.0
+                ],
+                [
+                    433.0,
+                    506.0
+                ],
+                [
+                    432.0,
+                    506.0
+                ],
+                [
+                    432.0,
+                    507.0
+                ],
+                [
+                    431.0,
+                    507.0
+                ],
+                [
+                    431.0,
+                    508.0
+                ],
+                [
+                    430.0,
+                    508.0
+                ],
+                [
+                    430.0,
+                    509.0
+                ],
+                [
+                    429.0,
+                    509.0
+                ],
+                [
+                    429.0,
+                    510.0
+                ],
+                [
+                    430.0,
+                    510.0
+                ],
+                [
+                    430.0,
+                    512.0
+                ],
+                [
+                    450.0,
+                    512.0
+                ],
+                [
+                    450.0,
+                    508.0
+                ],
+                [
+                    445.0,
+                    508.0
+                ],
+                [
+                    445.0,
+                    507.0
+                ],
+                [
+                    443.0,
+                    507.0
+                ],
+                [
+                    443.0,
+                    506.0
+                ],
+                [
+                    441.0,
+                    506.0
+                ],
+                [
+                    441.0,
+                    505.0
+                ],
+                [
+                    438.0,
+                    505.0
+                ],
+                [
+                    438.0,
+                    504.0
+                ],
+                [
+                    437.0,
+                    504.0
+                ],
+                [
+                    437.0,
+                    503.0
+                ],
+                [
+                    435.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

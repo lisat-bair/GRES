@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for a vehicle with a trailer bed by spotting a sizable, long structure equipped with wheels, and notice the clear gap between the truck's cabin and the flatbed trailer.",
+        "To identify a truck with a trailer bed, search for a lengthy, wheel-equipped structure that features a noticeable division between the truck's cabin and the flatbed trailer.",
+        "Spot the truck with a trailer bed by observing a large, elongated wheeled structure and a clear separation between the truck's cabin and its flatbed trailer."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000849.jpg",
+            "points": [
+                [
+                    255.0,
+                    504.0
+                ],
+                [
+                    255.0,
+                    505.0
+                ],
+                [
+                    254.0,
+                    505.0
+                ],
+                [
+                    254.0,
+                    507.0
+                ],
+                [
+                    253.0,
+                    507.0
+                ],
+                [
+                    253.0,
+                    509.0
+                ],
+                [
+                    252.0,
+                    509.0
+                ],
+                [
+                    252.0,
+                    510.0
+                ],
+                [
+                    251.0,
+                    510.0
+                ],
+                [
+                    251.0,
+                    511.0
+                ],
+                [
+                    249.0,
+                    511.0
+                ],
+                [
+                    249.0,
+                    510.0
+                ],
+                [
+                    248.0,
+                    510.0
+                ],
+                [
+                    248.0,
+                    509.0
+                ],
+                [
+                    246.0,
+                    509.0
+                ],
+                [
+                    246.0,
+                    511.0
+                ],
+                [
+                    245.0,
+                    511.0
+                ],
+                [
+                    245.0,
+                    512.0
+                ],
+                [
+                    279.0,
+                    512.0
+                ],
+                [
+                    279.0,
+                    510.0
+                ],
+                [
+                    277.0,
+                    510.0
+                ],
+                [
+                    277.0,
+                    509.0
+                ],
+                [
+                    270.0,
+                    509.0
+                ],
+                [
+                    270.0,
+                    508.0
+                ],
+                [
+                    267.0,
+                    508.0
+                ],
+                [
+                    267.0,
+                    507.0
+                ],
+                [
+                    264.0,
+                    507.0
+                ],
+                [
+                    264.0,
+                    506.0
+                ],
+                [
+                    262.0,
+                    506.0
+                ],
+                [
+                    262.0,
+                    505.0
+                ],
+                [
+                    256.0,
+                    505.0
+                ],
+                [
+                    256.0,
+                    504.0
+                ],
+                [
+                    255.0,
+                    504.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

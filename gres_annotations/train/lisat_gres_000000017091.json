@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the ship by spotting the elongated, lighter shapes that stand out against the dark backdrop.",
+        "Discover the boat by recognizing the distinct, lighter silhouettes that contrast with the darker background.",
+        "Identify the vessel by observing the elongated, light forms that are outlined sharply against the dark surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017091.jpg",
+            "points": [
+                [
+                    88.0,
+                    248.0
+                ],
+                [
+                    88.0,
+                    249.0
+                ],
+                [
+                    86.0,
+                    249.0
+                ],
+                [
+                    86.0,
+                    250.0
+                ],
+                [
+                    85.0,
+                    250.0
+                ],
+                [
+                    85.0,
+                    251.0
+                ],
+                [
+                    84.0,
+                    251.0
+                ],
+                [
+                    84.0,
+                    253.0
+                ],
+                [
+                    85.0,
+                    253.0
+                ],
+                [
+                    85.0,
+                    254.0
+                ],
+                [
+                    86.0,
+                    254.0
+                ],
+                [
+                    86.0,
+                    255.0
+                ],
+                [
+                    89.0,
+                    255.0
+                ],
+                [
+                    89.0,
+                    256.0
+                ],
+                [
+                    95.0,
+                    256.0
+                ],
+                [
+                    95.0,
+                    255.0
+                ],
+                [
+                    97.0,
+                    255.0
+                ],
+                [
+                    97.0,
+                    254.0
+                ],
+                [
+                    98.0,
+                    254.0
+                ],
+                [
+                    98.0,
+                    250.0
+                ],
+                [
+                    97.0,
+                    250.0
+                ],
+                [
+                    97.0,
+                    249.0
+                ],
+                [
+                    95.0,
+                    249.0
+                ],
+                [
+                    95.0,
+                    248.0
+                ],
+                [
+                    88.0,
+                    248.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

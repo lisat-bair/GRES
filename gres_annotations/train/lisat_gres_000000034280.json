@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the vehicle that has a metal exterior, a set of four wheels, and unique headlights.",
+        "Locate the automobile featuring a metallic frame, four wheels, and noticeable headlights.",
+        "Spot the car with a metal body, four wheels, and distinctive headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034280.jpg",
+            "points": [
+                [
+                    397.0,
+                    355.0
+                ],
+                [
+                    397.0,
+                    356.0
+                ],
+                [
+                    395.0,
+                    356.0
+                ],
+                [
+                    395.0,
+                    357.0
+                ],
+                [
+                    394.0,
+                    357.0
+                ],
+                [
+                    394.0,
+                    359.0
+                ],
+                [
+                    393.0,
+                    359.0
+                ],
+                [
+                    393.0,
+                    360.0
+                ],
+                [
+                    394.0,
+                    360.0
+                ],
+                [
+                    394.0,
+                    363.0
+                ],
+                [
+                    396.0,
+                    363.0
+                ],
+                [
+                    396.0,
+                    364.0
+                ],
+                [
+                    399.0,
+                    364.0
+                ],
+                [
+                    399.0,
+                    365.0
+                ],
+                [
+                    409.0,
+                    365.0
+                ],
+                [
+                    409.0,
+                    364.0
+                ],
+                [
+                    410.0,
+                    364.0
+                ],
+                [
+                    410.0,
+                    363.0
+                ],
+                [
+                    411.0,
+                    363.0
+                ],
+                [
+                    411.0,
+                    360.0
+                ],
+                [
+                    410.0,
+                    360.0
+                ],
+                [
+                    410.0,
+                    359.0
+                ],
+                [
+                    409.0,
+                    359.0
+                ],
+                [
+                    409.0,
+                    358.0
+                ],
+                [
+                    407.0,
+                    358.0
+                ],
+                [
+                    407.0,
+                    357.0
+                ],
+                [
+                    405.0,
+                    357.0
+                ],
+                [
+                    405.0,
+                    356.0
+                ],
+                [
+                    401.0,
+                    356.0
+                ],
+                [
+                    401.0,
+                    355.0
+                ],
+                [
+                    397.0,
+                    355.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

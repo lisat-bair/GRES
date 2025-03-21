@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the truck characterized by its unique rectangular form, massive size, and deep dark color standing out against the lighter backdrop.",
+        "Identify the truck which has a noticeable rectangular shape, considerable size, and deep dark hue that contrasts with the lighter surroundings.",
+        "Spot the truck with its distinct rectangle-like shape, large dimensions, and solid dark color that stands out against a lighter background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034478.jpg",
+            "points": [
+                [
+                    87.0,
+                    431.0
+                ],
+                [
+                    87.0,
+                    432.0
+                ],
+                [
+                    85.0,
+                    432.0
+                ],
+                [
+                    85.0,
+                    433.0
+                ],
+                [
+                    84.0,
+                    433.0
+                ],
+                [
+                    84.0,
+                    435.0
+                ],
+                [
+                    83.0,
+                    435.0
+                ],
+                [
+                    83.0,
+                    440.0
+                ],
+                [
+                    84.0,
+                    440.0
+                ],
+                [
+                    84.0,
+                    441.0
+                ],
+                [
+                    86.0,
+                    441.0
+                ],
+                [
+                    86.0,
+                    442.0
+                ],
+                [
+                    95.0,
+                    442.0
+                ],
+                [
+                    95.0,
+                    443.0
+                ],
+                [
+                    103.0,
+                    443.0
+                ],
+                [
+                    103.0,
+                    442.0
+                ],
+                [
+                    105.0,
+                    442.0
+                ],
+                [
+                    105.0,
+                    441.0
+                ],
+                [
+                    106.0,
+                    441.0
+                ],
+                [
+                    106.0,
+                    438.0
+                ],
+                [
+                    107.0,
+                    438.0
+                ],
+                [
+                    107.0,
+                    436.0
+                ],
+                [
+                    106.0,
+                    436.0
+                ],
+                [
+                    106.0,
+                    435.0
+                ],
+                [
+                    105.0,
+                    435.0
+                ],
+                [
+                    105.0,
+                    434.0
+                ],
+                [
+                    103.0,
+                    434.0
+                ],
+                [
+                    103.0,
+                    433.0
+                ],
+                [
+                    99.0,
+                    433.0
+                ],
+                [
+                    99.0,
+                    432.0
+                ],
+                [
+                    95.0,
+                    432.0
+                ],
+                [
+                    95.0,
+                    431.0
+                ],
+                [
+                    87.0,
+                    431.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

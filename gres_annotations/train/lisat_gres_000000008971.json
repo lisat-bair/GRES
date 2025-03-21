@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the vehicle that has a sleek, glossy exterior and uniquely shaped wheels typical of an automobile.",
+        "Look for the automobile featuring a polished, lustrous finish and uniquely designed wheels that are characteristic of a car.",
+        "Find the car with a smooth and shiny exterior, along with distinctive wheel designs typical of an automobile."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008971.jpg",
+            "points": [
+                [
+                    159.0,
+                    444.0
+                ],
+                [
+                    159.0,
+                    445.0
+                ],
+                [
+                    158.0,
+                    445.0
+                ],
+                [
+                    158.0,
+                    455.0
+                ],
+                [
+                    159.0,
+                    455.0
+                ],
+                [
+                    159.0,
+                    457.0
+                ],
+                [
+                    160.0,
+                    457.0
+                ],
+                [
+                    160.0,
+                    458.0
+                ],
+                [
+                    163.0,
+                    458.0
+                ],
+                [
+                    163.0,
+                    457.0
+                ],
+                [
+                    165.0,
+                    457.0
+                ],
+                [
+                    165.0,
+                    456.0
+                ],
+                [
+                    166.0,
+                    456.0
+                ],
+                [
+                    166.0,
+                    449.0
+                ],
+                [
+                    165.0,
+                    449.0
+                ],
+                [
+                    165.0,
+                    446.0
+                ],
+                [
+                    164.0,
+                    446.0
+                ],
+                [
+                    164.0,
+                    444.0
+                ],
+                [
+                    159.0,
+                    444.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

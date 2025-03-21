@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Look for the truck characterized by its bright yellow hue and enormous tires, generally equipped with a tall flatbed for carrying substantial cargo.",
+        "Spot the vehicle with a noticeable yellow paint job and large wheels, usually sporting an elevated flatbed designed for hauling hefty loads.",
+        "Find the truck that stands out due to its vibrant yellow color and huge tires, often having a raised flatbed intended for heavy-duty transportation."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014558.jpg",
+            "points": [
+                [
+                    202.0,
+                    506.0
+                ],
+                [
+                    202.0,
+                    507.0
+                ],
+                [
+                    199.0,
+                    507.0
+                ],
+                [
+                    199.0,
+                    508.0
+                ],
+                [
+                    198.0,
+                    508.0
+                ],
+                [
+                    198.0,
+                    512.0
+                ],
+                [
+                    218.0,
+                    512.0
+                ],
+                [
+                    218.0,
+                    511.0
+                ],
+                [
+                    217.0,
+                    511.0
+                ],
+                [
+                    217.0,
+                    509.0
+                ],
+                [
+                    216.0,
+                    509.0
+                ],
+                [
+                    216.0,
+                    507.0
+                ],
+                [
+                    207.0,
+                    507.0
+                ],
+                [
+                    207.0,
+                    506.0
+                ],
+                [
+                    202.0,
+                    506.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

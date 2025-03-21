@@ -1,0 +1,89 @@
+{
+    "text": [
+        "Recognize the vehicle through its unique form, shiny surfaces, and common elements such as tires and glass panels.",
+        "Spot the automobile by its characteristic design, glossy areas, and standard parts like its wheels and windows.",
+        "Distinguish the car by its particular outline, reflective features, and usual aspects like its wheels and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003060.jpg",
+            "points": [
+                [
+                    1.0,
+                    237.0
+                ],
+                [
+                    1.0,
+                    238.0
+                ],
+                [
+                    0.0,
+                    238.0
+                ],
+                [
+                    0.0,
+                    240.0
+                ],
+                [
+                    4.0,
+                    240.0
+                ],
+                [
+                    4.0,
+                    237.0
+                ],
+                [
+                    1.0,
+                    237.0
+                ],
+                [
+                    0.0,
+                    242.0
+                ],
+                [
+                    0.0,
+                    252.0
+                ],
+                [
+                    3.0,
+                    252.0
+                ],
+                [
+                    3.0,
+                    250.0
+                ],
+                [
+                    4.0,
+                    250.0
+                ],
+                [
+                    4.0,
+                    243.0
+                ],
+                [
+                    3.0,
+                    243.0
+                ],
+                [
+                    3.0,
+                    242.0
+                ],
+                [
+                    0.0,
+                    242.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

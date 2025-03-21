@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the truck by its unique bright hue standing out against a shadowy backdrop.",
+        "Distinguish the truck through its vivid color that contrasts sharply with a dim background.",
+        "Recognize the truck by its strikingly bright color set against a dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002127.jpg",
+            "points": [
+                [
+                    461.0,
+                    107.0
+                ],
+                [
+                    461.0,
+                    108.0
+                ],
+                [
+                    459.0,
+                    108.0
+                ],
+                [
+                    459.0,
+                    109.0
+                ],
+                [
+                    458.0,
+                    109.0
+                ],
+                [
+                    458.0,
+                    110.0
+                ],
+                [
+                    457.0,
+                    110.0
+                ],
+                [
+                    457.0,
+                    114.0
+                ],
+                [
+                    458.0,
+                    114.0
+                ],
+                [
+                    458.0,
+                    115.0
+                ],
+                [
+                    461.0,
+                    115.0
+                ],
+                [
+                    461.0,
+                    116.0
+                ],
+                [
+                    472.0,
+                    116.0
+                ],
+                [
+                    472.0,
+                    115.0
+                ],
+                [
+                    473.0,
+                    115.0
+                ],
+                [
+                    473.0,
+                    113.0
+                ],
+                [
+                    474.0,
+                    113.0
+                ],
+                [
+                    474.0,
+                    111.0
+                ],
+                [
+                    473.0,
+                    111.0
+                ],
+                [
+                    473.0,
+                    108.0
+                ],
+                [
+                    471.0,
+                    108.0
+                ],
+                [
+                    471.0,
+                    107.0
+                ],
+                [
+                    461.0,
+                    107.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

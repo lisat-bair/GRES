@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the medium-sized truck that is painted in white and orange and has a unique rectangular form, standing out among nearby items.",
+        "Identify the truck that is medium in size compared to its surroundings, painted in white and orange, and characterized by a distinct rectangular shape.",
+        "Spot the truck with a unique rectangular design and a white and orange color pattern that is medium in size relative to other nearby objects."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012067.jpg",
+            "points": [
+                [
+                    152.0,
+                    441.0
+                ],
+                [
+                    152.0,
+                    442.0
+                ],
+                [
+                    147.0,
+                    442.0
+                ],
+                [
+                    147.0,
+                    443.0
+                ],
+                [
+                    145.0,
+                    443.0
+                ],
+                [
+                    145.0,
+                    444.0
+                ],
+                [
+                    144.0,
+                    444.0
+                ],
+                [
+                    144.0,
+                    446.0
+                ],
+                [
+                    143.0,
+                    446.0
+                ],
+                [
+                    143.0,
+                    448.0
+                ],
+                [
+                    144.0,
+                    448.0
+                ],
+                [
+                    144.0,
+                    449.0
+                ],
+                [
+                    146.0,
+                    449.0
+                ],
+                [
+                    146.0,
+                    450.0
+                ],
+                [
+                    154.0,
+                    450.0
+                ],
+                [
+                    154.0,
+                    451.0
+                ],
+                [
+                    157.0,
+                    451.0
+                ],
+                [
+                    157.0,
+                    450.0
+                ],
+                [
+                    159.0,
+                    450.0
+                ],
+                [
+                    159.0,
+                    443.0
+                ],
+                [
+                    158.0,
+                    443.0
+                ],
+                [
+                    158.0,
+                    442.0
+                ],
+                [
+                    156.0,
+                    442.0
+                ],
+                [
+                    156.0,
+                    441.0
+                ],
+                [
+                    152.0,
+                    441.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

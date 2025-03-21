@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the bus situated in the lower-left corner of the picture.",
+        "Look for the bus positioned at the bottom-left area of the image.",
+        "Identify the bus located in the bottom-left section of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003078.jpg",
+            "points": [
+                [
+                    130.0,
+                    485.0
+                ],
+                [
+                    130.0,
+                    486.0
+                ],
+                [
+                    129.0,
+                    486.0
+                ],
+                [
+                    129.0,
+                    497.0
+                ],
+                [
+                    128.0,
+                    497.0
+                ],
+                [
+                    128.0,
+                    501.0
+                ],
+                [
+                    129.0,
+                    501.0
+                ],
+                [
+                    129.0,
+                    503.0
+                ],
+                [
+                    131.0,
+                    503.0
+                ],
+                [
+                    131.0,
+                    504.0
+                ],
+                [
+                    136.0,
+                    504.0
+                ],
+                [
+                    136.0,
+                    501.0
+                ],
+                [
+                    137.0,
+                    501.0
+                ],
+                [
+                    137.0,
+                    485.0
+                ],
+                [
+                    130.0,
+                    485.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

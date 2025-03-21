@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for the dark-colored, rectangular truck positioned centrally against a lighter backdrop in the image.",
+        "Spot the truck with a dark hue and rectangular form located at the center of the picture, contrasting with a lighter background.",
+        "Find the truck that has a dark shade, rectangular outline, and is centrally situated in the image with a lighter background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032134.jpg",
+            "points": [
+                [
+                    437.0,
+                    420.0
+                ],
+                [
+                    437.0,
+                    421.0
+                ],
+                [
+                    436.0,
+                    421.0
+                ],
+                [
+                    436.0,
+                    429.0
+                ],
+                [
+                    437.0,
+                    429.0
+                ],
+                [
+                    437.0,
+                    433.0
+                ],
+                [
+                    438.0,
+                    433.0
+                ],
+                [
+                    438.0,
+                    436.0
+                ],
+                [
+                    439.0,
+                    436.0
+                ],
+                [
+                    439.0,
+                    439.0
+                ],
+                [
+                    440.0,
+                    439.0
+                ],
+                [
+                    440.0,
+                    440.0
+                ],
+                [
+                    441.0,
+                    440.0
+                ],
+                [
+                    441.0,
+                    441.0
+                ],
+                [
+                    445.0,
+                    441.0
+                ],
+                [
+                    445.0,
+                    440.0
+                ],
+                [
+                    446.0,
+                    440.0
+                ],
+                [
+                    446.0,
+                    439.0
+                ],
+                [
+                    448.0,
+                    439.0
+                ],
+                [
+                    448.0,
+                    433.0
+                ],
+                [
+                    447.0,
+                    433.0
+                ],
+                [
+                    447.0,
+                    431.0
+                ],
+                [
+                    446.0,
+                    431.0
+                ],
+                [
+                    446.0,
+                    428.0
+                ],
+                [
+                    445.0,
+                    428.0
+                ],
+                [
+                    445.0,
+                    426.0
+                ],
+                [
+                    444.0,
+                    426.0
+                ],
+                [
+                    444.0,
+                    423.0
+                ],
+                [
+                    443.0,
+                    423.0
+                ],
+                [
+                    443.0,
+                    422.0
+                ],
+                [
+                    442.0,
+                    422.0
+                ],
+                [
+                    442.0,
+                    421.0
+                ],
+                [
+                    441.0,
+                    421.0
+                ],
+                [
+                    441.0,
+                    420.0
+                ],
+                [
+                    437.0,
+                    420.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

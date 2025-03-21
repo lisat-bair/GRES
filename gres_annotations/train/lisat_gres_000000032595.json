@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the vehicle that features a unique shiny exterior, metallic frame, clear rectangular design, and has wheels.",
+        "Find the automobile characterized by its distinct reflective finish, metal body, defined rectangular form, and equipped with wheels.",
+        "Spot the car with a unique gleaming surface, metal structure, pronounced rectangular shape, and presence of wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032595.jpg",
+            "points": [
+                [
+                    379.0,
+                    452.0
+                ],
+                [
+                    379.0,
+                    453.0
+                ],
+                [
+                    377.0,
+                    453.0
+                ],
+                [
+                    377.0,
+                    463.0
+                ],
+                [
+                    378.0,
+                    463.0
+                ],
+                [
+                    378.0,
+                    464.0
+                ],
+                [
+                    379.0,
+                    464.0
+                ],
+                [
+                    379.0,
+                    465.0
+                ],
+                [
+                    382.0,
+                    465.0
+                ],
+                [
+                    382.0,
+                    464.0
+                ],
+                [
+                    384.0,
+                    464.0
+                ],
+                [
+                    384.0,
+                    454.0
+                ],
+                [
+                    383.0,
+                    454.0
+                ],
+                [
+                    383.0,
+                    453.0
+                ],
+                [
+                    382.0,
+                    453.0
+                ],
+                [
+                    382.0,
+                    452.0
+                ],
+                [
+                    379.0,
+                    452.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the truck in the picture that has a big, rectangular form with a noticeable gap between its cab and the extended trailer, featuring wheels and a metallic or painted exterior.",
+        "Find the truck in the image that possesses a large rectangular structure and a clear division between its cab and the long trailer, identified by its wheels and a metallic or painted surface.",
+        "Spot the truck in the photograph with a substantial rectangular shape, showcasing a distinct separation between the driver\u2019s cabin and the extended trailer, marked by its wheels and either a metallic or painted finish."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002066.jpg",
+            "points": [
+                [
+                    381.0,
+                    113.0
+                ],
+                [
+                    381.0,
+                    114.0
+                ],
+                [
+                    380.0,
+                    114.0
+                ],
+                [
+                    380.0,
+                    115.0
+                ],
+                [
+                    379.0,
+                    115.0
+                ],
+                [
+                    379.0,
+                    116.0
+                ],
+                [
+                    378.0,
+                    116.0
+                ],
+                [
+                    378.0,
+                    121.0
+                ],
+                [
+                    380.0,
+                    121.0
+                ],
+                [
+                    380.0,
+                    122.0
+                ],
+                [
+                    382.0,
+                    122.0
+                ],
+                [
+                    382.0,
+                    123.0
+                ],
+                [
+                    384.0,
+                    123.0
+                ],
+                [
+                    384.0,
+                    124.0
+                ],
+                [
+                    388.0,
+                    124.0
+                ],
+                [
+                    388.0,
+                    123.0
+                ],
+                [
+                    389.0,
+                    123.0
+                ],
+                [
+                    389.0,
+                    122.0
+                ],
+                [
+                    390.0,
+                    122.0
+                ],
+                [
+                    390.0,
+                    117.0
+                ],
+                [
+                    389.0,
+                    117.0
+                ],
+                [
+                    389.0,
+                    116.0
+                ],
+                [
+                    388.0,
+                    116.0
+                ],
+                [
+                    388.0,
+                    115.0
+                ],
+                [
+                    386.0,
+                    115.0
+                ],
+                [
+                    386.0,
+                    114.0
+                ],
+                [
+                    384.0,
+                    114.0
+                ],
+                [
+                    384.0,
+                    113.0
+                ],
+                [
+                    381.0,
+                    113.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

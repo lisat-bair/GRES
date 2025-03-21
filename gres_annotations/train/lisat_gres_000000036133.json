@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the truck that stands out with its unique color compared to its surroundings.",
+        "Look for the truck whose color sharply differs from the environment around it.",
+        "Find the truck that features a color that markedly contrasts with the surrounding area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036133.jpg",
+            "points": [
+                [
+                    184.0,
+                    110.0
+                ],
+                [
+                    184.0,
+                    111.0
+                ],
+                [
+                    183.0,
+                    111.0
+                ],
+                [
+                    183.0,
+                    112.0
+                ],
+                [
+                    182.0,
+                    112.0
+                ],
+                [
+                    182.0,
+                    117.0
+                ],
+                [
+                    183.0,
+                    117.0
+                ],
+                [
+                    183.0,
+                    120.0
+                ],
+                [
+                    184.0,
+                    120.0
+                ],
+                [
+                    184.0,
+                    124.0
+                ],
+                [
+                    185.0,
+                    124.0
+                ],
+                [
+                    185.0,
+                    125.0
+                ],
+                [
+                    187.0,
+                    125.0
+                ],
+                [
+                    187.0,
+                    126.0
+                ],
+                [
+                    194.0,
+                    126.0
+                ],
+                [
+                    194.0,
+                    124.0
+                ],
+                [
+                    195.0,
+                    124.0
+                ],
+                [
+                    195.0,
+                    120.0
+                ],
+                [
+                    194.0,
+                    120.0
+                ],
+                [
+                    194.0,
+                    116.0
+                ],
+                [
+                    195.0,
+                    116.0
+                ],
+                [
+                    195.0,
+                    112.0
+                ],
+                [
+                    194.0,
+                    112.0
+                ],
+                [
+                    194.0,
+                    111.0
+                ],
+                [
+                    189.0,
+                    111.0
+                ],
+                [
+                    189.0,
+                    110.0
+                ],
+                [
+                    184.0,
+                    110.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

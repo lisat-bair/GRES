@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Identify the truck that stands out due to its unique shape and color compared to its surroundings.",
+        "Find the vehicle whose unusual form and hue make it differ from the nearby scenery.",
+        "Spot the truck that is noticeable because its shape and color do not blend with the environment around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015275.jpg",
+            "points": [
+                [
+                    378.0,
+                    70.0
+                ],
+                [
+                    378.0,
+                    71.0
+                ],
+                [
+                    377.0,
+                    71.0
+                ],
+                [
+                    377.0,
+                    79.0
+                ],
+                [
+                    379.0,
+                    79.0
+                ],
+                [
+                    379.0,
+                    80.0
+                ],
+                [
+                    386.0,
+                    80.0
+                ],
+                [
+                    386.0,
+                    79.0
+                ],
+                [
+                    392.0,
+                    79.0
+                ],
+                [
+                    392.0,
+                    77.0
+                ],
+                [
+                    393.0,
+                    77.0
+                ],
+                [
+                    393.0,
+                    72.0
+                ],
+                [
+                    392.0,
+                    72.0
+                ],
+                [
+                    392.0,
+                    71.0
+                ],
+                [
+                    388.0,
+                    71.0
+                ],
+                [
+                    388.0,
+                    70.0
+                ],
+                [
+                    378.0,
+                    70.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

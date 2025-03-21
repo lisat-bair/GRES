@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the vehicle that has a unique rectangular form and a vivid white section at its center, set against a darker backdrop.",
+        "Search for the automobile with a noticeable rectangular outline and a prominent white area in its middle, contrasted by a darker background.",
+        "Look for the car characterized by a distinctive rectangular shape and a bright white center, positioned against a darker surrounding."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030484.jpg",
+            "points": [
+                [
+                    317.0,
+                    262.0
+                ],
+                [
+                    317.0,
+                    263.0
+                ],
+                [
+                    316.0,
+                    263.0
+                ],
+                [
+                    316.0,
+                    264.0
+                ],
+                [
+                    315.0,
+                    264.0
+                ],
+                [
+                    315.0,
+                    266.0
+                ],
+                [
+                    314.0,
+                    266.0
+                ],
+                [
+                    314.0,
+                    268.0
+                ],
+                [
+                    315.0,
+                    268.0
+                ],
+                [
+                    315.0,
+                    269.0
+                ],
+                [
+                    317.0,
+                    269.0
+                ],
+                [
+                    317.0,
+                    270.0
+                ],
+                [
+                    318.0,
+                    270.0
+                ],
+                [
+                    318.0,
+                    271.0
+                ],
+                [
+                    320.0,
+                    271.0
+                ],
+                [
+                    320.0,
+                    272.0
+                ],
+                [
+                    322.0,
+                    272.0
+                ],
+                [
+                    322.0,
+                    273.0
+                ],
+                [
+                    325.0,
+                    273.0
+                ],
+                [
+                    325.0,
+                    272.0
+                ],
+                [
+                    327.0,
+                    272.0
+                ],
+                [
+                    327.0,
+                    270.0
+                ],
+                [
+                    328.0,
+                    270.0
+                ],
+                [
+                    328.0,
+                    267.0
+                ],
+                [
+                    327.0,
+                    267.0
+                ],
+                [
+                    327.0,
+                    266.0
+                ],
+                [
+                    325.0,
+                    266.0
+                ],
+                [
+                    325.0,
+                    265.0
+                ],
+                [
+                    323.0,
+                    265.0
+                ],
+                [
+                    323.0,
+                    264.0
+                ],
+                [
+                    321.0,
+                    264.0
+                ],
+                [
+                    321.0,
+                    263.0
+                ],
+                [
+                    319.0,
+                    263.0
+                ],
+                [
+                    319.0,
+                    262.0
+                ],
+                [
+                    317.0,
+                    262.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the truck that casts a unique shadow on the ground, placed diagonally in the picture.",
+        "Identify the truck with a noticeable shadow on the ground, aligned diagonally in the photograph.",
+        "Spot the truck whose shadow stands out on the ground, situated diagonally within the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006553.jpg",
+            "points": [
+                [
+                    167.0,
+                    135.0
+                ],
+                [
+                    167.0,
+                    140.0
+                ],
+                [
+                    168.0,
+                    140.0
+                ],
+                [
+                    168.0,
+                    142.0
+                ],
+                [
+                    169.0,
+                    142.0
+                ],
+                [
+                    169.0,
+                    144.0
+                ],
+                [
+                    170.0,
+                    144.0
+                ],
+                [
+                    170.0,
+                    145.0
+                ],
+                [
+                    171.0,
+                    145.0
+                ],
+                [
+                    171.0,
+                    146.0
+                ],
+                [
+                    172.0,
+                    146.0
+                ],
+                [
+                    172.0,
+                    147.0
+                ],
+                [
+                    174.0,
+                    147.0
+                ],
+                [
+                    174.0,
+                    148.0
+                ],
+                [
+                    176.0,
+                    148.0
+                ],
+                [
+                    176.0,
+                    147.0
+                ],
+                [
+                    179.0,
+                    147.0
+                ],
+                [
+                    179.0,
+                    146.0
+                ],
+                [
+                    180.0,
+                    146.0
+                ],
+                [
+                    180.0,
+                    142.0
+                ],
+                [
+                    179.0,
+                    142.0
+                ],
+                [
+                    179.0,
+                    140.0
+                ],
+                [
+                    178.0,
+                    140.0
+                ],
+                [
+                    178.0,
+                    139.0
+                ],
+                [
+                    177.0,
+                    139.0
+                ],
+                [
+                    177.0,
+                    137.0
+                ],
+                [
+                    176.0,
+                    137.0
+                ],
+                [
+                    176.0,
+                    136.0
+                ],
+                [
+                    175.0,
+                    136.0
+                ],
+                [
+                    175.0,
+                    135.0
+                ],
+                [
+                    167.0,
+                    135.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the big yellow truck that has a square-shaped back and large tires.",
+        "Look for the yellow truck with a spacious rear compartment and huge wheels.",
+        "Seek out the yellow vehicle with a bulky rear and enormous tires."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014564.jpg",
+            "points": [
+                [
+                    66.0,
+                    314.0
+                ],
+                [
+                    66.0,
+                    315.0
+                ],
+                [
+                    64.0,
+                    315.0
+                ],
+                [
+                    64.0,
+                    329.0
+                ],
+                [
+                    63.0,
+                    329.0
+                ],
+                [
+                    63.0,
+                    340.0
+                ],
+                [
+                    64.0,
+                    340.0
+                ],
+                [
+                    64.0,
+                    341.0
+                ],
+                [
+                    71.0,
+                    341.0
+                ],
+                [
+                    71.0,
+                    340.0
+                ],
+                [
+                    72.0,
+                    340.0
+                ],
+                [
+                    72.0,
+                    339.0
+                ],
+                [
+                    73.0,
+                    339.0
+                ],
+                [
+                    73.0,
+                    328.0
+                ],
+                [
+                    72.0,
+                    328.0
+                ],
+                [
+                    72.0,
+                    316.0
+                ],
+                [
+                    71.0,
+                    316.0
+                ],
+                [
+                    71.0,
+                    315.0
+                ],
+                [
+                    69.0,
+                    315.0
+                ],
+                [
+                    69.0,
+                    314.0
+                ],
+                [
+                    66.0,
+                    314.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

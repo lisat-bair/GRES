@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the vehicle situated in the lower-left area of the picture that has unique characteristics.",
+        "Identify the automobile in the bottom-left section of the image with notable features.",
+        "Spot the car in the lower-left corner of the photograph that stands out with its distinct traits."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027823.jpg",
+            "points": [
+                [
+                    92.0,
+                    437.0
+                ],
+                [
+                    92.0,
+                    438.0
+                ],
+                [
+                    89.0,
+                    438.0
+                ],
+                [
+                    89.0,
+                    439.0
+                ],
+                [
+                    88.0,
+                    439.0
+                ],
+                [
+                    88.0,
+                    445.0
+                ],
+                [
+                    89.0,
+                    445.0
+                ],
+                [
+                    89.0,
+                    446.0
+                ],
+                [
+                    90.0,
+                    446.0
+                ],
+                [
+                    90.0,
+                    447.0
+                ],
+                [
+                    91.0,
+                    447.0
+                ],
+                [
+                    91.0,
+                    448.0
+                ],
+                [
+                    94.0,
+                    448.0
+                ],
+                [
+                    94.0,
+                    447.0
+                ],
+                [
+                    95.0,
+                    447.0
+                ],
+                [
+                    95.0,
+                    446.0
+                ],
+                [
+                    97.0,
+                    446.0
+                ],
+                [
+                    97.0,
+                    444.0
+                ],
+                [
+                    98.0,
+                    444.0
+                ],
+                [
+                    98.0,
+                    439.0
+                ],
+                [
+                    96.0,
+                    439.0
+                ],
+                [
+                    96.0,
+                    438.0
+                ],
+                [
+                    93.0,
+                    438.0
+                ],
+                [
+                    93.0,
+                    437.0
+                ],
+                [
+                    92.0,
+                    437.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

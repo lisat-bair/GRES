@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the passenger car by spotting a white rectangular form that stands out against a darker backdrop.",
+        "Identify the passenger vehicle by looking for a white rectangle with clear edges set against a darker surface.",
+        "Seek out the passenger vehicle by recognizing a white rectangle outlined on a contrasting dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009640.jpg",
+            "points": [
+                [
+                    13.0,
+                    264.0
+                ],
+                [
+                    13.0,
+                    265.0
+                ],
+                [
+                    11.0,
+                    265.0
+                ],
+                [
+                    11.0,
+                    266.0
+                ],
+                [
+                    10.0,
+                    266.0
+                ],
+                [
+                    10.0,
+                    267.0
+                ],
+                [
+                    8.0,
+                    267.0
+                ],
+                [
+                    8.0,
+                    268.0
+                ],
+                [
+                    7.0,
+                    268.0
+                ],
+                [
+                    7.0,
+                    269.0
+                ],
+                [
+                    5.0,
+                    269.0
+                ],
+                [
+                    5.0,
+                    273.0
+                ],
+                [
+                    6.0,
+                    273.0
+                ],
+                [
+                    6.0,
+                    275.0
+                ],
+                [
+                    10.0,
+                    275.0
+                ],
+                [
+                    10.0,
+                    274.0
+                ],
+                [
+                    11.0,
+                    274.0
+                ],
+                [
+                    11.0,
+                    273.0
+                ],
+                [
+                    12.0,
+                    273.0
+                ],
+                [
+                    12.0,
+                    272.0
+                ],
+                [
+                    14.0,
+                    272.0
+                ],
+                [
+                    14.0,
+                    271.0
+                ],
+                [
+                    16.0,
+                    271.0
+                ],
+                [
+                    16.0,
+                    270.0
+                ],
+                [
+                    17.0,
+                    270.0
+                ],
+                [
+                    17.0,
+                    269.0
+                ],
+                [
+                    18.0,
+                    269.0
+                ],
+                [
+                    18.0,
+                    268.0
+                ],
+                [
+                    19.0,
+                    268.0
+                ],
+                [
+                    19.0,
+                    266.0
+                ],
+                [
+                    18.0,
+                    266.0
+                ],
+                [
+                    18.0,
+                    265.0
+                ],
+                [
+                    17.0,
+                    265.0
+                ],
+                [
+                    17.0,
+                    264.0
+                ],
+                [
+                    13.0,
+                    264.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

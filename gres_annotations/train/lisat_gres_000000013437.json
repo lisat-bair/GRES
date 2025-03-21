@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the vehicle that has a dark hue, shiny surfaces, and unique wheel designs.",
+        "Look for the car that features a deep color, glossy exterior, and distinctive wheels.",
+        "Find the automobile with a dark shade, reflective panels, and characteristic wheel patterns."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013437.jpg",
+            "points": [
+                [
+                    35.0,
+                    28.0
+                ],
+                [
+                    35.0,
+                    29.0
+                ],
+                [
+                    34.0,
+                    29.0
+                ],
+                [
+                    34.0,
+                    33.0
+                ],
+                [
+                    35.0,
+                    33.0
+                ],
+                [
+                    35.0,
+                    34.0
+                ],
+                [
+                    36.0,
+                    34.0
+                ],
+                [
+                    36.0,
+                    35.0
+                ],
+                [
+                    45.0,
+                    35.0
+                ],
+                [
+                    45.0,
+                    36.0
+                ],
+                [
+                    49.0,
+                    36.0
+                ],
+                [
+                    49.0,
+                    35.0
+                ],
+                [
+                    51.0,
+                    35.0
+                ],
+                [
+                    51.0,
+                    31.0
+                ],
+                [
+                    50.0,
+                    31.0
+                ],
+                [
+                    50.0,
+                    30.0
+                ],
+                [
+                    49.0,
+                    30.0
+                ],
+                [
+                    49.0,
+                    29.0
+                ],
+                [
+                    47.0,
+                    29.0
+                ],
+                [
+                    47.0,
+                    28.0
+                ],
+                [
+                    35.0,
+                    28.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

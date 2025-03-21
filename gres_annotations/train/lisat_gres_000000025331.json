@@ -1,0 +1,121 @@
+{
+    "text": [
+        "Locate the long truck with a trailer, numerous wheels, and a noticeable cab that is usually seen in industrial or highway environments.",
+        "Spot the extended truck that has a trailer, many wheels, and a distinct cab, commonly found in industrial or road settings.",
+        "Find the truck characterized by its length, trailer, many wheels, and prominent cab, often seen in industrial or highway areas."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025331.jpg",
+            "points": [
+                [
+                    472.0,
+                    507.0
+                ],
+                [
+                    472.0,
+                    511.0
+                ],
+                [
+                    473.0,
+                    511.0
+                ],
+                [
+                    473.0,
+                    507.0
+                ],
+                [
+                    472.0,
+                    507.0
+                ],
+                [
+                    448.0,
+                    500.0
+                ],
+                [
+                    448.0,
+                    501.0
+                ],
+                [
+                    447.0,
+                    501.0
+                ],
+                [
+                    447.0,
+                    504.0
+                ],
+                [
+                    446.0,
+                    504.0
+                ],
+                [
+                    446.0,
+                    505.0
+                ],
+                [
+                    445.0,
+                    505.0
+                ],
+                [
+                    445.0,
+                    510.0
+                ],
+                [
+                    446.0,
+                    510.0
+                ],
+                [
+                    446.0,
+                    512.0
+                ],
+                [
+                    466.0,
+                    512.0
+                ],
+                [
+                    466.0,
+                    503.0
+                ],
+                [
+                    465.0,
+                    503.0
+                ],
+                [
+                    465.0,
+                    502.0
+                ],
+                [
+                    466.0,
+                    502.0
+                ],
+                [
+                    466.0,
+                    501.0
+                ],
+                [
+                    465.0,
+                    501.0
+                ],
+                [
+                    465.0,
+                    500.0
+                ],
+                [
+                    448.0,
+                    500.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

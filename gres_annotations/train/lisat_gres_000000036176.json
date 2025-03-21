@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the truck located in the upper-left corner of the picture using the provided details.",
+        "Based on the description, identify the truck positioned at the top-left of the photo.",
+        "Using the given description, pinpoint the truck in the top-left section of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036176.jpg",
+            "points": [
+                [
+                    62.0,
+                    70.0
+                ],
+                [
+                    62.0,
+                    71.0
+                ],
+                [
+                    59.0,
+                    71.0
+                ],
+                [
+                    59.0,
+                    72.0
+                ],
+                [
+                    58.0,
+                    72.0
+                ],
+                [
+                    58.0,
+                    73.0
+                ],
+                [
+                    57.0,
+                    73.0
+                ],
+                [
+                    57.0,
+                    89.0
+                ],
+                [
+                    58.0,
+                    89.0
+                ],
+                [
+                    58.0,
+                    90.0
+                ],
+                [
+                    64.0,
+                    90.0
+                ],
+                [
+                    64.0,
+                    91.0
+                ],
+                [
+                    68.0,
+                    91.0
+                ],
+                [
+                    68.0,
+                    90.0
+                ],
+                [
+                    69.0,
+                    90.0
+                ],
+                [
+                    69.0,
+                    89.0
+                ],
+                [
+                    70.0,
+                    89.0
+                ],
+                [
+                    70.0,
+                    87.0
+                ],
+                [
+                    71.0,
+                    87.0
+                ],
+                [
+                    71.0,
+                    86.0
+                ],
+                [
+                    70.0,
+                    86.0
+                ],
+                [
+                    70.0,
+                    81.0
+                ],
+                [
+                    69.0,
+                    81.0
+                ],
+                [
+                    69.0,
+                    77.0
+                ],
+                [
+                    68.0,
+                    77.0
+                ],
+                [
+                    68.0,
+                    75.0
+                ],
+                [
+                    67.0,
+                    75.0
+                ],
+                [
+                    67.0,
+                    73.0
+                ],
+                [
+                    66.0,
+                    73.0
+                ],
+                [
+                    66.0,
+                    72.0
+                ],
+                [
+                    65.0,
+                    72.0
+                ],
+                [
+                    65.0,
+                    71.0
+                ],
+                [
+                    64.0,
+                    71.0
+                ],
+                [
+                    64.0,
+                    70.0
+                ],
+                [
+                    62.0,
+                    70.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

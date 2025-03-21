@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the car with unique headlights and a shiny exterior set against a darker backdrop.",
+        "Locate the automobile with standout headlights and a metallic finish contrasted by the dim background.",
+        "Find the vehicle featuring distinctive headlights and a metal surface against the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036097.jpg",
+            "points": [
+                [
+                    368.0,
+                    477.0
+                ],
+                [
+                    368.0,
+                    478.0
+                ],
+                [
+                    367.0,
+                    478.0
+                ],
+                [
+                    367.0,
+                    479.0
+                ],
+                [
+                    366.0,
+                    479.0
+                ],
+                [
+                    366.0,
+                    482.0
+                ],
+                [
+                    367.0,
+                    482.0
+                ],
+                [
+                    367.0,
+                    484.0
+                ],
+                [
+                    377.0,
+                    484.0
+                ],
+                [
+                    377.0,
+                    485.0
+                ],
+                [
+                    383.0,
+                    485.0
+                ],
+                [
+                    383.0,
+                    484.0
+                ],
+                [
+                    385.0,
+                    484.0
+                ],
+                [
+                    385.0,
+                    480.0
+                ],
+                [
+                    384.0,
+                    480.0
+                ],
+                [
+                    384.0,
+                    478.0
+                ],
+                [
+                    374.0,
+                    478.0
+                ],
+                [
+                    374.0,
+                    477.0
+                ],
+                [
+                    368.0,
+                    477.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

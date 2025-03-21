@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the shed by spotting the rectangular building with a slanted roof and unique wooden paneling, typically situated in a garden or backyard.",
+        "Find the shed by identifying the rectangular structure with a pitched roof and characteristic wooden siding, generally located in a garden or backyard.",
+        "Pinpoint the shed by recognizing the rectangular edifice with an inclined roof and notable wooden cladding, usually found in a garden or backyard."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009491.jpg",
+            "points": [
+                [
+                    0.0,
+                    480.0
+                ],
+                [
+                    0.0,
+                    497.0
+                ],
+                [
+                    11.0,
+                    497.0
+                ],
+                [
+                    11.0,
+                    496.0
+                ],
+                [
+                    13.0,
+                    496.0
+                ],
+                [
+                    13.0,
+                    495.0
+                ],
+                [
+                    14.0,
+                    495.0
+                ],
+                [
+                    14.0,
+                    494.0
+                ],
+                [
+                    15.0,
+                    494.0
+                ],
+                [
+                    15.0,
+                    493.0
+                ],
+                [
+                    16.0,
+                    493.0
+                ],
+                [
+                    16.0,
+                    488.0
+                ],
+                [
+                    17.0,
+                    488.0
+                ],
+                [
+                    17.0,
+                    487.0
+                ],
+                [
+                    18.0,
+                    487.0
+                ],
+                [
+                    18.0,
+                    485.0
+                ],
+                [
+                    17.0,
+                    485.0
+                ],
+                [
+                    17.0,
+                    484.0
+                ],
+                [
+                    16.0,
+                    484.0
+                ],
+                [
+                    16.0,
+                    483.0
+                ],
+                [
+                    14.0,
+                    483.0
+                ],
+                [
+                    14.0,
+                    482.0
+                ],
+                [
+                    12.0,
+                    482.0
+                ],
+                [
+                    12.0,
+                    481.0
+                ],
+                [
+                    10.0,
+                    481.0
+                ],
+                [
+                    10.0,
+                    480.0
+                ],
+                [
+                    0.0,
+                    480.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

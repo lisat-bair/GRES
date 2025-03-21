@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Locate the car in the picture that has shiny surfaces and well-defined wheel shapes.",
+        "Find the vehicle in the image characterized by gleaming exteriors and clear wheel contours.",
+        "Spot the automobile in the photograph that features glossy surfaces and distinct outlines of the wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020223.jpg",
+            "points": [
+                [
+                    249.0,
+                    414.0
+                ],
+                [
+                    249.0,
+                    415.0
+                ],
+                [
+                    248.0,
+                    415.0
+                ],
+                [
+                    248.0,
+                    418.0
+                ],
+                [
+                    249.0,
+                    418.0
+                ],
+                [
+                    249.0,
+                    419.0
+                ],
+                [
+                    250.0,
+                    419.0
+                ],
+                [
+                    250.0,
+                    420.0
+                ],
+                [
+                    252.0,
+                    420.0
+                ],
+                [
+                    252.0,
+                    421.0
+                ],
+                [
+                    254.0,
+                    421.0
+                ],
+                [
+                    254.0,
+                    422.0
+                ],
+                [
+                    257.0,
+                    422.0
+                ],
+                [
+                    257.0,
+                    423.0
+                ],
+                [
+                    260.0,
+                    423.0
+                ],
+                [
+                    260.0,
+                    424.0
+                ],
+                [
+                    265.0,
+                    424.0
+                ],
+                [
+                    265.0,
+                    423.0
+                ],
+                [
+                    266.0,
+                    423.0
+                ],
+                [
+                    266.0,
+                    422.0
+                ],
+                [
+                    267.0,
+                    422.0
+                ],
+                [
+                    267.0,
+                    419.0
+                ],
+                [
+                    266.0,
+                    419.0
+                ],
+                [
+                    266.0,
+                    418.0
+                ],
+                [
+                    264.0,
+                    418.0
+                ],
+                [
+                    264.0,
+                    417.0
+                ],
+                [
+                    261.0,
+                    417.0
+                ],
+                [
+                    261.0,
+                    416.0
+                ],
+                [
+                    259.0,
+                    416.0
+                ],
+                [
+                    259.0,
+                    415.0
+                ],
+                [
+                    256.0,
+                    415.0
+                ],
+                [
+                    256.0,
+                    414.0
+                ],
+                [
+                    249.0,
+                    414.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

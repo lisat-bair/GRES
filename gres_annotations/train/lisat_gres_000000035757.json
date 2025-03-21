@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the white, square-shaped vehicle with transparent windows and prominent wheels situated against a shadowy background.",
+        "Locate the white, rectangular vehicle featuring noticeable windows and wheels on a dim backdrop.",
+        "Find the boxy, white vehicle with clear windows and wheels positioned against a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035757.jpg",
+            "points": [
+                [
+                    423.0,
+                    85.0
+                ],
+                [
+                    423.0,
+                    86.0
+                ],
+                [
+                    422.0,
+                    86.0
+                ],
+                [
+                    422.0,
+                    88.0
+                ],
+                [
+                    421.0,
+                    88.0
+                ],
+                [
+                    421.0,
+                    92.0
+                ],
+                [
+                    420.0,
+                    92.0
+                ],
+                [
+                    420.0,
+                    100.0
+                ],
+                [
+                    421.0,
+                    100.0
+                ],
+                [
+                    421.0,
+                    101.0
+                ],
+                [
+                    422.0,
+                    101.0
+                ],
+                [
+                    422.0,
+                    102.0
+                ],
+                [
+                    428.0,
+                    102.0
+                ],
+                [
+                    428.0,
+                    100.0
+                ],
+                [
+                    429.0,
+                    100.0
+                ],
+                [
+                    429.0,
+                    92.0
+                ],
+                [
+                    428.0,
+                    92.0
+                ],
+                [
+                    428.0,
+                    90.0
+                ],
+                [
+                    429.0,
+                    90.0
+                ],
+                [
+                    429.0,
+                    88.0
+                ],
+                [
+                    428.0,
+                    88.0
+                ],
+                [
+                    428.0,
+                    86.0
+                ],
+                [
+                    427.0,
+                    86.0
+                ],
+                [
+                    427.0,
+                    85.0
+                ],
+                [
+                    423.0,
+                    85.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

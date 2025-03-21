@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Look for the vehicle that has a unique rectangular form, shiny metallic surface, and components similar to wheels and windows.",
+        "Identify the automobile with a pronounced rectangular design, metallic appearance, and elements akin to wheels and windows.",
+        "Search for the car characterized by a distinct rectangular shape, a metallic finish, and features that resemble wheels and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000685.jpg",
+            "points": [
+                [
+                    493.0,
+                    333.0
+                ],
+                [
+                    493.0,
+                    334.0
+                ],
+                [
+                    491.0,
+                    334.0
+                ],
+                [
+                    491.0,
+                    340.0
+                ],
+                [
+                    504.0,
+                    340.0
+                ],
+                [
+                    504.0,
+                    339.0
+                ],
+                [
+                    505.0,
+                    339.0
+                ],
+                [
+                    505.0,
+                    334.0
+                ],
+                [
+                    504.0,
+                    334.0
+                ],
+                [
+                    504.0,
+                    333.0
+                ],
+                [
+                    493.0,
+                    333.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the building that stands out due to its unusual roof design and color that contrasts sharply with the nearby greenery.",
+        "Locate the structure featuring a distinctive roof shape and a color that starkly contrasts with the surrounding plants.",
+        "Spot the edifice characterized by a unique roof and a contrasting hue against the backdrop of the local foliage."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015746.jpg",
+            "points": [
+                [
+                    24.0,
+                    139.0
+                ],
+                [
+                    24.0,
+                    140.0
+                ],
+                [
+                    21.0,
+                    140.0
+                ],
+                [
+                    21.0,
+                    141.0
+                ],
+                [
+                    20.0,
+                    141.0
+                ],
+                [
+                    20.0,
+                    144.0
+                ],
+                [
+                    19.0,
+                    144.0
+                ],
+                [
+                    19.0,
+                    147.0
+                ],
+                [
+                    18.0,
+                    147.0
+                ],
+                [
+                    18.0,
+                    148.0
+                ],
+                [
+                    17.0,
+                    148.0
+                ],
+                [
+                    17.0,
+                    149.0
+                ],
+                [
+                    16.0,
+                    149.0
+                ],
+                [
+                    16.0,
+                    153.0
+                ],
+                [
+                    17.0,
+                    153.0
+                ],
+                [
+                    17.0,
+                    155.0
+                ],
+                [
+                    18.0,
+                    155.0
+                ],
+                [
+                    18.0,
+                    156.0
+                ],
+                [
+                    20.0,
+                    156.0
+                ],
+                [
+                    20.0,
+                    157.0
+                ],
+                [
+                    29.0,
+                    157.0
+                ],
+                [
+                    29.0,
+                    156.0
+                ],
+                [
+                    31.0,
+                    156.0
+                ],
+                [
+                    31.0,
+                    155.0
+                ],
+                [
+                    40.0,
+                    155.0
+                ],
+                [
+                    40.0,
+                    154.0
+                ],
+                [
+                    43.0,
+                    154.0
+                ],
+                [
+                    43.0,
+                    153.0
+                ],
+                [
+                    44.0,
+                    153.0
+                ],
+                [
+                    44.0,
+                    142.0
+                ],
+                [
+                    43.0,
+                    142.0
+                ],
+                [
+                    43.0,
+                    141.0
+                ],
+                [
+                    38.0,
+                    141.0
+                ],
+                [
+                    38.0,
+                    140.0
+                ],
+                [
+                    33.0,
+                    140.0
+                ],
+                [
+                    33.0,
+                    139.0
+                ],
+                [
+                    24.0,
+                    139.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

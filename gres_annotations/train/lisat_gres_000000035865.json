@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the car that has a boxy design, a shiny metallic hue, and stands out clearly against the shadowy backdrop.",
+        "Locate the automobile characterized by its rectangular form, metallic tint, and noticeable silhouette against the dim background.",
+        "Spot the vehicle with a rectangular build, a metallic finish, and a pronounced outline against the dark surrounding."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035865.jpg",
+            "points": [
+                [
+                    448.0,
+                    77.0
+                ],
+                [
+                    448.0,
+                    79.0
+                ],
+                [
+                    447.0,
+                    79.0
+                ],
+                [
+                    447.0,
+                    82.0
+                ],
+                [
+                    446.0,
+                    82.0
+                ],
+                [
+                    446.0,
+                    86.0
+                ],
+                [
+                    445.0,
+                    86.0
+                ],
+                [
+                    445.0,
+                    94.0
+                ],
+                [
+                    446.0,
+                    94.0
+                ],
+                [
+                    446.0,
+                    95.0
+                ],
+                [
+                    447.0,
+                    95.0
+                ],
+                [
+                    447.0,
+                    96.0
+                ],
+                [
+                    451.0,
+                    96.0
+                ],
+                [
+                    451.0,
+                    95.0
+                ],
+                [
+                    452.0,
+                    95.0
+                ],
+                [
+                    452.0,
+                    93.0
+                ],
+                [
+                    453.0,
+                    93.0
+                ],
+                [
+                    453.0,
+                    91.0
+                ],
+                [
+                    454.0,
+                    91.0
+                ],
+                [
+                    454.0,
+                    88.0
+                ],
+                [
+                    455.0,
+                    88.0
+                ],
+                [
+                    455.0,
+                    80.0
+                ],
+                [
+                    456.0,
+                    80.0
+                ],
+                [
+                    456.0,
+                    79.0
+                ],
+                [
+                    455.0,
+                    79.0
+                ],
+                [
+                    455.0,
+                    77.0
+                ],
+                [
+                    448.0,
+                    77.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

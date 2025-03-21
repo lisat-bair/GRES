@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Identify the building in the top-right corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006623.jpg",
+            "points": [
+                [
+                    445.0,
+                    0.0
+                ],
+                [
+                    445.0,
+                    2.0
+                ],
+                [
+                    446.0,
+                    2.0
+                ],
+                [
+                    446.0,
+                    5.0
+                ],
+                [
+                    462.0,
+                    5.0
+                ],
+                [
+                    462.0,
+                    4.0
+                ],
+                [
+                    466.0,
+                    4.0
+                ],
+                [
+                    466.0,
+                    5.0
+                ],
+                [
+                    469.0,
+                    5.0
+                ],
+                [
+                    469.0,
+                    4.0
+                ],
+                [
+                    471.0,
+                    4.0
+                ],
+                [
+                    471.0,
+                    0.0
+                ],
+                [
+                    445.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

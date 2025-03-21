@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Locate the truck that has a separate cab and trailer part, characterized by its long rectangular shape, wheels, and metallic surface.",
+        "Spot the vehicle with a unique cab and trailer area, noted for its extended rectangular form, wheels, and metal-like finish.",
+        "Find the truck that features a distinctive cab and trailer division, known for its elongated rectangular design, equipped with wheels and a metallic look."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020687.jpg",
+            "points": [
+                [
+                    257.0,
+                    298.0
+                ],
+                [
+                    257.0,
+                    299.0
+                ],
+                [
+                    256.0,
+                    299.0
+                ],
+                [
+                    256.0,
+                    302.0
+                ],
+                [
+                    255.0,
+                    302.0
+                ],
+                [
+                    255.0,
+                    307.0
+                ],
+                [
+                    254.0,
+                    307.0
+                ],
+                [
+                    254.0,
+                    320.0
+                ],
+                [
+                    255.0,
+                    320.0
+                ],
+                [
+                    255.0,
+                    321.0
+                ],
+                [
+                    256.0,
+                    321.0
+                ],
+                [
+                    256.0,
+                    322.0
+                ],
+                [
+                    258.0,
+                    322.0
+                ],
+                [
+                    258.0,
+                    323.0
+                ],
+                [
+                    262.0,
+                    323.0
+                ],
+                [
+                    262.0,
+                    324.0
+                ],
+                [
+                    265.0,
+                    324.0
+                ],
+                [
+                    265.0,
+                    323.0
+                ],
+                [
+                    266.0,
+                    323.0
+                ],
+                [
+                    266.0,
+                    321.0
+                ],
+                [
+                    267.0,
+                    321.0
+                ],
+                [
+                    267.0,
+                    316.0
+                ],
+                [
+                    268.0,
+                    316.0
+                ],
+                [
+                    268.0,
+                    306.0
+                ],
+                [
+                    267.0,
+                    306.0
+                ],
+                [
+                    267.0,
+                    301.0
+                ],
+                [
+                    266.0,
+                    301.0
+                ],
+                [
+                    266.0,
+                    300.0
+                ],
+                [
+                    265.0,
+                    300.0
+                ],
+                [
+                    265.0,
+                    299.0
+                ],
+                [
+                    264.0,
+                    299.0
+                ],
+                [
+                    264.0,
+                    298.0
+                ],
+                [
+                    257.0,
+                    298.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

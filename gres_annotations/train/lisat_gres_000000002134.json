@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the building located in the lower-right corner of the picture.",
+        "Identify the structure positioned at the bottom-right side of the image.",
+        "Spot the facility placed in the lower-right section of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002134.jpg",
+            "points": [
+                [
+                    499.0,
+                    287.0
+                ],
+                [
+                    499.0,
+                    288.0
+                ],
+                [
+                    498.0,
+                    288.0
+                ],
+                [
+                    498.0,
+                    289.0
+                ],
+                [
+                    497.0,
+                    289.0
+                ],
+                [
+                    497.0,
+                    294.0
+                ],
+                [
+                    496.0,
+                    294.0
+                ],
+                [
+                    496.0,
+                    301.0
+                ],
+                [
+                    495.0,
+                    301.0
+                ],
+                [
+                    495.0,
+                    316.0
+                ],
+                [
+                    494.0,
+                    316.0
+                ],
+                [
+                    494.0,
+                    319.0
+                ],
+                [
+                    495.0,
+                    319.0
+                ],
+                [
+                    495.0,
+                    335.0
+                ],
+                [
+                    494.0,
+                    335.0
+                ],
+                [
+                    494.0,
+                    340.0
+                ],
+                [
+                    495.0,
+                    340.0
+                ],
+                [
+                    495.0,
+                    342.0
+                ],
+                [
+                    496.0,
+                    342.0
+                ],
+                [
+                    496.0,
+                    343.0
+                ],
+                [
+                    500.0,
+                    343.0
+                ],
+                [
+                    500.0,
+                    344.0
+                ],
+                [
+                    507.0,
+                    344.0
+                ],
+                [
+                    507.0,
+                    345.0
+                ],
+                [
+                    512.0,
+                    345.0
+                ],
+                [
+                    512.0,
+                    288.0
+                ],
+                [
+                    505.0,
+                    288.0
+                ],
+                [
+                    505.0,
+                    287.0
+                ],
+                [
+                    499.0,
+                    287.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

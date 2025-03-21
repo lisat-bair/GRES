@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the vehicle that features a shiny exterior, a unique rectangular form, and reflective glass that stands out against the dimmer surroundings.",
+        "Spot the automobile characterized by its metallic finish, pronounced rectangular design, and reflective windows that contrast with the darker backdrop.",
+        "Seek out the car that possesses a metallic body, a distinct rectangular shape, and shiny windows that are in stark contrast to the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024819.jpg",
+            "points": [
+                [
+                    104.0,
+                    66.0
+                ],
+                [
+                    104.0,
+                    67.0
+                ],
+                [
+                    102.0,
+                    67.0
+                ],
+                [
+                    102.0,
+                    68.0
+                ],
+                [
+                    101.0,
+                    68.0
+                ],
+                [
+                    101.0,
+                    70.0
+                ],
+                [
+                    100.0,
+                    70.0
+                ],
+                [
+                    100.0,
+                    73.0
+                ],
+                [
+                    101.0,
+                    73.0
+                ],
+                [
+                    101.0,
+                    75.0
+                ],
+                [
+                    104.0,
+                    75.0
+                ],
+                [
+                    104.0,
+                    76.0
+                ],
+                [
+                    111.0,
+                    76.0
+                ],
+                [
+                    111.0,
+                    75.0
+                ],
+                [
+                    113.0,
+                    75.0
+                ],
+                [
+                    113.0,
+                    72.0
+                ],
+                [
+                    112.0,
+                    72.0
+                ],
+                [
+                    112.0,
+                    71.0
+                ],
+                [
+                    111.0,
+                    71.0
+                ],
+                [
+                    111.0,
+                    70.0
+                ],
+                [
+                    110.0,
+                    70.0
+                ],
+                [
+                    110.0,
+                    69.0
+                ],
+                [
+                    109.0,
+                    69.0
+                ],
+                [
+                    109.0,
+                    68.0
+                ],
+                [
+                    108.0,
+                    68.0
+                ],
+                [
+                    108.0,
+                    67.0
+                ],
+                [
+                    105.0,
+                    67.0
+                ],
+                [
+                    105.0,
+                    66.0
+                ],
+                [
+                    104.0,
+                    66.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

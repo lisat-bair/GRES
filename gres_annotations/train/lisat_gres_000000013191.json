@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Find the small cabin situated in the top-left section of the picture.",
+        "Spot the cottage positioned at the top-left corner of the photo.",
+        "Identify the shelter located in the upper-left quadrant of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013191.jpg",
+            "points": [
+                [
+                    184,
+                    0
+                ],
+                [
+                    198,
+                    0
+                ],
+                [
+                    198,
+                    10
+                ],
+                [
+                    184,
+                    10
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

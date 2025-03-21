@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the bus in the picture that has a big rectangular form, several windows, and a unique front grille.",
+        "In the image, locate the bus characterized by its sizable rectangular shape, numerous windows, and noticeable front grille.",
+        "Spot the bus in the photo with a prominent rectangular outline, many windows, and a distinctive front grille."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026238.jpg",
+            "points": [
+                [
+                    311.0,
+                    3.0
+                ],
+                [
+                    311.0,
+                    4.0
+                ],
+                [
+                    307.0,
+                    4.0
+                ],
+                [
+                    307.0,
+                    5.0
+                ],
+                [
+                    306.0,
+                    5.0
+                ],
+                [
+                    306.0,
+                    6.0
+                ],
+                [
+                    305.0,
+                    6.0
+                ],
+                [
+                    305.0,
+                    10.0
+                ],
+                [
+                    306.0,
+                    10.0
+                ],
+                [
+                    306.0,
+                    11.0
+                ],
+                [
+                    307.0,
+                    11.0
+                ],
+                [
+                    307.0,
+                    12.0
+                ],
+                [
+                    309.0,
+                    12.0
+                ],
+                [
+                    309.0,
+                    11.0
+                ],
+                [
+                    312.0,
+                    11.0
+                ],
+                [
+                    312.0,
+                    10.0
+                ],
+                [
+                    316.0,
+                    10.0
+                ],
+                [
+                    316.0,
+                    9.0
+                ],
+                [
+                    317.0,
+                    9.0
+                ],
+                [
+                    317.0,
+                    8.0
+                ],
+                [
+                    318.0,
+                    8.0
+                ],
+                [
+                    318.0,
+                    6.0
+                ],
+                [
+                    317.0,
+                    6.0
+                ],
+                [
+                    317.0,
+                    5.0
+                ],
+                [
+                    316.0,
+                    5.0
+                ],
+                [
+                    316.0,
+                    4.0
+                ],
+                [
+                    313.0,
+                    4.0
+                ],
+                [
+                    313.0,
+                    3.0
+                ],
+                [
+                    311.0,
+                    3.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

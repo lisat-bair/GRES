@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for the truck that has a noticeable orange front and a darker storage section, located behind the red truck.",
+        "Find the truck characterized by its bright orange cab and darker load section, positioned right behind the red truck.",
+        "Spot the truck with a striking orange cabin and a darker cargo compartment, which is situated just behind the red truck."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001748.jpg",
+            "points": [
+                [
+                    438.0,
+                    246.0
+                ],
+                [
+                    438.0,
+                    247.0
+                ],
+                [
+                    426.0,
+                    247.0
+                ],
+                [
+                    426.0,
+                    248.0
+                ],
+                [
+                    419.0,
+                    248.0
+                ],
+                [
+                    419.0,
+                    249.0
+                ],
+                [
+                    418.0,
+                    249.0
+                ],
+                [
+                    418.0,
+                    250.0
+                ],
+                [
+                    417.0,
+                    250.0
+                ],
+                [
+                    417.0,
+                    252.0
+                ],
+                [
+                    418.0,
+                    252.0
+                ],
+                [
+                    418.0,
+                    254.0
+                ],
+                [
+                    419.0,
+                    254.0
+                ],
+                [
+                    419.0,
+                    256.0
+                ],
+                [
+                    420.0,
+                    256.0
+                ],
+                [
+                    420.0,
+                    257.0
+                ],
+                [
+                    427.0,
+                    257.0
+                ],
+                [
+                    427.0,
+                    256.0
+                ],
+                [
+                    435.0,
+                    256.0
+                ],
+                [
+                    435.0,
+                    257.0
+                ],
+                [
+                    439.0,
+                    257.0
+                ],
+                [
+                    439.0,
+                    258.0
+                ],
+                [
+                    441.0,
+                    258.0
+                ],
+                [
+                    441.0,
+                    257.0
+                ],
+                [
+                    444.0,
+                    257.0
+                ],
+                [
+                    444.0,
+                    256.0
+                ],
+                [
+                    445.0,
+                    256.0
+                ],
+                [
+                    445.0,
+                    255.0
+                ],
+                [
+                    446.0,
+                    255.0
+                ],
+                [
+                    446.0,
+                    250.0
+                ],
+                [
+                    445.0,
+                    250.0
+                ],
+                [
+                    445.0,
+                    248.0
+                ],
+                [
+                    444.0,
+                    248.0
+                ],
+                [
+                    444.0,
+                    247.0
+                ],
+                [
+                    442.0,
+                    247.0
+                ],
+                [
+                    442.0,
+                    246.0
+                ],
+                [
+                    438.0,
+                    246.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Identify the building in the photograph by concentrating on sections that lack visible features to recognize the structures.",
+        "Find the structure in the picture by paying attention to the parts that lack distinct characteristics for easier identification.",
+        "Spot the building in the image by focusing on areas without clear features to pinpoint the structures."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015158.jpg",
+            "points": [
+                [
+                    0.0,
+                    492.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    15.0,
+                    512.0
+                ],
+                [
+                    15.0,
+                    502.0
+                ],
+                [
+                    16.0,
+                    502.0
+                ],
+                [
+                    16.0,
+                    501.0
+                ],
+                [
+                    15.0,
+                    501.0
+                ],
+                [
+                    15.0,
+                    500.0
+                ],
+                [
+                    13.0,
+                    500.0
+                ],
+                [
+                    13.0,
+                    499.0
+                ],
+                [
+                    12.0,
+                    499.0
+                ],
+                [
+                    12.0,
+                    498.0
+                ],
+                [
+                    10.0,
+                    498.0
+                ],
+                [
+                    10.0,
+                    497.0
+                ],
+                [
+                    9.0,
+                    497.0
+                ],
+                [
+                    9.0,
+                    496.0
+                ],
+                [
+                    8.0,
+                    496.0
+                ],
+                [
+                    8.0,
+                    495.0
+                ],
+                [
+                    7.0,
+                    495.0
+                ],
+                [
+                    7.0,
+                    494.0
+                ],
+                [
+                    5.0,
+                    494.0
+                ],
+                [
+                    5.0,
+                    493.0
+                ],
+                [
+                    2.0,
+                    493.0
+                ],
+                [
+                    2.0,
+                    492.0
+                ],
+                [
+                    0.0,
+                    492.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

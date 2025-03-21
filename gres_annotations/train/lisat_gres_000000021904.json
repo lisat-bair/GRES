@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the big yellow equipment with a wide front blade and large wheels or tracks, commonly used in construction, to recognize the bulldozer in the picture.",
+        "Spot the large, yellow machinery featuring a broad front blade and significant wheels or tracks, typically employed in building work, to pinpoint the dozer in the photo.",
+        "Identify the substantial yellow apparatus with a wide front blade and prominent wheels or tracks, generally used for construction tasks, to detect the bulldozer in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021904.jpg",
+            "points": [
+                [
+                    476.0,
+                    268.0
+                ],
+                [
+                    476.0,
+                    269.0
+                ],
+                [
+                    475.0,
+                    269.0
+                ],
+                [
+                    475.0,
+                    272.0
+                ],
+                [
+                    474.0,
+                    272.0
+                ],
+                [
+                    474.0,
+                    273.0
+                ],
+                [
+                    473.0,
+                    273.0
+                ],
+                [
+                    473.0,
+                    275.0
+                ],
+                [
+                    472.0,
+                    275.0
+                ],
+                [
+                    472.0,
+                    282.0
+                ],
+                [
+                    473.0,
+                    282.0
+                ],
+                [
+                    473.0,
+                    283.0
+                ],
+                [
+                    475.0,
+                    283.0
+                ],
+                [
+                    475.0,
+                    284.0
+                ],
+                [
+                    483.0,
+                    284.0
+                ],
+                [
+                    483.0,
+                    283.0
+                ],
+                [
+                    484.0,
+                    283.0
+                ],
+                [
+                    484.0,
+                    282.0
+                ],
+                [
+                    485.0,
+                    282.0
+                ],
+                [
+                    485.0,
+                    280.0
+                ],
+                [
+                    486.0,
+                    280.0
+                ],
+                [
+                    486.0,
+                    273.0
+                ],
+                [
+                    485.0,
+                    273.0
+                ],
+                [
+                    485.0,
+                    271.0
+                ],
+                [
+                    483.0,
+                    271.0
+                ],
+                [
+                    483.0,
+                    270.0
+                ],
+                [
+                    482.0,
+                    270.0
+                ],
+                [
+                    482.0,
+                    269.0
+                ],
+                [
+                    480.0,
+                    269.0
+                ],
+                [
+                    480.0,
+                    268.0
+                ],
+                [
+                    476.0,
+                    268.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

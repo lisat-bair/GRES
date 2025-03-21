@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Identify the bus located in the lower-right corner of the picture.",
+        "Locate the bus in the image's bottom-right section.",
+        "Find the bus positioned at the bottom-right of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018151.jpg",
+            "points": [
+                [
+                    132.0,
+                    508.0
+                ],
+                [
+                    132.0,
+                    509.0
+                ],
+                [
+                    130.0,
+                    509.0
+                ],
+                [
+                    130.0,
+                    510.0
+                ],
+                [
+                    126.0,
+                    510.0
+                ],
+                [
+                    126.0,
+                    512.0
+                ],
+                [
+                    145.0,
+                    512.0
+                ],
+                [
+                    145.0,
+                    511.0
+                ],
+                [
+                    144.0,
+                    511.0
+                ],
+                [
+                    144.0,
+                    509.0
+                ],
+                [
+                    143.0,
+                    509.0
+                ],
+                [
+                    143.0,
+                    508.0
+                ],
+                [
+                    132.0,
+                    508.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

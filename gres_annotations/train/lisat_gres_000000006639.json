@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Even with poor visibility caused by darkness, identify the car in the image.",
+        "Spot the vehicle in the picture despite the darkness affecting visibility.",
+        "Recognize the car in the photo even though it's difficult to see due to the dark."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006639.jpg",
+            "points": [
+                [
+                    3.0,
+                    481.0
+                ],
+                [
+                    3.0,
+                    483.0
+                ],
+                [
+                    2.0,
+                    483.0
+                ],
+                [
+                    2.0,
+                    485.0
+                ],
+                [
+                    1.0,
+                    485.0
+                ],
+                [
+                    1.0,
+                    486.0
+                ],
+                [
+                    0.0,
+                    486.0
+                ],
+                [
+                    0.0,
+                    506.0
+                ],
+                [
+                    1.0,
+                    506.0
+                ],
+                [
+                    1.0,
+                    505.0
+                ],
+                [
+                    2.0,
+                    505.0
+                ],
+                [
+                    2.0,
+                    504.0
+                ],
+                [
+                    4.0,
+                    504.0
+                ],
+                [
+                    4.0,
+                    500.0
+                ],
+                [
+                    5.0,
+                    500.0
+                ],
+                [
+                    5.0,
+                    498.0
+                ],
+                [
+                    6.0,
+                    498.0
+                ],
+                [
+                    6.0,
+                    494.0
+                ],
+                [
+                    5.0,
+                    494.0
+                ],
+                [
+                    5.0,
+                    493.0
+                ],
+                [
+                    6.0,
+                    493.0
+                ],
+                [
+                    6.0,
+                    488.0
+                ],
+                [
+                    7.0,
+                    488.0
+                ],
+                [
+                    7.0,
+                    486.0
+                ],
+                [
+                    6.0,
+                    486.0
+                ],
+                [
+                    6.0,
+                    484.0
+                ],
+                [
+                    5.0,
+                    484.0
+                ],
+                [
+                    5.0,
+                    481.0
+                ],
+                [
+                    3.0,
+                    481.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

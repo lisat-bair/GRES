@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the venue that has a green rectangular section marked with white lines, depicting a soccer field design with goalposts and a central circle.",
+        "Find the establishment containing a rectangular green space outlined by white lines, which resemble a soccer field complete with goalposts and a center circle.",
+        "Pinpoint the place that includes a green rectangular area featuring white lines arranged in a soccer field pattern, inclusive of goalposts and a central circle."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022726.jpg",
+            "points": [
+                [
+                    304.0,
+                    433.0
+                ],
+                [
+                    304.0,
+                    434.0
+                ],
+                [
+                    299.0,
+                    434.0
+                ],
+                [
+                    299.0,
+                    435.0
+                ],
+                [
+                    298.0,
+                    435.0
+                ],
+                [
+                    298.0,
+                    438.0
+                ],
+                [
+                    297.0,
+                    438.0
+                ],
+                [
+                    297.0,
+                    480.0
+                ],
+                [
+                    296.0,
+                    480.0
+                ],
+                [
+                    296.0,
+                    499.0
+                ],
+                [
+                    295.0,
+                    499.0
+                ],
+                [
+                    295.0,
+                    512.0
+                ],
+                [
+                    360.0,
+                    512.0
+                ],
+                [
+                    360.0,
+                    486.0
+                ],
+                [
+                    361.0,
+                    486.0
+                ],
+                [
+                    361.0,
+                    438.0
+                ],
+                [
+                    360.0,
+                    438.0
+                ],
+                [
+                    360.0,
+                    436.0
+                ],
+                [
+                    349.0,
+                    436.0
+                ],
+                [
+                    349.0,
+                    435.0
+                ],
+                [
+                    326.0,
+                    435.0
+                ],
+                [
+                    326.0,
+                    434.0
+                ],
+                [
+                    318.0,
+                    434.0
+                ],
+                [
+                    318.0,
+                    433.0
+                ],
+                [
+                    304.0,
+                    433.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

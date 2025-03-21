@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the tiny vessel located in the lower-right section of the picture.",
+        "Find the little boat situated in the bottom-right area of the image.",
+        "Spot the miniature boat in the bottom-right corner of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011133.jpg",
+            "points": [
+                [
+                    453.0,
+                    499.0
+                ],
+                [
+                    453.0,
+                    500.0
+                ],
+                [
+                    447.0,
+                    500.0
+                ],
+                [
+                    447.0,
+                    501.0
+                ],
+                [
+                    446.0,
+                    501.0
+                ],
+                [
+                    446.0,
+                    502.0
+                ],
+                [
+                    444.0,
+                    502.0
+                ],
+                [
+                    444.0,
+                    503.0
+                ],
+                [
+                    443.0,
+                    503.0
+                ],
+                [
+                    443.0,
+                    504.0
+                ],
+                [
+                    441.0,
+                    504.0
+                ],
+                [
+                    441.0,
+                    505.0
+                ],
+                [
+                    440.0,
+                    505.0
+                ],
+                [
+                    440.0,
+                    512.0
+                ],
+                [
+                    463.0,
+                    512.0
+                ],
+                [
+                    463.0,
+                    509.0
+                ],
+                [
+                    462.0,
+                    509.0
+                ],
+                [
+                    462.0,
+                    507.0
+                ],
+                [
+                    461.0,
+                    507.0
+                ],
+                [
+                    461.0,
+                    505.0
+                ],
+                [
+                    460.0,
+                    505.0
+                ],
+                [
+                    460.0,
+                    502.0
+                ],
+                [
+                    459.0,
+                    502.0
+                ],
+                [
+                    459.0,
+                    501.0
+                ],
+                [
+                    458.0,
+                    501.0
+                ],
+                [
+                    458.0,
+                    500.0
+                ],
+                [
+                    457.0,
+                    500.0
+                ],
+                [
+                    457.0,
+                    499.0
+                ],
+                [
+                    453.0,
+                    499.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the bus within the picture, even when it's too dim or hidden to spot specific details.",
+        "Identify the bus in the photo, even if its distinct features are difficult to see due to darkness or obstructions.",
+        "Spot the bus in the image, regardless of whether it's too shadowed or covered to discern its unique characteristics."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008515.jpg",
+            "points": [
+                [
+                    482.0,
+                    53.0
+                ],
+                [
+                    482.0,
+                    54.0
+                ],
+                [
+                    480.0,
+                    54.0
+                ],
+                [
+                    480.0,
+                    56.0
+                ],
+                [
+                    479.0,
+                    56.0
+                ],
+                [
+                    479.0,
+                    72.0
+                ],
+                [
+                    480.0,
+                    72.0
+                ],
+                [
+                    480.0,
+                    74.0
+                ],
+                [
+                    481.0,
+                    74.0
+                ],
+                [
+                    481.0,
+                    75.0
+                ],
+                [
+                    488.0,
+                    75.0
+                ],
+                [
+                    488.0,
+                    73.0
+                ],
+                [
+                    489.0,
+                    73.0
+                ],
+                [
+                    489.0,
+                    57.0
+                ],
+                [
+                    488.0,
+                    57.0
+                ],
+                [
+                    488.0,
+                    55.0
+                ],
+                [
+                    487.0,
+                    55.0
+                ],
+                [
+                    487.0,
+                    54.0
+                ],
+                [
+                    486.0,
+                    54.0
+                ],
+                [
+                    486.0,
+                    53.0
+                ],
+                [
+                    482.0,
+                    53.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

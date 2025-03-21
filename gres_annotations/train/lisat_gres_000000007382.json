@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the big, pale airplane with noticeable wings and body, set against a dimmer backdrop.",
+        "Identify the sizeable, light-hued plane with prominent wings and a body, contrasted by the darker background.",
+        "Spot the large, light-toned aircraft with distinct wings and a fuselage, standing out against the darker surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007382.jpg",
+            "points": [
+                [
+                    2.0,
+                    466.0
+                ],
+                [
+                    2.0,
+                    467.0
+                ],
+                [
+                    1.0,
+                    467.0
+                ],
+                [
+                    1.0,
+                    469.0
+                ],
+                [
+                    0.0,
+                    469.0
+                ],
+                [
+                    0.0,
+                    489.0
+                ],
+                [
+                    1.0,
+                    489.0
+                ],
+                [
+                    1.0,
+                    487.0
+                ],
+                [
+                    2.0,
+                    487.0
+                ],
+                [
+                    2.0,
+                    485.0
+                ],
+                [
+                    5.0,
+                    485.0
+                ],
+                [
+                    5.0,
+                    484.0
+                ],
+                [
+                    11.0,
+                    484.0
+                ],
+                [
+                    11.0,
+                    483.0
+                ],
+                [
+                    17.0,
+                    483.0
+                ],
+                [
+                    17.0,
+                    482.0
+                ],
+                [
+                    20.0,
+                    482.0
+                ],
+                [
+                    20.0,
+                    481.0
+                ],
+                [
+                    21.0,
+                    481.0
+                ],
+                [
+                    21.0,
+                    480.0
+                ],
+                [
+                    22.0,
+                    480.0
+                ],
+                [
+                    22.0,
+                    476.0
+                ],
+                [
+                    18.0,
+                    476.0
+                ],
+                [
+                    18.0,
+                    475.0
+                ],
+                [
+                    13.0,
+                    475.0
+                ],
+                [
+                    13.0,
+                    474.0
+                ],
+                [
+                    8.0,
+                    474.0
+                ],
+                [
+                    8.0,
+                    473.0
+                ],
+                [
+                    6.0,
+                    473.0
+                ],
+                [
+                    6.0,
+                    467.0
+                ],
+                [
+                    5.0,
+                    467.0
+                ],
+                [
+                    5.0,
+                    466.0
+                ],
+                [
+                    2.0,
+                    466.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

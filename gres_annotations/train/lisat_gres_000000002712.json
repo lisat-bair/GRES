@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the flatbed trailer that features a sizable, rectangular metallic structure with sharp edges, attached to the cab of a truck.",
+        "Identify the large rectangular structure, typically metallic and with clear edges, that extends from the truck cab onto the trailer bed.",
+        "Spot the trailer bed carrying a prominent rectangular structure, often metal with defined edges, that is connected to the truck cab."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002712.jpg",
+            "points": [
+                [
+                    149.0,
+                    335.0
+                ],
+                [
+                    149.0,
+                    336.0
+                ],
+                [
+                    147.0,
+                    336.0
+                ],
+                [
+                    147.0,
+                    338.0
+                ],
+                [
+                    146.0,
+                    338.0
+                ],
+                [
+                    146.0,
+                    344.0
+                ],
+                [
+                    147.0,
+                    344.0
+                ],
+                [
+                    147.0,
+                    345.0
+                ],
+                [
+                    154.0,
+                    345.0
+                ],
+                [
+                    154.0,
+                    346.0
+                ],
+                [
+                    155.0,
+                    346.0
+                ],
+                [
+                    155.0,
+                    345.0
+                ],
+                [
+                    169.0,
+                    345.0
+                ],
+                [
+                    169.0,
+                    344.0
+                ],
+                [
+                    175.0,
+                    344.0
+                ],
+                [
+                    175.0,
+                    345.0
+                ],
+                [
+                    181.0,
+                    345.0
+                ],
+                [
+                    181.0,
+                    346.0
+                ],
+                [
+                    193.0,
+                    346.0
+                ],
+                [
+                    193.0,
+                    347.0
+                ],
+                [
+                    213.0,
+                    347.0
+                ],
+                [
+                    213.0,
+                    346.0
+                ],
+                [
+                    214.0,
+                    346.0
+                ],
+                [
+                    214.0,
+                    345.0
+                ],
+                [
+                    215.0,
+                    345.0
+                ],
+                [
+                    215.0,
+                    343.0
+                ],
+                [
+                    216.0,
+                    343.0
+                ],
+                [
+                    216.0,
+                    339.0
+                ],
+                [
+                    215.0,
+                    339.0
+                ],
+                [
+                    215.0,
+                    338.0
+                ],
+                [
+                    212.0,
+                    338.0
+                ],
+                [
+                    212.0,
+                    337.0
+                ],
+                [
+                    203.0,
+                    337.0
+                ],
+                [
+                    203.0,
+                    336.0
+                ],
+                [
+                    172.0,
+                    336.0
+                ],
+                [
+                    172.0,
+                    335.0
+                ],
+                [
+                    149.0,
+                    335.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the building marked by unique white boundary lines and semi-circular shapes on a reddish-brown ground.",
+        "Find the structure by spotting the distinct white lines and semi-circular patterns on its reddish-brown surface.",
+        "Locate the facility characterized by its prominent white borders and curved markings on a reddish-brown backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008709.jpg",
+            "points": [
+                [
+                    0.0,
+                    104.0
+                ],
+                [
+                    0.0,
+                    150.0
+                ],
+                [
+                    32.0,
+                    150.0
+                ],
+                [
+                    32.0,
+                    149.0
+                ],
+                [
+                    35.0,
+                    149.0
+                ],
+                [
+                    35.0,
+                    148.0
+                ],
+                [
+                    37.0,
+                    148.0
+                ],
+                [
+                    37.0,
+                    147.0
+                ],
+                [
+                    39.0,
+                    147.0
+                ],
+                [
+                    39.0,
+                    146.0
+                ],
+                [
+                    40.0,
+                    146.0
+                ],
+                [
+                    40.0,
+                    144.0
+                ],
+                [
+                    41.0,
+                    144.0
+                ],
+                [
+                    41.0,
+                    106.0
+                ],
+                [
+                    40.0,
+                    106.0
+                ],
+                [
+                    40.0,
+                    105.0
+                ],
+                [
+                    19.0,
+                    105.0
+                ],
+                [
+                    19.0,
+                    104.0
+                ],
+                [
+                    0.0,
+                    104.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

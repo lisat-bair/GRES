@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the vehicle that is placed a bit to the right and below the middle of the picture.",
+        "Identify the automobile located just off to the right and beneath the center of the image.",
+        "Spot the car situated slightly rightward and below the center point of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019033.jpg",
+            "points": [
+                [
+                    147.0,
+                    145.0
+                ],
+                [
+                    147.0,
+                    146.0
+                ],
+                [
+                    145.0,
+                    146.0
+                ],
+                [
+                    145.0,
+                    147.0
+                ],
+                [
+                    144.0,
+                    147.0
+                ],
+                [
+                    144.0,
+                    148.0
+                ],
+                [
+                    142.0,
+                    148.0
+                ],
+                [
+                    142.0,
+                    150.0
+                ],
+                [
+                    140.0,
+                    150.0
+                ],
+                [
+                    140.0,
+                    152.0
+                ],
+                [
+                    139.0,
+                    152.0
+                ],
+                [
+                    139.0,
+                    154.0
+                ],
+                [
+                    138.0,
+                    154.0
+                ],
+                [
+                    138.0,
+                    155.0
+                ],
+                [
+                    137.0,
+                    155.0
+                ],
+                [
+                    137.0,
+                    157.0
+                ],
+                [
+                    136.0,
+                    157.0
+                ],
+                [
+                    136.0,
+                    158.0
+                ],
+                [
+                    137.0,
+                    158.0
+                ],
+                [
+                    137.0,
+                    159.0
+                ],
+                [
+                    139.0,
+                    159.0
+                ],
+                [
+                    139.0,
+                    160.0
+                ],
+                [
+                    145.0,
+                    160.0
+                ],
+                [
+                    145.0,
+                    159.0
+                ],
+                [
+                    146.0,
+                    159.0
+                ],
+                [
+                    146.0,
+                    158.0
+                ],
+                [
+                    147.0,
+                    158.0
+                ],
+                [
+                    147.0,
+                    156.0
+                ],
+                [
+                    148.0,
+                    156.0
+                ],
+                [
+                    148.0,
+                    154.0
+                ],
+                [
+                    149.0,
+                    154.0
+                ],
+                [
+                    149.0,
+                    146.0
+                ],
+                [
+                    148.0,
+                    146.0
+                ],
+                [
+                    148.0,
+                    145.0
+                ],
+                [
+                    147.0,
+                    145.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

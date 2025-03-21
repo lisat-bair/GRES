@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the vehicle by its boxy design, shiny surface, and unique elements such as its wheels and windows.",
+        "Recognize the automobile through its rectangular form, polished exterior, and notable attributes including its wheels and windows.",
+        "Find the car by its square shape, gleaming finish, and specific characteristics like the wheels and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015633.jpg",
+            "points": [
+                [
+                    432.0,
+                    152.0
+                ],
+                [
+                    432.0,
+                    153.0
+                ],
+                [
+                    431.0,
+                    153.0
+                ],
+                [
+                    431.0,
+                    154.0
+                ],
+                [
+                    430.0,
+                    154.0
+                ],
+                [
+                    430.0,
+                    156.0
+                ],
+                [
+                    429.0,
+                    156.0
+                ],
+                [
+                    429.0,
+                    160.0
+                ],
+                [
+                    428.0,
+                    160.0
+                ],
+                [
+                    428.0,
+                    161.0
+                ],
+                [
+                    429.0,
+                    161.0
+                ],
+                [
+                    429.0,
+                    165.0
+                ],
+                [
+                    430.0,
+                    165.0
+                ],
+                [
+                    430.0,
+                    166.0
+                ],
+                [
+                    432.0,
+                    166.0
+                ],
+                [
+                    432.0,
+                    167.0
+                ],
+                [
+                    436.0,
+                    167.0
+                ],
+                [
+                    436.0,
+                    166.0
+                ],
+                [
+                    437.0,
+                    166.0
+                ],
+                [
+                    437.0,
+                    165.0
+                ],
+                [
+                    438.0,
+                    165.0
+                ],
+                [
+                    438.0,
+                    164.0
+                ],
+                [
+                    439.0,
+                    164.0
+                ],
+                [
+                    439.0,
+                    162.0
+                ],
+                [
+                    440.0,
+                    162.0
+                ],
+                [
+                    440.0,
+                    160.0
+                ],
+                [
+                    441.0,
+                    160.0
+                ],
+                [
+                    441.0,
+                    158.0
+                ],
+                [
+                    442.0,
+                    158.0
+                ],
+                [
+                    442.0,
+                    154.0
+                ],
+                [
+                    441.0,
+                    154.0
+                ],
+                [
+                    441.0,
+                    153.0
+                ],
+                [
+                    440.0,
+                    153.0
+                ],
+                [
+                    440.0,
+                    152.0
+                ],
+                [
+                    432.0,
+                    152.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

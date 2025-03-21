@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the car that stands out with its bright red hue and glossy finish against the dimmer backdrop.",
+        "Locate the vehicle that is uniquely red and has a reflective surface among the darker surroundings.",
+        "Find the automobile that features a striking red color and a lustrous exterior in contrast to the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016660.jpg",
+            "points": [
+                [
+                    69.0,
+                    220.0
+                ],
+                [
+                    69.0,
+                    221.0
+                ],
+                [
+                    68.0,
+                    221.0
+                ],
+                [
+                    68.0,
+                    222.0
+                ],
+                [
+                    67.0,
+                    222.0
+                ],
+                [
+                    67.0,
+                    225.0
+                ],
+                [
+                    66.0,
+                    225.0
+                ],
+                [
+                    66.0,
+                    230.0
+                ],
+                [
+                    67.0,
+                    230.0
+                ],
+                [
+                    67.0,
+                    232.0
+                ],
+                [
+                    68.0,
+                    232.0
+                ],
+                [
+                    68.0,
+                    233.0
+                ],
+                [
+                    69.0,
+                    233.0
+                ],
+                [
+                    69.0,
+                    234.0
+                ],
+                [
+                    70.0,
+                    234.0
+                ],
+                [
+                    70.0,
+                    235.0
+                ],
+                [
+                    75.0,
+                    235.0
+                ],
+                [
+                    75.0,
+                    234.0
+                ],
+                [
+                    76.0,
+                    234.0
+                ],
+                [
+                    76.0,
+                    233.0
+                ],
+                [
+                    77.0,
+                    233.0
+                ],
+                [
+                    77.0,
+                    231.0
+                ],
+                [
+                    78.0,
+                    231.0
+                ],
+                [
+                    78.0,
+                    225.0
+                ],
+                [
+                    77.0,
+                    225.0
+                ],
+                [
+                    77.0,
+                    223.0
+                ],
+                [
+                    76.0,
+                    223.0
+                ],
+                [
+                    76.0,
+                    221.0
+                ],
+                [
+                    74.0,
+                    221.0
+                ],
+                [
+                    74.0,
+                    220.0
+                ],
+                [
+                    69.0,
+                    220.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

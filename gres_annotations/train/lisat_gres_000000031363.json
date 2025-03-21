@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the truck in the picture that has a long shape, with a noticeable gap between the cab and the long, flat trailer, usually with a consistent color and shiny surfaces.",
+        "Identify the truck in the image that is long and has a clear division between the cab and the extended trailer, typically displaying a uniform color and reflective surfaces.",
+        "Spot the truck in the photo which is characterized by its elongated form, a distinct separation between the cab and the lengthy trailer, often featuring a consistent color and gleaming surfaces."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031363.jpg",
+            "points": [
+                [
+                    303.0,
+                    368.0
+                ],
+                [
+                    303.0,
+                    369.0
+                ],
+                [
+                    302.0,
+                    369.0
+                ],
+                [
+                    302.0,
+                    371.0
+                ],
+                [
+                    301.0,
+                    371.0
+                ],
+                [
+                    301.0,
+                    374.0
+                ],
+                [
+                    300.0,
+                    374.0
+                ],
+                [
+                    300.0,
+                    376.0
+                ],
+                [
+                    299.0,
+                    376.0
+                ],
+                [
+                    299.0,
+                    384.0
+                ],
+                [
+                    301.0,
+                    384.0
+                ],
+                [
+                    301.0,
+                    385.0
+                ],
+                [
+                    306.0,
+                    385.0
+                ],
+                [
+                    306.0,
+                    384.0
+                ],
+                [
+                    307.0,
+                    384.0
+                ],
+                [
+                    307.0,
+                    383.0
+                ],
+                [
+                    308.0,
+                    383.0
+                ],
+                [
+                    308.0,
+                    380.0
+                ],
+                [
+                    309.0,
+                    380.0
+                ],
+                [
+                    309.0,
+                    368.0
+                ],
+                [
+                    303.0,
+                    368.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

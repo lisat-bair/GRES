@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the yellow equipment featuring an extended arm and a bucket set against the earthy backdrop.",
+        "Locate the yellow machine characterized by a long arm and a bucket against the soil-colored background.",
+        "Find the yellow apparatus with an elongated arm and a bucket in front of the earthy scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000017.jpg",
+            "points": [
+                [
+                    188.0,
+                    101.0
+                ],
+                [
+                    188.0,
+                    102.0
+                ],
+                [
+                    187.0,
+                    102.0
+                ],
+                [
+                    187.0,
+                    105.0
+                ],
+                [
+                    186.0,
+                    105.0
+                ],
+                [
+                    186.0,
+                    108.0
+                ],
+                [
+                    185.0,
+                    108.0
+                ],
+                [
+                    185.0,
+                    110.0
+                ],
+                [
+                    184.0,
+                    110.0
+                ],
+                [
+                    184.0,
+                    111.0
+                ],
+                [
+                    183.0,
+                    111.0
+                ],
+                [
+                    183.0,
+                    113.0
+                ],
+                [
+                    182.0,
+                    113.0
+                ],
+                [
+                    182.0,
+                    114.0
+                ],
+                [
+                    181.0,
+                    114.0
+                ],
+                [
+                    181.0,
+                    117.0
+                ],
+                [
+                    180.0,
+                    117.0
+                ],
+                [
+                    180.0,
+                    125.0
+                ],
+                [
+                    181.0,
+                    125.0
+                ],
+                [
+                    181.0,
+                    127.0
+                ],
+                [
+                    184.0,
+                    127.0
+                ],
+                [
+                    184.0,
+                    128.0
+                ],
+                [
+                    189.0,
+                    128.0
+                ],
+                [
+                    189.0,
+                    127.0
+                ],
+                [
+                    190.0,
+                    127.0
+                ],
+                [
+                    190.0,
+                    126.0
+                ],
+                [
+                    191.0,
+                    126.0
+                ],
+                [
+                    191.0,
+                    119.0
+                ],
+                [
+                    190.0,
+                    119.0
+                ],
+                [
+                    190.0,
+                    114.0
+                ],
+                [
+                    191.0,
+                    114.0
+                ],
+                [
+                    191.0,
+                    110.0
+                ],
+                [
+                    192.0,
+                    110.0
+                ],
+                [
+                    192.0,
+                    102.0
+                ],
+                [
+                    191.0,
+                    102.0
+                ],
+                [
+                    191.0,
+                    101.0
+                ],
+                [
+                    188.0,
+                    101.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

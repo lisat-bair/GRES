@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the bus that features a big, white, rectangular shape against a dark backdrop.",
+        "Seek out the bus displaying a large, rectangular white shape set against a dark background.",
+        "Identify the bus marked by a prominent white rectangle within a dark surrounding."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012211.jpg",
+            "points": [
+                [
+                    28.0,
+                    374.0
+                ],
+                [
+                    28.0,
+                    375.0
+                ],
+                [
+                    24.0,
+                    375.0
+                ],
+                [
+                    24.0,
+                    376.0
+                ],
+                [
+                    23.0,
+                    376.0
+                ],
+                [
+                    23.0,
+                    377.0
+                ],
+                [
+                    22.0,
+                    377.0
+                ],
+                [
+                    22.0,
+                    378.0
+                ],
+                [
+                    21.0,
+                    378.0
+                ],
+                [
+                    21.0,
+                    380.0
+                ],
+                [
+                    20.0,
+                    380.0
+                ],
+                [
+                    20.0,
+                    382.0
+                ],
+                [
+                    21.0,
+                    382.0
+                ],
+                [
+                    21.0,
+                    383.0
+                ],
+                [
+                    23.0,
+                    383.0
+                ],
+                [
+                    23.0,
+                    384.0
+                ],
+                [
+                    26.0,
+                    384.0
+                ],
+                [
+                    26.0,
+                    385.0
+                ],
+                [
+                    40.0,
+                    385.0
+                ],
+                [
+                    40.0,
+                    386.0
+                ],
+                [
+                    44.0,
+                    386.0
+                ],
+                [
+                    44.0,
+                    385.0
+                ],
+                [
+                    46.0,
+                    385.0
+                ],
+                [
+                    46.0,
+                    376.0
+                ],
+                [
+                    42.0,
+                    376.0
+                ],
+                [
+                    42.0,
+                    375.0
+                ],
+                [
+                    30.0,
+                    375.0
+                ],
+                [
+                    30.0,
+                    374.0
+                ],
+                [
+                    28.0,
+                    374.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

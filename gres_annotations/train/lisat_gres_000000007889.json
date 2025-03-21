@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the truck attached to a trailer bed, situated in the lower-right section of the picture.",
+        "Identify the truck linked to a trailer bed in the image's bottom-right corner.",
+        "Spot the truck in the bottom-right part of the image that's hooked to a trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007889.jpg",
+            "points": [
+                [
+                    479.0,
+                    234.0
+                ],
+                [
+                    479.0,
+                    235.0
+                ],
+                [
+                    478.0,
+                    235.0
+                ],
+                [
+                    478.0,
+                    248.0
+                ],
+                [
+                    479.0,
+                    248.0
+                ],
+                [
+                    479.0,
+                    256.0
+                ],
+                [
+                    480.0,
+                    256.0
+                ],
+                [
+                    480.0,
+                    258.0
+                ],
+                [
+                    481.0,
+                    258.0
+                ],
+                [
+                    481.0,
+                    259.0
+                ],
+                [
+                    482.0,
+                    259.0
+                ],
+                [
+                    482.0,
+                    260.0
+                ],
+                [
+                    486.0,
+                    260.0
+                ],
+                [
+                    486.0,
+                    259.0
+                ],
+                [
+                    487.0,
+                    259.0
+                ],
+                [
+                    487.0,
+                    256.0
+                ],
+                [
+                    488.0,
+                    256.0
+                ],
+                [
+                    488.0,
+                    242.0
+                ],
+                [
+                    487.0,
+                    242.0
+                ],
+                [
+                    487.0,
+                    236.0
+                ],
+                [
+                    486.0,
+                    236.0
+                ],
+                [
+                    486.0,
+                    234.0
+                ],
+                [
+                    479.0,
+                    234.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

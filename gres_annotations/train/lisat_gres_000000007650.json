@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the loader at the lower-right part of the picture.",
+        "Look for the loader in the image's bottom-right section.",
+        "Identify the loader positioned in the bottom-right corner of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007650.jpg",
+            "points": [
+                [
+                    505.0,
+                    409.0
+                ],
+                [
+                    505.0,
+                    412.0
+                ],
+                [
+                    504.0,
+                    412.0
+                ],
+                [
+                    504.0,
+                    418.0
+                ],
+                [
+                    505.0,
+                    418.0
+                ],
+                [
+                    505.0,
+                    420.0
+                ],
+                [
+                    506.0,
+                    420.0
+                ],
+                [
+                    506.0,
+                    422.0
+                ],
+                [
+                    507.0,
+                    422.0
+                ],
+                [
+                    507.0,
+                    424.0
+                ],
+                [
+                    508.0,
+                    424.0
+                ],
+                [
+                    508.0,
+                    425.0
+                ],
+                [
+                    509.0,
+                    425.0
+                ],
+                [
+                    509.0,
+                    426.0
+                ],
+                [
+                    510.0,
+                    426.0
+                ],
+                [
+                    510.0,
+                    427.0
+                ],
+                [
+                    512.0,
+                    427.0
+                ],
+                [
+                    512.0,
+                    409.0
+                ],
+                [
+                    505.0,
+                    409.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

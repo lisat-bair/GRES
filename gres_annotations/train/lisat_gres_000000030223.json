@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the building that features a unique brown rectangular shape with a darker foundation.",
+        "Locate the structure characterized by its distinctive brown rectangular design and darker base.",
+        "Find the edifice with a recognizable brown rectangular form and a base that is darker in color."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030223.jpg",
+            "points": [
+                [
+                    392.0,
+                    505.0
+                ],
+                [
+                    392.0,
+                    509.0
+                ],
+                [
+                    393.0,
+                    509.0
+                ],
+                [
+                    393.0,
+                    512.0
+                ],
+                [
+                    466.0,
+                    512.0
+                ],
+                [
+                    466.0,
+                    510.0
+                ],
+                [
+                    465.0,
+                    510.0
+                ],
+                [
+                    465.0,
+                    507.0
+                ],
+                [
+                    464.0,
+                    507.0
+                ],
+                [
+                    464.0,
+                    506.0
+                ],
+                [
+                    460.0,
+                    506.0
+                ],
+                [
+                    460.0,
+                    505.0
+                ],
+                [
+                    458.0,
+                    505.0
+                ],
+                [
+                    458.0,
+                    506.0
+                ],
+                [
+                    456.0,
+                    506.0
+                ],
+                [
+                    456.0,
+                    505.0
+                ],
+                [
+                    453.0,
+                    505.0
+                ],
+                [
+                    453.0,
+                    506.0
+                ],
+                [
+                    396.0,
+                    506.0
+                ],
+                [
+                    396.0,
+                    505.0
+                ],
+                [
+                    392.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

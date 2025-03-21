@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the structure positioned at the upper middle part of the picture.",
+        "Identify the edifice located at the central peak of the photograph.",
+        "Pinpoint the construction at the topmost center of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004645.jpg",
+            "points": [
+                [
+                    32.0,
+                    493.0
+                ],
+                [
+                    32.0,
+                    494.0
+                ],
+                [
+                    26.0,
+                    494.0
+                ],
+                [
+                    26.0,
+                    495.0
+                ],
+                [
+                    19.0,
+                    495.0
+                ],
+                [
+                    19.0,
+                    496.0
+                ],
+                [
+                    14.0,
+                    496.0
+                ],
+                [
+                    14.0,
+                    497.0
+                ],
+                [
+                    7.0,
+                    497.0
+                ],
+                [
+                    7.0,
+                    498.0
+                ],
+                [
+                    2.0,
+                    498.0
+                ],
+                [
+                    2.0,
+                    499.0
+                ],
+                [
+                    0.0,
+                    499.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    45.0,
+                    512.0
+                ],
+                [
+                    45.0,
+                    510.0
+                ],
+                [
+                    44.0,
+                    510.0
+                ],
+                [
+                    44.0,
+                    506.0
+                ],
+                [
+                    43.0,
+                    506.0
+                ],
+                [
+                    43.0,
+                    504.0
+                ],
+                [
+                    42.0,
+                    504.0
+                ],
+                [
+                    42.0,
+                    501.0
+                ],
+                [
+                    41.0,
+                    501.0
+                ],
+                [
+                    41.0,
+                    499.0
+                ],
+                [
+                    40.0,
+                    499.0
+                ],
+                [
+                    40.0,
+                    495.0
+                ],
+                [
+                    39.0,
+                    495.0
+                ],
+                [
+                    39.0,
+                    494.0
+                ],
+                [
+                    38.0,
+                    494.0
+                ],
+                [
+                    38.0,
+                    493.0
+                ],
+                [
+                    32.0,
+                    493.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the bulldozer in the upper-left corner of the picture, characterized by its compact shape and unique mechanical traits.",
+        "Locate the dozer located in the top-left section of the image, noted for its compact design and distinctive machinery aspects.",
+        "Find the bulldozer in the upper-left portion of the photograph, recognized by its compact structure and notable equipment features."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008130.jpg",
+            "points": [
+                [
+                    44.0,
+                    217.0
+                ],
+                [
+                    44.0,
+                    218.0
+                ],
+                [
+                    43.0,
+                    218.0
+                ],
+                [
+                    43.0,
+                    220.0
+                ],
+                [
+                    42.0,
+                    220.0
+                ],
+                [
+                    42.0,
+                    222.0
+                ],
+                [
+                    41.0,
+                    222.0
+                ],
+                [
+                    41.0,
+                    225.0
+                ],
+                [
+                    40.0,
+                    225.0
+                ],
+                [
+                    40.0,
+                    227.0
+                ],
+                [
+                    39.0,
+                    227.0
+                ],
+                [
+                    39.0,
+                    230.0
+                ],
+                [
+                    38.0,
+                    230.0
+                ],
+                [
+                    38.0,
+                    233.0
+                ],
+                [
+                    37.0,
+                    233.0
+                ],
+                [
+                    37.0,
+                    234.0
+                ],
+                [
+                    38.0,
+                    234.0
+                ],
+                [
+                    38.0,
+                    236.0
+                ],
+                [
+                    40.0,
+                    236.0
+                ],
+                [
+                    40.0,
+                    237.0
+                ],
+                [
+                    43.0,
+                    237.0
+                ],
+                [
+                    43.0,
+                    238.0
+                ],
+                [
+                    46.0,
+                    238.0
+                ],
+                [
+                    46.0,
+                    237.0
+                ],
+                [
+                    47.0,
+                    237.0
+                ],
+                [
+                    47.0,
+                    232.0
+                ],
+                [
+                    48.0,
+                    232.0
+                ],
+                [
+                    48.0,
+                    228.0
+                ],
+                [
+                    49.0,
+                    228.0
+                ],
+                [
+                    49.0,
+                    225.0
+                ],
+                [
+                    50.0,
+                    225.0
+                ],
+                [
+                    50.0,
+                    221.0
+                ],
+                [
+                    49.0,
+                    221.0
+                ],
+                [
+                    49.0,
+                    219.0
+                ],
+                [
+                    48.0,
+                    219.0
+                ],
+                [
+                    48.0,
+                    217.0
+                ],
+                [
+                    44.0,
+                    217.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

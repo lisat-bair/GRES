@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the dark, stretched outline with clear reflections against the brighter backdrop as the vehicle.",
+        "Recognize the shadowy, extended form with noticeable reflections on the lighter surface as the automobile.",
+        "Discern the dark, lengthy silhouette with distinct reflections set against the lighter background as the car."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000946.jpg",
+            "points": [
+                [
+                    462.0,
+                    387.0
+                ],
+                [
+                    462.0,
+                    388.0
+                ],
+                [
+                    461.0,
+                    388.0
+                ],
+                [
+                    461.0,
+                    392.0
+                ],
+                [
+                    462.0,
+                    392.0
+                ],
+                [
+                    462.0,
+                    393.0
+                ],
+                [
+                    463.0,
+                    393.0
+                ],
+                [
+                    463.0,
+                    395.0
+                ],
+                [
+                    465.0,
+                    395.0
+                ],
+                [
+                    465.0,
+                    396.0
+                ],
+                [
+                    466.0,
+                    396.0
+                ],
+                [
+                    466.0,
+                    397.0
+                ],
+                [
+                    468.0,
+                    397.0
+                ],
+                [
+                    468.0,
+                    398.0
+                ],
+                [
+                    472.0,
+                    398.0
+                ],
+                [
+                    472.0,
+                    397.0
+                ],
+                [
+                    473.0,
+                    397.0
+                ],
+                [
+                    473.0,
+                    393.0
+                ],
+                [
+                    472.0,
+                    393.0
+                ],
+                [
+                    472.0,
+                    392.0
+                ],
+                [
+                    471.0,
+                    392.0
+                ],
+                [
+                    471.0,
+                    391.0
+                ],
+                [
+                    470.0,
+                    391.0
+                ],
+                [
+                    470.0,
+                    390.0
+                ],
+                [
+                    469.0,
+                    390.0
+                ],
+                [
+                    469.0,
+                    389.0
+                ],
+                [
+                    468.0,
+                    389.0
+                ],
+                [
+                    468.0,
+                    388.0
+                ],
+                [
+                    466.0,
+                    388.0
+                ],
+                [
+                    466.0,
+                    387.0
+                ],
+                [
+                    462.0,
+                    387.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

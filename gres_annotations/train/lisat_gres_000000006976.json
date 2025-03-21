@@ -1,0 +1,61 @@
+{
+    "text": [
+        "Identify the truck featuring a one-of-a-kind logo and a unique color pattern on its side panel.",
+        "Locate the truck that displays a distinctive logo along with a special color design on its side panel.",
+        "Find the truck that is marked by an exclusive logo and a unique color scheme on its side panel."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006976.jpg",
+            "points": [
+                [
+                    0.0,
+                    459.0
+                ],
+                [
+                    0.0,
+                    468.0
+                ],
+                [
+                    11.0,
+                    468.0
+                ],
+                [
+                    11.0,
+                    467.0
+                ],
+                [
+                    12.0,
+                    467.0
+                ],
+                [
+                    12.0,
+                    460.0
+                ],
+                [
+                    9.0,
+                    460.0
+                ],
+                [
+                    9.0,
+                    459.0
+                ],
+                [
+                    0.0,
+                    459.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

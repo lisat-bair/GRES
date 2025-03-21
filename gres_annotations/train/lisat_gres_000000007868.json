@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the big yellow bus with dark windows situated at an angle on the street.",
+        "Spot the large rectangular yellow vehicle with black-tinted windows placed diagonally across the road.",
+        "Identify the yellow, rectangular vehicle with dark windows that is positioned diagonally on the roadway."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007868.jpg",
+            "points": [
+                [
+                    154.0,
+                    218.0
+                ],
+                [
+                    154.0,
+                    219.0
+                ],
+                [
+                    153.0,
+                    219.0
+                ],
+                [
+                    153.0,
+                    221.0
+                ],
+                [
+                    152.0,
+                    221.0
+                ],
+                [
+                    152.0,
+                    224.0
+                ],
+                [
+                    153.0,
+                    224.0
+                ],
+                [
+                    153.0,
+                    225.0
+                ],
+                [
+                    155.0,
+                    225.0
+                ],
+                [
+                    155.0,
+                    226.0
+                ],
+                [
+                    156.0,
+                    226.0
+                ],
+                [
+                    156.0,
+                    227.0
+                ],
+                [
+                    158.0,
+                    227.0
+                ],
+                [
+                    158.0,
+                    228.0
+                ],
+                [
+                    160.0,
+                    228.0
+                ],
+                [
+                    160.0,
+                    229.0
+                ],
+                [
+                    165.0,
+                    229.0
+                ],
+                [
+                    165.0,
+                    228.0
+                ],
+                [
+                    167.0,
+                    228.0
+                ],
+                [
+                    167.0,
+                    227.0
+                ],
+                [
+                    168.0,
+                    227.0
+                ],
+                [
+                    168.0,
+                    226.0
+                ],
+                [
+                    169.0,
+                    226.0
+                ],
+                [
+                    169.0,
+                    223.0
+                ],
+                [
+                    168.0,
+                    223.0
+                ],
+                [
+                    168.0,
+                    222.0
+                ],
+                [
+                    167.0,
+                    222.0
+                ],
+                [
+                    167.0,
+                    221.0
+                ],
+                [
+                    165.0,
+                    221.0
+                ],
+                [
+                    165.0,
+                    220.0
+                ],
+                [
+                    163.0,
+                    220.0
+                ],
+                [
+                    163.0,
+                    219.0
+                ],
+                [
+                    160.0,
+                    219.0
+                ],
+                [
+                    160.0,
+                    218.0
+                ],
+                [
+                    154.0,
+                    218.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

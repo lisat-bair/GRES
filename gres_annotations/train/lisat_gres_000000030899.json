@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the long, rectangular object with wheels that is usually metal and stands out from its environment to find the truck.",
+        "To spot the truck, identify the lengthy, wheeled rectangular form that is often made of metal and noticeably different from its setting.",
+        "Find the truck by searching for the extended rectangular shape on wheels, typically metallic and distinct from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030899.jpg",
+            "points": [
+                [
+                    511.0,
+                    117.0
+                ],
+                [
+                    511.0,
+                    118.0
+                ],
+                [
+                    510.0,
+                    118.0
+                ],
+                [
+                    510.0,
+                    119.0
+                ],
+                [
+                    509.0,
+                    119.0
+                ],
+                [
+                    509.0,
+                    122.0
+                ],
+                [
+                    508.0,
+                    122.0
+                ],
+                [
+                    508.0,
+                    123.0
+                ],
+                [
+                    507.0,
+                    123.0
+                ],
+                [
+                    507.0,
+                    125.0
+                ],
+                [
+                    506.0,
+                    125.0
+                ],
+                [
+                    506.0,
+                    127.0
+                ],
+                [
+                    505.0,
+                    127.0
+                ],
+                [
+                    505.0,
+                    136.0
+                ],
+                [
+                    506.0,
+                    136.0
+                ],
+                [
+                    506.0,
+                    137.0
+                ],
+                [
+                    508.0,
+                    137.0
+                ],
+                [
+                    508.0,
+                    138.0
+                ],
+                [
+                    510.0,
+                    138.0
+                ],
+                [
+                    510.0,
+                    139.0
+                ],
+                [
+                    512.0,
+                    139.0
+                ],
+                [
+                    512.0,
+                    117.0
+                ],
+                [
+                    511.0,
+                    117.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

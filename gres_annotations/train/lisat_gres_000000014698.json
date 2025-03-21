@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the structure that stands out with its vertical lines and lighter shade against the darker surroundings in the picture.",
+        "Spot the edifice that features vertical stripes and a paler hue than the darker components around it in the photograph.",
+        "Find the construction with unique vertical stripes and a lighter coloration when compared to the darker elements nearby in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014698.jpg",
+            "points": [
+                [
+                    166.0,
+                    0.0
+                ],
+                [
+                    166.0,
+                    4.0
+                ],
+                [
+                    167.0,
+                    4.0
+                ],
+                [
+                    167.0,
+                    5.0
+                ],
+                [
+                    168.0,
+                    5.0
+                ],
+                [
+                    168.0,
+                    6.0
+                ],
+                [
+                    169.0,
+                    6.0
+                ],
+                [
+                    169.0,
+                    7.0
+                ],
+                [
+                    176.0,
+                    7.0
+                ],
+                [
+                    176.0,
+                    8.0
+                ],
+                [
+                    185.0,
+                    8.0
+                ],
+                [
+                    185.0,
+                    7.0
+                ],
+                [
+                    188.0,
+                    7.0
+                ],
+                [
+                    188.0,
+                    6.0
+                ],
+                [
+                    189.0,
+                    6.0
+                ],
+                [
+                    189.0,
+                    5.0
+                ],
+                [
+                    190.0,
+                    5.0
+                ],
+                [
+                    190.0,
+                    4.0
+                ],
+                [
+                    191.0,
+                    4.0
+                ],
+                [
+                    191.0,
+                    2.0
+                ],
+                [
+                    192.0,
+                    2.0
+                ],
+                [
+                    192.0,
+                    0.0
+                ],
+                [
+                    166.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the sizable boxy object on wheels, often in shades such as white, gray, or metallic, that takes up a large area of the picture.",
+        "Spot the big rectangular figure with wheels, usually found in colors like white, gray, or metallic, which dominates much of the image.",
+        "Find the large wheeled rectangular shape, commonly seen in hues like white, gray, or metallic, that covers a significant part of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005932.jpg",
+            "points": [
+                [
+                    381.0,
+                    44.0
+                ],
+                [
+                    381.0,
+                    45.0
+                ],
+                [
+                    379.0,
+                    45.0
+                ],
+                [
+                    379.0,
+                    46.0
+                ],
+                [
+                    377.0,
+                    46.0
+                ],
+                [
+                    377.0,
+                    47.0
+                ],
+                [
+                    375.0,
+                    47.0
+                ],
+                [
+                    375.0,
+                    48.0
+                ],
+                [
+                    374.0,
+                    48.0
+                ],
+                [
+                    374.0,
+                    51.0
+                ],
+                [
+                    373.0,
+                    51.0
+                ],
+                [
+                    373.0,
+                    55.0
+                ],
+                [
+                    374.0,
+                    55.0
+                ],
+                [
+                    374.0,
+                    56.0
+                ],
+                [
+                    376.0,
+                    56.0
+                ],
+                [
+                    376.0,
+                    57.0
+                ],
+                [
+                    382.0,
+                    57.0
+                ],
+                [
+                    382.0,
+                    56.0
+                ],
+                [
+                    384.0,
+                    56.0
+                ],
+                [
+                    384.0,
+                    54.0
+                ],
+                [
+                    385.0,
+                    54.0
+                ],
+                [
+                    385.0,
+                    50.0
+                ],
+                [
+                    386.0,
+                    50.0
+                ],
+                [
+                    386.0,
+                    48.0
+                ],
+                [
+                    387.0,
+                    48.0
+                ],
+                [
+                    387.0,
+                    45.0
+                ],
+                [
+                    386.0,
+                    45.0
+                ],
+                [
+                    386.0,
+                    44.0
+                ],
+                [
+                    381.0,
+                    44.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

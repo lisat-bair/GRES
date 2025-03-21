@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the metallic vehicle that has four wheels and is painted red.",
+        "Find the car that features a red color, four wheels, and a shiny metal exterior.",
+        "Spot the automobile with a metallic finish, four wheels, and a red hue."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025336.jpg",
+            "points": [
+                [
+                    123.0,
+                    165.0
+                ],
+                [
+                    123.0,
+                    166.0
+                ],
+                [
+                    122.0,
+                    166.0
+                ],
+                [
+                    122.0,
+                    173.0
+                ],
+                [
+                    123.0,
+                    173.0
+                ],
+                [
+                    123.0,
+                    174.0
+                ],
+                [
+                    125.0,
+                    174.0
+                ],
+                [
+                    125.0,
+                    175.0
+                ],
+                [
+                    134.0,
+                    175.0
+                ],
+                [
+                    134.0,
+                    174.0
+                ],
+                [
+                    136.0,
+                    174.0
+                ],
+                [
+                    136.0,
+                    173.0
+                ],
+                [
+                    137.0,
+                    173.0
+                ],
+                [
+                    137.0,
+                    172.0
+                ],
+                [
+                    138.0,
+                    172.0
+                ],
+                [
+                    138.0,
+                    169.0
+                ],
+                [
+                    137.0,
+                    169.0
+                ],
+                [
+                    137.0,
+                    168.0
+                ],
+                [
+                    136.0,
+                    168.0
+                ],
+                [
+                    136.0,
+                    167.0
+                ],
+                [
+                    134.0,
+                    167.0
+                ],
+                [
+                    134.0,
+                    166.0
+                ],
+                [
+                    130.0,
+                    166.0
+                ],
+                [
+                    130.0,
+                    165.0
+                ],
+                [
+                    123.0,
+                    165.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the structure that stands out due to its unique vertical alignment and darker hues compared to nearby features.",
+        "Find the edifice that is characterized by its distinct upright alignment and deeper color tone relative to its surroundings.",
+        "Spot the building that is notable for its particular vertical positioning and more intense color contrast with the elements around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022430.jpg",
+            "points": [
+                [
+                    510.0,
+                    333.0
+                ],
+                [
+                    510.0,
+                    334.0
+                ],
+                [
+                    508.0,
+                    334.0
+                ],
+                [
+                    508.0,
+                    335.0
+                ],
+                [
+                    507.0,
+                    335.0
+                ],
+                [
+                    507.0,
+                    336.0
+                ],
+                [
+                    506.0,
+                    336.0
+                ],
+                [
+                    506.0,
+                    341.0
+                ],
+                [
+                    505.0,
+                    341.0
+                ],
+                [
+                    505.0,
+                    347.0
+                ],
+                [
+                    506.0,
+                    347.0
+                ],
+                [
+                    506.0,
+                    355.0
+                ],
+                [
+                    507.0,
+                    355.0
+                ],
+                [
+                    507.0,
+                    356.0
+                ],
+                [
+                    508.0,
+                    356.0
+                ],
+                [
+                    508.0,
+                    357.0
+                ],
+                [
+                    509.0,
+                    357.0
+                ],
+                [
+                    509.0,
+                    358.0
+                ],
+                [
+                    512.0,
+                    358.0
+                ],
+                [
+                    512.0,
+                    333.0
+                ],
+                [
+                    510.0,
+                    333.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

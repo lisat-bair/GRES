@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the vehicle with a large, elongated cylindrical shape and metallic or reflective surfaces, typically mounted on a truck chassis."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009073.jpg",
+            "points": [
+                [
+                    0.0,
+                    333.0
+                ],
+                [
+                    0.0,
+                    343.0
+                ],
+                [
+                    2.0,
+                    343.0
+                ],
+                [
+                    2.0,
+                    342.0
+                ],
+                [
+                    4.0,
+                    342.0
+                ],
+                [
+                    4.0,
+                    341.0
+                ],
+                [
+                    5.0,
+                    341.0
+                ],
+                [
+                    5.0,
+                    340.0
+                ],
+                [
+                    6.0,
+                    340.0
+                ],
+                [
+                    6.0,
+                    339.0
+                ],
+                [
+                    7.0,
+                    339.0
+                ],
+                [
+                    7.0,
+                    337.0
+                ],
+                [
+                    6.0,
+                    337.0
+                ],
+                [
+                    6.0,
+                    335.0
+                ],
+                [
+                    5.0,
+                    335.0
+                ],
+                [
+                    5.0,
+                    334.0
+                ],
+                [
+                    3.0,
+                    334.0
+                ],
+                [
+                    3.0,
+                    333.0
+                ],
+                [
+                    0.0,
+                    333.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

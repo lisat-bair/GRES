@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Locate the large vehicle with a cabin and a long flatbed, usually recognized by its rectangular form and numerous wheels.",
+        "Find the truck that features a cabin and an extended flatbed, often distinguished by its substantial size and boxy appearance, generally having several wheels.",
+        "Spot the substantial truck with a driver's cab and an elongated flatbed, identifiable by its boxy shape and multiple wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016585.jpg",
+            "points": [
+                [
+                    148.0,
+                    507.0
+                ],
+                [
+                    148.0,
+                    508.0
+                ],
+                [
+                    146.0,
+                    508.0
+                ],
+                [
+                    146.0,
+                    509.0
+                ],
+                [
+                    144.0,
+                    509.0
+                ],
+                [
+                    144.0,
+                    510.0
+                ],
+                [
+                    143.0,
+                    510.0
+                ],
+                [
+                    143.0,
+                    512.0
+                ],
+                [
+                    165.0,
+                    512.0
+                ],
+                [
+                    165.0,
+                    509.0
+                ],
+                [
+                    164.0,
+                    509.0
+                ],
+                [
+                    164.0,
+                    507.0
+                ],
+                [
+                    148.0,
+                    507.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

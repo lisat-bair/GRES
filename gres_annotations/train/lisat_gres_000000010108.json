@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the engineering vehicle located towards the center-right area of the picture.",
+        "Find the engineering vehicle positioned at the center-right of the image.",
+        "Locate the engineering vehicle that is situated in the center-right section of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010108.jpg",
+            "points": [
+                [
+                    297.0,
+                    200.0
+                ],
+                [
+                    297.0,
+                    201.0
+                ],
+                [
+                    293.0,
+                    201.0
+                ],
+                [
+                    293.0,
+                    202.0
+                ],
+                [
+                    291.0,
+                    202.0
+                ],
+                [
+                    291.0,
+                    203.0
+                ],
+                [
+                    288.0,
+                    203.0
+                ],
+                [
+                    288.0,
+                    204.0
+                ],
+                [
+                    281.0,
+                    204.0
+                ],
+                [
+                    281.0,
+                    206.0
+                ],
+                [
+                    280.0,
+                    206.0
+                ],
+                [
+                    280.0,
+                    212.0
+                ],
+                [
+                    281.0,
+                    212.0
+                ],
+                [
+                    281.0,
+                    213.0
+                ],
+                [
+                    282.0,
+                    213.0
+                ],
+                [
+                    282.0,
+                    214.0
+                ],
+                [
+                    316.0,
+                    214.0
+                ],
+                [
+                    316.0,
+                    213.0
+                ],
+                [
+                    318.0,
+                    213.0
+                ],
+                [
+                    318.0,
+                    214.0
+                ],
+                [
+                    327.0,
+                    214.0
+                ],
+                [
+                    327.0,
+                    213.0
+                ],
+                [
+                    328.0,
+                    213.0
+                ],
+                [
+                    328.0,
+                    208.0
+                ],
+                [
+                    327.0,
+                    208.0
+                ],
+                [
+                    327.0,
+                    203.0
+                ],
+                [
+                    326.0,
+                    203.0
+                ],
+                [
+                    326.0,
+                    202.0
+                ],
+                [
+                    313.0,
+                    202.0
+                ],
+                [
+                    313.0,
+                    201.0
+                ],
+                [
+                    310.0,
+                    201.0
+                ],
+                [
+                    310.0,
+                    200.0
+                ],
+                [
+                    297.0,
+                    200.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

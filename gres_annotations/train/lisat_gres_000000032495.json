@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the long rectangular vehicle equipped with wheels and a protruding rear end; it's the truck featuring a trailer bed.",
+        "Find the extended rectangular structure on wheels with a lengthened back portion, known as the truck with the trailer bed.",
+        "Spot the elongated rectangle with wheels and a stretched rear segment, which refers to the truck carrying the trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032495.jpg",
+            "points": [
+                [
+                    509.0,
+                    463.0
+                ],
+                [
+                    509.0,
+                    464.0
+                ],
+                [
+                    500.0,
+                    464.0
+                ],
+                [
+                    500.0,
+                    465.0
+                ],
+                [
+                    498.0,
+                    465.0
+                ],
+                [
+                    498.0,
+                    467.0
+                ],
+                [
+                    497.0,
+                    467.0
+                ],
+                [
+                    497.0,
+                    469.0
+                ],
+                [
+                    498.0,
+                    469.0
+                ],
+                [
+                    498.0,
+                    471.0
+                ],
+                [
+                    500.0,
+                    471.0
+                ],
+                [
+                    500.0,
+                    472.0
+                ],
+                [
+                    502.0,
+                    472.0
+                ],
+                [
+                    502.0,
+                    473.0
+                ],
+                [
+                    505.0,
+                    473.0
+                ],
+                [
+                    505.0,
+                    474.0
+                ],
+                [
+                    508.0,
+                    474.0
+                ],
+                [
+                    508.0,
+                    473.0
+                ],
+                [
+                    511.0,
+                    473.0
+                ],
+                [
+                    511.0,
+                    472.0
+                ],
+                [
+                    512.0,
+                    472.0
+                ],
+                [
+                    512.0,
+                    463.0
+                ],
+                [
+                    509.0,
+                    463.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

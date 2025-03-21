@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the car that stands out with its unique shape, featuring sleek, curved lines and a shiny exterior that stands out against the darker backdrop.",
+        "Locate the automobile with a unique contour, marked by its smooth, rounded design and a glossy finish that contrasts with the dimmer surroundings.",
+        "Find the vehicle with a distinctive outline, highlighted by its rounded, smooth edges and a reflective surface set against the darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014447.jpg",
+            "points": [
+                [
+                    436.0,
+                    229.0
+                ],
+                [
+                    436.0,
+                    230.0
+                ],
+                [
+                    434.0,
+                    230.0
+                ],
+                [
+                    434.0,
+                    233.0
+                ],
+                [
+                    433.0,
+                    233.0
+                ],
+                [
+                    433.0,
+                    238.0
+                ],
+                [
+                    434.0,
+                    238.0
+                ],
+                [
+                    434.0,
+                    242.0
+                ],
+                [
+                    435.0,
+                    242.0
+                ],
+                [
+                    435.0,
+                    244.0
+                ],
+                [
+                    439.0,
+                    244.0
+                ],
+                [
+                    439.0,
+                    243.0
+                ],
+                [
+                    440.0,
+                    243.0
+                ],
+                [
+                    440.0,
+                    242.0
+                ],
+                [
+                    441.0,
+                    242.0
+                ],
+                [
+                    441.0,
+                    232.0
+                ],
+                [
+                    440.0,
+                    232.0
+                ],
+                [
+                    440.0,
+                    231.0
+                ],
+                [
+                    439.0,
+                    231.0
+                ],
+                [
+                    439.0,
+                    230.0
+                ],
+                [
+                    437.0,
+                    230.0
+                ],
+                [
+                    437.0,
+                    229.0
+                ],
+                [
+                    436.0,
+                    229.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

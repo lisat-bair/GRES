@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the big yellow-orange equipment with sharp angles and either tracks or wheels on the earth-toned ground.",
+        "Locate the substantial yellow-orange apparatus featuring prominent angular designs and visible tracks or wheels on the brown surface.",
+        "Find the large machinery in yellow-orange hues with distinct angular features, equipped with tracks or wheels, on the brown terrain."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002191.jpg",
+            "points": [
+                [
+                    109.0,
+                    247.0
+                ],
+                [
+                    109.0,
+                    248.0
+                ],
+                [
+                    107.0,
+                    248.0
+                ],
+                [
+                    107.0,
+                    249.0
+                ],
+                [
+                    106.0,
+                    249.0
+                ],
+                [
+                    106.0,
+                    251.0
+                ],
+                [
+                    105.0,
+                    251.0
+                ],
+                [
+                    105.0,
+                    261.0
+                ],
+                [
+                    104.0,
+                    261.0
+                ],
+                [
+                    104.0,
+                    271.0
+                ],
+                [
+                    105.0,
+                    271.0
+                ],
+                [
+                    105.0,
+                    272.0
+                ],
+                [
+                    112.0,
+                    272.0
+                ],
+                [
+                    112.0,
+                    270.0
+                ],
+                [
+                    113.0,
+                    270.0
+                ],
+                [
+                    113.0,
+                    268.0
+                ],
+                [
+                    114.0,
+                    268.0
+                ],
+                [
+                    114.0,
+                    265.0
+                ],
+                [
+                    115.0,
+                    265.0
+                ],
+                [
+                    115.0,
+                    263.0
+                ],
+                [
+                    116.0,
+                    263.0
+                ],
+                [
+                    116.0,
+                    260.0
+                ],
+                [
+                    117.0,
+                    260.0
+                ],
+                [
+                    117.0,
+                    255.0
+                ],
+                [
+                    118.0,
+                    255.0
+                ],
+                [
+                    118.0,
+                    249.0
+                ],
+                [
+                    117.0,
+                    249.0
+                ],
+                [
+                    117.0,
+                    248.0
+                ],
+                [
+                    116.0,
+                    248.0
+                ],
+                [
+                    116.0,
+                    247.0
+                ],
+                [
+                    109.0,
+                    247.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

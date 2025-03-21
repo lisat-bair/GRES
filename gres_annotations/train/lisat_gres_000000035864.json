@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the car that has a pale, rectangular form and a shiny surface.",
+        "Find the automobile with a bright, rectangular design and reflective exterior.",
+        "Spot the vehicle that features a light-colored, rectangular shape with a glossy finish."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035864.jpg",
+            "points": [
+                [
+                    71.0,
+                    450.0
+                ],
+                [
+                    71.0,
+                    452.0
+                ],
+                [
+                    70.0,
+                    452.0
+                ],
+                [
+                    70.0,
+                    455.0
+                ],
+                [
+                    69.0,
+                    455.0
+                ],
+                [
+                    69.0,
+                    459.0
+                ],
+                [
+                    68.0,
+                    459.0
+                ],
+                [
+                    68.0,
+                    465.0
+                ],
+                [
+                    69.0,
+                    465.0
+                ],
+                [
+                    69.0,
+                    466.0
+                ],
+                [
+                    73.0,
+                    466.0
+                ],
+                [
+                    73.0,
+                    465.0
+                ],
+                [
+                    74.0,
+                    465.0
+                ],
+                [
+                    74.0,
+                    461.0
+                ],
+                [
+                    75.0,
+                    461.0
+                ],
+                [
+                    75.0,
+                    459.0
+                ],
+                [
+                    76.0,
+                    459.0
+                ],
+                [
+                    76.0,
+                    456.0
+                ],
+                [
+                    77.0,
+                    456.0
+                ],
+                [
+                    77.0,
+                    451.0
+                ],
+                [
+                    76.0,
+                    451.0
+                ],
+                [
+                    76.0,
+                    450.0
+                ],
+                [
+                    71.0,
+                    450.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

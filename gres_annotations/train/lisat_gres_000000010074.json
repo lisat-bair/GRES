@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Look for the trailer bed located at the bottom-left corner of the image; it has a long rectangular form, noticeable wheels, and is usually metallic or painted, attached to the front truck cab.",
+        "In the image's bottom-left section, you'll find the trailer bed, which is long and rectangular with clear wheels, often made of metal or painted, and it is joined to a truck cab at the front.",
+        "Spot the trailer bed in the bottom-left area of the picture, marked by its elongated rectangular shape, distinct wheels, and typically metallic or painted appearance, linked to a truck cab at the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010074.jpg",
+            "points": [
+                [
+                    145.0,
+                    468.0
+                ],
+                [
+                    145.0,
+                    469.0
+                ],
+                [
+                    144.0,
+                    469.0
+                ],
+                [
+                    144.0,
+                    470.0
+                ],
+                [
+                    143.0,
+                    470.0
+                ],
+                [
+                    143.0,
+                    472.0
+                ],
+                [
+                    144.0,
+                    472.0
+                ],
+                [
+                    144.0,
+                    473.0
+                ],
+                [
+                    145.0,
+                    473.0
+                ],
+                [
+                    145.0,
+                    474.0
+                ],
+                [
+                    146.0,
+                    474.0
+                ],
+                [
+                    146.0,
+                    475.0
+                ],
+                [
+                    148.0,
+                    475.0
+                ],
+                [
+                    148.0,
+                    476.0
+                ],
+                [
+                    155.0,
+                    476.0
+                ],
+                [
+                    155.0,
+                    475.0
+                ],
+                [
+                    156.0,
+                    475.0
+                ],
+                [
+                    156.0,
+                    471.0
+                ],
+                [
+                    155.0,
+                    471.0
+                ],
+                [
+                    155.0,
+                    470.0
+                ],
+                [
+                    154.0,
+                    470.0
+                ],
+                [
+                    154.0,
+                    469.0
+                ],
+                [
+                    151.0,
+                    469.0
+                ],
+                [
+                    151.0,
+                    468.0
+                ],
+                [
+                    145.0,
+                    468.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "The excavator is the big yellow equipment featuring a lengthy articulated arm with a bucket at the tip, commonly found on construction sites.",
+        "Recognize the excavator by its large yellow body, extended articulated arm, and bucket at the end, which is usually employed on construction sites.",
+        "Spot the excavator as the sizable yellow machine with a long jointed arm and a bucket attached, often utilized on construction sites."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034785.jpg",
+            "points": [
+                [
+                    397.0,
+                    502.0
+                ],
+                [
+                    397.0,
+                    503.0
+                ],
+                [
+                    396.0,
+                    503.0
+                ],
+                [
+                    396.0,
+                    505.0
+                ],
+                [
+                    395.0,
+                    505.0
+                ],
+                [
+                    395.0,
+                    507.0
+                ],
+                [
+                    394.0,
+                    507.0
+                ],
+                [
+                    394.0,
+                    512.0
+                ],
+                [
+                    406.0,
+                    512.0
+                ],
+                [
+                    406.0,
+                    510.0
+                ],
+                [
+                    407.0,
+                    510.0
+                ],
+                [
+                    407.0,
+                    505.0
+                ],
+                [
+                    406.0,
+                    505.0
+                ],
+                [
+                    406.0,
+                    504.0
+                ],
+                [
+                    405.0,
+                    504.0
+                ],
+                [
+                    405.0,
+                    503.0
+                ],
+                [
+                    402.0,
+                    503.0
+                ],
+                [
+                    402.0,
+                    502.0
+                ],
+                [
+                    397.0,
+                    502.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the passenger vehicle in the bottom-right corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023260.jpg",
+            "points": [
+                [
+                    503.0,
+                    501.0
+                ],
+                [
+                    503.0,
+                    504.0
+                ],
+                [
+                    502.0,
+                    504.0
+                ],
+                [
+                    502.0,
+                    506.0
+                ],
+                [
+                    501.0,
+                    506.0
+                ],
+                [
+                    501.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    506.0
+                ],
+                [
+                    511.0,
+                    506.0
+                ],
+                [
+                    511.0,
+                    503.0
+                ],
+                [
+                    508.0,
+                    503.0
+                ],
+                [
+                    508.0,
+                    502.0
+                ],
+                [
+                    507.0,
+                    502.0
+                ],
+                [
+                    507.0,
+                    501.0
+                ],
+                [
+                    503.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

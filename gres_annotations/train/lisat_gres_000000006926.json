@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the sizable, vivid yellow equipment with a noticeable arm and scoop that is usually seen at building locations.",
+        "Spot the big, striking yellow apparatus featuring a distinct arm and bucket that is commonly located on construction grounds.",
+        "Identify the large, bright yellow device with an evident arm and bucket that is typically present at construction sites."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006926.jpg",
+            "points": [
+                [
+                    198.0,
+                    252.0
+                ],
+                [
+                    198.0,
+                    253.0
+                ],
+                [
+                    196.0,
+                    253.0
+                ],
+                [
+                    196.0,
+                    254.0
+                ],
+                [
+                    193.0,
+                    254.0
+                ],
+                [
+                    193.0,
+                    255.0
+                ],
+                [
+                    185.0,
+                    255.0
+                ],
+                [
+                    185.0,
+                    256.0
+                ],
+                [
+                    181.0,
+                    256.0
+                ],
+                [
+                    181.0,
+                    257.0
+                ],
+                [
+                    178.0,
+                    257.0
+                ],
+                [
+                    178.0,
+                    258.0
+                ],
+                [
+                    177.0,
+                    258.0
+                ],
+                [
+                    177.0,
+                    261.0
+                ],
+                [
+                    179.0,
+                    261.0
+                ],
+                [
+                    179.0,
+                    262.0
+                ],
+                [
+                    194.0,
+                    262.0
+                ],
+                [
+                    194.0,
+                    263.0
+                ],
+                [
+                    197.0,
+                    263.0
+                ],
+                [
+                    197.0,
+                    264.0
+                ],
+                [
+                    204.0,
+                    264.0
+                ],
+                [
+                    204.0,
+                    263.0
+                ],
+                [
+                    210.0,
+                    263.0
+                ],
+                [
+                    210.0,
+                    262.0
+                ],
+                [
+                    211.0,
+                    262.0
+                ],
+                [
+                    211.0,
+                    261.0
+                ],
+                [
+                    212.0,
+                    261.0
+                ],
+                [
+                    212.0,
+                    254.0
+                ],
+                [
+                    211.0,
+                    254.0
+                ],
+                [
+                    211.0,
+                    253.0
+                ],
+                [
+                    209.0,
+                    253.0
+                ],
+                [
+                    209.0,
+                    252.0
+                ],
+                [
+                    198.0,
+                    252.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

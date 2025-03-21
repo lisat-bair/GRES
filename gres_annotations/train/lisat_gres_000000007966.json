@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Look for the truck that stands out due to its unique color, bigger size, and unusual shape compared to other vehicles in the picture.",
+        "Spot the truck by its distinctive color, greater dimensions, and uncommon shape relative to the other vehicles visible in the image.",
+        "Recognize the truck by its specific color, larger proportions, and one-of-a-kind shape when compared to other vehicles in the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007966.jpg",
+            "points": [
+                [
+                    511.0,
+                    314.0
+                ],
+                [
+                    511.0,
+                    316.0
+                ],
+                [
+                    510.0,
+                    316.0
+                ],
+                [
+                    510.0,
+                    317.0
+                ],
+                [
+                    509.0,
+                    317.0
+                ],
+                [
+                    509.0,
+                    318.0
+                ],
+                [
+                    508.0,
+                    318.0
+                ],
+                [
+                    508.0,
+                    320.0
+                ],
+                [
+                    507.0,
+                    320.0
+                ],
+                [
+                    507.0,
+                    327.0
+                ],
+                [
+                    509.0,
+                    327.0
+                ],
+                [
+                    509.0,
+                    328.0
+                ],
+                [
+                    512.0,
+                    328.0
+                ],
+                [
+                    512.0,
+                    314.0
+                ],
+                [
+                    511.0,
+                    314.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

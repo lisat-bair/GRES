@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Spot the big rectangular structure featuring several windows and vibrant hues, commonly identified with buses.",
+        "Find the large rectangular form adorned with many windows and vivid colors that are usually linked to buses.",
+        "Locate the sizable rectangular entity with numerous windows and striking colors, generally connected to buses."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030999.jpg",
+            "points": [
+                [
+                    291.0,
+                    509.0
+                ],
+                [
+                    291.0,
+                    510.0
+                ],
+                [
+                    290.0,
+                    510.0
+                ],
+                [
+                    290.0,
+                    512.0
+                ],
+                [
+                    298.0,
+                    512.0
+                ],
+                [
+                    298.0,
+                    511.0
+                ],
+                [
+                    297.0,
+                    511.0
+                ],
+                [
+                    297.0,
+                    510.0
+                ],
+                [
+                    296.0,
+                    510.0
+                ],
+                [
+                    296.0,
+                    509.0
+                ],
+                [
+                    291.0,
+                    509.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the truck that is white and has a unique upright form.",
+        "Spot the vehicle with a white hue and a notably tall structure.",
+        "Search for the white truck that features a prominent vertical design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036057.jpg",
+            "points": [
+                [
+                    202.0,
+                    339.0
+                ],
+                [
+                    202.0,
+                    341.0
+                ],
+                [
+                    201.0,
+                    341.0
+                ],
+                [
+                    201.0,
+                    345.0
+                ],
+                [
+                    202.0,
+                    345.0
+                ],
+                [
+                    202.0,
+                    346.0
+                ],
+                [
+                    203.0,
+                    346.0
+                ],
+                [
+                    203.0,
+                    347.0
+                ],
+                [
+                    222.0,
+                    347.0
+                ],
+                [
+                    222.0,
+                    341.0
+                ],
+                [
+                    221.0,
+                    341.0
+                ],
+                [
+                    221.0,
+                    340.0
+                ],
+                [
+                    219.0,
+                    340.0
+                ],
+                [
+                    219.0,
+                    339.0
+                ],
+                [
+                    216.0,
+                    339.0
+                ],
+                [
+                    216.0,
+                    340.0
+                ],
+                [
+                    213.0,
+                    340.0
+                ],
+                [
+                    213.0,
+                    339.0
+                ],
+                [
+                    202.0,
+                    339.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

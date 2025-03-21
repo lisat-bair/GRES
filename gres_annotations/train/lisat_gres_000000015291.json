@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the truck that has a big rectangular form and sharp edges, standing out because of its consistent color against the darker background.",
+        "Spot the truck featuring a large box-like shape with clear edges, defined by its single color that starkly contrasts with the shadowy environment.",
+        "Find the truck with a significant rectangular silhouette and prominent edges, marked by its solid color which contrasts with the dim surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015291.jpg",
+            "points": [
+                [
+                    271.0,
+                    497.0
+                ],
+                [
+                    271.0,
+                    498.0
+                ],
+                [
+                    270.0,
+                    498.0
+                ],
+                [
+                    270.0,
+                    499.0
+                ],
+                [
+                    269.0,
+                    499.0
+                ],
+                [
+                    269.0,
+                    507.0
+                ],
+                [
+                    271.0,
+                    507.0
+                ],
+                [
+                    271.0,
+                    508.0
+                ],
+                [
+                    284.0,
+                    508.0
+                ],
+                [
+                    284.0,
+                    507.0
+                ],
+                [
+                    285.0,
+                    507.0
+                ],
+                [
+                    285.0,
+                    505.0
+                ],
+                [
+                    286.0,
+                    505.0
+                ],
+                [
+                    286.0,
+                    502.0
+                ],
+                [
+                    285.0,
+                    502.0
+                ],
+                [
+                    285.0,
+                    500.0
+                ],
+                [
+                    284.0,
+                    500.0
+                ],
+                [
+                    284.0,
+                    499.0
+                ],
+                [
+                    282.0,
+                    499.0
+                ],
+                [
+                    282.0,
+                    498.0
+                ],
+                [
+                    278.0,
+                    498.0
+                ],
+                [
+                    278.0,
+                    497.0
+                ],
+                [
+                    271.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

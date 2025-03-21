@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the vehicle in the picture that is a shiny, dark object with smooth curves and round elements that look like wheels at the bottom.",
+        "Identify the automobile in the photo that appears as a glossy, dark item with rounded corners and circular components akin to wheels at its base.",
+        "Spot the car in the image which is a dark, shiny object with rounded edges and circular features similar to wheels at the bottom."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033740.jpg",
+            "points": [
+                [
+                    257.0,
+                    204.0
+                ],
+                [
+                    257.0,
+                    209.0
+                ],
+                [
+                    258.0,
+                    209.0
+                ],
+                [
+                    258.0,
+                    210.0
+                ],
+                [
+                    259.0,
+                    210.0
+                ],
+                [
+                    259.0,
+                    211.0
+                ],
+                [
+                    260.0,
+                    211.0
+                ],
+                [
+                    260.0,
+                    212.0
+                ],
+                [
+                    261.0,
+                    212.0
+                ],
+                [
+                    261.0,
+                    213.0
+                ],
+                [
+                    262.0,
+                    213.0
+                ],
+                [
+                    262.0,
+                    214.0
+                ],
+                [
+                    263.0,
+                    214.0
+                ],
+                [
+                    263.0,
+                    215.0
+                ],
+                [
+                    267.0,
+                    215.0
+                ],
+                [
+                    267.0,
+                    214.0
+                ],
+                [
+                    272.0,
+                    214.0
+                ],
+                [
+                    272.0,
+                    215.0
+                ],
+                [
+                    274.0,
+                    215.0
+                ],
+                [
+                    274.0,
+                    214.0
+                ],
+                [
+                    276.0,
+                    214.0
+                ],
+                [
+                    276.0,
+                    213.0
+                ],
+                [
+                    278.0,
+                    213.0
+                ],
+                [
+                    278.0,
+                    212.0
+                ],
+                [
+                    279.0,
+                    212.0
+                ],
+                [
+                    279.0,
+                    211.0
+                ],
+                [
+                    280.0,
+                    211.0
+                ],
+                [
+                    280.0,
+                    206.0
+                ],
+                [
+                    279.0,
+                    206.0
+                ],
+                [
+                    279.0,
+                    204.0
+                ],
+                [
+                    268.0,
+                    204.0
+                ],
+                [
+                    268.0,
+                    205.0
+                ],
+                [
+                    258.0,
+                    205.0
+                ],
+                [
+                    258.0,
+                    204.0
+                ],
+                [
+                    257.0,
+                    204.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

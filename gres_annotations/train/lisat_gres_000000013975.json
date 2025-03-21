@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Locate the passenger car situated in the bottom-left corner of the picture.",
+        "Point out the passenger vehicle found in the lower-left portion of the image.",
+        "Find the passenger vehicle positioned at the bottom-left side of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013975.jpg",
+            "points": [
+                [
+                    124.0,
+                    508.0
+                ],
+                [
+                    124.0,
+                    509.0
+                ],
+                [
+                    122.0,
+                    509.0
+                ],
+                [
+                    122.0,
+                    510.0
+                ],
+                [
+                    120.0,
+                    510.0
+                ],
+                [
+                    120.0,
+                    511.0
+                ],
+                [
+                    119.0,
+                    511.0
+                ],
+                [
+                    119.0,
+                    512.0
+                ],
+                [
+                    129.0,
+                    512.0
+                ],
+                [
+                    129.0,
+                    508.0
+                ],
+                [
+                    124.0,
+                    508.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

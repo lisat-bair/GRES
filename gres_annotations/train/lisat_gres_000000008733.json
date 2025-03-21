@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the shed that has a rectangular shape and a corrugated surface, displaying a metallic shine against a grassy backdrop.",
+        "Spot the shed characterized by its rectangular form and corrugated texture, reflecting a metallic gleam amidst the grassy scenery.",
+        "Find the shed with a rectangular build and a corrugated appearance, shining metallically against a background of grass."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008733.jpg",
+            "points": [
+                [
+                    41.0,
+                    319.0
+                ],
+                [
+                    41.0,
+                    320.0
+                ],
+                [
+                    38.0,
+                    320.0
+                ],
+                [
+                    38.0,
+                    321.0
+                ],
+                [
+                    37.0,
+                    321.0
+                ],
+                [
+                    37.0,
+                    327.0
+                ],
+                [
+                    38.0,
+                    327.0
+                ],
+                [
+                    38.0,
+                    328.0
+                ],
+                [
+                    40.0,
+                    328.0
+                ],
+                [
+                    40.0,
+                    329.0
+                ],
+                [
+                    45.0,
+                    329.0
+                ],
+                [
+                    45.0,
+                    330.0
+                ],
+                [
+                    59.0,
+                    330.0
+                ],
+                [
+                    59.0,
+                    329.0
+                ],
+                [
+                    61.0,
+                    329.0
+                ],
+                [
+                    61.0,
+                    328.0
+                ],
+                [
+                    62.0,
+                    328.0
+                ],
+                [
+                    62.0,
+                    325.0
+                ],
+                [
+                    61.0,
+                    325.0
+                ],
+                [
+                    61.0,
+                    322.0
+                ],
+                [
+                    60.0,
+                    322.0
+                ],
+                [
+                    60.0,
+                    321.0
+                ],
+                [
+                    58.0,
+                    321.0
+                ],
+                [
+                    58.0,
+                    320.0
+                ],
+                [
+                    55.0,
+                    320.0
+                ],
+                [
+                    55.0,
+                    319.0
+                ],
+                [
+                    41.0,
+                    319.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

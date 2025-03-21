@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the trailer bed located at the bottom-left corner of the image, noting its rectangular form and the unique wheels that link it to the truck cab.",
+        "Locate the trailer bed in the image's bottom-left, paying attention to its rectangular shape and the distinctive wheels attached to the truck cab.",
+        "Look for the trailer bed in the lower-left area of the image, focusing on its rectangular design and the particular wheels that connect it to the truck cab."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017975.jpg",
+            "points": [
+                [
+                    54.0,
+                    448.0
+                ],
+                [
+                    54.0,
+                    450.0
+                ],
+                [
+                    53.0,
+                    450.0
+                ],
+                [
+                    53.0,
+                    454.0
+                ],
+                [
+                    52.0,
+                    454.0
+                ],
+                [
+                    52.0,
+                    456.0
+                ],
+                [
+                    53.0,
+                    456.0
+                ],
+                [
+                    53.0,
+                    462.0
+                ],
+                [
+                    54.0,
+                    462.0
+                ],
+                [
+                    54.0,
+                    463.0
+                ],
+                [
+                    59.0,
+                    463.0
+                ],
+                [
+                    59.0,
+                    462.0
+                ],
+                [
+                    60.0,
+                    462.0
+                ],
+                [
+                    60.0,
+                    460.0
+                ],
+                [
+                    61.0,
+                    460.0
+                ],
+                [
+                    61.0,
+                    458.0
+                ],
+                [
+                    60.0,
+                    458.0
+                ],
+                [
+                    60.0,
+                    452.0
+                ],
+                [
+                    59.0,
+                    452.0
+                ],
+                [
+                    59.0,
+                    451.0
+                ],
+                [
+                    58.0,
+                    451.0
+                ],
+                [
+                    58.0,
+                    450.0
+                ],
+                [
+                    57.0,
+                    450.0
+                ],
+                [
+                    57.0,
+                    449.0
+                ],
+                [
+                    56.0,
+                    449.0
+                ],
+                [
+                    56.0,
+                    448.0
+                ],
+                [
+                    54.0,
+                    448.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that has a metallic color, rectangular form, and shiny surfaces set against a background with a different texture.",
+        "Seek out the automobile characterized by its metallic hue, rectangular shape, and reflective surfaces contrasting with a textured backdrop.",
+        "Spot the car that features a rectangular design, a metallic finish, and shiny surfaces against a background with a different texture."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004663.jpg",
+            "points": [
+                [
+                    396.0,
+                    319.0
+                ],
+                [
+                    396.0,
+                    320.0
+                ],
+                [
+                    395.0,
+                    320.0
+                ],
+                [
+                    395.0,
+                    323.0
+                ],
+                [
+                    394.0,
+                    323.0
+                ],
+                [
+                    394.0,
+                    328.0
+                ],
+                [
+                    393.0,
+                    328.0
+                ],
+                [
+                    393.0,
+                    333.0
+                ],
+                [
+                    395.0,
+                    333.0
+                ],
+                [
+                    395.0,
+                    334.0
+                ],
+                [
+                    398.0,
+                    334.0
+                ],
+                [
+                    398.0,
+                    333.0
+                ],
+                [
+                    400.0,
+                    333.0
+                ],
+                [
+                    400.0,
+                    327.0
+                ],
+                [
+                    401.0,
+                    327.0
+                ],
+                [
+                    401.0,
+                    325.0
+                ],
+                [
+                    400.0,
+                    325.0
+                ],
+                [
+                    400.0,
+                    321.0
+                ],
+                [
+                    399.0,
+                    321.0
+                ],
+                [
+                    399.0,
+                    320.0
+                ],
+                [
+                    398.0,
+                    320.0
+                ],
+                [
+                    398.0,
+                    319.0
+                ],
+                [
+                    396.0,
+                    319.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

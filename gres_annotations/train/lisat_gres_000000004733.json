@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the vehicle that stands out with its bright headlights and shiny exterior against the dim backdrop.",
+        "Locate the car that features a unique bright headlight and a reflective surface in the midst of darker surroundings.",
+        "Find the automobile that is recognizable by its distinct luminous headlamp and glossy surface amid the shadowy environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004733.jpg",
+            "points": [
+                [
+                    335.0,
+                    336.0
+                ],
+                [
+                    335.0,
+                    337.0
+                ],
+                [
+                    334.0,
+                    337.0
+                ],
+                [
+                    334.0,
+                    338.0
+                ],
+                [
+                    333.0,
+                    338.0
+                ],
+                [
+                    333.0,
+                    339.0
+                ],
+                [
+                    332.0,
+                    339.0
+                ],
+                [
+                    332.0,
+                    341.0
+                ],
+                [
+                    331.0,
+                    341.0
+                ],
+                [
+                    331.0,
+                    343.0
+                ],
+                [
+                    330.0,
+                    343.0
+                ],
+                [
+                    330.0,
+                    346.0
+                ],
+                [
+                    331.0,
+                    346.0
+                ],
+                [
+                    331.0,
+                    348.0
+                ],
+                [
+                    332.0,
+                    348.0
+                ],
+                [
+                    332.0,
+                    349.0
+                ],
+                [
+                    333.0,
+                    349.0
+                ],
+                [
+                    333.0,
+                    350.0
+                ],
+                [
+                    337.0,
+                    350.0
+                ],
+                [
+                    337.0,
+                    348.0
+                ],
+                [
+                    338.0,
+                    348.0
+                ],
+                [
+                    338.0,
+                    344.0
+                ],
+                [
+                    339.0,
+                    344.0
+                ],
+                [
+                    339.0,
+                    337.0
+                ],
+                [
+                    338.0,
+                    337.0
+                ],
+                [
+                    338.0,
+                    336.0
+                ],
+                [
+                    335.0,
+                    336.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

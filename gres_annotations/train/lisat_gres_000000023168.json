@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the rectangular-shaped trailer bed with wheels towards the bottom of the image, attached to the truck cab in front.",
+        "Identify the trailer bed, which has a rectangular form and wheels, located near the bottom of the picture and linked to a truck cab at the front.",
+        "Spot the trailer bed with a rectangular shape and wheels at the lower part of the image, connected to the truck cab at the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023168.jpg",
+            "points": [
+                [
+                    143.0,
+                    305.0
+                ],
+                [
+                    143.0,
+                    306.0
+                ],
+                [
+                    141.0,
+                    306.0
+                ],
+                [
+                    141.0,
+                    308.0
+                ],
+                [
+                    140.0,
+                    308.0
+                ],
+                [
+                    140.0,
+                    333.0
+                ],
+                [
+                    141.0,
+                    333.0
+                ],
+                [
+                    141.0,
+                    334.0
+                ],
+                [
+                    143.0,
+                    334.0
+                ],
+                [
+                    143.0,
+                    335.0
+                ],
+                [
+                    147.0,
+                    335.0
+                ],
+                [
+                    147.0,
+                    334.0
+                ],
+                [
+                    150.0,
+                    334.0
+                ],
+                [
+                    150.0,
+                    333.0
+                ],
+                [
+                    151.0,
+                    333.0
+                ],
+                [
+                    151.0,
+                    332.0
+                ],
+                [
+                    152.0,
+                    332.0
+                ],
+                [
+                    152.0,
+                    306.0
+                ],
+                [
+                    151.0,
+                    306.0
+                ],
+                [
+                    151.0,
+                    305.0
+                ],
+                [
+                    143.0,
+                    305.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

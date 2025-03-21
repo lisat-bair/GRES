@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the truck that is uniquely white and has a characteristic boxy design, resembling a typical truck.",
+        "Look for the truck that stands out with its white color and traditional boxy form, common among trucks.",
+        "Identify the truck that features a noticeable white hue and a standard boxy appearance, akin to a typical truck."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005008.jpg",
+            "points": [
+                [
+                    98.0,
+                    250.0
+                ],
+                [
+                    98.0,
+                    251.0
+                ],
+                [
+                    96.0,
+                    251.0
+                ],
+                [
+                    96.0,
+                    252.0
+                ],
+                [
+                    95.0,
+                    252.0
+                ],
+                [
+                    95.0,
+                    254.0
+                ],
+                [
+                    94.0,
+                    254.0
+                ],
+                [
+                    94.0,
+                    258.0
+                ],
+                [
+                    95.0,
+                    258.0
+                ],
+                [
+                    95.0,
+                    259.0
+                ],
+                [
+                    98.0,
+                    259.0
+                ],
+                [
+                    98.0,
+                    258.0
+                ],
+                [
+                    100.0,
+                    258.0
+                ],
+                [
+                    100.0,
+                    256.0
+                ],
+                [
+                    101.0,
+                    256.0
+                ],
+                [
+                    101.0,
+                    254.0
+                ],
+                [
+                    102.0,
+                    254.0
+                ],
+                [
+                    102.0,
+                    253.0
+                ],
+                [
+                    101.0,
+                    253.0
+                ],
+                [
+                    101.0,
+                    252.0
+                ],
+                [
+                    100.0,
+                    252.0
+                ],
+                [
+                    100.0,
+                    251.0
+                ],
+                [
+                    99.0,
+                    251.0
+                ],
+                [
+                    99.0,
+                    250.0
+                ],
+                [
+                    98.0,
+                    250.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

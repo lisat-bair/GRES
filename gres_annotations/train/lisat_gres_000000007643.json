@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the truck positioned close to the upper-right corner of the image, characterized by its compact rectangular form.",
+        "Identify the compact rectangular truck situated towards the top-right section of the image.",
+        "Spot the truck with a compact, rectangular shape located near the upper right of the picture."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007643.jpg",
+            "points": [
+                [
+                    398.0,
+                    146.0
+                ],
+                [
+                    398.0,
+                    147.0
+                ],
+                [
+                    397.0,
+                    147.0
+                ],
+                [
+                    397.0,
+                    148.0
+                ],
+                [
+                    396.0,
+                    148.0
+                ],
+                [
+                    396.0,
+                    150.0
+                ],
+                [
+                    395.0,
+                    150.0
+                ],
+                [
+                    395.0,
+                    152.0
+                ],
+                [
+                    394.0,
+                    152.0
+                ],
+                [
+                    394.0,
+                    154.0
+                ],
+                [
+                    393.0,
+                    154.0
+                ],
+                [
+                    393.0,
+                    156.0
+                ],
+                [
+                    392.0,
+                    156.0
+                ],
+                [
+                    392.0,
+                    159.0
+                ],
+                [
+                    391.0,
+                    159.0
+                ],
+                [
+                    391.0,
+                    162.0
+                ],
+                [
+                    392.0,
+                    162.0
+                ],
+                [
+                    392.0,
+                    164.0
+                ],
+                [
+                    394.0,
+                    164.0
+                ],
+                [
+                    394.0,
+                    165.0
+                ],
+                [
+                    396.0,
+                    165.0
+                ],
+                [
+                    396.0,
+                    164.0
+                ],
+                [
+                    398.0,
+                    164.0
+                ],
+                [
+                    398.0,
+                    163.0
+                ],
+                [
+                    399.0,
+                    163.0
+                ],
+                [
+                    399.0,
+                    161.0
+                ],
+                [
+                    400.0,
+                    161.0
+                ],
+                [
+                    400.0,
+                    158.0
+                ],
+                [
+                    401.0,
+                    158.0
+                ],
+                [
+                    401.0,
+                    155.0
+                ],
+                [
+                    402.0,
+                    155.0
+                ],
+                [
+                    402.0,
+                    148.0
+                ],
+                [
+                    401.0,
+                    148.0
+                ],
+                [
+                    401.0,
+                    147.0
+                ],
+                [
+                    399.0,
+                    147.0
+                ],
+                [
+                    399.0,
+                    146.0
+                ],
+                [
+                    398.0,
+                    146.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

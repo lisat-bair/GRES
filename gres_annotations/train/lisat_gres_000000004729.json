@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the vehicle that stands out with its vibrant red hue, sleek curved design, and shiny exterior, setting it apart from its surroundings.",
+        "Find the automobile that features a unique red shade, a smooth and curved silhouette, and a glossy finish, making it distinct from the environment around it.",
+        "Spot the car characterized by its striking red color, gently curved form, and reflective sheen, which contrasts with the area it is in."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004729.jpg",
+            "points": [
+                [
+                    331.0,
+                    34.0
+                ],
+                [
+                    331.0,
+                    36.0
+                ],
+                [
+                    330.0,
+                    36.0
+                ],
+                [
+                    330.0,
+                    38.0
+                ],
+                [
+                    329.0,
+                    38.0
+                ],
+                [
+                    329.0,
+                    41.0
+                ],
+                [
+                    328.0,
+                    41.0
+                ],
+                [
+                    328.0,
+                    44.0
+                ],
+                [
+                    327.0,
+                    44.0
+                ],
+                [
+                    327.0,
+                    45.0
+                ],
+                [
+                    328.0,
+                    45.0
+                ],
+                [
+                    328.0,
+                    47.0
+                ],
+                [
+                    330.0,
+                    47.0
+                ],
+                [
+                    330.0,
+                    48.0
+                ],
+                [
+                    334.0,
+                    48.0
+                ],
+                [
+                    334.0,
+                    46.0
+                ],
+                [
+                    335.0,
+                    46.0
+                ],
+                [
+                    335.0,
+                    43.0
+                ],
+                [
+                    336.0,
+                    43.0
+                ],
+                [
+                    336.0,
+                    41.0
+                ],
+                [
+                    337.0,
+                    41.0
+                ],
+                [
+                    337.0,
+                    38.0
+                ],
+                [
+                    338.0,
+                    38.0
+                ],
+                [
+                    338.0,
+                    36.0
+                ],
+                [
+                    337.0,
+                    36.0
+                ],
+                [
+                    337.0,
+                    35.0
+                ],
+                [
+                    335.0,
+                    35.0
+                ],
+                [
+                    335.0,
+                    34.0
+                ],
+                [
+                    331.0,
+                    34.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

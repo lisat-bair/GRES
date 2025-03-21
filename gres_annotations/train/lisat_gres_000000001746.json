@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the structure that features a rectangular design and unique vertical window arrangements.",
+        "Identify the edifice characterized by a rectangular form and distinctive vertical window layouts.",
+        "Search for the construction displaying a rectangular shape with notable vertical window designs."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001746.jpg",
+            "points": [
+                [
+                    8.0,
+                    60.0
+                ],
+                [
+                    8.0,
+                    61.0
+                ],
+                [
+                    5.0,
+                    61.0
+                ],
+                [
+                    5.0,
+                    62.0
+                ],
+                [
+                    4.0,
+                    62.0
+                ],
+                [
+                    4.0,
+                    65.0
+                ],
+                [
+                    3.0,
+                    65.0
+                ],
+                [
+                    3.0,
+                    71.0
+                ],
+                [
+                    4.0,
+                    71.0
+                ],
+                [
+                    4.0,
+                    73.0
+                ],
+                [
+                    5.0,
+                    73.0
+                ],
+                [
+                    5.0,
+                    74.0
+                ],
+                [
+                    8.0,
+                    74.0
+                ],
+                [
+                    8.0,
+                    75.0
+                ],
+                [
+                    12.0,
+                    75.0
+                ],
+                [
+                    12.0,
+                    74.0
+                ],
+                [
+                    13.0,
+                    74.0
+                ],
+                [
+                    13.0,
+                    73.0
+                ],
+                [
+                    14.0,
+                    73.0
+                ],
+                [
+                    14.0,
+                    71.0
+                ],
+                [
+                    15.0,
+                    71.0
+                ],
+                [
+                    15.0,
+                    65.0
+                ],
+                [
+                    14.0,
+                    65.0
+                ],
+                [
+                    14.0,
+                    63.0
+                ],
+                [
+                    12.0,
+                    63.0
+                ],
+                [
+                    12.0,
+                    62.0
+                ],
+                [
+                    11.0,
+                    62.0
+                ],
+                [
+                    11.0,
+                    61.0
+                ],
+                [
+                    10.0,
+                    61.0
+                ],
+                [
+                    10.0,
+                    60.0
+                ],
+                [
+                    8.0,
+                    60.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

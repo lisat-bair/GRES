@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the glossy black automobile with unique reflections, showcasing a smooth, rounded design.",
+        "Find the lustrous black vehicle with notable reflections, featuring an elegant, curvaceous form.",
+        "Locate the polished black car with characteristic reflections, displaying a streamlined, curved silhouette."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009884.jpg",
+            "points": [
+                [
+                    481.0,
+                    84.0
+                ],
+                [
+                    481.0,
+                    85.0
+                ],
+                [
+                    479.0,
+                    85.0
+                ],
+                [
+                    479.0,
+                    86.0
+                ],
+                [
+                    478.0,
+                    86.0
+                ],
+                [
+                    478.0,
+                    87.0
+                ],
+                [
+                    477.0,
+                    87.0
+                ],
+                [
+                    477.0,
+                    88.0
+                ],
+                [
+                    478.0,
+                    88.0
+                ],
+                [
+                    478.0,
+                    89.0
+                ],
+                [
+                    479.0,
+                    89.0
+                ],
+                [
+                    479.0,
+                    90.0
+                ],
+                [
+                    492.0,
+                    90.0
+                ],
+                [
+                    492.0,
+                    86.0
+                ],
+                [
+                    491.0,
+                    86.0
+                ],
+                [
+                    491.0,
+                    85.0
+                ],
+                [
+                    490.0,
+                    85.0
+                ],
+                [
+                    490.0,
+                    84.0
+                ],
+                [
+                    481.0,
+                    84.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

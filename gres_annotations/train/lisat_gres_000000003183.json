@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Divide the structure with a square foundation and a sharp, pyramid-shaped peak crafted from light-hued material.",
+        "Separate the edifice with a square base and a conical, pyramid-style summit made from pale-colored material.",
+        "Partition the construction featuring a square foundation and a pointed, pyramid-like apex composed of light-toned material."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003183.jpg",
+            "points": [
+                [
+                    152.0,
+                    68.0
+                ],
+                [
+                    152.0,
+                    69.0
+                ],
+                [
+                    142.0,
+                    69.0
+                ],
+                [
+                    142.0,
+                    70.0
+                ],
+                [
+                    132.0,
+                    70.0
+                ],
+                [
+                    132.0,
+                    71.0
+                ],
+                [
+                    125.0,
+                    71.0
+                ],
+                [
+                    125.0,
+                    72.0
+                ],
+                [
+                    124.0,
+                    72.0
+                ],
+                [
+                    124.0,
+                    81.0
+                ],
+                [
+                    125.0,
+                    81.0
+                ],
+                [
+                    125.0,
+                    88.0
+                ],
+                [
+                    126.0,
+                    88.0
+                ],
+                [
+                    126.0,
+                    96.0
+                ],
+                [
+                    127.0,
+                    96.0
+                ],
+                [
+                    127.0,
+                    103.0
+                ],
+                [
+                    128.0,
+                    103.0
+                ],
+                [
+                    128.0,
+                    108.0
+                ],
+                [
+                    138.0,
+                    108.0
+                ],
+                [
+                    138.0,
+                    107.0
+                ],
+                [
+                    148.0,
+                    107.0
+                ],
+                [
+                    148.0,
+                    106.0
+                ],
+                [
+                    156.0,
+                    106.0
+                ],
+                [
+                    156.0,
+                    105.0
+                ],
+                [
+                    164.0,
+                    105.0
+                ],
+                [
+                    164.0,
+                    104.0
+                ],
+                [
+                    165.0,
+                    104.0
+                ],
+                [
+                    165.0,
+                    92.0
+                ],
+                [
+                    164.0,
+                    92.0
+                ],
+                [
+                    164.0,
+                    84.0
+                ],
+                [
+                    163.0,
+                    84.0
+                ],
+                [
+                    163.0,
+                    73.0
+                ],
+                [
+                    162.0,
+                    73.0
+                ],
+                [
+                    162.0,
+                    69.0
+                ],
+                [
+                    161.0,
+                    69.0
+                ],
+                [
+                    161.0,
+                    68.0
+                ],
+                [
+                    152.0,
+                    68.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

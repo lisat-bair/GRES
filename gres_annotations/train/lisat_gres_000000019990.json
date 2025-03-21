@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the automobile that features a metallic coating, four tires, and a smooth, aerodynamic design characteristic of a car.",
+        "Search for the vehicle that boasts a metallic exterior, four wheels, and an elegant aerodynamic form typical of an automobile.",
+        "Identify the car that has a shiny metallic surface, four wheels, and a streamlined aerodynamic shape that is usual for a vehicle."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019990.jpg",
+            "points": [
+                [
+                    173.0,
+                    343.0
+                ],
+                [
+                    173.0,
+                    344.0
+                ],
+                [
+                    172.0,
+                    344.0
+                ],
+                [
+                    172.0,
+                    347.0
+                ],
+                [
+                    171.0,
+                    347.0
+                ],
+                [
+                    171.0,
+                    354.0
+                ],
+                [
+                    172.0,
+                    354.0
+                ],
+                [
+                    172.0,
+                    356.0
+                ],
+                [
+                    173.0,
+                    356.0
+                ],
+                [
+                    173.0,
+                    357.0
+                ],
+                [
+                    174.0,
+                    357.0
+                ],
+                [
+                    174.0,
+                    358.0
+                ],
+                [
+                    178.0,
+                    358.0
+                ],
+                [
+                    178.0,
+                    357.0
+                ],
+                [
+                    180.0,
+                    357.0
+                ],
+                [
+                    180.0,
+                    356.0
+                ],
+                [
+                    181.0,
+                    356.0
+                ],
+                [
+                    181.0,
+                    355.0
+                ],
+                [
+                    182.0,
+                    355.0
+                ],
+                [
+                    182.0,
+                    353.0
+                ],
+                [
+                    183.0,
+                    353.0
+                ],
+                [
+                    183.0,
+                    350.0
+                ],
+                [
+                    182.0,
+                    350.0
+                ],
+                [
+                    182.0,
+                    344.0
+                ],
+                [
+                    180.0,
+                    344.0
+                ],
+                [
+                    180.0,
+                    343.0
+                ],
+                [
+                    173.0,
+                    343.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

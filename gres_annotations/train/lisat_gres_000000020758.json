@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the big rectangular vehicle in the picture, featuring large windows and wheels, often showcased in vivid or unique colors.",
+        "Find the sizable rectangular transport in the image, noticeable by its prominent windows and wheels, usually painted in bright or distinctive shades.",
+        "Locate the large rectangular automobile in the image, characterized by its significant windows and wheels, typically adorned with bright or unusual colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020758.jpg",
+            "points": [
+                [
+                    310.0,
+                    103.0
+                ],
+                [
+                    310.0,
+                    104.0
+                ],
+                [
+                    309.0,
+                    104.0
+                ],
+                [
+                    309.0,
+                    105.0
+                ],
+                [
+                    308.0,
+                    105.0
+                ],
+                [
+                    308.0,
+                    109.0
+                ],
+                [
+                    310.0,
+                    109.0
+                ],
+                [
+                    310.0,
+                    110.0
+                ],
+                [
+                    312.0,
+                    110.0
+                ],
+                [
+                    312.0,
+                    111.0
+                ],
+                [
+                    314.0,
+                    111.0
+                ],
+                [
+                    314.0,
+                    112.0
+                ],
+                [
+                    317.0,
+                    112.0
+                ],
+                [
+                    317.0,
+                    113.0
+                ],
+                [
+                    319.0,
+                    113.0
+                ],
+                [
+                    319.0,
+                    114.0
+                ],
+                [
+                    322.0,
+                    114.0
+                ],
+                [
+                    322.0,
+                    115.0
+                ],
+                [
+                    323.0,
+                    115.0
+                ],
+                [
+                    323.0,
+                    114.0
+                ],
+                [
+                    325.0,
+                    114.0
+                ],
+                [
+                    325.0,
+                    113.0
+                ],
+                [
+                    326.0,
+                    113.0
+                ],
+                [
+                    326.0,
+                    111.0
+                ],
+                [
+                    327.0,
+                    111.0
+                ],
+                [
+                    327.0,
+                    110.0
+                ],
+                [
+                    328.0,
+                    110.0
+                ],
+                [
+                    328.0,
+                    107.0
+                ],
+                [
+                    327.0,
+                    107.0
+                ],
+                [
+                    327.0,
+                    106.0
+                ],
+                [
+                    326.0,
+                    106.0
+                ],
+                [
+                    326.0,
+                    105.0
+                ],
+                [
+                    324.0,
+                    105.0
+                ],
+                [
+                    324.0,
+                    104.0
+                ],
+                [
+                    318.0,
+                    104.0
+                ],
+                [
+                    318.0,
+                    103.0
+                ],
+                [
+                    310.0,
+                    103.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

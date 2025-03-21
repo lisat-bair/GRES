@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the truck that features a noticeable white cab and unique vertical grille designs, contrasted by a dark backdrop.",
+        "Identify the truck which has a striking white cab with vertical grille patterns, highlighted against a dark background.",
+        "Look for the truck with a conspicuous white cab and distinct vertical grille motifs, standing out against a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036361.jpg",
+            "points": [
+                [
+                    150.0,
+                    125.0
+                ],
+                [
+                    150.0,
+                    127.0
+                ],
+                [
+                    149.0,
+                    127.0
+                ],
+                [
+                    149.0,
+                    137.0
+                ],
+                [
+                    148.0,
+                    137.0
+                ],
+                [
+                    148.0,
+                    140.0
+                ],
+                [
+                    149.0,
+                    140.0
+                ],
+                [
+                    149.0,
+                    142.0
+                ],
+                [
+                    150.0,
+                    142.0
+                ],
+                [
+                    150.0,
+                    143.0
+                ],
+                [
+                    157.0,
+                    143.0
+                ],
+                [
+                    157.0,
+                    142.0
+                ],
+                [
+                    158.0,
+                    142.0
+                ],
+                [
+                    158.0,
+                    140.0
+                ],
+                [
+                    159.0,
+                    140.0
+                ],
+                [
+                    159.0,
+                    129.0
+                ],
+                [
+                    158.0,
+                    129.0
+                ],
+                [
+                    158.0,
+                    127.0
+                ],
+                [
+                    157.0,
+                    127.0
+                ],
+                [
+                    157.0,
+                    126.0
+                ],
+                [
+                    156.0,
+                    126.0
+                ],
+                [
+                    156.0,
+                    125.0
+                ],
+                [
+                    150.0,
+                    125.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

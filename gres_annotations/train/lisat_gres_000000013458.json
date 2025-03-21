@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the bus with a long rectangular form and a unique yellow hue, commonly associated with school buses.",
+        "Recognize the bus by its stretched rectangular outline and its characteristic yellow shade, typical of school buses.",
+        "Spot the bus by its extended rectangular design and the distinctive yellow color, which is a trait of school buses."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013458.jpg",
+            "points": [
+                [
+                    205.0,
+                    248.0
+                ],
+                [
+                    205.0,
+                    249.0
+                ],
+                [
+                    204.0,
+                    249.0
+                ],
+                [
+                    204.0,
+                    250.0
+                ],
+                [
+                    203.0,
+                    250.0
+                ],
+                [
+                    203.0,
+                    256.0
+                ],
+                [
+                    205.0,
+                    256.0
+                ],
+                [
+                    205.0,
+                    257.0
+                ],
+                [
+                    210.0,
+                    257.0
+                ],
+                [
+                    210.0,
+                    258.0
+                ],
+                [
+                    216.0,
+                    258.0
+                ],
+                [
+                    216.0,
+                    259.0
+                ],
+                [
+                    224.0,
+                    259.0
+                ],
+                [
+                    224.0,
+                    258.0
+                ],
+                [
+                    225.0,
+                    258.0
+                ],
+                [
+                    225.0,
+                    255.0
+                ],
+                [
+                    226.0,
+                    255.0
+                ],
+                [
+                    226.0,
+                    253.0
+                ],
+                [
+                    225.0,
+                    253.0
+                ],
+                [
+                    225.0,
+                    252.0
+                ],
+                [
+                    224.0,
+                    252.0
+                ],
+                [
+                    224.0,
+                    251.0
+                ],
+                [
+                    220.0,
+                    251.0
+                ],
+                [
+                    220.0,
+                    250.0
+                ],
+                [
+                    213.0,
+                    250.0
+                ],
+                [
+                    213.0,
+                    249.0
+                ],
+                [
+                    208.0,
+                    249.0
+                ],
+                [
+                    208.0,
+                    248.0
+                ],
+                [
+                    205.0,
+                    248.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

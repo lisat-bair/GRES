@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the vehicle with a small design located at the lower-right corner of the picture.",
+        "Locate the compact-shaped automobile positioned in the bottom-right area of the image.",
+        "Find the car with a compact form situated in the bottom-right section of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007352.jpg",
+            "points": [
+                [
+                    366.0,
+                    342.0
+                ],
+                [
+                    366.0,
+                    344.0
+                ],
+                [
+                    365.0,
+                    344.0
+                ],
+                [
+                    365.0,
+                    346.0
+                ],
+                [
+                    366.0,
+                    346.0
+                ],
+                [
+                    366.0,
+                    348.0
+                ],
+                [
+                    368.0,
+                    348.0
+                ],
+                [
+                    368.0,
+                    349.0
+                ],
+                [
+                    372.0,
+                    349.0
+                ],
+                [
+                    372.0,
+                    348.0
+                ],
+                [
+                    373.0,
+                    348.0
+                ],
+                [
+                    373.0,
+                    344.0
+                ],
+                [
+                    372.0,
+                    344.0
+                ],
+                [
+                    372.0,
+                    343.0
+                ],
+                [
+                    369.0,
+                    343.0
+                ],
+                [
+                    369.0,
+                    342.0
+                ],
+                [
+                    366.0,
+                    342.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

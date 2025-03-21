@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the truck that stands out due to its white color and large rectangular form amidst the other vehicles.",
+        "Identify the truck with a unique white hue and a big rectangular structure among the surrounding vehicles.",
+        "Spot the truck characterized by its distinct white shade and sizable rectangular shape among the other vehicles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024041.jpg",
+            "points": [
+                [
+                    97.0,
+                    481.0
+                ],
+                [
+                    97.0,
+                    483.0
+                ],
+                [
+                    96.0,
+                    483.0
+                ],
+                [
+                    96.0,
+                    485.0
+                ],
+                [
+                    95.0,
+                    485.0
+                ],
+                [
+                    95.0,
+                    488.0
+                ],
+                [
+                    96.0,
+                    488.0
+                ],
+                [
+                    96.0,
+                    489.0
+                ],
+                [
+                    99.0,
+                    489.0
+                ],
+                [
+                    99.0,
+                    490.0
+                ],
+                [
+                    103.0,
+                    490.0
+                ],
+                [
+                    103.0,
+                    491.0
+                ],
+                [
+                    107.0,
+                    491.0
+                ],
+                [
+                    107.0,
+                    492.0
+                ],
+                [
+                    113.0,
+                    492.0
+                ],
+                [
+                    113.0,
+                    491.0
+                ],
+                [
+                    114.0,
+                    491.0
+                ],
+                [
+                    114.0,
+                    490.0
+                ],
+                [
+                    115.0,
+                    490.0
+                ],
+                [
+                    115.0,
+                    489.0
+                ],
+                [
+                    114.0,
+                    489.0
+                ],
+                [
+                    114.0,
+                    486.0
+                ],
+                [
+                    113.0,
+                    486.0
+                ],
+                [
+                    113.0,
+                    485.0
+                ],
+                [
+                    112.0,
+                    485.0
+                ],
+                [
+                    112.0,
+                    484.0
+                ],
+                [
+                    109.0,
+                    484.0
+                ],
+                [
+                    109.0,
+                    483.0
+                ],
+                [
+                    106.0,
+                    483.0
+                ],
+                [
+                    106.0,
+                    482.0
+                ],
+                [
+                    103.0,
+                    482.0
+                ],
+                [
+                    103.0,
+                    481.0
+                ],
+                [
+                    97.0,
+                    481.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

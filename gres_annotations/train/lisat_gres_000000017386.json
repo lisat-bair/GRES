@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the white passenger vehicle that is known for its unique long form.",
+        "Locate the passenger vehicle characterized by its elongated design and white hue.",
+        "Find the vehicle for passengers that stands out due to its extended shape and white color."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017386.jpg",
+            "points": [
+                [
+                    17.0,
+                    268.0
+                ],
+                [
+                    17.0,
+                    271.0
+                ],
+                [
+                    18.0,
+                    271.0
+                ],
+                [
+                    18.0,
+                    272.0
+                ],
+                [
+                    19.0,
+                    272.0
+                ],
+                [
+                    19.0,
+                    273.0
+                ],
+                [
+                    20.0,
+                    273.0
+                ],
+                [
+                    20.0,
+                    274.0
+                ],
+                [
+                    22.0,
+                    274.0
+                ],
+                [
+                    22.0,
+                    275.0
+                ],
+                [
+                    23.0,
+                    275.0
+                ],
+                [
+                    23.0,
+                    276.0
+                ],
+                [
+                    26.0,
+                    276.0
+                ],
+                [
+                    26.0,
+                    277.0
+                ],
+                [
+                    28.0,
+                    277.0
+                ],
+                [
+                    28.0,
+                    278.0
+                ],
+                [
+                    33.0,
+                    278.0
+                ],
+                [
+                    33.0,
+                    277.0
+                ],
+                [
+                    34.0,
+                    277.0
+                ],
+                [
+                    34.0,
+                    275.0
+                ],
+                [
+                    33.0,
+                    275.0
+                ],
+                [
+                    33.0,
+                    274.0
+                ],
+                [
+                    32.0,
+                    274.0
+                ],
+                [
+                    32.0,
+                    273.0
+                ],
+                [
+                    30.0,
+                    273.0
+                ],
+                [
+                    30.0,
+                    272.0
+                ],
+                [
+                    27.0,
+                    272.0
+                ],
+                [
+                    27.0,
+                    271.0
+                ],
+                [
+                    24.0,
+                    271.0
+                ],
+                [
+                    24.0,
+                    270.0
+                ],
+                [
+                    22.0,
+                    270.0
+                ],
+                [
+                    22.0,
+                    269.0
+                ],
+                [
+                    19.0,
+                    269.0
+                ],
+                [
+                    19.0,
+                    268.0
+                ],
+                [
+                    17.0,
+                    268.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

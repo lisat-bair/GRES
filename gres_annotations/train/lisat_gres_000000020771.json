@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the truck situated in the lower-left corner of the picture; it has a long rectangular form and noticeable wheels, usually metallic or painted.",
+        "Look for the truck positioned at the bottom-left of the image, characterized by its long rectangular shape and prominent wheels that are often metallic or painted.",
+        "Identify the truck located in the bottom-left area of the photo, which features a long rectangular design and distinct wheels, commonly metallic or painted."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020771.jpg",
+            "points": [
+                [
+                    269.0,
+                    407.0
+                ],
+                [
+                    269.0,
+                    408.0
+                ],
+                [
+                    268.0,
+                    408.0
+                ],
+                [
+                    268.0,
+                    410.0
+                ],
+                [
+                    267.0,
+                    410.0
+                ],
+                [
+                    267.0,
+                    412.0
+                ],
+                [
+                    268.0,
+                    412.0
+                ],
+                [
+                    268.0,
+                    413.0
+                ],
+                [
+                    269.0,
+                    413.0
+                ],
+                [
+                    269.0,
+                    414.0
+                ],
+                [
+                    271.0,
+                    414.0
+                ],
+                [
+                    271.0,
+                    415.0
+                ],
+                [
+                    278.0,
+                    415.0
+                ],
+                [
+                    278.0,
+                    414.0
+                ],
+                [
+                    280.0,
+                    414.0
+                ],
+                [
+                    280.0,
+                    415.0
+                ],
+                [
+                    281.0,
+                    415.0
+                ],
+                [
+                    281.0,
+                    414.0
+                ],
+                [
+                    283.0,
+                    414.0
+                ],
+                [
+                    283.0,
+                    412.0
+                ],
+                [
+                    282.0,
+                    412.0
+                ],
+                [
+                    282.0,
+                    411.0
+                ],
+                [
+                    279.0,
+                    411.0
+                ],
+                [
+                    279.0,
+                    410.0
+                ],
+                [
+                    278.0,
+                    410.0
+                ],
+                [
+                    278.0,
+                    409.0
+                ],
+                [
+                    276.0,
+                    409.0
+                ],
+                [
+                    276.0,
+                    408.0
+                ],
+                [
+                    274.0,
+                    408.0
+                ],
+                [
+                    274.0,
+                    407.0
+                ],
+                [
+                    269.0,
+                    407.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

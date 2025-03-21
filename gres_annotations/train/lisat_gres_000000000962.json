@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the loader located centrally in the image, characterized by its compact form and unique features.",
+        "Locate the loader at the center of the image, distinguished by its compact shape and noticeable features.",
+        "Find the loader positioned in the middle of the image, marked by its compact size and distinctive characteristics."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000962.jpg",
+            "points": [
+                [
+                    188.0,
+                    269.0
+                ],
+                [
+                    188.0,
+                    270.0
+                ],
+                [
+                    186.0,
+                    270.0
+                ],
+                [
+                    186.0,
+                    280.0
+                ],
+                [
+                    187.0,
+                    280.0
+                ],
+                [
+                    187.0,
+                    287.0
+                ],
+                [
+                    188.0,
+                    287.0
+                ],
+                [
+                    188.0,
+                    289.0
+                ],
+                [
+                    190.0,
+                    289.0
+                ],
+                [
+                    190.0,
+                    290.0
+                ],
+                [
+                    195.0,
+                    290.0
+                ],
+                [
+                    195.0,
+                    289.0
+                ],
+                [
+                    196.0,
+                    289.0
+                ],
+                [
+                    196.0,
+                    288.0
+                ],
+                [
+                    197.0,
+                    288.0
+                ],
+                [
+                    197.0,
+                    284.0
+                ],
+                [
+                    196.0,
+                    284.0
+                ],
+                [
+                    196.0,
+                    274.0
+                ],
+                [
+                    195.0,
+                    274.0
+                ],
+                [
+                    195.0,
+                    271.0
+                ],
+                [
+                    194.0,
+                    271.0
+                ],
+                [
+                    194.0,
+                    270.0
+                ],
+                [
+                    192.0,
+                    270.0
+                ],
+                [
+                    192.0,
+                    269.0
+                ],
+                [
+                    188.0,
+                    269.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

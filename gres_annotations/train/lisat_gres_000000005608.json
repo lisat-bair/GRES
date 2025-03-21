@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Pinpoint the straddle carrier situated in the upper-left section of the picture, paying attention to its unique design.",
+        "Locate the straddle carrier found in the top-left corner of the image, concentrating on its distinctive form.",
+        "Spot the straddle carrier positioned in the upper-left part of the photo, emphasizing its particular structure."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005608.jpg",
+            "points": [
+                [
+                    0.0,
+                    54.0
+                ],
+                [
+                    0.0,
+                    109.0
+                ],
+                [
+                    5.0,
+                    109.0
+                ],
+                [
+                    5.0,
+                    107.0
+                ],
+                [
+                    6.0,
+                    107.0
+                ],
+                [
+                    6.0,
+                    98.0
+                ],
+                [
+                    7.0,
+                    98.0
+                ],
+                [
+                    7.0,
+                    94.0
+                ],
+                [
+                    8.0,
+                    94.0
+                ],
+                [
+                    8.0,
+                    85.0
+                ],
+                [
+                    9.0,
+                    85.0
+                ],
+                [
+                    9.0,
+                    75.0
+                ],
+                [
+                    10.0,
+                    75.0
+                ],
+                [
+                    10.0,
+                    64.0
+                ],
+                [
+                    11.0,
+                    64.0
+                ],
+                [
+                    11.0,
+                    62.0
+                ],
+                [
+                    10.0,
+                    62.0
+                ],
+                [
+                    10.0,
+                    59.0
+                ],
+                [
+                    9.0,
+                    59.0
+                ],
+                [
+                    9.0,
+                    57.0
+                ],
+                [
+                    8.0,
+                    57.0
+                ],
+                [
+                    8.0,
+                    56.0
+                ],
+                [
+                    6.0,
+                    56.0
+                ],
+                [
+                    6.0,
+                    55.0
+                ],
+                [
+                    4.0,
+                    55.0
+                ],
+                [
+                    4.0,
+                    54.0
+                ],
+                [
+                    0.0,
+                    54.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

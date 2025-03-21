@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the school bus that has a big, stretched-out form and a unique yellow hue.",
+        "Look for the school bus characterized by its large, extended design and its notable yellow color.",
+        "Find the school bus with a prominent yellow shade and an elongated, large shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007457.jpg",
+            "points": [
+                [
+                    187.0,
+                    323.0
+                ],
+                [
+                    187.0,
+                    324.0
+                ],
+                [
+                    186.0,
+                    324.0
+                ],
+                [
+                    186.0,
+                    325.0
+                ],
+                [
+                    185.0,
+                    325.0
+                ],
+                [
+                    185.0,
+                    328.0
+                ],
+                [
+                    186.0,
+                    328.0
+                ],
+                [
+                    186.0,
+                    330.0
+                ],
+                [
+                    191.0,
+                    330.0
+                ],
+                [
+                    191.0,
+                    329.0
+                ],
+                [
+                    192.0,
+                    329.0
+                ],
+                [
+                    192.0,
+                    327.0
+                ],
+                [
+                    191.0,
+                    327.0
+                ],
+                [
+                    191.0,
+                    324.0
+                ],
+                [
+                    190.0,
+                    324.0
+                ],
+                [
+                    190.0,
+                    323.0
+                ],
+                [
+                    187.0,
+                    323.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the building with a flat, rectangular shape and a distinct blue and gray color pattern, separating it from surrounding elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029388.jpg",
+            "points": [
+                [
+                    124.0,
+                    90.0
+                ],
+                [
+                    124.0,
+                    92.0
+                ],
+                [
+                    123.0,
+                    92.0
+                ],
+                [
+                    123.0,
+                    99.0
+                ],
+                [
+                    124.0,
+                    99.0
+                ],
+                [
+                    124.0,
+                    100.0
+                ],
+                [
+                    127.0,
+                    100.0
+                ],
+                [
+                    127.0,
+                    101.0
+                ],
+                [
+                    137.0,
+                    101.0
+                ],
+                [
+                    137.0,
+                    100.0
+                ],
+                [
+                    138.0,
+                    100.0
+                ],
+                [
+                    138.0,
+                    91.0
+                ],
+                [
+                    136.0,
+                    91.0
+                ],
+                [
+                    136.0,
+                    90.0
+                ],
+                [
+                    124.0,
+                    90.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

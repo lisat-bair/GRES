@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the bus, which is the big, elongated rectangle with windows lying horizontally in the picture.",
+        "Identify the bus in the image, characterized as a sizable, lengthy rectangular object with windows, aligned horizontally.",
+        "Spot the bus, the prominent, stretched rectangle featuring windows, situated horizontally in the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017884.jpg",
+            "points": [
+                [
+                    413.0,
+                    105.0
+                ],
+                [
+                    413.0,
+                    106.0
+                ],
+                [
+                    411.0,
+                    106.0
+                ],
+                [
+                    411.0,
+                    107.0
+                ],
+                [
+                    410.0,
+                    107.0
+                ],
+                [
+                    410.0,
+                    108.0
+                ],
+                [
+                    408.0,
+                    108.0
+                ],
+                [
+                    408.0,
+                    109.0
+                ],
+                [
+                    405.0,
+                    109.0
+                ],
+                [
+                    405.0,
+                    110.0
+                ],
+                [
+                    402.0,
+                    110.0
+                ],
+                [
+                    402.0,
+                    111.0
+                ],
+                [
+                    400.0,
+                    111.0
+                ],
+                [
+                    400.0,
+                    115.0
+                ],
+                [
+                    401.0,
+                    115.0
+                ],
+                [
+                    401.0,
+                    116.0
+                ],
+                [
+                    402.0,
+                    116.0
+                ],
+                [
+                    402.0,
+                    117.0
+                ],
+                [
+                    406.0,
+                    117.0
+                ],
+                [
+                    406.0,
+                    116.0
+                ],
+                [
+                    411.0,
+                    116.0
+                ],
+                [
+                    411.0,
+                    115.0
+                ],
+                [
+                    415.0,
+                    115.0
+                ],
+                [
+                    415.0,
+                    114.0
+                ],
+                [
+                    417.0,
+                    114.0
+                ],
+                [
+                    417.0,
+                    113.0
+                ],
+                [
+                    419.0,
+                    113.0
+                ],
+                [
+                    419.0,
+                    107.0
+                ],
+                [
+                    418.0,
+                    107.0
+                ],
+                [
+                    418.0,
+                    105.0
+                ],
+                [
+                    413.0,
+                    105.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

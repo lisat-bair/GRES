@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the speedboat that has a sleek design and a long, white body, probably floating on water.",
+        "Spot the watercraft featuring a white, elongated form and an aerodynamic build, most likely in the water.",
+        "Find the vessel with a streamlined shape and a white, extended structure, possibly situated on a water surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021254.jpg",
+            "points": [
+                [
+                    284.0,
+                    122.0
+                ],
+                [
+                    284.0,
+                    123.0
+                ],
+                [
+                    281.0,
+                    123.0
+                ],
+                [
+                    281.0,
+                    124.0
+                ],
+                [
+                    279.0,
+                    124.0
+                ],
+                [
+                    279.0,
+                    125.0
+                ],
+                [
+                    278.0,
+                    125.0
+                ],
+                [
+                    278.0,
+                    127.0
+                ],
+                [
+                    277.0,
+                    127.0
+                ],
+                [
+                    277.0,
+                    130.0
+                ],
+                [
+                    278.0,
+                    130.0
+                ],
+                [
+                    278.0,
+                    131.0
+                ],
+                [
+                    280.0,
+                    131.0
+                ],
+                [
+                    280.0,
+                    132.0
+                ],
+                [
+                    282.0,
+                    132.0
+                ],
+                [
+                    282.0,
+                    133.0
+                ],
+                [
+                    293.0,
+                    133.0
+                ],
+                [
+                    293.0,
+                    132.0
+                ],
+                [
+                    296.0,
+                    132.0
+                ],
+                [
+                    296.0,
+                    131.0
+                ],
+                [
+                    297.0,
+                    131.0
+                ],
+                [
+                    297.0,
+                    130.0
+                ],
+                [
+                    298.0,
+                    130.0
+                ],
+                [
+                    298.0,
+                    125.0
+                ],
+                [
+                    297.0,
+                    125.0
+                ],
+                [
+                    297.0,
+                    123.0
+                ],
+                [
+                    296.0,
+                    123.0
+                ],
+                [
+                    296.0,
+                    122.0
+                ],
+                [
+                    284.0,
+                    122.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

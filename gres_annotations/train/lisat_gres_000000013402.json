@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the haul truck that stands out with its unique rectangular form and vibrant yellow hue set against the earthy brown landscape of the mining site.",
+        "Locate the haul truck characterized by its noticeable rectangular design and bright yellow tone contrasting with the brown terrain of the mining zone.",
+        "Find the haul truck distinguished by its rectangular shape and vivid yellow color, which contrasts sharply with the earthy brown backdrop of the mining area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013402.jpg",
+            "points": [
+                [
+                    130.0,
+                    353.0
+                ],
+                [
+                    130.0,
+                    354.0
+                ],
+                [
+                    129.0,
+                    354.0
+                ],
+                [
+                    129.0,
+                    358.0
+                ],
+                [
+                    128.0,
+                    358.0
+                ],
+                [
+                    128.0,
+                    367.0
+                ],
+                [
+                    129.0,
+                    367.0
+                ],
+                [
+                    129.0,
+                    368.0
+                ],
+                [
+                    133.0,
+                    368.0
+                ],
+                [
+                    133.0,
+                    367.0
+                ],
+                [
+                    135.0,
+                    367.0
+                ],
+                [
+                    135.0,
+                    364.0
+                ],
+                [
+                    136.0,
+                    364.0
+                ],
+                [
+                    136.0,
+                    354.0
+                ],
+                [
+                    135.0,
+                    354.0
+                ],
+                [
+                    135.0,
+                    353.0
+                ],
+                [
+                    130.0,
+                    353.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

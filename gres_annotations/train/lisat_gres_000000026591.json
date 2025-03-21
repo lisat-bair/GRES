@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the cream-colored truck that has a noticeable rectangular form and side windows.",
+        "Locate the truck with a cream hue, characterized by its rectangular shape and visible windows on its side.",
+        "Spot the rectangularly shaped truck that is cream in color, with windows evident along its side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026591.jpg",
+            "points": [
+                [
+                    20.0,
+                    76.0
+                ],
+                [
+                    20.0,
+                    77.0
+                ],
+                [
+                    18.0,
+                    77.0
+                ],
+                [
+                    18.0,
+                    79.0
+                ],
+                [
+                    17.0,
+                    79.0
+                ],
+                [
+                    17.0,
+                    88.0
+                ],
+                [
+                    18.0,
+                    88.0
+                ],
+                [
+                    18.0,
+                    89.0
+                ],
+                [
+                    19.0,
+                    89.0
+                ],
+                [
+                    19.0,
+                    90.0
+                ],
+                [
+                    23.0,
+                    90.0
+                ],
+                [
+                    23.0,
+                    91.0
+                ],
+                [
+                    29.0,
+                    91.0
+                ],
+                [
+                    29.0,
+                    92.0
+                ],
+                [
+                    38.0,
+                    92.0
+                ],
+                [
+                    38.0,
+                    91.0
+                ],
+                [
+                    39.0,
+                    91.0
+                ],
+                [
+                    39.0,
+                    90.0
+                ],
+                [
+                    40.0,
+                    90.0
+                ],
+                [
+                    40.0,
+                    89.0
+                ],
+                [
+                    41.0,
+                    89.0
+                ],
+                [
+                    41.0,
+                    83.0
+                ],
+                [
+                    40.0,
+                    83.0
+                ],
+                [
+                    40.0,
+                    81.0
+                ],
+                [
+                    39.0,
+                    81.0
+                ],
+                [
+                    39.0,
+                    80.0
+                ],
+                [
+                    38.0,
+                    80.0
+                ],
+                [
+                    38.0,
+                    79.0
+                ],
+                [
+                    36.0,
+                    79.0
+                ],
+                [
+                    36.0,
+                    78.0
+                ],
+                [
+                    34.0,
+                    78.0
+                ],
+                [
+                    34.0,
+                    77.0
+                ],
+                [
+                    30.0,
+                    77.0
+                ],
+                [
+                    30.0,
+                    76.0
+                ],
+                [
+                    20.0,
+                    76.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

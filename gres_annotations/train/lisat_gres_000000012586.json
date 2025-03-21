@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Find the vehicle in the image's upper-right section.",
+        "Spot the automobile located at the top-right side of the picture.",
+        "Look for the car positioned in the top-right area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012586.jpg",
+            "points": [
+                [
+                    510.0,
+                    236.0
+                ],
+                [
+                    510.0,
+                    237.0
+                ],
+                [
+                    509.0,
+                    237.0
+                ],
+                [
+                    509.0,
+                    238.0
+                ],
+                [
+                    508.0,
+                    238.0
+                ],
+                [
+                    508.0,
+                    243.0
+                ],
+                [
+                    510.0,
+                    243.0
+                ],
+                [
+                    510.0,
+                    244.0
+                ],
+                [
+                    512.0,
+                    244.0
+                ],
+                [
+                    512.0,
+                    236.0
+                ],
+                [
+                    510.0,
+                    236.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

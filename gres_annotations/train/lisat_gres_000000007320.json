@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the big, vivid yellow equipment that has noticeable wheels or tracks and a conspicuous front or back blade or bucket.",
+        "Search for the large machinery in bright yellow with unique wheels or tracks and a significant blade or bucket either at the front or back.",
+        "Identify the sizeable yellow machine featuring distinctive wheels or tracks with a prominent blade or bucket located at the front or rear."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007320.jpg",
+            "points": [
+                [
+                    511.0,
+                    455.0
+                ],
+                [
+                    511.0,
+                    456.0
+                ],
+                [
+                    509.0,
+                    456.0
+                ],
+                [
+                    509.0,
+                    457.0
+                ],
+                [
+                    507.0,
+                    457.0
+                ],
+                [
+                    507.0,
+                    459.0
+                ],
+                [
+                    506.0,
+                    459.0
+                ],
+                [
+                    506.0,
+                    462.0
+                ],
+                [
+                    507.0,
+                    462.0
+                ],
+                [
+                    507.0,
+                    463.0
+                ],
+                [
+                    508.0,
+                    463.0
+                ],
+                [
+                    508.0,
+                    464.0
+                ],
+                [
+                    510.0,
+                    464.0
+                ],
+                [
+                    510.0,
+                    465.0
+                ],
+                [
+                    512.0,
+                    465.0
+                ],
+                [
+                    512.0,
+                    455.0
+                ],
+                [
+                    511.0,
+                    455.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

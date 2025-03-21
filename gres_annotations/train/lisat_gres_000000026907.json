@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the long, metallic item that is cylindrical and typically positioned horizontally.",
+        "Search for the extended, metal object which is cylindrical and usually lays flat.",
+        "Identify the elongated, metal cylinder that is commonly aligned horizontally."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026907.jpg",
+            "points": [
+                [
+                    106.0,
+                    313.0
+                ],
+                [
+                    106.0,
+                    314.0
+                ],
+                [
+                    105.0,
+                    314.0
+                ],
+                [
+                    105.0,
+                    317.0
+                ],
+                [
+                    104.0,
+                    317.0
+                ],
+                [
+                    104.0,
+                    324.0
+                ],
+                [
+                    103.0,
+                    324.0
+                ],
+                [
+                    103.0,
+                    336.0
+                ],
+                [
+                    109.0,
+                    336.0
+                ],
+                [
+                    109.0,
+                    334.0
+                ],
+                [
+                    110.0,
+                    334.0
+                ],
+                [
+                    110.0,
+                    328.0
+                ],
+                [
+                    111.0,
+                    328.0
+                ],
+                [
+                    111.0,
+                    321.0
+                ],
+                [
+                    112.0,
+                    321.0
+                ],
+                [
+                    112.0,
+                    314.0
+                ],
+                [
+                    111.0,
+                    314.0
+                ],
+                [
+                    111.0,
+                    313.0
+                ],
+                [
+                    106.0,
+                    313.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

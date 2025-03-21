@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the bus situated in the upper-left corner of the picture.",
+        "Find the bus positioned at the top-left section of the image.",
+        "Spot the bus located in the top-left area of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022709.jpg",
+            "points": [
+                [
+                    130.0,
+                    220.0
+                ],
+                [
+                    130.0,
+                    221.0
+                ],
+                [
+                    129.0,
+                    221.0
+                ],
+                [
+                    129.0,
+                    233.0
+                ],
+                [
+                    128.0,
+                    233.0
+                ],
+                [
+                    128.0,
+                    237.0
+                ],
+                [
+                    129.0,
+                    237.0
+                ],
+                [
+                    129.0,
+                    238.0
+                ],
+                [
+                    134.0,
+                    238.0
+                ],
+                [
+                    134.0,
+                    237.0
+                ],
+                [
+                    136.0,
+                    237.0
+                ],
+                [
+                    136.0,
+                    235.0
+                ],
+                [
+                    137.0,
+                    235.0
+                ],
+                [
+                    137.0,
+                    227.0
+                ],
+                [
+                    136.0,
+                    227.0
+                ],
+                [
+                    136.0,
+                    221.0
+                ],
+                [
+                    135.0,
+                    221.0
+                ],
+                [
+                    135.0,
+                    220.0
+                ],
+                [
+                    130.0,
+                    220.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

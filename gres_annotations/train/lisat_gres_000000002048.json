@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Identify the truck in the image based on its rectangular form and white hue.",
+        "In the picture, locate the truck by recognizing its white color and rectangular shape.",
+        "Spot the truck in the photograph using its white color and rectangular appearance as indicators."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002048.jpg",
+            "points": [
+                [
+                    6.0,
+                    182.0
+                ],
+                [
+                    6.0,
+                    183.0
+                ],
+                [
+                    5.0,
+                    183.0
+                ],
+                [
+                    5.0,
+                    188.0
+                ],
+                [
+                    6.0,
+                    188.0
+                ],
+                [
+                    6.0,
+                    191.0
+                ],
+                [
+                    7.0,
+                    191.0
+                ],
+                [
+                    7.0,
+                    194.0
+                ],
+                [
+                    8.0,
+                    194.0
+                ],
+                [
+                    8.0,
+                    196.0
+                ],
+                [
+                    9.0,
+                    196.0
+                ],
+                [
+                    9.0,
+                    197.0
+                ],
+                [
+                    11.0,
+                    197.0
+                ],
+                [
+                    11.0,
+                    198.0
+                ],
+                [
+                    15.0,
+                    198.0
+                ],
+                [
+                    15.0,
+                    196.0
+                ],
+                [
+                    16.0,
+                    196.0
+                ],
+                [
+                    16.0,
+                    189.0
+                ],
+                [
+                    15.0,
+                    189.0
+                ],
+                [
+                    15.0,
+                    183.0
+                ],
+                [
+                    14.0,
+                    183.0
+                ],
+                [
+                    14.0,
+                    182.0
+                ],
+                [
+                    6.0,
+                    182.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

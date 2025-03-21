@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the ship with a unique, long form and a lighter color standing out against the darker backdrop.",
+        "Find the boat characterized by its distinct, stretched appearance and lighter shade set against a darker background.",
+        "Locate the marine craft with an exceptional, lengthened design and a paler tone that contrasts with the darker setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019948.jpg",
+            "points": [
+                [
+                    130.0,
+                    433.0
+                ],
+                [
+                    130.0,
+                    434.0
+                ],
+                [
+                    128.0,
+                    434.0
+                ],
+                [
+                    128.0,
+                    436.0
+                ],
+                [
+                    127.0,
+                    436.0
+                ],
+                [
+                    127.0,
+                    441.0
+                ],
+                [
+                    128.0,
+                    441.0
+                ],
+                [
+                    128.0,
+                    446.0
+                ],
+                [
+                    129.0,
+                    446.0
+                ],
+                [
+                    129.0,
+                    449.0
+                ],
+                [
+                    130.0,
+                    449.0
+                ],
+                [
+                    130.0,
+                    450.0
+                ],
+                [
+                    131.0,
+                    450.0
+                ],
+                [
+                    131.0,
+                    451.0
+                ],
+                [
+                    132.0,
+                    451.0
+                ],
+                [
+                    132.0,
+                    452.0
+                ],
+                [
+                    133.0,
+                    452.0
+                ],
+                [
+                    133.0,
+                    453.0
+                ],
+                [
+                    139.0,
+                    453.0
+                ],
+                [
+                    139.0,
+                    452.0
+                ],
+                [
+                    140.0,
+                    452.0
+                ],
+                [
+                    140.0,
+                    450.0
+                ],
+                [
+                    141.0,
+                    450.0
+                ],
+                [
+                    141.0,
+                    439.0
+                ],
+                [
+                    140.0,
+                    439.0
+                ],
+                [
+                    140.0,
+                    437.0
+                ],
+                [
+                    139.0,
+                    437.0
+                ],
+                [
+                    139.0,
+                    436.0
+                ],
+                [
+                    138.0,
+                    436.0
+                ],
+                [
+                    138.0,
+                    434.0
+                ],
+                [
+                    136.0,
+                    434.0
+                ],
+                [
+                    136.0,
+                    433.0
+                ],
+                [
+                    130.0,
+                    433.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

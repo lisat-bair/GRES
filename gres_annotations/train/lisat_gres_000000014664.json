@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the building that shows damage with visible structural parts, uneven shapes, and scattered rubble, distinguished by darker shades or contrasting shadows.",
+        "Locate the damaged structure that has exposed framework, irregular forms, and surrounding debris, marked by darker tones or contrasting light.",
+        "Find the building with damage, which has visible structural components, non-uniform shapes, and debris, identified by darker hues or contrasting shadows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014664.jpg",
+            "points": [
+                [
+                    15.0,
+                    364.0
+                ],
+                [
+                    15.0,
+                    365.0
+                ],
+                [
+                    14.0,
+                    365.0
+                ],
+                [
+                    14.0,
+                    372.0
+                ],
+                [
+                    13.0,
+                    372.0
+                ],
+                [
+                    13.0,
+                    383.0
+                ],
+                [
+                    15.0,
+                    383.0
+                ],
+                [
+                    15.0,
+                    384.0
+                ],
+                [
+                    25.0,
+                    384.0
+                ],
+                [
+                    25.0,
+                    385.0
+                ],
+                [
+                    29.0,
+                    385.0
+                ],
+                [
+                    29.0,
+                    384.0
+                ],
+                [
+                    32.0,
+                    384.0
+                ],
+                [
+                    32.0,
+                    365.0
+                ],
+                [
+                    30.0,
+                    365.0
+                ],
+                [
+                    30.0,
+                    364.0
+                ],
+                [
+                    15.0,
+                    364.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

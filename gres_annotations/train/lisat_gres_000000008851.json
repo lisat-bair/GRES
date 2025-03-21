@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the truck that stands out due to its notably large dimensions, blocky shape, and the use of metallic and dark hues in the picture.",
+        "Locate the truck in the image that is easily recognized by its expansive size, rectangular form, and noticeable metallic and dark color scheme.",
+        "Spot the truck in the image that is distinctly large, rectangular, and features a prominent blend of metallic and dark colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008851.jpg",
+            "points": [
+                [
+                    507.0,
+                    204.0
+                ],
+                [
+                    507.0,
+                    205.0
+                ],
+                [
+                    506.0,
+                    205.0
+                ],
+                [
+                    506.0,
+                    208.0
+                ],
+                [
+                    507.0,
+                    208.0
+                ],
+                [
+                    507.0,
+                    210.0
+                ],
+                [
+                    508.0,
+                    210.0
+                ],
+                [
+                    508.0,
+                    212.0
+                ],
+                [
+                    509.0,
+                    212.0
+                ],
+                [
+                    509.0,
+                    216.0
+                ],
+                [
+                    510.0,
+                    216.0
+                ],
+                [
+                    510.0,
+                    217.0
+                ],
+                [
+                    512.0,
+                    217.0
+                ],
+                [
+                    512.0,
+                    205.0
+                ],
+                [
+                    508.0,
+                    205.0
+                ],
+                [
+                    508.0,
+                    204.0
+                ],
+                [
+                    507.0,
+                    204.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

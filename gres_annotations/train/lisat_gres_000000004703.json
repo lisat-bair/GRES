@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Look for a vehicle with sleek, shiny surfaces and unique wheel designs, commonly found on streets or in parking lots.",
+        "Spot the automobile characterized by its glossy metal finish and notable wheel patterns, usually located on roads or in parking zones.",
+        "Find the car that features polished metallic exteriors and distinct wheel formations, typically situated on roadways or in parking spaces."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004703.jpg",
+            "points": [
+                [
+                    191.0,
+                    339.0
+                ],
+                [
+                    191.0,
+                    341.0
+                ],
+                [
+                    190.0,
+                    341.0
+                ],
+                [
+                    190.0,
+                    348.0
+                ],
+                [
+                    191.0,
+                    348.0
+                ],
+                [
+                    191.0,
+                    350.0
+                ],
+                [
+                    196.0,
+                    350.0
+                ],
+                [
+                    196.0,
+                    348.0
+                ],
+                [
+                    197.0,
+                    348.0
+                ],
+                [
+                    197.0,
+                    340.0
+                ],
+                [
+                    196.0,
+                    340.0
+                ],
+                [
+                    196.0,
+                    339.0
+                ],
+                [
+                    191.0,
+                    339.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

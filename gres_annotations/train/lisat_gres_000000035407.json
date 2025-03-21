@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Look for the prominent, rectangular building with an arched roof, often made of metal or in neutral tones, located in a spacious location, which is probably the aircraft hangar.",
+        "Spot the sizable, rectangular edifice with a rounded roof, commonly metallic or neutral in color, placed in an open space, which is likely the aircraft hangar.",
+        "Locate the large, rectangular construction featuring a curved roof that is typically metallic or neutral-colored, positioned in an open area, which is probably the airplane hangar."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035407.jpg",
+            "points": [
+                [
+                    0.0,
+                    497.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    5.0,
+                    512.0
+                ],
+                [
+                    5.0,
+                    509.0
+                ],
+                [
+                    6.0,
+                    509.0
+                ],
+                [
+                    6.0,
+                    504.0
+                ],
+                [
+                    7.0,
+                    504.0
+                ],
+                [
+                    7.0,
+                    498.0
+                ],
+                [
+                    4.0,
+                    498.0
+                ],
+                [
+                    4.0,
+                    497.0
+                ],
+                [
+                    0.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

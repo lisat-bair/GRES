@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Identify the bus in the image by finding the long rectangular form with a central opening and a unique metallic look.",
+        "Spot the bus in the picture by looking for a lengthened rectangle with a hole in the center and a noticeable metallic sheen.",
+        "To find the bus in the image, search for the elongated rectangle featuring a central gap and a characteristic metallic finish."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012417.jpg",
+            "points": [
+                [
+                    103.0,
+                    411.0
+                ],
+                [
+                    103.0,
+                    412.0
+                ],
+                [
+                    102.0,
+                    412.0
+                ],
+                [
+                    102.0,
+                    413.0
+                ],
+                [
+                    101.0,
+                    413.0
+                ],
+                [
+                    101.0,
+                    414.0
+                ],
+                [
+                    100.0,
+                    414.0
+                ],
+                [
+                    100.0,
+                    417.0
+                ],
+                [
+                    99.0,
+                    417.0
+                ],
+                [
+                    99.0,
+                    419.0
+                ],
+                [
+                    100.0,
+                    419.0
+                ],
+                [
+                    100.0,
+                    420.0
+                ],
+                [
+                    103.0,
+                    420.0
+                ],
+                [
+                    103.0,
+                    421.0
+                ],
+                [
+                    109.0,
+                    421.0
+                ],
+                [
+                    109.0,
+                    422.0
+                ],
+                [
+                    113.0,
+                    422.0
+                ],
+                [
+                    113.0,
+                    423.0
+                ],
+                [
+                    118.0,
+                    423.0
+                ],
+                [
+                    118.0,
+                    424.0
+                ],
+                [
+                    121.0,
+                    424.0
+                ],
+                [
+                    121.0,
+                    423.0
+                ],
+                [
+                    123.0,
+                    423.0
+                ],
+                [
+                    123.0,
+                    421.0
+                ],
+                [
+                    124.0,
+                    421.0
+                ],
+                [
+                    124.0,
+                    416.0
+                ],
+                [
+                    123.0,
+                    416.0
+                ],
+                [
+                    123.0,
+                    415.0
+                ],
+                [
+                    119.0,
+                    415.0
+                ],
+                [
+                    119.0,
+                    414.0
+                ],
+                [
+                    114.0,
+                    414.0
+                ],
+                [
+                    114.0,
+                    413.0
+                ],
+                [
+                    110.0,
+                    413.0
+                ],
+                [
+                    110.0,
+                    412.0
+                ],
+                [
+                    105.0,
+                    412.0
+                ],
+                [
+                    105.0,
+                    411.0
+                ],
+                [
+                    103.0,
+                    411.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the bus characterized by its large yellow body, multiple windows, and rounded front, distinct from surrounding objects."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021470.jpg",
+            "points": [
+                [
+                    220.0,
+                    232.0
+                ],
+                [
+                    220.0,
+                    233.0
+                ],
+                [
+                    217.0,
+                    233.0
+                ],
+                [
+                    217.0,
+                    235.0
+                ],
+                [
+                    216.0,
+                    235.0
+                ],
+                [
+                    216.0,
+                    239.0
+                ],
+                [
+                    217.0,
+                    239.0
+                ],
+                [
+                    217.0,
+                    240.0
+                ],
+                [
+                    219.0,
+                    240.0
+                ],
+                [
+                    219.0,
+                    241.0
+                ],
+                [
+                    232.0,
+                    241.0
+                ],
+                [
+                    232.0,
+                    239.0
+                ],
+                [
+                    233.0,
+                    239.0
+                ],
+                [
+                    233.0,
+                    234.0
+                ],
+                [
+                    232.0,
+                    234.0
+                ],
+                [
+                    232.0,
+                    233.0
+                ],
+                [
+                    231.0,
+                    233.0
+                ],
+                [
+                    231.0,
+                    232.0
+                ],
+                [
+                    220.0,
+                    232.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

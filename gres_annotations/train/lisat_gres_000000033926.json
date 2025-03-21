@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the liquid container positioned at the middle of the picture.",
+        "Identify the fluid reservoir located centrally in the photo.",
+        "Spot the liquid tank situated in the center of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033926.jpg",
+            "points": [
+                [
+                    255.0,
+                    186.0
+                ],
+                [
+                    255.0,
+                    187.0
+                ],
+                [
+                    253.0,
+                    187.0
+                ],
+                [
+                    253.0,
+                    188.0
+                ],
+                [
+                    249.0,
+                    188.0
+                ],
+                [
+                    249.0,
+                    189.0
+                ],
+                [
+                    248.0,
+                    189.0
+                ],
+                [
+                    248.0,
+                    204.0
+                ],
+                [
+                    249.0,
+                    204.0
+                ],
+                [
+                    249.0,
+                    218.0
+                ],
+                [
+                    250.0,
+                    218.0
+                ],
+                [
+                    250.0,
+                    222.0
+                ],
+                [
+                    252.0,
+                    222.0
+                ],
+                [
+                    252.0,
+                    223.0
+                ],
+                [
+                    257.0,
+                    223.0
+                ],
+                [
+                    257.0,
+                    222.0
+                ],
+                [
+                    259.0,
+                    222.0
+                ],
+                [
+                    259.0,
+                    220.0
+                ],
+                [
+                    260.0,
+                    220.0
+                ],
+                [
+                    260.0,
+                    217.0
+                ],
+                [
+                    259.0,
+                    217.0
+                ],
+                [
+                    259.0,
+                    189.0
+                ],
+                [
+                    258.0,
+                    189.0
+                ],
+                [
+                    258.0,
+                    186.0
+                ],
+                [
+                    255.0,
+                    186.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

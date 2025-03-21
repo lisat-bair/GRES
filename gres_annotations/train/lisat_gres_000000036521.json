@@ -1,0 +1,169 @@
+{
+    "text": [
+        "Locate the structure that features a unique dark brown hue and an angular rooftop, setting it apart from the nearby buildings.",
+        "Find the building that stands out due to its distinctive dark brown color and angular roof, contrasting with the adjacent structures.",
+        "Spot the edifice characterized by its singular dark brown shade and sharply angled rooftop, making it different from the other buildings in the area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036521.jpg",
+            "points": [
+                [
+                    431.0,
+                    0.0
+                ],
+                [
+                    431.0,
+                    1.0
+                ],
+                [
+                    432.0,
+                    1.0
+                ],
+                [
+                    432.0,
+                    2.0
+                ],
+                [
+                    433.0,
+                    2.0
+                ],
+                [
+                    433.0,
+                    1.0
+                ],
+                [
+                    434.0,
+                    1.0
+                ],
+                [
+                    434.0,
+                    0.0
+                ],
+                [
+                    431.0,
+                    0.0
+                ],
+                [
+                    394.0,
+                    0.0
+                ],
+                [
+                    394.0,
+                    4.0
+                ],
+                [
+                    395.0,
+                    4.0
+                ],
+                [
+                    395.0,
+                    6.0
+                ],
+                [
+                    396.0,
+                    6.0
+                ],
+                [
+                    396.0,
+                    7.0
+                ],
+                [
+                    398.0,
+                    7.0
+                ],
+                [
+                    398.0,
+                    8.0
+                ],
+                [
+                    403.0,
+                    8.0
+                ],
+                [
+                    403.0,
+                    7.0
+                ],
+                [
+                    409.0,
+                    7.0
+                ],
+                [
+                    409.0,
+                    6.0
+                ],
+                [
+                    418.0,
+                    6.0
+                ],
+                [
+                    418.0,
+                    7.0
+                ],
+                [
+                    422.0,
+                    7.0
+                ],
+                [
+                    422.0,
+                    6.0
+                ],
+                [
+                    425.0,
+                    6.0
+                ],
+                [
+                    425.0,
+                    5.0
+                ],
+                [
+                    427.0,
+                    5.0
+                ],
+                [
+                    427.0,
+                    4.0
+                ],
+                [
+                    428.0,
+                    4.0
+                ],
+                [
+                    428.0,
+                    3.0
+                ],
+                [
+                    429.0,
+                    3.0
+                ],
+                [
+                    429.0,
+                    2.0
+                ],
+                [
+                    430.0,
+                    2.0
+                ],
+                [
+                    430.0,
+                    0.0
+                ],
+                [
+                    394.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

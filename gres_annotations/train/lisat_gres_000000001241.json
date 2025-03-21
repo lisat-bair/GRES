@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the structure situated in the upper-left part of the picture.",
+        "Identify the edifice positioned in the top-left section of the photograph.",
+        "Spot the building located at the upper-left corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001241.jpg",
+            "points": [
+                [
+                    90.0,
+                    65.0
+                ],
+                [
+                    90.0,
+                    66.0
+                ],
+                [
+                    88.0,
+                    66.0
+                ],
+                [
+                    88.0,
+                    70.0
+                ],
+                [
+                    87.0,
+                    70.0
+                ],
+                [
+                    87.0,
+                    75.0
+                ],
+                [
+                    88.0,
+                    75.0
+                ],
+                [
+                    88.0,
+                    76.0
+                ],
+                [
+                    89.0,
+                    76.0
+                ],
+                [
+                    89.0,
+                    77.0
+                ],
+                [
+                    91.0,
+                    77.0
+                ],
+                [
+                    91.0,
+                    78.0
+                ],
+                [
+                    99.0,
+                    78.0
+                ],
+                [
+                    99.0,
+                    77.0
+                ],
+                [
+                    100.0,
+                    77.0
+                ],
+                [
+                    100.0,
+                    67.0
+                ],
+                [
+                    99.0,
+                    67.0
+                ],
+                [
+                    99.0,
+                    66.0
+                ],
+                [
+                    95.0,
+                    66.0
+                ],
+                [
+                    95.0,
+                    65.0
+                ],
+                [
+                    90.0,
+                    65.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the massive, boxy automobile characterized by its usually vibrant hues such as yellow or white, often featuring noticeable windows and wheels.",
+        "Locate the big, rectangular vehicle that typically comes in bright colors like yellow or white, often with prominent windows and wheels.",
+        "Find the large, bulky transport with a rectangular form, commonly seen in vivid shades such as yellow or white, and typically equipped with visible windows and wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014083.jpg",
+            "points": [
+                [
+                    485.0,
+                    0.0
+                ],
+                [
+                    485.0,
+                    1.0
+                ],
+                [
+                    483.0,
+                    1.0
+                ],
+                [
+                    483.0,
+                    2.0
+                ],
+                [
+                    481.0,
+                    2.0
+                ],
+                [
+                    481.0,
+                    8.0
+                ],
+                [
+                    482.0,
+                    8.0
+                ],
+                [
+                    482.0,
+                    9.0
+                ],
+                [
+                    483.0,
+                    9.0
+                ],
+                [
+                    483.0,
+                    10.0
+                ],
+                [
+                    485.0,
+                    10.0
+                ],
+                [
+                    485.0,
+                    11.0
+                ],
+                [
+                    489.0,
+                    11.0
+                ],
+                [
+                    489.0,
+                    10.0
+                ],
+                [
+                    493.0,
+                    10.0
+                ],
+                [
+                    493.0,
+                    9.0
+                ],
+                [
+                    495.0,
+                    9.0
+                ],
+                [
+                    495.0,
+                    8.0
+                ],
+                [
+                    496.0,
+                    8.0
+                ],
+                [
+                    496.0,
+                    1.0
+                ],
+                [
+                    495.0,
+                    1.0
+                ],
+                [
+                    495.0,
+                    0.0
+                ],
+                [
+                    485.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

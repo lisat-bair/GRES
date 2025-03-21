@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the vehicle with a metallic body on four wheels that likely shines differently compared to its environment.",
+        "Identify the car that has a metallic body on four wheels, which probably reflects light in a unique way from its surroundings.",
+        "Search for the automobile with a four-wheeled metal exterior that is likely to reflect light distinctively from its setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016949.jpg",
+            "points": [
+                [
+                    0.0,
+                    496.0
+                ],
+                [
+                    0.0,
+                    507.0
+                ],
+                [
+                    2.0,
+                    507.0
+                ],
+                [
+                    2.0,
+                    506.0
+                ],
+                [
+                    5.0,
+                    506.0
+                ],
+                [
+                    5.0,
+                    505.0
+                ],
+                [
+                    7.0,
+                    505.0
+                ],
+                [
+                    7.0,
+                    503.0
+                ],
+                [
+                    8.0,
+                    503.0
+                ],
+                [
+                    8.0,
+                    497.0
+                ],
+                [
+                    7.0,
+                    497.0
+                ],
+                [
+                    7.0,
+                    496.0
+                ],
+                [
+                    0.0,
+                    496.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

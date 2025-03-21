@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the big, shiny metal vehicle with four tires and a unique sleek design.",
+        "Identify the sizable, glossy, metallic automobile that has four wheels and a notable streamlined form.",
+        "Spot the large, reflective, metal car with four tires and a distinct aerodynamic silhouette."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018185.jpg",
+            "points": [
+                [
+                    348.0,
+                    361.0
+                ],
+                [
+                    348.0,
+                    362.0
+                ],
+                [
+                    343.0,
+                    362.0
+                ],
+                [
+                    343.0,
+                    363.0
+                ],
+                [
+                    342.0,
+                    363.0
+                ],
+                [
+                    342.0,
+                    364.0
+                ],
+                [
+                    341.0,
+                    364.0
+                ],
+                [
+                    341.0,
+                    367.0
+                ],
+                [
+                    342.0,
+                    367.0
+                ],
+                [
+                    342.0,
+                    368.0
+                ],
+                [
+                    343.0,
+                    368.0
+                ],
+                [
+                    343.0,
+                    369.0
+                ],
+                [
+                    346.0,
+                    369.0
+                ],
+                [
+                    346.0,
+                    368.0
+                ],
+                [
+                    350.0,
+                    368.0
+                ],
+                [
+                    350.0,
+                    367.0
+                ],
+                [
+                    352.0,
+                    367.0
+                ],
+                [
+                    352.0,
+                    362.0
+                ],
+                [
+                    351.0,
+                    362.0
+                ],
+                [
+                    351.0,
+                    361.0
+                ],
+                [
+                    348.0,
+                    361.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

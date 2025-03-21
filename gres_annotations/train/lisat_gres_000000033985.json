@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Look for the vehicle that features unique horizontal stripes in white and black with rounded corners.",
+        "Find the automobile that has notable white and black horizontal stripes and smooth, curved edges.",
+        "Search for the car that is marked by its distinctive white and black horizontal stripes and rounded edges."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033985.jpg",
+            "points": [
+                [
+                    182.0,
+                    405.0
+                ],
+                [
+                    182.0,
+                    406.0
+                ],
+                [
+                    180.0,
+                    406.0
+                ],
+                [
+                    180.0,
+                    408.0
+                ],
+                [
+                    179.0,
+                    408.0
+                ],
+                [
+                    179.0,
+                    420.0
+                ],
+                [
+                    180.0,
+                    420.0
+                ],
+                [
+                    180.0,
+                    422.0
+                ],
+                [
+                    186.0,
+                    422.0
+                ],
+                [
+                    186.0,
+                    421.0
+                ],
+                [
+                    187.0,
+                    421.0
+                ],
+                [
+                    187.0,
+                    410.0
+                ],
+                [
+                    186.0,
+                    410.0
+                ],
+                [
+                    186.0,
+                    406.0
+                ],
+                [
+                    185.0,
+                    406.0
+                ],
+                [
+                    185.0,
+                    405.0
+                ],
+                [
+                    182.0,
+                    405.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

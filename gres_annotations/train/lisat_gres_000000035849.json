@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the yellow bus that has several windows on its side.",
+        "Look for the bus that is yellow and features numerous windows along its sides.",
+        "Find the yellow bus which is characterized by having many windows on its side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035849.jpg",
+            "points": [
+                [
+                    43.0,
+                    215.0
+                ],
+                [
+                    43.0,
+                    216.0
+                ],
+                [
+                    42.0,
+                    216.0
+                ],
+                [
+                    42.0,
+                    222.0
+                ],
+                [
+                    52.0,
+                    222.0
+                ],
+                [
+                    52.0,
+                    223.0
+                ],
+                [
+                    53.0,
+                    223.0
+                ],
+                [
+                    53.0,
+                    222.0
+                ],
+                [
+                    57.0,
+                    222.0
+                ],
+                [
+                    57.0,
+                    220.0
+                ],
+                [
+                    58.0,
+                    220.0
+                ],
+                [
+                    58.0,
+                    217.0
+                ],
+                [
+                    57.0,
+                    217.0
+                ],
+                [
+                    57.0,
+                    216.0
+                ],
+                [
+                    56.0,
+                    216.0
+                ],
+                [
+                    56.0,
+                    215.0
+                ],
+                [
+                    43.0,
+                    215.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the truck that has a unique beige color and a rectangular form, contrasting with the darker surroundings.",
+        "Look for the truck in a distinctive beige hue and rectangular shape, which stands out against a darker backdrop.",
+        "Locate the truck featuring a unique beige color and rectangular design, noticeable against the dimmer background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024823.jpg",
+            "points": [
+                [
+                    369.0,
+                    416.0
+                ],
+                [
+                    369.0,
+                    417.0
+                ],
+                [
+                    364.0,
+                    417.0
+                ],
+                [
+                    364.0,
+                    418.0
+                ],
+                [
+                    359.0,
+                    418.0
+                ],
+                [
+                    359.0,
+                    419.0
+                ],
+                [
+                    356.0,
+                    419.0
+                ],
+                [
+                    356.0,
+                    420.0
+                ],
+                [
+                    355.0,
+                    420.0
+                ],
+                [
+                    355.0,
+                    421.0
+                ],
+                [
+                    354.0,
+                    421.0
+                ],
+                [
+                    354.0,
+                    425.0
+                ],
+                [
+                    355.0,
+                    425.0
+                ],
+                [
+                    355.0,
+                    426.0
+                ],
+                [
+                    356.0,
+                    426.0
+                ],
+                [
+                    356.0,
+                    427.0
+                ],
+                [
+                    359.0,
+                    427.0
+                ],
+                [
+                    359.0,
+                    428.0
+                ],
+                [
+                    361.0,
+                    428.0
+                ],
+                [
+                    361.0,
+                    427.0
+                ],
+                [
+                    366.0,
+                    427.0
+                ],
+                [
+                    366.0,
+                    426.0
+                ],
+                [
+                    368.0,
+                    426.0
+                ],
+                [
+                    368.0,
+                    425.0
+                ],
+                [
+                    370.0,
+                    425.0
+                ],
+                [
+                    370.0,
+                    424.0
+                ],
+                [
+                    371.0,
+                    424.0
+                ],
+                [
+                    371.0,
+                    423.0
+                ],
+                [
+                    372.0,
+                    423.0
+                ],
+                [
+                    372.0,
+                    422.0
+                ],
+                [
+                    373.0,
+                    422.0
+                ],
+                [
+                    373.0,
+                    419.0
+                ],
+                [
+                    372.0,
+                    419.0
+                ],
+                [
+                    372.0,
+                    417.0
+                ],
+                [
+                    370.0,
+                    417.0
+                ],
+                [
+                    370.0,
+                    416.0
+                ],
+                [
+                    369.0,
+                    416.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

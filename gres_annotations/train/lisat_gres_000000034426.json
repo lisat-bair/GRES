@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that has a boxy design, tires, and shiny parts that make it noticeable against its environment.",
+        "Locate the automobile characterized by its squared form, wheels, and gleaming surfaces that distinguish it from its background.",
+        "Spot the car with a rectangular build, wheels, and reflective features that sets it apart from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034426.jpg",
+            "points": [
+                [
+                    420.0,
+                    491.0
+                ],
+                [
+                    420.0,
+                    492.0
+                ],
+                [
+                    419.0,
+                    492.0
+                ],
+                [
+                    419.0,
+                    500.0
+                ],
+                [
+                    418.0,
+                    500.0
+                ],
+                [
+                    418.0,
+                    501.0
+                ],
+                [
+                    419.0,
+                    501.0
+                ],
+                [
+                    419.0,
+                    503.0
+                ],
+                [
+                    420.0,
+                    503.0
+                ],
+                [
+                    420.0,
+                    504.0
+                ],
+                [
+                    421.0,
+                    504.0
+                ],
+                [
+                    421.0,
+                    505.0
+                ],
+                [
+                    424.0,
+                    505.0
+                ],
+                [
+                    424.0,
+                    504.0
+                ],
+                [
+                    425.0,
+                    504.0
+                ],
+                [
+                    425.0,
+                    503.0
+                ],
+                [
+                    426.0,
+                    503.0
+                ],
+                [
+                    426.0,
+                    501.0
+                ],
+                [
+                    427.0,
+                    501.0
+                ],
+                [
+                    427.0,
+                    492.0
+                ],
+                [
+                    426.0,
+                    492.0
+                ],
+                [
+                    426.0,
+                    491.0
+                ],
+                [
+                    420.0,
+                    491.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

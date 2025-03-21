@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the structure that features unique horizontal stripes and a color scheme that stands out against a dark backdrop.",
+        "Locate the edifice with notable horizontal lines and a color pattern that contrasts with a dark background.",
+        "Spot the building characterized by distinctive horizontal bands and a color design that contrasts with a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014686.jpg",
+            "points": [
+                [
+                    187.0,
+                    491.0
+                ],
+                [
+                    187.0,
+                    492.0
+                ],
+                [
+                    185.0,
+                    492.0
+                ],
+                [
+                    185.0,
+                    506.0
+                ],
+                [
+                    186.0,
+                    506.0
+                ],
+                [
+                    186.0,
+                    512.0
+                ],
+                [
+                    199.0,
+                    512.0
+                ],
+                [
+                    199.0,
+                    511.0
+                ],
+                [
+                    200.0,
+                    511.0
+                ],
+                [
+                    200.0,
+                    510.0
+                ],
+                [
+                    201.0,
+                    510.0
+                ],
+                [
+                    201.0,
+                    495.0
+                ],
+                [
+                    200.0,
+                    495.0
+                ],
+                [
+                    200.0,
+                    492.0
+                ],
+                [
+                    199.0,
+                    492.0
+                ],
+                [
+                    199.0,
+                    491.0
+                ],
+                [
+                    187.0,
+                    491.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

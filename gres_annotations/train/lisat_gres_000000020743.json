@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the trailer bed located centrally in the image, characterized by its small, rectangular form.",
+        "Look for the compact, rectangular-shaped trailer bed positioned in the middle of the picture.",
+        "Find the small rectangular trailer bed situated at the center of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020743.jpg",
+            "points": [
+                [
+                    178.0,
+                    214.0
+                ],
+                [
+                    178.0,
+                    215.0
+                ],
+                [
+                    174.0,
+                    215.0
+                ],
+                [
+                    174.0,
+                    217.0
+                ],
+                [
+                    175.0,
+                    217.0
+                ],
+                [
+                    175.0,
+                    218.0
+                ],
+                [
+                    176.0,
+                    218.0
+                ],
+                [
+                    176.0,
+                    217.0
+                ],
+                [
+                    177.0,
+                    217.0
+                ],
+                [
+                    177.0,
+                    218.0
+                ],
+                [
+                    178.0,
+                    218.0
+                ],
+                [
+                    178.0,
+                    219.0
+                ],
+                [
+                    179.0,
+                    219.0
+                ],
+                [
+                    179.0,
+                    220.0
+                ],
+                [
+                    186.0,
+                    220.0
+                ],
+                [
+                    186.0,
+                    221.0
+                ],
+                [
+                    187.0,
+                    221.0
+                ],
+                [
+                    187.0,
+                    220.0
+                ],
+                [
+                    189.0,
+                    220.0
+                ],
+                [
+                    189.0,
+                    215.0
+                ],
+                [
+                    188.0,
+                    215.0
+                ],
+                [
+                    188.0,
+                    214.0
+                ],
+                [
+                    178.0,
+                    214.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

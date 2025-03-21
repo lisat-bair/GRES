@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Point out the structure located in the upper-left corner of the picture.",
+        "Can you name the building situated in the top-left part of the image?",
+        "Which building is found in the top-left section of the photograph?"
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015126.jpg",
+            "points": [
+                [
+                    154.0,
+                    35.0
+                ],
+                [
+                    154.0,
+                    36.0
+                ],
+                [
+                    153.0,
+                    36.0
+                ],
+                [
+                    153.0,
+                    39.0
+                ],
+                [
+                    152.0,
+                    39.0
+                ],
+                [
+                    152.0,
+                    43.0
+                ],
+                [
+                    151.0,
+                    43.0
+                ],
+                [
+                    151.0,
+                    46.0
+                ],
+                [
+                    150.0,
+                    46.0
+                ],
+                [
+                    150.0,
+                    51.0
+                ],
+                [
+                    151.0,
+                    51.0
+                ],
+                [
+                    151.0,
+                    52.0
+                ],
+                [
+                    153.0,
+                    52.0
+                ],
+                [
+                    153.0,
+                    53.0
+                ],
+                [
+                    157.0,
+                    53.0
+                ],
+                [
+                    157.0,
+                    54.0
+                ],
+                [
+                    164.0,
+                    54.0
+                ],
+                [
+                    164.0,
+                    52.0
+                ],
+                [
+                    165.0,
+                    52.0
+                ],
+                [
+                    165.0,
+                    48.0
+                ],
+                [
+                    166.0,
+                    48.0
+                ],
+                [
+                    166.0,
+                    44.0
+                ],
+                [
+                    167.0,
+                    44.0
+                ],
+                [
+                    167.0,
+                    38.0
+                ],
+                [
+                    166.0,
+                    38.0
+                ],
+                [
+                    166.0,
+                    37.0
+                ],
+                [
+                    163.0,
+                    37.0
+                ],
+                [
+                    163.0,
+                    36.0
+                ],
+                [
+                    158.0,
+                    36.0
+                ],
+                [
+                    158.0,
+                    35.0
+                ],
+                [
+                    154.0,
+                    35.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

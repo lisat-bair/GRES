@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the elongated white form with upright masts or antennas usually seen on the water to identify the boat in the picture.",
+        "To locate the boat in the image, look for the white, long shape with vertical masts or antennas floating on the water's surface.",
+        "Recognize the boat in the photo by identifying the long, white shape with vertical masts or antennas typically seen on the water."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024611.jpg",
+            "points": [
+                [
+                    293.0,
+                    135.0
+                ],
+                [
+                    293.0,
+                    136.0
+                ],
+                [
+                    287.0,
+                    136.0
+                ],
+                [
+                    287.0,
+                    137.0
+                ],
+                [
+                    286.0,
+                    137.0
+                ],
+                [
+                    286.0,
+                    141.0
+                ],
+                [
+                    287.0,
+                    141.0
+                ],
+                [
+                    287.0,
+                    142.0
+                ],
+                [
+                    288.0,
+                    142.0
+                ],
+                [
+                    288.0,
+                    143.0
+                ],
+                [
+                    291.0,
+                    143.0
+                ],
+                [
+                    291.0,
+                    144.0
+                ],
+                [
+                    296.0,
+                    144.0
+                ],
+                [
+                    296.0,
+                    145.0
+                ],
+                [
+                    300.0,
+                    145.0
+                ],
+                [
+                    300.0,
+                    144.0
+                ],
+                [
+                    302.0,
+                    144.0
+                ],
+                [
+                    302.0,
+                    142.0
+                ],
+                [
+                    303.0,
+                    142.0
+                ],
+                [
+                    303.0,
+                    140.0
+                ],
+                [
+                    302.0,
+                    140.0
+                ],
+                [
+                    302.0,
+                    138.0
+                ],
+                [
+                    301.0,
+                    138.0
+                ],
+                [
+                    301.0,
+                    137.0
+                ],
+                [
+                    298.0,
+                    137.0
+                ],
+                [
+                    298.0,
+                    136.0
+                ],
+                [
+                    295.0,
+                    136.0
+                ],
+                [
+                    295.0,
+                    135.0
+                ],
+                [
+                    293.0,
+                    135.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

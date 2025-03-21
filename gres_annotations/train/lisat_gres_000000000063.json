@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Identify the truck that has a unique color and shape, making it different from other vehicles in the picture.",
+        "Find the truck in the image that has a standout color and form, distinguishing it from the rest of the vehicles.",
+        "Spot the truck with a noticeable color and design that sets it apart from the other vehicles in the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000063.jpg",
+            "points": [
+                [
+                    2.0,
+                    90.0
+                ],
+                [
+                    2.0,
+                    91.0
+                ],
+                [
+                    0.0,
+                    91.0
+                ],
+                [
+                    0.0,
+                    108.0
+                ],
+                [
+                    2.0,
+                    108.0
+                ],
+                [
+                    2.0,
+                    109.0
+                ],
+                [
+                    3.0,
+                    109.0
+                ],
+                [
+                    3.0,
+                    107.0
+                ],
+                [
+                    4.0,
+                    107.0
+                ],
+                [
+                    4.0,
+                    91.0
+                ],
+                [
+                    3.0,
+                    91.0
+                ],
+                [
+                    3.0,
+                    90.0
+                ],
+                [
+                    2.0,
+                    90.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

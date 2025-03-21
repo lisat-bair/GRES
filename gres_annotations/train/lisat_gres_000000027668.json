@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the white vehicle with sleek, curved lines and shiny surfaces placed against a dark backdrop.",
+        "Find the white automobile featuring smooth, rounded shapes and glossy surfaces on a dark background.",
+        "Locate the white car characterized by its smooth, curved edges and reflective surfaces set against a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027668.jpg",
+            "points": [
+                [
+                    0.0,
+                    452.0
+                ],
+                [
+                    0.0,
+                    466.0
+                ],
+                [
+                    2.0,
+                    466.0
+                ],
+                [
+                    2.0,
+                    465.0
+                ],
+                [
+                    5.0,
+                    465.0
+                ],
+                [
+                    5.0,
+                    464.0
+                ],
+                [
+                    6.0,
+                    464.0
+                ],
+                [
+                    6.0,
+                    463.0
+                ],
+                [
+                    7.0,
+                    463.0
+                ],
+                [
+                    7.0,
+                    462.0
+                ],
+                [
+                    8.0,
+                    462.0
+                ],
+                [
+                    8.0,
+                    459.0
+                ],
+                [
+                    9.0,
+                    459.0
+                ],
+                [
+                    9.0,
+                    458.0
+                ],
+                [
+                    8.0,
+                    458.0
+                ],
+                [
+                    8.0,
+                    455.0
+                ],
+                [
+                    7.0,
+                    455.0
+                ],
+                [
+                    7.0,
+                    454.0
+                ],
+                [
+                    6.0,
+                    454.0
+                ],
+                [
+                    6.0,
+                    453.0
+                ],
+                [
+                    4.0,
+                    453.0
+                ],
+                [
+                    4.0,
+                    452.0
+                ],
+                [
+                    0.0,
+                    452.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

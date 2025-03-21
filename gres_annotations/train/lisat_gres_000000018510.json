@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the vehicle in the picture that has a shiny metal finish, unique headlights, and four round wheels.",
+        "Locate the automobile in the photo that boasts a sleek metallic exterior, prominent headlights, and four circular tires.",
+        "Find the car in the image that features a glossy metallic surface, noticeable headlights, and four round wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018510.jpg",
+            "points": [
+                [
+                    187.0,
+                    354.0
+                ],
+                [
+                    187.0,
+                    355.0
+                ],
+                [
+                    186.0,
+                    355.0
+                ],
+                [
+                    186.0,
+                    360.0
+                ],
+                [
+                    187.0,
+                    360.0
+                ],
+                [
+                    187.0,
+                    361.0
+                ],
+                [
+                    188.0,
+                    361.0
+                ],
+                [
+                    188.0,
+                    362.0
+                ],
+                [
+                    193.0,
+                    362.0
+                ],
+                [
+                    193.0,
+                    361.0
+                ],
+                [
+                    194.0,
+                    361.0
+                ],
+                [
+                    194.0,
+                    357.0
+                ],
+                [
+                    193.0,
+                    357.0
+                ],
+                [
+                    193.0,
+                    356.0
+                ],
+                [
+                    191.0,
+                    356.0
+                ],
+                [
+                    191.0,
+                    355.0
+                ],
+                [
+                    189.0,
+                    355.0
+                ],
+                [
+                    189.0,
+                    354.0
+                ],
+                [
+                    187.0,
+                    354.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Identify the car with a distinct metallic sheen and structured outline typical of vehicle shapes against the surrounding environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009996.jpg",
+            "points": [
+                [
+                    205.0,
+                    417.0
+                ],
+                [
+                    205.0,
+                    427.0
+                ],
+                [
+                    206.0,
+                    427.0
+                ],
+                [
+                    206.0,
+                    428.0
+                ],
+                [
+                    208.0,
+                    428.0
+                ],
+                [
+                    208.0,
+                    429.0
+                ],
+                [
+                    211.0,
+                    429.0
+                ],
+                [
+                    211.0,
+                    428.0
+                ],
+                [
+                    212.0,
+                    428.0
+                ],
+                [
+                    212.0,
+                    418.0
+                ],
+                [
+                    211.0,
+                    418.0
+                ],
+                [
+                    211.0,
+                    417.0
+                ],
+                [
+                    205.0,
+                    417.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

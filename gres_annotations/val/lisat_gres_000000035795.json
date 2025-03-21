@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Locate the bus with a predominantly red color and large size characteristic."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035795.jpg",
+            "points": [
+                [
+                    0.0,
+                    259.0
+                ],
+                [
+                    0.0,
+                    294.0
+                ],
+                [
+                    2.0,
+                    294.0
+                ],
+                [
+                    2.0,
+                    293.0
+                ],
+                [
+                    3.0,
+                    293.0
+                ],
+                [
+                    3.0,
+                    292.0
+                ],
+                [
+                    4.0,
+                    292.0
+                ],
+                [
+                    4.0,
+                    276.0
+                ],
+                [
+                    5.0,
+                    276.0
+                ],
+                [
+                    5.0,
+                    263.0
+                ],
+                [
+                    4.0,
+                    263.0
+                ],
+                [
+                    4.0,
+                    261.0
+                ],
+                [
+                    3.0,
+                    261.0
+                ],
+                [
+                    3.0,
+                    260.0
+                ],
+                [
+                    2.0,
+                    260.0
+                ],
+                [
+                    2.0,
+                    259.0
+                ],
+                [
+                    0.0,
+                    259.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

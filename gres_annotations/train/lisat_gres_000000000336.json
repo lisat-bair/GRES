@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the unique yellow equipment with a scoop or blade on the earthy ground.",
+        "Locate the special yellow device with a scoop or blade on the soil surface.",
+        "Find the distinct yellow apparatus featuring a scoop or blade on the dirt terrain."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000336.jpg",
+            "points": [
+                [
+                    301.0,
+                    156.0
+                ],
+                [
+                    301.0,
+                    157.0
+                ],
+                [
+                    300.0,
+                    157.0
+                ],
+                [
+                    300.0,
+                    158.0
+                ],
+                [
+                    299.0,
+                    158.0
+                ],
+                [
+                    299.0,
+                    165.0
+                ],
+                [
+                    300.0,
+                    165.0
+                ],
+                [
+                    300.0,
+                    166.0
+                ],
+                [
+                    305.0,
+                    166.0
+                ],
+                [
+                    305.0,
+                    167.0
+                ],
+                [
+                    318.0,
+                    167.0
+                ],
+                [
+                    318.0,
+                    168.0
+                ],
+                [
+                    325.0,
+                    168.0
+                ],
+                [
+                    325.0,
+                    166.0
+                ],
+                [
+                    326.0,
+                    166.0
+                ],
+                [
+                    326.0,
+                    163.0
+                ],
+                [
+                    325.0,
+                    163.0
+                ],
+                [
+                    325.0,
+                    162.0
+                ],
+                [
+                    323.0,
+                    162.0
+                ],
+                [
+                    323.0,
+                    163.0
+                ],
+                [
+                    317.0,
+                    163.0
+                ],
+                [
+                    317.0,
+                    162.0
+                ],
+                [
+                    315.0,
+                    162.0
+                ],
+                [
+                    315.0,
+                    161.0
+                ],
+                [
+                    314.0,
+                    161.0
+                ],
+                [
+                    314.0,
+                    157.0
+                ],
+                [
+                    313.0,
+                    157.0
+                ],
+                [
+                    313.0,
+                    156.0
+                ],
+                [
+                    301.0,
+                    156.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

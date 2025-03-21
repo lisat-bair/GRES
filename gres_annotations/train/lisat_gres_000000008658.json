@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the truck that has a large, rectangular structure and stands out with its distinct beige color against the darker environment.",
+        "Spot the truck featuring a big, rectangular shape with a noticeable beige hue that contrasts with the darker background.",
+        "Find the truck characterized by a sizable, rectangular form, its beige body color setting it apart from the darker surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008658.jpg",
+            "points": [
+                [
+                    30.0,
+                    474.0
+                ],
+                [
+                    30.0,
+                    475.0
+                ],
+                [
+                    29.0,
+                    475.0
+                ],
+                [
+                    29.0,
+                    477.0
+                ],
+                [
+                    28.0,
+                    477.0
+                ],
+                [
+                    28.0,
+                    480.0
+                ],
+                [
+                    27.0,
+                    480.0
+                ],
+                [
+                    27.0,
+                    482.0
+                ],
+                [
+                    26.0,
+                    482.0
+                ],
+                [
+                    26.0,
+                    487.0
+                ],
+                [
+                    28.0,
+                    487.0
+                ],
+                [
+                    28.0,
+                    488.0
+                ],
+                [
+                    31.0,
+                    488.0
+                ],
+                [
+                    31.0,
+                    489.0
+                ],
+                [
+                    35.0,
+                    489.0
+                ],
+                [
+                    35.0,
+                    488.0
+                ],
+                [
+                    36.0,
+                    488.0
+                ],
+                [
+                    36.0,
+                    486.0
+                ],
+                [
+                    37.0,
+                    486.0
+                ],
+                [
+                    37.0,
+                    483.0
+                ],
+                [
+                    38.0,
+                    483.0
+                ],
+                [
+                    38.0,
+                    476.0
+                ],
+                [
+                    37.0,
+                    476.0
+                ],
+                [
+                    37.0,
+                    475.0
+                ],
+                [
+                    36.0,
+                    475.0
+                ],
+                [
+                    36.0,
+                    474.0
+                ],
+                [
+                    30.0,
+                    474.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

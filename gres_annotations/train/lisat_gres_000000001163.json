@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the car that has a glossy exterior, a long body, and noticeable headlights.",
+        "Identify the automobile that features a reflective finish, an extended form, and striking headlights.",
+        "Spot the vehicle with a sleek surface, elongated design, and bright headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001163.jpg",
+            "points": [
+                [
+                    484.0,
+                    251.0
+                ],
+                [
+                    484.0,
+                    252.0
+                ],
+                [
+                    483.0,
+                    252.0
+                ],
+                [
+                    483.0,
+                    257.0
+                ],
+                [
+                    484.0,
+                    257.0
+                ],
+                [
+                    484.0,
+                    258.0
+                ],
+                [
+                    487.0,
+                    258.0
+                ],
+                [
+                    487.0,
+                    259.0
+                ],
+                [
+                    491.0,
+                    259.0
+                ],
+                [
+                    491.0,
+                    260.0
+                ],
+                [
+                    502.0,
+                    260.0
+                ],
+                [
+                    502.0,
+                    255.0
+                ],
+                [
+                    501.0,
+                    255.0
+                ],
+                [
+                    501.0,
+                    254.0
+                ],
+                [
+                    500.0,
+                    254.0
+                ],
+                [
+                    500.0,
+                    253.0
+                ],
+                [
+                    499.0,
+                    253.0
+                ],
+                [
+                    499.0,
+                    252.0
+                ],
+                [
+                    493.0,
+                    252.0
+                ],
+                [
+                    493.0,
+                    251.0
+                ],
+                [
+                    484.0,
+                    251.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

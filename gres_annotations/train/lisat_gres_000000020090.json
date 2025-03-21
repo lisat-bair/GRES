@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the bus by spotting the prominent, long horizontal form with a vivid white hue, set against a darker backdrop.",
+        "Find the bus by identifying the extended horizontal silhouette with a shining white shade, enveloped by a dimmer background.",
+        "Spot the bus by recognizing the large horizontal outline that is bright white, contrasted by a darker surrounding."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020090.jpg",
+            "points": [
+                [
+                    127.0,
+                    273.0
+                ],
+                [
+                    127.0,
+                    274.0
+                ],
+                [
+                    124.0,
+                    274.0
+                ],
+                [
+                    124.0,
+                    275.0
+                ],
+                [
+                    123.0,
+                    275.0
+                ],
+                [
+                    123.0,
+                    276.0
+                ],
+                [
+                    122.0,
+                    276.0
+                ],
+                [
+                    122.0,
+                    277.0
+                ],
+                [
+                    121.0,
+                    277.0
+                ],
+                [
+                    121.0,
+                    283.0
+                ],
+                [
+                    123.0,
+                    283.0
+                ],
+                [
+                    123.0,
+                    284.0
+                ],
+                [
+                    128.0,
+                    284.0
+                ],
+                [
+                    128.0,
+                    285.0
+                ],
+                [
+                    153.0,
+                    285.0
+                ],
+                [
+                    153.0,
+                    284.0
+                ],
+                [
+                    154.0,
+                    284.0
+                ],
+                [
+                    154.0,
+                    283.0
+                ],
+                [
+                    155.0,
+                    283.0
+                ],
+                [
+                    155.0,
+                    280.0
+                ],
+                [
+                    154.0,
+                    280.0
+                ],
+                [
+                    154.0,
+                    278.0
+                ],
+                [
+                    153.0,
+                    278.0
+                ],
+                [
+                    153.0,
+                    276.0
+                ],
+                [
+                    152.0,
+                    276.0
+                ],
+                [
+                    152.0,
+                    275.0
+                ],
+                [
+                    151.0,
+                    275.0
+                ],
+                [
+                    151.0,
+                    274.0
+                ],
+                [
+                    150.0,
+                    274.0
+                ],
+                [
+                    150.0,
+                    273.0
+                ],
+                [
+                    127.0,
+                    273.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

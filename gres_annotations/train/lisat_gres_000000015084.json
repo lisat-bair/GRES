@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the car that has a unique, shiny exterior and a sleek design with transparent windows.",
+        "Identify the automobile characterized by its noticeable, glossy finish and aerodynamic form, complete with clear windows.",
+        "Spot the vehicle that stands out due to its reflective surface, smooth contours, and visible windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015084.jpg",
+            "points": [
+                [
+                    312.0,
+                    362.0
+                ],
+                [
+                    312.0,
+                    363.0
+                ],
+                [
+                    311.0,
+                    363.0
+                ],
+                [
+                    311.0,
+                    364.0
+                ],
+                [
+                    309.0,
+                    364.0
+                ],
+                [
+                    309.0,
+                    370.0
+                ],
+                [
+                    310.0,
+                    370.0
+                ],
+                [
+                    310.0,
+                    371.0
+                ],
+                [
+                    311.0,
+                    371.0
+                ],
+                [
+                    311.0,
+                    372.0
+                ],
+                [
+                    324.0,
+                    372.0
+                ],
+                [
+                    324.0,
+                    371.0
+                ],
+                [
+                    325.0,
+                    371.0
+                ],
+                [
+                    325.0,
+                    369.0
+                ],
+                [
+                    326.0,
+                    369.0
+                ],
+                [
+                    326.0,
+                    364.0
+                ],
+                [
+                    323.0,
+                    364.0
+                ],
+                [
+                    323.0,
+                    363.0
+                ],
+                [
+                    319.0,
+                    363.0
+                ],
+                [
+                    319.0,
+                    362.0
+                ],
+                [
+                    312.0,
+                    362.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the pylon characterized by its metal build and towering, lattice design rising vertically in the backdrop.",
+        "Locate the pylon, which features a metal composition and an elevated lattice framework standing upright against the scenery.",
+        "Find the pylon with its vertical metallic structure and tall lattice framework set against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031746.jpg",
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    48.0
+                ],
+                [
+                    2.0,
+                    48.0
+                ],
+                [
+                    2.0,
+                    47.0
+                ],
+                [
+                    8.0,
+                    47.0
+                ],
+                [
+                    8.0,
+                    46.0
+                ],
+                [
+                    9.0,
+                    46.0
+                ],
+                [
+                    9.0,
+                    45.0
+                ],
+                [
+                    11.0,
+                    45.0
+                ],
+                [
+                    11.0,
+                    32.0
+                ],
+                [
+                    12.0,
+                    32.0
+                ],
+                [
+                    12.0,
+                    10.0
+                ],
+                [
+                    11.0,
+                    10.0
+                ],
+                [
+                    11.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

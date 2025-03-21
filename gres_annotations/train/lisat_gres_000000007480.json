@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the vehicle that has a long rectangular form and a shiny metallic surface, equipped with four round components below.",
+        "Identify the automobile featuring a stretched rectangular design and a metallic luster, supported by four circular structures at its base.",
+        "Seek out the car characterized by an extended rectangular shape and a glistening metallic finish with four round parts beneath."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007480.jpg",
+            "points": [
+                [
+                    495.0,
+                    319.0
+                ],
+                [
+                    495.0,
+                    322.0
+                ],
+                [
+                    496.0,
+                    322.0
+                ],
+                [
+                    496.0,
+                    324.0
+                ],
+                [
+                    497.0,
+                    324.0
+                ],
+                [
+                    497.0,
+                    326.0
+                ],
+                [
+                    498.0,
+                    326.0
+                ],
+                [
+                    498.0,
+                    327.0
+                ],
+                [
+                    499.0,
+                    327.0
+                ],
+                [
+                    499.0,
+                    328.0
+                ],
+                [
+                    501.0,
+                    328.0
+                ],
+                [
+                    501.0,
+                    329.0
+                ],
+                [
+                    502.0,
+                    329.0
+                ],
+                [
+                    502.0,
+                    330.0
+                ],
+                [
+                    504.0,
+                    330.0
+                ],
+                [
+                    504.0,
+                    329.0
+                ],
+                [
+                    506.0,
+                    329.0
+                ],
+                [
+                    506.0,
+                    328.0
+                ],
+                [
+                    507.0,
+                    328.0
+                ],
+                [
+                    507.0,
+                    325.0
+                ],
+                [
+                    506.0,
+                    325.0
+                ],
+                [
+                    506.0,
+                    324.0
+                ],
+                [
+                    505.0,
+                    324.0
+                ],
+                [
+                    505.0,
+                    323.0
+                ],
+                [
+                    504.0,
+                    323.0
+                ],
+                [
+                    504.0,
+                    322.0
+                ],
+                [
+                    503.0,
+                    322.0
+                ],
+                [
+                    503.0,
+                    321.0
+                ],
+                [
+                    502.0,
+                    321.0
+                ],
+                [
+                    502.0,
+                    320.0
+                ],
+                [
+                    500.0,
+                    320.0
+                ],
+                [
+                    500.0,
+                    319.0
+                ],
+                [
+                    495.0,
+                    319.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

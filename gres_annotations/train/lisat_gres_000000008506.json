@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the unique bus with vibrant colors and windows in the picture.",
+        "Spot the bus that stands out with its bright hues and windows in the image.",
+        "Identify the bus with eye-catching colors and windows in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008506.jpg",
+            "points": [
+                [
+                    295.0,
+                    496.0
+                ],
+                [
+                    295.0,
+                    497.0
+                ],
+                [
+                    292.0,
+                    497.0
+                ],
+                [
+                    292.0,
+                    499.0
+                ],
+                [
+                    291.0,
+                    499.0
+                ],
+                [
+                    291.0,
+                    502.0
+                ],
+                [
+                    292.0,
+                    502.0
+                ],
+                [
+                    292.0,
+                    512.0
+                ],
+                [
+                    302.0,
+                    512.0
+                ],
+                [
+                    302.0,
+                    505.0
+                ],
+                [
+                    301.0,
+                    505.0
+                ],
+                [
+                    301.0,
+                    498.0
+                ],
+                [
+                    300.0,
+                    498.0
+                ],
+                [
+                    300.0,
+                    497.0
+                ],
+                [
+                    298.0,
+                    497.0
+                ],
+                [
+                    298.0,
+                    496.0
+                ],
+                [
+                    295.0,
+                    496.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

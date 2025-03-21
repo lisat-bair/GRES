@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Locate the bus that stands out with its big rectangular form and windows that starkly contrast with the dark backdrop.",
+        "Spot the bus characterized by its large rectangular design and windows that are noticeable against the dim background.",
+        "Find the bus that is recognizable by its spacious rectangular shape and windows that sharply contrast with the dark surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019344.jpg",
+            "points": [
+                [
+                    114.0,
+                    447.0
+                ],
+                [
+                    114.0,
+                    448.0
+                ],
+                [
+                    103.0,
+                    448.0
+                ],
+                [
+                    103.0,
+                    449.0
+                ],
+                [
+                    99.0,
+                    449.0
+                ],
+                [
+                    99.0,
+                    450.0
+                ],
+                [
+                    98.0,
+                    450.0
+                ],
+                [
+                    98.0,
+                    451.0
+                ],
+                [
+                    97.0,
+                    451.0
+                ],
+                [
+                    97.0,
+                    456.0
+                ],
+                [
+                    98.0,
+                    456.0
+                ],
+                [
+                    98.0,
+                    457.0
+                ],
+                [
+                    99.0,
+                    457.0
+                ],
+                [
+                    99.0,
+                    458.0
+                ],
+                [
+                    100.0,
+                    458.0
+                ],
+                [
+                    100.0,
+                    459.0
+                ],
+                [
+                    106.0,
+                    459.0
+                ],
+                [
+                    106.0,
+                    458.0
+                ],
+                [
+                    111.0,
+                    458.0
+                ],
+                [
+                    111.0,
+                    457.0
+                ],
+                [
+                    114.0,
+                    457.0
+                ],
+                [
+                    114.0,
+                    456.0
+                ],
+                [
+                    117.0,
+                    456.0
+                ],
+                [
+                    117.0,
+                    455.0
+                ],
+                [
+                    119.0,
+                    455.0
+                ],
+                [
+                    119.0,
+                    454.0
+                ],
+                [
+                    120.0,
+                    454.0
+                ],
+                [
+                    120.0,
+                    450.0
+                ],
+                [
+                    119.0,
+                    450.0
+                ],
+                [
+                    119.0,
+                    449.0
+                ],
+                [
+                    118.0,
+                    449.0
+                ],
+                [
+                    118.0,
+                    448.0
+                ],
+                [
+                    116.0,
+                    448.0
+                ],
+                [
+                    116.0,
+                    447.0
+                ],
+                [
+                    114.0,
+                    447.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

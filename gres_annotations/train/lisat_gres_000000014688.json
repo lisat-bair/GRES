@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the structure that is tall and slender, featuring a light gray exterior that stands out against its darker environment.",
+        "Identify the building characterized by its towering and slim design, with a light gray front that contrasts with its darker backdrop.",
+        "Spot the edifice that boasts a lofty and narrow form, with a light gray facade that differentiates itself from the surrounding darker hues."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014688.jpg",
+            "points": [
+                [
+                    349.0,
+                    353.0
+                ],
+                [
+                    349.0,
+                    354.0
+                ],
+                [
+                    344.0,
+                    354.0
+                ],
+                [
+                    344.0,
+                    356.0
+                ],
+                [
+                    343.0,
+                    356.0
+                ],
+                [
+                    343.0,
+                    363.0
+                ],
+                [
+                    342.0,
+                    363.0
+                ],
+                [
+                    342.0,
+                    372.0
+                ],
+                [
+                    343.0,
+                    372.0
+                ],
+                [
+                    343.0,
+                    378.0
+                ],
+                [
+                    344.0,
+                    378.0
+                ],
+                [
+                    344.0,
+                    379.0
+                ],
+                [
+                    345.0,
+                    379.0
+                ],
+                [
+                    345.0,
+                    380.0
+                ],
+                [
+                    350.0,
+                    380.0
+                ],
+                [
+                    350.0,
+                    379.0
+                ],
+                [
+                    353.0,
+                    379.0
+                ],
+                [
+                    353.0,
+                    378.0
+                ],
+                [
+                    355.0,
+                    378.0
+                ],
+                [
+                    355.0,
+                    356.0
+                ],
+                [
+                    354.0,
+                    356.0
+                ],
+                [
+                    354.0,
+                    354.0
+                ],
+                [
+                    353.0,
+                    354.0
+                ],
+                [
+                    353.0,
+                    353.0
+                ],
+                [
+                    352.0,
+                    353.0
+                ],
+                [
+                    352.0,
+                    354.0
+                ],
+                [
+                    350.0,
+                    354.0
+                ],
+                [
+                    350.0,
+                    353.0
+                ],
+                [
+                    349.0,
+                    353.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

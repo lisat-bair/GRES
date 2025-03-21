@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the structure in the picture that looks warped because of horizontal color stripes.",
+        "Find the edifice in the photograph that seems twisted by horizontal bands of colors.",
+        "Spot the construction in the image that appears skewed owing to horizontal color lines."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029596.jpg",
+            "points": [
+                [
+                    0.0,
+                    95.0
+                ],
+                [
+                    0.0,
+                    124.0
+                ],
+                [
+                    1.0,
+                    124.0
+                ],
+                [
+                    1.0,
+                    123.0
+                ],
+                [
+                    2.0,
+                    123.0
+                ],
+                [
+                    2.0,
+                    122.0
+                ],
+                [
+                    3.0,
+                    122.0
+                ],
+                [
+                    3.0,
+                    117.0
+                ],
+                [
+                    4.0,
+                    117.0
+                ],
+                [
+                    4.0,
+                    114.0
+                ],
+                [
+                    5.0,
+                    114.0
+                ],
+                [
+                    5.0,
+                    109.0
+                ],
+                [
+                    6.0,
+                    109.0
+                ],
+                [
+                    6.0,
+                    105.0
+                ],
+                [
+                    7.0,
+                    105.0
+                ],
+                [
+                    7.0,
+                    103.0
+                ],
+                [
+                    6.0,
+                    103.0
+                ],
+                [
+                    6.0,
+                    100.0
+                ],
+                [
+                    5.0,
+                    100.0
+                ],
+                [
+                    5.0,
+                    98.0
+                ],
+                [
+                    4.0,
+                    98.0
+                ],
+                [
+                    4.0,
+                    96.0
+                ],
+                [
+                    2.0,
+                    96.0
+                ],
+                [
+                    2.0,
+                    95.0
+                ],
+                [
+                    0.0,
+                    95.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

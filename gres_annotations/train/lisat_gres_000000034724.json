@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the vehicle that has a boxy design, shiny windows, and wheels, often in a hue that stands out from its environment.",
+        "Find the automobile characterized by its rectangular form, glossy windows, and tires, usually in a color that contrasts with the area around it.",
+        "Spot the car with a squared-off shape, reflective glass, and wheels, typically in a shade that differs from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034724.jpg",
+            "points": [
+                [
+                    218.0,
+                    0.0
+                ],
+                [
+                    218.0,
+                    4.0
+                ],
+                [
+                    219.0,
+                    4.0
+                ],
+                [
+                    219.0,
+                    6.0
+                ],
+                [
+                    220.0,
+                    6.0
+                ],
+                [
+                    220.0,
+                    7.0
+                ],
+                [
+                    226.0,
+                    7.0
+                ],
+                [
+                    226.0,
+                    6.0
+                ],
+                [
+                    227.0,
+                    6.0
+                ],
+                [
+                    227.0,
+                    5.0
+                ],
+                [
+                    228.0,
+                    5.0
+                ],
+                [
+                    228.0,
+                    4.0
+                ],
+                [
+                    229.0,
+                    4.0
+                ],
+                [
+                    229.0,
+                    3.0
+                ],
+                [
+                    230.0,
+                    3.0
+                ],
+                [
+                    230.0,
+                    2.0
+                ],
+                [
+                    231.0,
+                    2.0
+                ],
+                [
+                    231.0,
+                    0.0
+                ],
+                [
+                    218.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

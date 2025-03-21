@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the vehicle that has a metallic exterior and four wheels, characterized by a unique rectangular form.",
+        "Find the automobile that possesses a metal body and four wheels, exhibiting a distinct rectangular shape.",
+        "Spot the car with a metallic frame and four wheels, noted for its distinctive rectangular design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012416.jpg",
+            "points": [
+                [
+                    21.0,
+                    384.0
+                ],
+                [
+                    21.0,
+                    385.0
+                ],
+                [
+                    20.0,
+                    385.0
+                ],
+                [
+                    20.0,
+                    390.0
+                ],
+                [
+                    21.0,
+                    390.0
+                ],
+                [
+                    21.0,
+                    391.0
+                ],
+                [
+                    23.0,
+                    391.0
+                ],
+                [
+                    23.0,
+                    392.0
+                ],
+                [
+                    26.0,
+                    392.0
+                ],
+                [
+                    26.0,
+                    393.0
+                ],
+                [
+                    29.0,
+                    393.0
+                ],
+                [
+                    29.0,
+                    394.0
+                ],
+                [
+                    32.0,
+                    394.0
+                ],
+                [
+                    32.0,
+                    395.0
+                ],
+                [
+                    35.0,
+                    395.0
+                ],
+                [
+                    35.0,
+                    394.0
+                ],
+                [
+                    36.0,
+                    394.0
+                ],
+                [
+                    36.0,
+                    392.0
+                ],
+                [
+                    37.0,
+                    392.0
+                ],
+                [
+                    37.0,
+                    388.0
+                ],
+                [
+                    36.0,
+                    388.0
+                ],
+                [
+                    36.0,
+                    387.0
+                ],
+                [
+                    35.0,
+                    387.0
+                ],
+                [
+                    35.0,
+                    386.0
+                ],
+                [
+                    32.0,
+                    386.0
+                ],
+                [
+                    32.0,
+                    385.0
+                ],
+                [
+                    30.0,
+                    385.0
+                ],
+                [
+                    30.0,
+                    384.0
+                ],
+                [
+                    21.0,
+                    384.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

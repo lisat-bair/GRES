@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Look for the truck that has a dark-colored body and a uniquely designed cabin.",
+        "Find the dark-colored truck with the cabin that stands out due to its shape.",
+        "Spot the truck with a body in a dark hue and a cabin with a distinctive shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028600.jpg",
+            "points": [
+                [
+                    471.0,
+                    369.0
+                ],
+                [
+                    471.0,
+                    370.0
+                ],
+                [
+                    470.0,
+                    370.0
+                ],
+                [
+                    470.0,
+                    375.0
+                ],
+                [
+                    471.0,
+                    375.0
+                ],
+                [
+                    471.0,
+                    376.0
+                ],
+                [
+                    483.0,
+                    376.0
+                ],
+                [
+                    483.0,
+                    375.0
+                ],
+                [
+                    485.0,
+                    375.0
+                ],
+                [
+                    485.0,
+                    370.0
+                ],
+                [
+                    484.0,
+                    370.0
+                ],
+                [
+                    484.0,
+                    369.0
+                ],
+                [
+                    471.0,
+                    369.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

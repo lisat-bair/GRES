@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the vehicle located in the middle of the picture.",
+        "Identify the automobile positioned at the image's center.",
+        "Spot the car that is situated in the center of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018325.jpg",
+            "points": [
+                [
+                    296.0,
+                    267.0
+                ],
+                [
+                    296.0,
+                    268.0
+                ],
+                [
+                    294.0,
+                    268.0
+                ],
+                [
+                    294.0,
+                    269.0
+                ],
+                [
+                    293.0,
+                    269.0
+                ],
+                [
+                    293.0,
+                    272.0
+                ],
+                [
+                    292.0,
+                    272.0
+                ],
+                [
+                    292.0,
+                    276.0
+                ],
+                [
+                    293.0,
+                    276.0
+                ],
+                [
+                    293.0,
+                    279.0
+                ],
+                [
+                    294.0,
+                    279.0
+                ],
+                [
+                    294.0,
+                    280.0
+                ],
+                [
+                    295.0,
+                    280.0
+                ],
+                [
+                    295.0,
+                    281.0
+                ],
+                [
+                    298.0,
+                    281.0
+                ],
+                [
+                    298.0,
+                    280.0
+                ],
+                [
+                    300.0,
+                    280.0
+                ],
+                [
+                    300.0,
+                    278.0
+                ],
+                [
+                    301.0,
+                    278.0
+                ],
+                [
+                    301.0,
+                    269.0
+                ],
+                [
+                    300.0,
+                    269.0
+                ],
+                [
+                    300.0,
+                    268.0
+                ],
+                [
+                    298.0,
+                    268.0
+                ],
+                [
+                    298.0,
+                    267.0
+                ],
+                [
+                    296.0,
+                    267.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the dark-colored round vehicle that has a white circular detail on one side.",
+        "Find the dark round passenger vehicle that includes a white circle on one side.",
+        "Spot the passenger car with a round shape and dark hue, which has a white circle on one side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031939.jpg",
+            "points": [
+                [
+                    133.0,
+                    316.0
+                ],
+                [
+                    133.0,
+                    317.0
+                ],
+                [
+                    131.0,
+                    317.0
+                ],
+                [
+                    131.0,
+                    318.0
+                ],
+                [
+                    130.0,
+                    318.0
+                ],
+                [
+                    130.0,
+                    319.0
+                ],
+                [
+                    129.0,
+                    319.0
+                ],
+                [
+                    129.0,
+                    321.0
+                ],
+                [
+                    128.0,
+                    321.0
+                ],
+                [
+                    128.0,
+                    324.0
+                ],
+                [
+                    127.0,
+                    324.0
+                ],
+                [
+                    127.0,
+                    329.0
+                ],
+                [
+                    128.0,
+                    329.0
+                ],
+                [
+                    128.0,
+                    331.0
+                ],
+                [
+                    129.0,
+                    331.0
+                ],
+                [
+                    129.0,
+                    333.0
+                ],
+                [
+                    130.0,
+                    333.0
+                ],
+                [
+                    130.0,
+                    334.0
+                ],
+                [
+                    135.0,
+                    334.0
+                ],
+                [
+                    135.0,
+                    333.0
+                ],
+                [
+                    136.0,
+                    333.0
+                ],
+                [
+                    136.0,
+                    332.0
+                ],
+                [
+                    137.0,
+                    332.0
+                ],
+                [
+                    137.0,
+                    324.0
+                ],
+                [
+                    138.0,
+                    324.0
+                ],
+                [
+                    138.0,
+                    318.0
+                ],
+                [
+                    137.0,
+                    318.0
+                ],
+                [
+                    137.0,
+                    317.0
+                ],
+                [
+                    135.0,
+                    317.0
+                ],
+                [
+                    135.0,
+                    316.0
+                ],
+                [
+                    133.0,
+                    316.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

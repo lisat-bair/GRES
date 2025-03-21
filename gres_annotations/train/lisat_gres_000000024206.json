@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Identify the crane truck as a sizable vehicle equipped with a long boom or arm, often found in vivid colors such as yellow or red, complete with a cab and a hook or hoisting device.",
+        "Recognize the crane truck as a large vehicle that includes an extended boom or arm, usually painted in bright hues like yellow or red, featuring a cab and a lifting mechanism or hook.",
+        "Classify the crane truck as a big vehicle that comes with a long arm or boom, typically displayed in striking colors like yellow or red, and includes a cab along with a hook or lift mechanism."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024206.jpg",
+            "points": [
+                [
+                    510.0,
+                    429.0
+                ],
+                [
+                    510.0,
+                    430.0
+                ],
+                [
+                    508.0,
+                    430.0
+                ],
+                [
+                    508.0,
+                    431.0
+                ],
+                [
+                    507.0,
+                    431.0
+                ],
+                [
+                    507.0,
+                    442.0
+                ],
+                [
+                    508.0,
+                    442.0
+                ],
+                [
+                    508.0,
+                    450.0
+                ],
+                [
+                    509.0,
+                    450.0
+                ],
+                [
+                    509.0,
+                    458.0
+                ],
+                [
+                    510.0,
+                    458.0
+                ],
+                [
+                    510.0,
+                    461.0
+                ],
+                [
+                    511.0,
+                    461.0
+                ],
+                [
+                    511.0,
+                    462.0
+                ],
+                [
+                    512.0,
+                    462.0
+                ],
+                [
+                    512.0,
+                    429.0
+                ],
+                [
+                    510.0,
+                    429.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

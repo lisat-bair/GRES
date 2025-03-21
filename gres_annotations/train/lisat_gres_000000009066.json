@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the trailer situated in the bottom-right corner of the image, characterized by its elongated rectangular shape and noticeable wheels, often metallic or painted.",
+        "Identify the trailer positioned in the lower-right section of the image, which is long, rectangular, and usually equipped with prominent wheels, either metallic or painted.",
+        "Spot the trailer located in the bottom-right part of the image, recognized by its lengthy rectangular design and distinct wheels, generally metallic or colored."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009066.jpg",
+            "points": [
+                [
+                    406.0,
+                    501.0
+                ],
+                [
+                    406.0,
+                    502.0
+                ],
+                [
+                    404.0,
+                    502.0
+                ],
+                [
+                    404.0,
+                    503.0
+                ],
+                [
+                    403.0,
+                    503.0
+                ],
+                [
+                    403.0,
+                    512.0
+                ],
+                [
+                    434.0,
+                    512.0
+                ],
+                [
+                    434.0,
+                    505.0
+                ],
+                [
+                    433.0,
+                    505.0
+                ],
+                [
+                    433.0,
+                    502.0
+                ],
+                [
+                    432.0,
+                    502.0
+                ],
+                [
+                    432.0,
+                    501.0
+                ],
+                [
+                    406.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

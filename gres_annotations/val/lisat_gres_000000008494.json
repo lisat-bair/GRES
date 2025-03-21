@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the bus by its elongated rectangular shape, prominent windows, and the presence of wheels at the bottom."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008494.jpg",
+            "points": [
+                [
+                    259.0,
+                    502.0
+                ],
+                [
+                    259.0,
+                    503.0
+                ],
+                [
+                    257.0,
+                    503.0
+                ],
+                [
+                    257.0,
+                    504.0
+                ],
+                [
+                    256.0,
+                    504.0
+                ],
+                [
+                    256.0,
+                    510.0
+                ],
+                [
+                    255.0,
+                    510.0
+                ],
+                [
+                    255.0,
+                    512.0
+                ],
+                [
+                    262.0,
+                    512.0
+                ],
+                [
+                    262.0,
+                    510.0
+                ],
+                [
+                    263.0,
+                    510.0
+                ],
+                [
+                    263.0,
+                    506.0
+                ],
+                [
+                    264.0,
+                    506.0
+                ],
+                [
+                    264.0,
+                    505.0
+                ],
+                [
+                    263.0,
+                    505.0
+                ],
+                [
+                    263.0,
+                    503.0
+                ],
+                [
+                    262.0,
+                    503.0
+                ],
+                [
+                    262.0,
+                    502.0
+                ],
+                [
+                    259.0,
+                    502.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

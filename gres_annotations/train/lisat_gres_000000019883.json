@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Isolate the truck found in the lower-right corner of the picture.",
+        "Identify and separate the truck situated at the bottom-right section of the image.",
+        "Extract the truck positioned in the bottom-right area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019883.jpg",
+            "points": [
+                [
+                    404.0,
+                    328.0
+                ],
+                [
+                    404.0,
+                    329.0
+                ],
+                [
+                    397.0,
+                    329.0
+                ],
+                [
+                    397.0,
+                    330.0
+                ],
+                [
+                    391.0,
+                    330.0
+                ],
+                [
+                    391.0,
+                    331.0
+                ],
+                [
+                    381.0,
+                    331.0
+                ],
+                [
+                    381.0,
+                    332.0
+                ],
+                [
+                    379.0,
+                    332.0
+                ],
+                [
+                    379.0,
+                    336.0
+                ],
+                [
+                    380.0,
+                    336.0
+                ],
+                [
+                    380.0,
+                    338.0
+                ],
+                [
+                    381.0,
+                    338.0
+                ],
+                [
+                    381.0,
+                    339.0
+                ],
+                [
+                    396.0,
+                    339.0
+                ],
+                [
+                    396.0,
+                    338.0
+                ],
+                [
+                    403.0,
+                    338.0
+                ],
+                [
+                    403.0,
+                    337.0
+                ],
+                [
+                    408.0,
+                    337.0
+                ],
+                [
+                    408.0,
+                    336.0
+                ],
+                [
+                    409.0,
+                    336.0
+                ],
+                [
+                    409.0,
+                    333.0
+                ],
+                [
+                    408.0,
+                    333.0
+                ],
+                [
+                    408.0,
+                    330.0
+                ],
+                [
+                    407.0,
+                    330.0
+                ],
+                [
+                    407.0,
+                    329.0
+                ],
+                [
+                    405.0,
+                    329.0
+                ],
+                [
+                    405.0,
+                    328.0
+                ],
+                [
+                    404.0,
+                    328.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

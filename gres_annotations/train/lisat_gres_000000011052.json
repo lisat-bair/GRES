@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the truck that has a trailer bed by looking for the substantial rectangular form with wheels, which stands out from its surroundings.",
+        "Locate the truck featuring a trailer bed by spotting the large wheel-equipped rectangle that is clearly different from its environment.",
+        "Spot the truck with a trailer bed by identifying the big rectangular shape on wheels, which is unlike its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011052.jpg",
+            "points": [
+                [
+                    65.0,
+                    276.0
+                ],
+                [
+                    65.0,
+                    277.0
+                ],
+                [
+                    64.0,
+                    277.0
+                ],
+                [
+                    64.0,
+                    279.0
+                ],
+                [
+                    63.0,
+                    279.0
+                ],
+                [
+                    63.0,
+                    280.0
+                ],
+                [
+                    64.0,
+                    280.0
+                ],
+                [
+                    64.0,
+                    282.0
+                ],
+                [
+                    66.0,
+                    282.0
+                ],
+                [
+                    66.0,
+                    283.0
+                ],
+                [
+                    74.0,
+                    283.0
+                ],
+                [
+                    74.0,
+                    282.0
+                ],
+                [
+                    76.0,
+                    282.0
+                ],
+                [
+                    76.0,
+                    281.0
+                ],
+                [
+                    77.0,
+                    281.0
+                ],
+                [
+                    77.0,
+                    278.0
+                ],
+                [
+                    76.0,
+                    278.0
+                ],
+                [
+                    76.0,
+                    277.0
+                ],
+                [
+                    75.0,
+                    277.0
+                ],
+                [
+                    75.0,
+                    276.0
+                ],
+                [
+                    65.0,
+                    276.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

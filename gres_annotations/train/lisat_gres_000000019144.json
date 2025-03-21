@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the automobile that features sleek curves and shiny exteriors.",
+        "Locate the vehicle possessing rounded lines and glossy surfaces.",
+        "Spot the car characterized by its smooth contours and reflective finish."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019144.jpg",
+            "points": [
+                [
+                    221.0,
+                    327.0
+                ],
+                [
+                    221.0,
+                    328.0
+                ],
+                [
+                    220.0,
+                    328.0
+                ],
+                [
+                    220.0,
+                    332.0
+                ],
+                [
+                    221.0,
+                    332.0
+                ],
+                [
+                    221.0,
+                    333.0
+                ],
+                [
+                    223.0,
+                    333.0
+                ],
+                [
+                    223.0,
+                    334.0
+                ],
+                [
+                    233.0,
+                    334.0
+                ],
+                [
+                    233.0,
+                    333.0
+                ],
+                [
+                    235.0,
+                    333.0
+                ],
+                [
+                    235.0,
+                    332.0
+                ],
+                [
+                    236.0,
+                    332.0
+                ],
+                [
+                    236.0,
+                    328.0
+                ],
+                [
+                    235.0,
+                    328.0
+                ],
+                [
+                    235.0,
+                    327.0
+                ],
+                [
+                    221.0,
+                    327.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

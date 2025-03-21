@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the dump truck that features six large wheels and an open-top cargo bed built for carrying hefty loads.",
+        "Spot the dump truck equipped with six giant wheels and a cargo bed without a cover, intended for moving heavy materials.",
+        "Find the dump truck characterized by its six enormous wheels and an open-top cargo bed meant for transporting substantial loads."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022984.jpg",
+            "points": [
+                [
+                    5.0,
+                    18.0
+                ],
+                [
+                    5.0,
+                    20.0
+                ],
+                [
+                    4.0,
+                    20.0
+                ],
+                [
+                    4.0,
+                    29.0
+                ],
+                [
+                    5.0,
+                    29.0
+                ],
+                [
+                    5.0,
+                    30.0
+                ],
+                [
+                    6.0,
+                    30.0
+                ],
+                [
+                    6.0,
+                    31.0
+                ],
+                [
+                    14.0,
+                    31.0
+                ],
+                [
+                    14.0,
+                    30.0
+                ],
+                [
+                    18.0,
+                    30.0
+                ],
+                [
+                    18.0,
+                    29.0
+                ],
+                [
+                    20.0,
+                    29.0
+                ],
+                [
+                    20.0,
+                    28.0
+                ],
+                [
+                    22.0,
+                    28.0
+                ],
+                [
+                    22.0,
+                    27.0
+                ],
+                [
+                    23.0,
+                    27.0
+                ],
+                [
+                    23.0,
+                    26.0
+                ],
+                [
+                    24.0,
+                    26.0
+                ],
+                [
+                    24.0,
+                    25.0
+                ],
+                [
+                    25.0,
+                    25.0
+                ],
+                [
+                    25.0,
+                    21.0
+                ],
+                [
+                    24.0,
+                    21.0
+                ],
+                [
+                    24.0,
+                    20.0
+                ],
+                [
+                    23.0,
+                    20.0
+                ],
+                [
+                    23.0,
+                    19.0
+                ],
+                [
+                    20.0,
+                    19.0
+                ],
+                [
+                    20.0,
+                    18.0
+                ],
+                [
+                    5.0,
+                    18.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

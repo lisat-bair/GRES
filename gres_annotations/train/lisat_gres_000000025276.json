@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the trailer situated in the image's bottom-right corner.",
+        "Check the lower right section of the picture to locate the trailer.",
+        "Look for the trailer in the bottom-right area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025276.jpg",
+            "points": [
+                [
+                    504.0,
+                    245.0
+                ],
+                [
+                    504.0,
+                    246.0
+                ],
+                [
+                    502.0,
+                    246.0
+                ],
+                [
+                    502.0,
+                    249.0
+                ],
+                [
+                    503.0,
+                    249.0
+                ],
+                [
+                    503.0,
+                    260.0
+                ],
+                [
+                    504.0,
+                    260.0
+                ],
+                [
+                    504.0,
+                    261.0
+                ],
+                [
+                    505.0,
+                    261.0
+                ],
+                [
+                    505.0,
+                    265.0
+                ],
+                [
+                    508.0,
+                    265.0
+                ],
+                [
+                    508.0,
+                    266.0
+                ],
+                [
+                    512.0,
+                    266.0
+                ],
+                [
+                    512.0,
+                    246.0
+                ],
+                [
+                    506.0,
+                    246.0
+                ],
+                [
+                    506.0,
+                    245.0
+                ],
+                [
+                    504.0,
+                    245.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

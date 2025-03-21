@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Identify the bus in the top-right corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021985.jpg",
+            "points": [
+                [
+                    393.0,
+                    0.0
+                ],
+                [
+                    393.0,
+                    3.0
+                ],
+                [
+                    394.0,
+                    3.0
+                ],
+                [
+                    394.0,
+                    4.0
+                ],
+                [
+                    395.0,
+                    4.0
+                ],
+                [
+                    395.0,
+                    5.0
+                ],
+                [
+                    401.0,
+                    5.0
+                ],
+                [
+                    401.0,
+                    4.0
+                ],
+                [
+                    402.0,
+                    4.0
+                ],
+                [
+                    402.0,
+                    1.0
+                ],
+                [
+                    403.0,
+                    1.0
+                ],
+                [
+                    403.0,
+                    0.0
+                ],
+                [
+                    393.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

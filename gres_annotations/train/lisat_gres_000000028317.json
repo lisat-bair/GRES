@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the white car by spotting its vivid color that stands out against the dark surroundings and its curved form.",
+        "Identify the white vehicle by its prominent hue contrasting against the darker background and its rounded silhouette.",
+        "Spot the white car by recognizing its striking color against the dim backdrop and its circular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028317.jpg",
+            "points": [
+                [
+                    352.0,
+                    289.0
+                ],
+                [
+                    352.0,
+                    290.0
+                ],
+                [
+                    351.0,
+                    290.0
+                ],
+                [
+                    351.0,
+                    291.0
+                ],
+                [
+                    350.0,
+                    291.0
+                ],
+                [
+                    350.0,
+                    297.0
+                ],
+                [
+                    349.0,
+                    297.0
+                ],
+                [
+                    349.0,
+                    303.0
+                ],
+                [
+                    350.0,
+                    303.0
+                ],
+                [
+                    350.0,
+                    304.0
+                ],
+                [
+                    351.0,
+                    304.0
+                ],
+                [
+                    351.0,
+                    305.0
+                ],
+                [
+                    352.0,
+                    305.0
+                ],
+                [
+                    352.0,
+                    307.0
+                ],
+                [
+                    354.0,
+                    307.0
+                ],
+                [
+                    354.0,
+                    308.0
+                ],
+                [
+                    362.0,
+                    308.0
+                ],
+                [
+                    362.0,
+                    307.0
+                ],
+                [
+                    363.0,
+                    307.0
+                ],
+                [
+                    363.0,
+                    306.0
+                ],
+                [
+                    364.0,
+                    306.0
+                ],
+                [
+                    364.0,
+                    304.0
+                ],
+                [
+                    365.0,
+                    304.0
+                ],
+                [
+                    365.0,
+                    299.0
+                ],
+                [
+                    364.0,
+                    299.0
+                ],
+                [
+                    364.0,
+                    297.0
+                ],
+                [
+                    363.0,
+                    297.0
+                ],
+                [
+                    363.0,
+                    294.0
+                ],
+                [
+                    362.0,
+                    294.0
+                ],
+                [
+                    362.0,
+                    292.0
+                ],
+                [
+                    361.0,
+                    292.0
+                ],
+                [
+                    361.0,
+                    291.0
+                ],
+                [
+                    360.0,
+                    291.0
+                ],
+                [
+                    360.0,
+                    290.0
+                ],
+                [
+                    359.0,
+                    290.0
+                ],
+                [
+                    359.0,
+                    289.0
+                ],
+                [
+                    352.0,
+                    289.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

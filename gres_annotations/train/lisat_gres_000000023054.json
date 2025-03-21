@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the light-colored car that has a noticeable boxy design and headlights that can be seen.",
+        "Spot the pale automobile featuring a unique rectangular form and headlights that are clearly visible.",
+        "Find the white vehicle characterized by its pronounced square shape and apparent headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023054.jpg",
+            "points": [
+                [
+                    464.0,
+                    339.0
+                ],
+                [
+                    464.0,
+                    340.0
+                ],
+                [
+                    460.0,
+                    340.0
+                ],
+                [
+                    460.0,
+                    341.0
+                ],
+                [
+                    459.0,
+                    341.0
+                ],
+                [
+                    459.0,
+                    348.0
+                ],
+                [
+                    460.0,
+                    348.0
+                ],
+                [
+                    460.0,
+                    349.0
+                ],
+                [
+                    463.0,
+                    349.0
+                ],
+                [
+                    463.0,
+                    350.0
+                ],
+                [
+                    474.0,
+                    350.0
+                ],
+                [
+                    474.0,
+                    349.0
+                ],
+                [
+                    475.0,
+                    349.0
+                ],
+                [
+                    475.0,
+                    342.0
+                ],
+                [
+                    474.0,
+                    342.0
+                ],
+                [
+                    474.0,
+                    341.0
+                ],
+                [
+                    473.0,
+                    341.0
+                ],
+                [
+                    473.0,
+                    340.0
+                ],
+                [
+                    470.0,
+                    340.0
+                ],
+                [
+                    470.0,
+                    339.0
+                ],
+                [
+                    464.0,
+                    339.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

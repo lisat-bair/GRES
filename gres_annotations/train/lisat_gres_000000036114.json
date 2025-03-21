@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the hangar positioned at the top-center of the picture.",
+        "Find the hangar that is situated in the top-center part of the image.",
+        "Spot the hangar located at the top-center area of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036114.jpg",
+            "points": [
+                [
+                    206.0,
+                    0.0
+                ],
+                [
+                    206.0,
+                    4.0
+                ],
+                [
+                    212.0,
+                    4.0
+                ],
+                [
+                    212.0,
+                    3.0
+                ],
+                [
+                    214.0,
+                    3.0
+                ],
+                [
+                    214.0,
+                    4.0
+                ],
+                [
+                    215.0,
+                    4.0
+                ],
+                [
+                    215.0,
+                    3.0
+                ],
+                [
+                    223.0,
+                    3.0
+                ],
+                [
+                    223.0,
+                    2.0
+                ],
+                [
+                    225.0,
+                    2.0
+                ],
+                [
+                    225.0,
+                    3.0
+                ],
+                [
+                    232.0,
+                    3.0
+                ],
+                [
+                    232.0,
+                    4.0
+                ],
+                [
+                    235.0,
+                    4.0
+                ],
+                [
+                    235.0,
+                    3.0
+                ],
+                [
+                    241.0,
+                    3.0
+                ],
+                [
+                    241.0,
+                    2.0
+                ],
+                [
+                    239.0,
+                    2.0
+                ],
+                [
+                    239.0,
+                    1.0
+                ],
+                [
+                    238.0,
+                    1.0
+                ],
+                [
+                    238.0,
+                    0.0
+                ],
+                [
+                    206.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

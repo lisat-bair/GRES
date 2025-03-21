@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the truck that has a unique rectangular form and stands out with its vibrant exterior color against the darker surroundings.",
+        "Locate the truck that is uniquely rectangular and features a bright color that contrasts sharply with the dark background.",
+        "Find the truck with a distinctive rectangular design and a bright exterior that contrasts with the darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010128.jpg",
+            "points": [
+                [
+                    465.0,
+                    157.0
+                ],
+                [
+                    465.0,
+                    159.0
+                ],
+                [
+                    464.0,
+                    159.0
+                ],
+                [
+                    464.0,
+                    162.0
+                ],
+                [
+                    463.0,
+                    162.0
+                ],
+                [
+                    463.0,
+                    168.0
+                ],
+                [
+                    464.0,
+                    168.0
+                ],
+                [
+                    464.0,
+                    169.0
+                ],
+                [
+                    465.0,
+                    169.0
+                ],
+                [
+                    465.0,
+                    170.0
+                ],
+                [
+                    467.0,
+                    170.0
+                ],
+                [
+                    467.0,
+                    171.0
+                ],
+                [
+                    471.0,
+                    171.0
+                ],
+                [
+                    471.0,
+                    170.0
+                ],
+                [
+                    472.0,
+                    170.0
+                ],
+                [
+                    472.0,
+                    169.0
+                ],
+                [
+                    473.0,
+                    169.0
+                ],
+                [
+                    473.0,
+                    160.0
+                ],
+                [
+                    472.0,
+                    160.0
+                ],
+                [
+                    472.0,
+                    159.0
+                ],
+                [
+                    471.0,
+                    159.0
+                ],
+                [
+                    471.0,
+                    158.0
+                ],
+                [
+                    470.0,
+                    158.0
+                ],
+                [
+                    470.0,
+                    157.0
+                ],
+                [
+                    465.0,
+                    157.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

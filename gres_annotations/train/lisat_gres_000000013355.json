@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the vehicle that has a glossy, metal exterior contrasting with the dimmer, rough background.",
+        "Identify the automobile with a sleek, metallic finish that is prominent against the darker, textured setting.",
+        "Spot the car featuring a polished, metal surface that stands out from the shadowy, textured environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013355.jpg",
+            "points": [
+                [
+                    251.0,
+                    86.0
+                ],
+                [
+                    251.0,
+                    87.0
+                ],
+                [
+                    250.0,
+                    87.0
+                ],
+                [
+                    250.0,
+                    91.0
+                ],
+                [
+                    249.0,
+                    91.0
+                ],
+                [
+                    249.0,
+                    100.0
+                ],
+                [
+                    250.0,
+                    100.0
+                ],
+                [
+                    250.0,
+                    101.0
+                ],
+                [
+                    256.0,
+                    101.0
+                ],
+                [
+                    256.0,
+                    100.0
+                ],
+                [
+                    257.0,
+                    100.0
+                ],
+                [
+                    257.0,
+                    98.0
+                ],
+                [
+                    258.0,
+                    98.0
+                ],
+                [
+                    258.0,
+                    93.0
+                ],
+                [
+                    259.0,
+                    93.0
+                ],
+                [
+                    259.0,
+                    88.0
+                ],
+                [
+                    258.0,
+                    88.0
+                ],
+                [
+                    258.0,
+                    87.0
+                ],
+                [
+                    257.0,
+                    87.0
+                ],
+                [
+                    257.0,
+                    86.0
+                ],
+                [
+                    251.0,
+                    86.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

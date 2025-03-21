@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck with a flatbed and a uniquely square cabin in the photo.",
+        "Identify the vehicle with a flatbed and a notably angular cabin in the picture.",
+        "Spot the truck featuring a flatbed and a characteristically boxy cabin within the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012235.jpg",
+            "points": [
+                [
+                    307.0,
+                    212.0
+                ],
+                [
+                    307.0,
+                    213.0
+                ],
+                [
+                    306.0,
+                    213.0
+                ],
+                [
+                    306.0,
+                    225.0
+                ],
+                [
+                    307.0,
+                    225.0
+                ],
+                [
+                    307.0,
+                    226.0
+                ],
+                [
+                    309.0,
+                    226.0
+                ],
+                [
+                    309.0,
+                    227.0
+                ],
+                [
+                    312.0,
+                    227.0
+                ],
+                [
+                    312.0,
+                    226.0
+                ],
+                [
+                    314.0,
+                    226.0
+                ],
+                [
+                    314.0,
+                    213.0
+                ],
+                [
+                    313.0,
+                    213.0
+                ],
+                [
+                    313.0,
+                    212.0
+                ],
+                [
+                    307.0,
+                    212.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the truck that stands out due to its unique lighting in the image.",
+        "Identify the vehicle with the notable lighting that is prominently displayed in the picture.",
+        "Spot the truck with unusual lights that is clearly visible in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014481.jpg",
+            "points": [
+                [
+                    316.0,
+                    111.0
+                ],
+                [
+                    316.0,
+                    112.0
+                ],
+                [
+                    315.0,
+                    112.0
+                ],
+                [
+                    315.0,
+                    123.0
+                ],
+                [
+                    316.0,
+                    123.0
+                ],
+                [
+                    316.0,
+                    125.0
+                ],
+                [
+                    317.0,
+                    125.0
+                ],
+                [
+                    317.0,
+                    126.0
+                ],
+                [
+                    322.0,
+                    126.0
+                ],
+                [
+                    322.0,
+                    125.0
+                ],
+                [
+                    324.0,
+                    125.0
+                ],
+                [
+                    324.0,
+                    120.0
+                ],
+                [
+                    323.0,
+                    120.0
+                ],
+                [
+                    323.0,
+                    118.0
+                ],
+                [
+                    322.0,
+                    118.0
+                ],
+                [
+                    322.0,
+                    115.0
+                ],
+                [
+                    321.0,
+                    115.0
+                ],
+                [
+                    321.0,
+                    113.0
+                ],
+                [
+                    320.0,
+                    113.0
+                ],
+                [
+                    320.0,
+                    112.0
+                ],
+                [
+                    319.0,
+                    112.0
+                ],
+                [
+                    319.0,
+                    111.0
+                ],
+                [
+                    316.0,
+                    111.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

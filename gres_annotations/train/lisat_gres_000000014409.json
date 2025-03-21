@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the vehicle that has sleek, shiny surfaces and unique curved designs.",
+        "Locate the automobile characterized by polished, reflective exteriors and notable curved forms.",
+        "Spot the car with glossy, mirror-like surfaces and well-defined curvatures."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014409.jpg",
+            "points": [
+                [
+                    302.0,
+                    503.0
+                ],
+                [
+                    302.0,
+                    504.0
+                ],
+                [
+                    298.0,
+                    504.0
+                ],
+                [
+                    298.0,
+                    505.0
+                ],
+                [
+                    295.0,
+                    505.0
+                ],
+                [
+                    295.0,
+                    506.0
+                ],
+                [
+                    293.0,
+                    506.0
+                ],
+                [
+                    293.0,
+                    507.0
+                ],
+                [
+                    292.0,
+                    507.0
+                ],
+                [
+                    292.0,
+                    508.0
+                ],
+                [
+                    290.0,
+                    508.0
+                ],
+                [
+                    290.0,
+                    509.0
+                ],
+                [
+                    288.0,
+                    509.0
+                ],
+                [
+                    288.0,
+                    511.0
+                ],
+                [
+                    287.0,
+                    511.0
+                ],
+                [
+                    287.0,
+                    512.0
+                ],
+                [
+                    305.0,
+                    512.0
+                ],
+                [
+                    305.0,
+                    510.0
+                ],
+                [
+                    306.0,
+                    510.0
+                ],
+                [
+                    306.0,
+                    509.0
+                ],
+                [
+                    307.0,
+                    509.0
+                ],
+                [
+                    307.0,
+                    506.0
+                ],
+                [
+                    306.0,
+                    506.0
+                ],
+                [
+                    306.0,
+                    505.0
+                ],
+                [
+                    305.0,
+                    505.0
+                ],
+                [
+                    305.0,
+                    504.0
+                ],
+                [
+                    303.0,
+                    504.0
+                ],
+                [
+                    303.0,
+                    503.0
+                ],
+                [
+                    302.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

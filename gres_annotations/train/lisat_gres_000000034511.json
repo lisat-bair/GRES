@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the truck that is box-shaped, white, and features a red and blue logo on its side.",
+        "Identify the vehicle with a unique boxy design, painted white, and displaying a red and blue emblem on the side.",
+        "Spot the truck characterized by its boxy form, white color, and the red and blue insignia on its side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034511.jpg",
+            "points": [
+                [
+                    498.0,
+                    125.0
+                ],
+                [
+                    498.0,
+                    126.0
+                ],
+                [
+                    496.0,
+                    126.0
+                ],
+                [
+                    496.0,
+                    127.0
+                ],
+                [
+                    495.0,
+                    127.0
+                ],
+                [
+                    495.0,
+                    137.0
+                ],
+                [
+                    496.0,
+                    137.0
+                ],
+                [
+                    496.0,
+                    139.0
+                ],
+                [
+                    498.0,
+                    139.0
+                ],
+                [
+                    498.0,
+                    140.0
+                ],
+                [
+                    500.0,
+                    140.0
+                ],
+                [
+                    500.0,
+                    141.0
+                ],
+                [
+                    502.0,
+                    141.0
+                ],
+                [
+                    502.0,
+                    140.0
+                ],
+                [
+                    503.0,
+                    140.0
+                ],
+                [
+                    503.0,
+                    128.0
+                ],
+                [
+                    502.0,
+                    128.0
+                ],
+                [
+                    502.0,
+                    126.0
+                ],
+                [
+                    501.0,
+                    126.0
+                ],
+                [
+                    501.0,
+                    125.0
+                ],
+                [
+                    498.0,
+                    125.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

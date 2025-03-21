@@ -1,0 +1,113 @@
+{
+    "text": [
+        "Locate the large, cylindrical storage tanks with metallic exteriors, which often include visible pipes or valves, typically seen in industrial environments.",
+        "Spot the storage tanks characterized by their large, cylindrical form and metallic surfaces, usually equipped with visible piping or valves, common in industrial settings.",
+        "Find the storage tanks that are large and cylindrical with shiny metallic surfaces, often accompanied by visible pipes or valves, frequently found in industrial areas."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022004.jpg",
+            "points": [
+                [
+                    506.0,
+                    494.0
+                ],
+                [
+                    506.0,
+                    496.0
+                ],
+                [
+                    507.0,
+                    496.0
+                ],
+                [
+                    507.0,
+                    494.0
+                ],
+                [
+                    506.0,
+                    494.0
+                ],
+                [
+                    511.0,
+                    495.0
+                ],
+                [
+                    511.0,
+                    497.0
+                ],
+                [
+                    508.0,
+                    497.0
+                ],
+                [
+                    508.0,
+                    498.0
+                ],
+                [
+                    506.0,
+                    498.0
+                ],
+                [
+                    506.0,
+                    497.0
+                ],
+                [
+                    504.0,
+                    497.0
+                ],
+                [
+                    504.0,
+                    498.0
+                ],
+                [
+                    503.0,
+                    498.0
+                ],
+                [
+                    503.0,
+                    499.0
+                ],
+                [
+                    502.0,
+                    499.0
+                ],
+                [
+                    502.0,
+                    504.0
+                ],
+                [
+                    501.0,
+                    504.0
+                ],
+                [
+                    501.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    495.0
+                ],
+                [
+                    511.0,
+                    495.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

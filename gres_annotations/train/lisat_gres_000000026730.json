@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the black car that has noticeable white accents on the road.",
+        "Spot the dark-colored vehicle with striking white details on the pavement.",
+        "Identify the dark automobile featuring bold white markings against the tarmac."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026730.jpg",
+            "points": [
+                [
+                    232.0,
+                    501.0
+                ],
+                [
+                    232.0,
+                    502.0
+                ],
+                [
+                    231.0,
+                    502.0
+                ],
+                [
+                    231.0,
+                    503.0
+                ],
+                [
+                    230.0,
+                    503.0
+                ],
+                [
+                    230.0,
+                    504.0
+                ],
+                [
+                    229.0,
+                    504.0
+                ],
+                [
+                    229.0,
+                    505.0
+                ],
+                [
+                    228.0,
+                    505.0
+                ],
+                [
+                    228.0,
+                    506.0
+                ],
+                [
+                    227.0,
+                    506.0
+                ],
+                [
+                    227.0,
+                    508.0
+                ],
+                [
+                    228.0,
+                    508.0
+                ],
+                [
+                    228.0,
+                    511.0
+                ],
+                [
+                    229.0,
+                    511.0
+                ],
+                [
+                    229.0,
+                    512.0
+                ],
+                [
+                    247.0,
+                    512.0
+                ],
+                [
+                    247.0,
+                    508.0
+                ],
+                [
+                    246.0,
+                    508.0
+                ],
+                [
+                    246.0,
+                    506.0
+                ],
+                [
+                    244.0,
+                    506.0
+                ],
+                [
+                    244.0,
+                    505.0
+                ],
+                [
+                    243.0,
+                    505.0
+                ],
+                [
+                    243.0,
+                    504.0
+                ],
+                [
+                    241.0,
+                    504.0
+                ],
+                [
+                    241.0,
+                    503.0
+                ],
+                [
+                    239.0,
+                    503.0
+                ],
+                [
+                    239.0,
+                    502.0
+                ],
+                [
+                    237.0,
+                    502.0
+                ],
+                [
+                    237.0,
+                    501.0
+                ],
+                [
+                    232.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

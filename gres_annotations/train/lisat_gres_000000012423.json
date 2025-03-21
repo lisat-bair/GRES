@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Identify the big yellow equipment featuring noticeable wheels and metal components to differentiate the loader in the picture.",
+        "Spot the substantial yellow machine with standout wheels and metal sections to isolate the loader in the photo.",
+        "Find the large yellow apparatus with striking wheels and metallic parts to separate the loader in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012423.jpg",
+            "points": [
+                [
+                    224.0,
+                    502.0
+                ],
+                [
+                    224.0,
+                    503.0
+                ],
+                [
+                    223.0,
+                    503.0
+                ],
+                [
+                    223.0,
+                    512.0
+                ],
+                [
+                    247.0,
+                    512.0
+                ],
+                [
+                    247.0,
+                    510.0
+                ],
+                [
+                    248.0,
+                    510.0
+                ],
+                [
+                    248.0,
+                    508.0
+                ],
+                [
+                    247.0,
+                    508.0
+                ],
+                [
+                    247.0,
+                    505.0
+                ],
+                [
+                    246.0,
+                    505.0
+                ],
+                [
+                    246.0,
+                    504.0
+                ],
+                [
+                    245.0,
+                    504.0
+                ],
+                [
+                    245.0,
+                    503.0
+                ],
+                [
+                    243.0,
+                    503.0
+                ],
+                [
+                    243.0,
+                    502.0
+                ],
+                [
+                    238.0,
+                    502.0
+                ],
+                [
+                    238.0,
+                    503.0
+                ],
+                [
+                    228.0,
+                    503.0
+                ],
+                [
+                    228.0,
+                    502.0
+                ],
+                [
+                    224.0,
+                    502.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

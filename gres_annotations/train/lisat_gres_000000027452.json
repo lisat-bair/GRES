@@ -1,0 +1,161 @@
+{
+    "text": [
+        "Find the vehicle that has a trailer bed, usually made of metal or painted, attached to the front cabin of a truck.",
+        "Locate the vehicle featuring a trailer bed, often metallic or painted, linked to a truck's cab.",
+        "Spot the vehicle with a trailer bed, commonly metallic or painted, joined to the cabin of a truck."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027452.jpg",
+            "points": [
+                [
+                    318.0,
+                    0.0
+                ],
+                [
+                    318.0,
+                    1.0
+                ],
+                [
+                    320.0,
+                    1.0
+                ],
+                [
+                    320.0,
+                    0.0
+                ],
+                [
+                    318.0,
+                    0.0
+                ],
+                [
+                    321.0,
+                    0.0
+                ],
+                [
+                    321.0,
+                    1.0
+                ],
+                [
+                    327.0,
+                    1.0
+                ],
+                [
+                    327.0,
+                    2.0
+                ],
+                [
+                    333.0,
+                    2.0
+                ],
+                [
+                    333.0,
+                    3.0
+                ],
+                [
+                    341.0,
+                    3.0
+                ],
+                [
+                    341.0,
+                    4.0
+                ],
+                [
+                    349.0,
+                    4.0
+                ],
+                [
+                    349.0,
+                    5.0
+                ],
+                [
+                    360.0,
+                    5.0
+                ],
+                [
+                    360.0,
+                    6.0
+                ],
+                [
+                    368.0,
+                    6.0
+                ],
+                [
+                    368.0,
+                    7.0
+                ],
+                [
+                    380.0,
+                    7.0
+                ],
+                [
+                    380.0,
+                    8.0
+                ],
+                [
+                    387.0,
+                    8.0
+                ],
+                [
+                    387.0,
+                    9.0
+                ],
+                [
+                    400.0,
+                    9.0
+                ],
+                [
+                    400.0,
+                    7.0
+                ],
+                [
+                    401.0,
+                    7.0
+                ],
+                [
+                    401.0,
+                    6.0
+                ],
+                [
+                    400.0,
+                    6.0
+                ],
+                [
+                    400.0,
+                    4.0
+                ],
+                [
+                    401.0,
+                    4.0
+                ],
+                [
+                    401.0,
+                    1.0
+                ],
+                [
+                    399.0,
+                    1.0
+                ],
+                [
+                    399.0,
+                    0.0
+                ],
+                [
+                    321.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

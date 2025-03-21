@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the vehicle with unique characteristics and a metallic hue in the lower-right corner of the picture.",
+        "In the bottom-right section of the image, identify the car that has prominent features and a shiny metal color.",
+        "Spot the automobile with notable traits and a metallic shade located in the bottom right of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011445.jpg",
+            "points": [
+                [
+                    364.0,
+                    226.0
+                ],
+                [
+                    364.0,
+                    227.0
+                ],
+                [
+                    362.0,
+                    227.0
+                ],
+                [
+                    362.0,
+                    231.0
+                ],
+                [
+                    361.0,
+                    231.0
+                ],
+                [
+                    361.0,
+                    233.0
+                ],
+                [
+                    362.0,
+                    233.0
+                ],
+                [
+                    362.0,
+                    236.0
+                ],
+                [
+                    363.0,
+                    236.0
+                ],
+                [
+                    363.0,
+                    238.0
+                ],
+                [
+                    364.0,
+                    238.0
+                ],
+                [
+                    364.0,
+                    239.0
+                ],
+                [
+                    371.0,
+                    239.0
+                ],
+                [
+                    371.0,
+                    238.0
+                ],
+                [
+                    372.0,
+                    238.0
+                ],
+                [
+                    372.0,
+                    232.0
+                ],
+                [
+                    371.0,
+                    232.0
+                ],
+                [
+                    371.0,
+                    230.0
+                ],
+                [
+                    370.0,
+                    230.0
+                ],
+                [
+                    370.0,
+                    228.0
+                ],
+                [
+                    369.0,
+                    228.0
+                ],
+                [
+                    369.0,
+                    227.0
+                ],
+                [
+                    368.0,
+                    227.0
+                ],
+                [
+                    368.0,
+                    226.0
+                ],
+                [
+                    364.0,
+                    226.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

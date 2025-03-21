@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the sizable, mostly yellow equipment featuring a bucket or blade and big wheels or tracks set against a neutral backdrop.",
+        "Identify the large, mainly yellow machine equipped with either a bucket or blade and substantial wheels or tracks, positioned against a muted background.",
+        "Spot the big, predominantly yellow apparatus with a bucket or blade and substantial wheels or tracks, situated against a natural-colored background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019230.jpg",
+            "points": [
+                [
+                    379.0,
+                    80.0
+                ],
+                [
+                    379.0,
+                    94.0
+                ],
+                [
+                    380.0,
+                    94.0
+                ],
+                [
+                    380.0,
+                    99.0
+                ],
+                [
+                    381.0,
+                    99.0
+                ],
+                [
+                    381.0,
+                    100.0
+                ],
+                [
+                    383.0,
+                    100.0
+                ],
+                [
+                    383.0,
+                    101.0
+                ],
+                [
+                    384.0,
+                    101.0
+                ],
+                [
+                    384.0,
+                    100.0
+                ],
+                [
+                    388.0,
+                    100.0
+                ],
+                [
+                    388.0,
+                    99.0
+                ],
+                [
+                    390.0,
+                    99.0
+                ],
+                [
+                    390.0,
+                    98.0
+                ],
+                [
+                    392.0,
+                    98.0
+                ],
+                [
+                    392.0,
+                    97.0
+                ],
+                [
+                    393.0,
+                    97.0
+                ],
+                [
+                    393.0,
+                    95.0
+                ],
+                [
+                    394.0,
+                    95.0
+                ],
+                [
+                    394.0,
+                    86.0
+                ],
+                [
+                    393.0,
+                    86.0
+                ],
+                [
+                    393.0,
+                    84.0
+                ],
+                [
+                    392.0,
+                    84.0
+                ],
+                [
+                    392.0,
+                    82.0
+                ],
+                [
+                    391.0,
+                    82.0
+                ],
+                [
+                    391.0,
+                    81.0
+                ],
+                [
+                    389.0,
+                    81.0
+                ],
+                [
+                    389.0,
+                    80.0
+                ],
+                [
+                    379.0,
+                    80.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

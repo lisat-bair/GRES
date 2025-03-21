@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck positioned in the upper-right corner of the picture, which has a small, rectangular form.",
+        "Identify the truck located in the image's top-right area, characterized by its small rectangular shape.",
+        "Spot the truck in the top-right section of the image, distinguished by its compact, rectangular appearance."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019542.jpg",
+            "points": [
+                [
+                    451.0,
+                    201.0
+                ],
+                [
+                    451.0,
+                    202.0
+                ],
+                [
+                    448.0,
+                    202.0
+                ],
+                [
+                    448.0,
+                    214.0
+                ],
+                [
+                    449.0,
+                    214.0
+                ],
+                [
+                    449.0,
+                    215.0
+                ],
+                [
+                    458.0,
+                    215.0
+                ],
+                [
+                    458.0,
+                    213.0
+                ],
+                [
+                    459.0,
+                    213.0
+                ],
+                [
+                    459.0,
+                    203.0
+                ],
+                [
+                    458.0,
+                    203.0
+                ],
+                [
+                    458.0,
+                    202.0
+                ],
+                [
+                    456.0,
+                    202.0
+                ],
+                [
+                    456.0,
+                    201.0
+                ],
+                [
+                    451.0,
+                    201.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Identify the vehicle positioned at the heart of the picture, paying attention to its unique rectangular form.",
+        "Spot the automobile in the middle of the photo, emphasizing its notable rectangular design.",
+        "Find the car located centrally in the image, concentrating on its characteristic rectangular outline."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005907.jpg",
+            "points": [
+                [
+                    306.0,
+                    254.0
+                ],
+                [
+                    306.0,
+                    255.0
+                ],
+                [
+                    304.0,
+                    255.0
+                ],
+                [
+                    304.0,
+                    256.0
+                ],
+                [
+                    303.0,
+                    256.0
+                ],
+                [
+                    303.0,
+                    261.0
+                ],
+                [
+                    304.0,
+                    261.0
+                ],
+                [
+                    304.0,
+                    262.0
+                ],
+                [
+                    305.0,
+                    262.0
+                ],
+                [
+                    305.0,
+                    263.0
+                ],
+                [
+                    321.0,
+                    263.0
+                ],
+                [
+                    321.0,
+                    262.0
+                ],
+                [
+                    323.0,
+                    262.0
+                ],
+                [
+                    323.0,
+                    261.0
+                ],
+                [
+                    325.0,
+                    261.0
+                ],
+                [
+                    325.0,
+                    256.0
+                ],
+                [
+                    324.0,
+                    256.0
+                ],
+                [
+                    324.0,
+                    255.0
+                ],
+                [
+                    319.0,
+                    255.0
+                ],
+                [
+                    319.0,
+                    254.0
+                ],
+                [
+                    306.0,
+                    254.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

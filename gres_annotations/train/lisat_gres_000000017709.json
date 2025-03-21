@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck that has a spacious white cargo section and black vertical stripes on its back door.",
+        "Identify the truck that possesses a large white cargo area with black vertical lines on the rear door.",
+        "Spot the truck with a big white cargo compartment that has vertical black lines on the door at the back."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017709.jpg",
+            "points": [
+                [
+                    100.0,
+                    303.0
+                ],
+                [
+                    100.0,
+                    304.0
+                ],
+                [
+                    99.0,
+                    304.0
+                ],
+                [
+                    99.0,
+                    307.0
+                ],
+                [
+                    98.0,
+                    307.0
+                ],
+                [
+                    98.0,
+                    317.0
+                ],
+                [
+                    99.0,
+                    317.0
+                ],
+                [
+                    99.0,
+                    319.0
+                ],
+                [
+                    106.0,
+                    319.0
+                ],
+                [
+                    106.0,
+                    308.0
+                ],
+                [
+                    105.0,
+                    308.0
+                ],
+                [
+                    105.0,
+                    305.0
+                ],
+                [
+                    104.0,
+                    305.0
+                ],
+                [
+                    104.0,
+                    303.0
+                ],
+                [
+                    100.0,
+                    303.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Locate the passenger car that has a medium-sized rectangular design and a noticeable silhouette against the backdrop.",
+        "Find the vehicle used for passengers, characterized by a medium-sized rectangular form that stands out against its surroundings.",
+        "Spot the passenger automobile with a rectangular mid-sized shape that clearly contrasts with the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002965.jpg",
+            "points": [
+                [
+                    413.0,
+                    43.0
+                ],
+                [
+                    413.0,
+                    44.0
+                ],
+                [
+                    409.0,
+                    44.0
+                ],
+                [
+                    409.0,
+                    45.0
+                ],
+                [
+                    408.0,
+                    45.0
+                ],
+                [
+                    408.0,
+                    63.0
+                ],
+                [
+                    418.0,
+                    63.0
+                ],
+                [
+                    418.0,
+                    61.0
+                ],
+                [
+                    419.0,
+                    61.0
+                ],
+                [
+                    419.0,
+                    45.0
+                ],
+                [
+                    418.0,
+                    45.0
+                ],
+                [
+                    418.0,
+                    44.0
+                ],
+                [
+                    414.0,
+                    44.0
+                ],
+                [
+                    414.0,
+                    43.0
+                ],
+                [
+                    413.0,
+                    43.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

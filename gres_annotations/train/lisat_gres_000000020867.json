@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the vehicle characterized by its unique shiny surface and rectangular form amongst the nearby patterns.",
+        "Search for the automobile that stands out due to its reflective exterior and rectangular shape among the surrounding textures.",
+        "Identify the car with a noteworthy glossy surface and rectangular design amidst the other textures around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020867.jpg",
+            "points": [
+                [
+                    66.0,
+                    432.0
+                ],
+                [
+                    66.0,
+                    433.0
+                ],
+                [
+                    60.0,
+                    433.0
+                ],
+                [
+                    60.0,
+                    434.0
+                ],
+                [
+                    59.0,
+                    434.0
+                ],
+                [
+                    59.0,
+                    435.0
+                ],
+                [
+                    58.0,
+                    435.0
+                ],
+                [
+                    58.0,
+                    438.0
+                ],
+                [
+                    59.0,
+                    438.0
+                ],
+                [
+                    59.0,
+                    440.0
+                ],
+                [
+                    60.0,
+                    440.0
+                ],
+                [
+                    60.0,
+                    441.0
+                ],
+                [
+                    67.0,
+                    441.0
+                ],
+                [
+                    67.0,
+                    440.0
+                ],
+                [
+                    70.0,
+                    440.0
+                ],
+                [
+                    70.0,
+                    438.0
+                ],
+                [
+                    71.0,
+                    438.0
+                ],
+                [
+                    71.0,
+                    433.0
+                ],
+                [
+                    69.0,
+                    433.0
+                ],
+                [
+                    69.0,
+                    432.0
+                ],
+                [
+                    66.0,
+                    432.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

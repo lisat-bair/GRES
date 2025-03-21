@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the lofty, upright, and evenly shaped formation with a sharp peak and a rocky surface against the horizon.",
+        "Observe the towering, vertical, and balanced edifice with a pointed apex and a stony appearance silhouetted against the sky.",
+        "Notice the high, erect, and symmetrical monument featuring a pointed summit and a stone-like facade contrasting with the skyline."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007739.jpg",
+            "points": [
+                [
+                    389.0,
+                    505.0
+                ],
+                [
+                    389.0,
+                    506.0
+                ],
+                [
+                    385.0,
+                    506.0
+                ],
+                [
+                    385.0,
+                    507.0
+                ],
+                [
+                    383.0,
+                    507.0
+                ],
+                [
+                    383.0,
+                    508.0
+                ],
+                [
+                    381.0,
+                    508.0
+                ],
+                [
+                    381.0,
+                    509.0
+                ],
+                [
+                    380.0,
+                    509.0
+                ],
+                [
+                    380.0,
+                    510.0
+                ],
+                [
+                    379.0,
+                    510.0
+                ],
+                [
+                    379.0,
+                    511.0
+                ],
+                [
+                    378.0,
+                    511.0
+                ],
+                [
+                    378.0,
+                    512.0
+                ],
+                [
+                    408.0,
+                    512.0
+                ],
+                [
+                    408.0,
+                    511.0
+                ],
+                [
+                    407.0,
+                    511.0
+                ],
+                [
+                    407.0,
+                    510.0
+                ],
+                [
+                    406.0,
+                    510.0
+                ],
+                [
+                    406.0,
+                    509.0
+                ],
+                [
+                    404.0,
+                    509.0
+                ],
+                [
+                    404.0,
+                    508.0
+                ],
+                [
+                    402.0,
+                    508.0
+                ],
+                [
+                    402.0,
+                    507.0
+                ],
+                [
+                    400.0,
+                    507.0
+                ],
+                [
+                    400.0,
+                    506.0
+                ],
+                [
+                    397.0,
+                    506.0
+                ],
+                [
+                    397.0,
+                    505.0
+                ],
+                [
+                    389.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the ship by its extended white form contrasting with the darker waters.",
+        "Notice the sea vessel by its stretched white silhouette against the dark water backdrop.",
+        "Recognize the boat by its long white outline standing out against the darker sea."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016700.jpg",
+            "points": [
+                [
+                    510.0,
+                    221.0
+                ],
+                [
+                    510.0,
+                    222.0
+                ],
+                [
+                    508.0,
+                    222.0
+                ],
+                [
+                    508.0,
+                    223.0
+                ],
+                [
+                    506.0,
+                    223.0
+                ],
+                [
+                    506.0,
+                    224.0
+                ],
+                [
+                    504.0,
+                    224.0
+                ],
+                [
+                    504.0,
+                    225.0
+                ],
+                [
+                    502.0,
+                    225.0
+                ],
+                [
+                    502.0,
+                    226.0
+                ],
+                [
+                    501.0,
+                    226.0
+                ],
+                [
+                    501.0,
+                    227.0
+                ],
+                [
+                    500.0,
+                    227.0
+                ],
+                [
+                    500.0,
+                    228.0
+                ],
+                [
+                    499.0,
+                    228.0
+                ],
+                [
+                    499.0,
+                    230.0
+                ],
+                [
+                    498.0,
+                    230.0
+                ],
+                [
+                    498.0,
+                    234.0
+                ],
+                [
+                    499.0,
+                    234.0
+                ],
+                [
+                    499.0,
+                    235.0
+                ],
+                [
+                    500.0,
+                    235.0
+                ],
+                [
+                    500.0,
+                    236.0
+                ],
+                [
+                    503.0,
+                    236.0
+                ],
+                [
+                    503.0,
+                    237.0
+                ],
+                [
+                    506.0,
+                    237.0
+                ],
+                [
+                    506.0,
+                    236.0
+                ],
+                [
+                    509.0,
+                    236.0
+                ],
+                [
+                    509.0,
+                    235.0
+                ],
+                [
+                    512.0,
+                    235.0
+                ],
+                [
+                    512.0,
+                    221.0
+                ],
+                [
+                    510.0,
+                    221.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

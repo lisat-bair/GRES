@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Focus on the bus in the upper-left section of the image, close to the central part of the left boundary.",
+        "Identify the bus located in the top-left corner of the picture, near the middle of the left side.",
+        "Locate the bus in the top-left area of the image, positioned toward the center of the left margin."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017860.jpg",
+            "points": [
+                [
+                    3.0,
+                    248.0
+                ],
+                [
+                    3.0,
+                    249.0
+                ],
+                [
+                    2.0,
+                    249.0
+                ],
+                [
+                    2.0,
+                    252.0
+                ],
+                [
+                    1.0,
+                    252.0
+                ],
+                [
+                    1.0,
+                    257.0
+                ],
+                [
+                    0.0,
+                    257.0
+                ],
+                [
+                    0.0,
+                    281.0
+                ],
+                [
+                    4.0,
+                    281.0
+                ],
+                [
+                    4.0,
+                    280.0
+                ],
+                [
+                    5.0,
+                    280.0
+                ],
+                [
+                    5.0,
+                    279.0
+                ],
+                [
+                    6.0,
+                    279.0
+                ],
+                [
+                    6.0,
+                    277.0
+                ],
+                [
+                    7.0,
+                    277.0
+                ],
+                [
+                    7.0,
+                    271.0
+                ],
+                [
+                    8.0,
+                    271.0
+                ],
+                [
+                    8.0,
+                    264.0
+                ],
+                [
+                    9.0,
+                    264.0
+                ],
+                [
+                    9.0,
+                    258.0
+                ],
+                [
+                    10.0,
+                    258.0
+                ],
+                [
+                    10.0,
+                    249.0
+                ],
+                [
+                    9.0,
+                    249.0
+                ],
+                [
+                    9.0,
+                    248.0
+                ],
+                [
+                    3.0,
+                    248.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

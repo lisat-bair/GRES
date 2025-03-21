@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the truck that is uniquely dark green and has a large rectangular form.",
+        "Search for the truck that features a distinctive dark green hue and a sizable rectangular design.",
+        "Identify the truck characterized by its unique dark green color and expansive rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035042.jpg",
+            "points": [
+                [
+                    304.0,
+                    471.0
+                ],
+                [
+                    304.0,
+                    472.0
+                ],
+                [
+                    303.0,
+                    472.0
+                ],
+                [
+                    303.0,
+                    481.0
+                ],
+                [
+                    304.0,
+                    481.0
+                ],
+                [
+                    304.0,
+                    482.0
+                ],
+                [
+                    308.0,
+                    482.0
+                ],
+                [
+                    308.0,
+                    481.0
+                ],
+                [
+                    310.0,
+                    481.0
+                ],
+                [
+                    310.0,
+                    480.0
+                ],
+                [
+                    311.0,
+                    480.0
+                ],
+                [
+                    311.0,
+                    479.0
+                ],
+                [
+                    312.0,
+                    479.0
+                ],
+                [
+                    312.0,
+                    474.0
+                ],
+                [
+                    311.0,
+                    474.0
+                ],
+                [
+                    311.0,
+                    472.0
+                ],
+                [
+                    310.0,
+                    472.0
+                ],
+                [
+                    310.0,
+                    471.0
+                ],
+                [
+                    304.0,
+                    471.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

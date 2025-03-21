@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Locate the truck with a rectangular shape featuring a lighter vertical stripe pattern in the center."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011818.jpg",
+            "points": [
+                [
+                    34.0,
+                    78.0
+                ],
+                [
+                    34.0,
+                    79.0
+                ],
+                [
+                    32.0,
+                    79.0
+                ],
+                [
+                    32.0,
+                    94.0
+                ],
+                [
+                    33.0,
+                    94.0
+                ],
+                [
+                    33.0,
+                    95.0
+                ],
+                [
+                    34.0,
+                    95.0
+                ],
+                [
+                    34.0,
+                    96.0
+                ],
+                [
+                    35.0,
+                    96.0
+                ],
+                [
+                    35.0,
+                    97.0
+                ],
+                [
+                    39.0,
+                    97.0
+                ],
+                [
+                    39.0,
+                    96.0
+                ],
+                [
+                    40.0,
+                    96.0
+                ],
+                [
+                    40.0,
+                    94.0
+                ],
+                [
+                    41.0,
+                    94.0
+                ],
+                [
+                    41.0,
+                    81.0
+                ],
+                [
+                    40.0,
+                    81.0
+                ],
+                [
+                    40.0,
+                    79.0
+                ],
+                [
+                    39.0,
+                    79.0
+                ],
+                [
+                    39.0,
+                    78.0
+                ],
+                [
+                    34.0,
+                    78.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the excavator as the sizable yellow vehicle featuring a lengthy arm and bucket, standing out from its surroundings.",
+        "Recognize the excavator by its large size, yellow color, and the long arm and bucket, which make it distinct from the environment.",
+        "Distinguish the excavator as the big, yellow apparatus with a long arm and bucket, setting it apart from the nearby setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014233.jpg",
+            "points": [
+                [
+                    135.0,
+                    225.0
+                ],
+                [
+                    135.0,
+                    226.0
+                ],
+                [
+                    134.0,
+                    226.0
+                ],
+                [
+                    134.0,
+                    227.0
+                ],
+                [
+                    133.0,
+                    227.0
+                ],
+                [
+                    133.0,
+                    228.0
+                ],
+                [
+                    132.0,
+                    228.0
+                ],
+                [
+                    132.0,
+                    229.0
+                ],
+                [
+                    131.0,
+                    229.0
+                ],
+                [
+                    131.0,
+                    232.0
+                ],
+                [
+                    130.0,
+                    232.0
+                ],
+                [
+                    130.0,
+                    235.0
+                ],
+                [
+                    129.0,
+                    235.0
+                ],
+                [
+                    129.0,
+                    238.0
+                ],
+                [
+                    130.0,
+                    238.0
+                ],
+                [
+                    130.0,
+                    240.0
+                ],
+                [
+                    131.0,
+                    240.0
+                ],
+                [
+                    131.0,
+                    241.0
+                ],
+                [
+                    134.0,
+                    241.0
+                ],
+                [
+                    134.0,
+                    242.0
+                ],
+                [
+                    135.0,
+                    242.0
+                ],
+                [
+                    135.0,
+                    241.0
+                ],
+                [
+                    139.0,
+                    241.0
+                ],
+                [
+                    139.0,
+                    239.0
+                ],
+                [
+                    140.0,
+                    239.0
+                ],
+                [
+                    140.0,
+                    225.0
+                ],
+                [
+                    135.0,
+                    225.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

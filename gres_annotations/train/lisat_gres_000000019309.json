@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the bus that is large, rectangular, and usually comes in yellow or white, complete with windows and wheels.",
+        "Look for the large, rectangular bus that typically features windows and wheels, and is often colored yellow or white.",
+        "Identify the bus with a big rectangular form, characterized by windows and wheels, and generally painted yellow or white."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019309.jpg",
+            "points": [
+                [
+                    318.0,
+                    237.0
+                ],
+                [
+                    318.0,
+                    238.0
+                ],
+                [
+                    307.0,
+                    238.0
+                ],
+                [
+                    307.0,
+                    239.0
+                ],
+                [
+                    301.0,
+                    239.0
+                ],
+                [
+                    301.0,
+                    240.0
+                ],
+                [
+                    299.0,
+                    240.0
+                ],
+                [
+                    299.0,
+                    241.0
+                ],
+                [
+                    298.0,
+                    241.0
+                ],
+                [
+                    298.0,
+                    245.0
+                ],
+                [
+                    299.0,
+                    245.0
+                ],
+                [
+                    299.0,
+                    247.0
+                ],
+                [
+                    316.0,
+                    247.0
+                ],
+                [
+                    316.0,
+                    246.0
+                ],
+                [
+                    319.0,
+                    246.0
+                ],
+                [
+                    319.0,
+                    245.0
+                ],
+                [
+                    321.0,
+                    245.0
+                ],
+                [
+                    321.0,
+                    244.0
+                ],
+                [
+                    323.0,
+                    244.0
+                ],
+                [
+                    323.0,
+                    239.0
+                ],
+                [
+                    322.0,
+                    239.0
+                ],
+                [
+                    322.0,
+                    238.0
+                ],
+                [
+                    320.0,
+                    238.0
+                ],
+                [
+                    320.0,
+                    237.0
+                ],
+                [
+                    318.0,
+                    237.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the uniquely shaped truck that is either smaller or a different color from the primary vehicle.",
+        "Identify the truck with a noticeable shape that differentiates it from the main vehicle, potentially being smaller or of a different hue.",
+        "Spot the truck with an uncommon shape that distinguishes it from the main vehicle, which might be smaller or have a different color."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011890.jpg",
+            "points": [
+                [
+                    104.0,
+                    470.0
+                ],
+                [
+                    104.0,
+                    471.0
+                ],
+                [
+                    101.0,
+                    471.0
+                ],
+                [
+                    101.0,
+                    472.0
+                ],
+                [
+                    100.0,
+                    472.0
+                ],
+                [
+                    100.0,
+                    473.0
+                ],
+                [
+                    98.0,
+                    473.0
+                ],
+                [
+                    98.0,
+                    474.0
+                ],
+                [
+                    97.0,
+                    474.0
+                ],
+                [
+                    97.0,
+                    475.0
+                ],
+                [
+                    96.0,
+                    475.0
+                ],
+                [
+                    96.0,
+                    479.0
+                ],
+                [
+                    97.0,
+                    479.0
+                ],
+                [
+                    97.0,
+                    480.0
+                ],
+                [
+                    98.0,
+                    480.0
+                ],
+                [
+                    98.0,
+                    481.0
+                ],
+                [
+                    100.0,
+                    481.0
+                ],
+                [
+                    100.0,
+                    480.0
+                ],
+                [
+                    104.0,
+                    480.0
+                ],
+                [
+                    104.0,
+                    479.0
+                ],
+                [
+                    107.0,
+                    479.0
+                ],
+                [
+                    107.0,
+                    478.0
+                ],
+                [
+                    108.0,
+                    478.0
+                ],
+                [
+                    108.0,
+                    477.0
+                ],
+                [
+                    109.0,
+                    477.0
+                ],
+                [
+                    109.0,
+                    472.0
+                ],
+                [
+                    108.0,
+                    472.0
+                ],
+                [
+                    108.0,
+                    471.0
+                ],
+                [
+                    107.0,
+                    471.0
+                ],
+                [
+                    107.0,
+                    470.0
+                ],
+                [
+                    104.0,
+                    470.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

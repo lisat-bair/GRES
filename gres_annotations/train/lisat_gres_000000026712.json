@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the truck positioned around the middle of the picture.",
+        "Identify the truck situated close to the center of the image.",
+        "Spot the truck located near the center in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026712.jpg",
+            "points": [
+                [
+                    245.0,
+                    299.0
+                ],
+                [
+                    245.0,
+                    300.0
+                ],
+                [
+                    244.0,
+                    300.0
+                ],
+                [
+                    244.0,
+                    302.0
+                ],
+                [
+                    243.0,
+                    302.0
+                ],
+                [
+                    243.0,
+                    306.0
+                ],
+                [
+                    244.0,
+                    306.0
+                ],
+                [
+                    244.0,
+                    308.0
+                ],
+                [
+                    246.0,
+                    308.0
+                ],
+                [
+                    246.0,
+                    309.0
+                ],
+                [
+                    250.0,
+                    309.0
+                ],
+                [
+                    250.0,
+                    308.0
+                ],
+                [
+                    252.0,
+                    308.0
+                ],
+                [
+                    252.0,
+                    307.0
+                ],
+                [
+                    253.0,
+                    307.0
+                ],
+                [
+                    253.0,
+                    305.0
+                ],
+                [
+                    254.0,
+                    305.0
+                ],
+                [
+                    254.0,
+                    302.0
+                ],
+                [
+                    253.0,
+                    302.0
+                ],
+                [
+                    253.0,
+                    300.0
+                ],
+                [
+                    252.0,
+                    300.0
+                ],
+                [
+                    252.0,
+                    299.0
+                ],
+                [
+                    245.0,
+                    299.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

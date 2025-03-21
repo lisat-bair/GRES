@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the truck in the picture, which has a white cargo container and a darker cab.",
+        "Spot the truck in the image, characterized by a white container and a cab that's a darker shade.",
+        "Identify the truck in the photo, distinguished by a white cargo section and a darker cab."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001757.jpg",
+            "points": [
+                [
+                    262.0,
+                    313.0
+                ],
+                [
+                    262.0,
+                    314.0
+                ],
+                [
+                    261.0,
+                    314.0
+                ],
+                [
+                    261.0,
+                    321.0
+                ],
+                [
+                    262.0,
+                    321.0
+                ],
+                [
+                    262.0,
+                    323.0
+                ],
+                [
+                    263.0,
+                    323.0
+                ],
+                [
+                    263.0,
+                    325.0
+                ],
+                [
+                    264.0,
+                    325.0
+                ],
+                [
+                    264.0,
+                    326.0
+                ],
+                [
+                    268.0,
+                    326.0
+                ],
+                [
+                    268.0,
+                    325.0
+                ],
+                [
+                    272.0,
+                    325.0
+                ],
+                [
+                    272.0,
+                    326.0
+                ],
+                [
+                    275.0,
+                    326.0
+                ],
+                [
+                    275.0,
+                    327.0
+                ],
+                [
+                    284.0,
+                    327.0
+                ],
+                [
+                    284.0,
+                    326.0
+                ],
+                [
+                    285.0,
+                    326.0
+                ],
+                [
+                    285.0,
+                    316.0
+                ],
+                [
+                    284.0,
+                    316.0
+                ],
+                [
+                    284.0,
+                    315.0
+                ],
+                [
+                    282.0,
+                    315.0
+                ],
+                [
+                    282.0,
+                    314.0
+                ],
+                [
+                    271.0,
+                    314.0
+                ],
+                [
+                    271.0,
+                    313.0
+                ],
+                [
+                    262.0,
+                    313.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

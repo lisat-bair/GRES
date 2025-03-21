@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the vehicle that is dark-colored, has a rectangular design, and has wheels that can be seen.",
+        "Identify the truck that is characterized by a dark hue, a rectangular form, and exposed wheels.",
+        "Search for the truck featuring a dark shade, a rectangular structure, and wheels that are visible."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023706.jpg",
+            "points": [
+                [
+                    360.0,
+                    501.0
+                ],
+                [
+                    360.0,
+                    502.0
+                ],
+                [
+                    356.0,
+                    502.0
+                ],
+                [
+                    356.0,
+                    503.0
+                ],
+                [
+                    355.0,
+                    503.0
+                ],
+                [
+                    355.0,
+                    504.0
+                ],
+                [
+                    354.0,
+                    504.0
+                ],
+                [
+                    354.0,
+                    506.0
+                ],
+                [
+                    353.0,
+                    506.0
+                ],
+                [
+                    353.0,
+                    512.0
+                ],
+                [
+                    370.0,
+                    512.0
+                ],
+                [
+                    370.0,
+                    507.0
+                ],
+                [
+                    369.0,
+                    507.0
+                ],
+                [
+                    369.0,
+                    504.0
+                ],
+                [
+                    368.0,
+                    504.0
+                ],
+                [
+                    368.0,
+                    503.0
+                ],
+                [
+                    367.0,
+                    503.0
+                ],
+                [
+                    367.0,
+                    502.0
+                ],
+                [
+                    366.0,
+                    502.0
+                ],
+                [
+                    366.0,
+                    501.0
+                ],
+                [
+                    360.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

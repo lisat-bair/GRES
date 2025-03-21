@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the large vehicle with a distinct elongated shape and multiple wheels, often accompanied by a long, flat trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033820.jpg",
+            "points": [
+                [
+                    0.0,
+                    271.0
+                ],
+                [
+                    0.0,
+                    296.0
+                ],
+                [
+                    3.0,
+                    296.0
+                ],
+                [
+                    3.0,
+                    295.0
+                ],
+                [
+                    4.0,
+                    295.0
+                ],
+                [
+                    4.0,
+                    294.0
+                ],
+                [
+                    5.0,
+                    294.0
+                ],
+                [
+                    5.0,
+                    292.0
+                ],
+                [
+                    6.0,
+                    292.0
+                ],
+                [
+                    6.0,
+                    273.0
+                ],
+                [
+                    5.0,
+                    273.0
+                ],
+                [
+                    5.0,
+                    272.0
+                ],
+                [
+                    2.0,
+                    272.0
+                ],
+                [
+                    2.0,
+                    271.0
+                ],
+                [
+                    0.0,
+                    271.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

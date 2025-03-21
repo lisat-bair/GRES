@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the truck in the picture that has a big rectangular trailer connected, noticeable wheels, and a gap between the cab and the trailer.",
+        "Find the truck in the image that includes a large rectangular trailer, distinct wheels, and a space between the cab and the trailer.",
+        "Spot the truck in the photo equipped with a sizable rectangular trailer, unique wheels, and a division between the cab and the trailer."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003941.jpg",
+            "points": [
+                [
+                    370.0,
+                    487.0
+                ],
+                [
+                    370.0,
+                    489.0
+                ],
+                [
+                    369.0,
+                    489.0
+                ],
+                [
+                    369.0,
+                    495.0
+                ],
+                [
+                    370.0,
+                    495.0
+                ],
+                [
+                    370.0,
+                    496.0
+                ],
+                [
+                    375.0,
+                    496.0
+                ],
+                [
+                    375.0,
+                    495.0
+                ],
+                [
+                    389.0,
+                    495.0
+                ],
+                [
+                    389.0,
+                    494.0
+                ],
+                [
+                    390.0,
+                    494.0
+                ],
+                [
+                    390.0,
+                    492.0
+                ],
+                [
+                    391.0,
+                    492.0
+                ],
+                [
+                    391.0,
+                    490.0
+                ],
+                [
+                    390.0,
+                    490.0
+                ],
+                [
+                    390.0,
+                    488.0
+                ],
+                [
+                    388.0,
+                    488.0
+                ],
+                [
+                    388.0,
+                    487.0
+                ],
+                [
+                    370.0,
+                    487.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

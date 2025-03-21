@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the big, round, metallic construction that stands out in color from its surroundings and has a unique top view.",
+        "Find the large, circular, metal framework that has a unique appearance from above and is a different color than its environment.",
+        "Locate the sizable, round, metal structure with a distinctive view from the top and a color that contrasts with its surrounding area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017462.jpg",
+            "points": [
+                [
+                    382.0,
+                    175.0
+                ],
+                [
+                    382.0,
+                    176.0
+                ],
+                [
+                    381.0,
+                    176.0
+                ],
+                [
+                    381.0,
+                    177.0
+                ],
+                [
+                    380.0,
+                    177.0
+                ],
+                [
+                    380.0,
+                    178.0
+                ],
+                [
+                    379.0,
+                    178.0
+                ],
+                [
+                    379.0,
+                    180.0
+                ],
+                [
+                    378.0,
+                    180.0
+                ],
+                [
+                    378.0,
+                    185.0
+                ],
+                [
+                    379.0,
+                    185.0
+                ],
+                [
+                    379.0,
+                    186.0
+                ],
+                [
+                    380.0,
+                    186.0
+                ],
+                [
+                    380.0,
+                    187.0
+                ],
+                [
+                    383.0,
+                    187.0
+                ],
+                [
+                    383.0,
+                    188.0
+                ],
+                [
+                    385.0,
+                    188.0
+                ],
+                [
+                    385.0,
+                    187.0
+                ],
+                [
+                    387.0,
+                    187.0
+                ],
+                [
+                    387.0,
+                    186.0
+                ],
+                [
+                    388.0,
+                    186.0
+                ],
+                [
+                    388.0,
+                    185.0
+                ],
+                [
+                    389.0,
+                    185.0
+                ],
+                [
+                    389.0,
+                    183.0
+                ],
+                [
+                    390.0,
+                    183.0
+                ],
+                [
+                    390.0,
+                    177.0
+                ],
+                [
+                    389.0,
+                    177.0
+                ],
+                [
+                    389.0,
+                    176.0
+                ],
+                [
+                    388.0,
+                    176.0
+                ],
+                [
+                    388.0,
+                    175.0
+                ],
+                [
+                    382.0,
+                    175.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

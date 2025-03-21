@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the shed that has a roof in blue-gray and walls painted white amid the greenery.",
+        "Spot the shed featuring a blue-gray roof and white walls among the verdant surroundings.",
+        "Locate the shed with white walls and a roof in blue-gray amidst the lush foliage."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009309.jpg",
+            "points": [
+                [
+                    88.0,
+                    308.0
+                ],
+                [
+                    88.0,
+                    309.0
+                ],
+                [
+                    79.0,
+                    309.0
+                ],
+                [
+                    79.0,
+                    310.0
+                ],
+                [
+                    77.0,
+                    310.0
+                ],
+                [
+                    77.0,
+                    311.0
+                ],
+                [
+                    76.0,
+                    311.0
+                ],
+                [
+                    76.0,
+                    317.0
+                ],
+                [
+                    77.0,
+                    317.0
+                ],
+                [
+                    77.0,
+                    327.0
+                ],
+                [
+                    78.0,
+                    327.0
+                ],
+                [
+                    78.0,
+                    332.0
+                ],
+                [
+                    79.0,
+                    332.0
+                ],
+                [
+                    79.0,
+                    333.0
+                ],
+                [
+                    80.0,
+                    333.0
+                ],
+                [
+                    80.0,
+                    334.0
+                ],
+                [
+                    88.0,
+                    334.0
+                ],
+                [
+                    88.0,
+                    333.0
+                ],
+                [
+                    97.0,
+                    333.0
+                ],
+                [
+                    97.0,
+                    332.0
+                ],
+                [
+                    105.0,
+                    332.0
+                ],
+                [
+                    105.0,
+                    331.0
+                ],
+                [
+                    108.0,
+                    331.0
+                ],
+                [
+                    108.0,
+                    329.0
+                ],
+                [
+                    109.0,
+                    329.0
+                ],
+                [
+                    109.0,
+                    328.0
+                ],
+                [
+                    108.0,
+                    328.0
+                ],
+                [
+                    108.0,
+                    320.0
+                ],
+                [
+                    107.0,
+                    320.0
+                ],
+                [
+                    107.0,
+                    312.0
+                ],
+                [
+                    106.0,
+                    312.0
+                ],
+                [
+                    106.0,
+                    309.0
+                ],
+                [
+                    105.0,
+                    309.0
+                ],
+                [
+                    105.0,
+                    308.0
+                ],
+                [
+                    88.0,
+                    308.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

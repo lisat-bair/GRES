@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the car that stands out due to its unique shape and different color compared to its environment.",
+        "Identify the automobile that has a noticeable shape and a color that differentiates it from its background.",
+        "Spot the vehicle that is characterized by an unusual shape and a color contrasting with its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016446.jpg",
+            "points": [
+                [
+                    334.0,
+                    129.0
+                ],
+                [
+                    334.0,
+                    130.0
+                ],
+                [
+                    333.0,
+                    130.0
+                ],
+                [
+                    333.0,
+                    133.0
+                ],
+                [
+                    332.0,
+                    133.0
+                ],
+                [
+                    332.0,
+                    134.0
+                ],
+                [
+                    333.0,
+                    134.0
+                ],
+                [
+                    333.0,
+                    135.0
+                ],
+                [
+                    339.0,
+                    135.0
+                ],
+                [
+                    339.0,
+                    136.0
+                ],
+                [
+                    342.0,
+                    136.0
+                ],
+                [
+                    342.0,
+                    137.0
+                ],
+                [
+                    343.0,
+                    137.0
+                ],
+                [
+                    343.0,
+                    136.0
+                ],
+                [
+                    346.0,
+                    136.0
+                ],
+                [
+                    346.0,
+                    134.0
+                ],
+                [
+                    347.0,
+                    134.0
+                ],
+                [
+                    347.0,
+                    131.0
+                ],
+                [
+                    346.0,
+                    131.0
+                ],
+                [
+                    346.0,
+                    130.0
+                ],
+                [
+                    345.0,
+                    130.0
+                ],
+                [
+                    345.0,
+                    129.0
+                ],
+                [
+                    342.0,
+                    129.0
+                ],
+                [
+                    342.0,
+                    130.0
+                ],
+                [
+                    340.0,
+                    130.0
+                ],
+                [
+                    340.0,
+                    131.0
+                ],
+                [
+                    339.0,
+                    131.0
+                ],
+                [
+                    339.0,
+                    132.0
+                ],
+                [
+                    338.0,
+                    132.0
+                ],
+                [
+                    338.0,
+                    131.0
+                ],
+                [
+                    337.0,
+                    131.0
+                ],
+                [
+                    337.0,
+                    130.0
+                ],
+                [
+                    336.0,
+                    130.0
+                ],
+                [
+                    336.0,
+                    129.0
+                ],
+                [
+                    334.0,
+                    129.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

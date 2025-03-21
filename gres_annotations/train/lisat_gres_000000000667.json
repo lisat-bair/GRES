@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that features a metallic body, wheels, and shiny surfaces, commonly rectangular and stretched in form.",
+        "Locate the automobile with a metal frame, tires, and glossy parts, often rectangular and lengthened in design.",
+        "Spot the car possessing a metal structure, tires, and reflective components, usually rectangular and extended in appearance."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000667.jpg",
+            "points": [
+                [
+                    177.0,
+                    487.0
+                ],
+                [
+                    177.0,
+                    488.0
+                ],
+                [
+                    175.0,
+                    488.0
+                ],
+                [
+                    175.0,
+                    489.0
+                ],
+                [
+                    174.0,
+                    489.0
+                ],
+                [
+                    174.0,
+                    491.0
+                ],
+                [
+                    173.0,
+                    491.0
+                ],
+                [
+                    173.0,
+                    492.0
+                ],
+                [
+                    174.0,
+                    492.0
+                ],
+                [
+                    174.0,
+                    494.0
+                ],
+                [
+                    175.0,
+                    494.0
+                ],
+                [
+                    175.0,
+                    495.0
+                ],
+                [
+                    176.0,
+                    495.0
+                ],
+                [
+                    176.0,
+                    496.0
+                ],
+                [
+                    190.0,
+                    496.0
+                ],
+                [
+                    190.0,
+                    495.0
+                ],
+                [
+                    192.0,
+                    495.0
+                ],
+                [
+                    192.0,
+                    490.0
+                ],
+                [
+                    191.0,
+                    490.0
+                ],
+                [
+                    191.0,
+                    488.0
+                ],
+                [
+                    189.0,
+                    488.0
+                ],
+                [
+                    189.0,
+                    487.0
+                ],
+                [
+                    177.0,
+                    487.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

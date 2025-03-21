@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the truck that stands out due to its unique color and design, setting it apart from its environment.",
+        "Identify the truck characterized by its unusual color and form, making it noticeably different from its surroundings.",
+        "Spot the truck that is easily distinguishable due to its peculiar color and shape, which contrasts sharply with the area around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012845.jpg",
+            "points": [
+                [
+                    389.0,
+                    411.0
+                ],
+                [
+                    389.0,
+                    412.0
+                ],
+                [
+                    387.0,
+                    412.0
+                ],
+                [
+                    387.0,
+                    413.0
+                ],
+                [
+                    386.0,
+                    413.0
+                ],
+                [
+                    386.0,
+                    420.0
+                ],
+                [
+                    390.0,
+                    420.0
+                ],
+                [
+                    390.0,
+                    421.0
+                ],
+                [
+                    413.0,
+                    421.0
+                ],
+                [
+                    413.0,
+                    419.0
+                ],
+                [
+                    414.0,
+                    419.0
+                ],
+                [
+                    414.0,
+                    415.0
+                ],
+                [
+                    413.0,
+                    415.0
+                ],
+                [
+                    413.0,
+                    413.0
+                ],
+                [
+                    412.0,
+                    413.0
+                ],
+                [
+                    412.0,
+                    412.0
+                ],
+                [
+                    396.0,
+                    412.0
+                ],
+                [
+                    396.0,
+                    411.0
+                ],
+                [
+                    389.0,
+                    411.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

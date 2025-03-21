@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for the truck characterized by unique, sharp shapes and earth-colored hues, often seen at construction sites or mines.",
+        "Find the truck that features notable angular designs and earth-toned shades, commonly located on construction sites or within mines.",
+        "Spot the truck with striking angular contours and earthy colors, typically present at construction sites or in mines."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003970.jpg",
+            "points": [
+                [
+                    418.0,
+                    139.0
+                ],
+                [
+                    418.0,
+                    140.0
+                ],
+                [
+                    417.0,
+                    140.0
+                ],
+                [
+                    417.0,
+                    141.0
+                ],
+                [
+                    416.0,
+                    141.0
+                ],
+                [
+                    416.0,
+                    142.0
+                ],
+                [
+                    415.0,
+                    142.0
+                ],
+                [
+                    415.0,
+                    143.0
+                ],
+                [
+                    414.0,
+                    143.0
+                ],
+                [
+                    414.0,
+                    145.0
+                ],
+                [
+                    413.0,
+                    145.0
+                ],
+                [
+                    413.0,
+                    165.0
+                ],
+                [
+                    414.0,
+                    165.0
+                ],
+                [
+                    414.0,
+                    166.0
+                ],
+                [
+                    415.0,
+                    166.0
+                ],
+                [
+                    415.0,
+                    167.0
+                ],
+                [
+                    422.0,
+                    167.0
+                ],
+                [
+                    422.0,
+                    166.0
+                ],
+                [
+                    424.0,
+                    166.0
+                ],
+                [
+                    424.0,
+                    165.0
+                ],
+                [
+                    426.0,
+                    165.0
+                ],
+                [
+                    426.0,
+                    164.0
+                ],
+                [
+                    427.0,
+                    164.0
+                ],
+                [
+                    427.0,
+                    161.0
+                ],
+                [
+                    428.0,
+                    161.0
+                ],
+                [
+                    428.0,
+                    155.0
+                ],
+                [
+                    427.0,
+                    155.0
+                ],
+                [
+                    427.0,
+                    153.0
+                ],
+                [
+                    426.0,
+                    153.0
+                ],
+                [
+                    426.0,
+                    140.0
+                ],
+                [
+                    425.0,
+                    140.0
+                ],
+                [
+                    425.0,
+                    139.0
+                ],
+                [
+                    418.0,
+                    139.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

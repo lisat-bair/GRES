@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the truck that stands out with a vertical form and a light-toned body set against a dark backdrop.",
+        "Spot the truck featuring a unique upright design and a pale body contrasting with a shadowy background.",
+        "Find the truck that is characterized by a noticeable vertical shape and a bright body against a dim background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005461.jpg",
+            "points": [
+                [
+                    348.0,
+                    376.0
+                ],
+                [
+                    348.0,
+                    377.0
+                ],
+                [
+                    347.0,
+                    377.0
+                ],
+                [
+                    347.0,
+                    381.0
+                ],
+                [
+                    346.0,
+                    381.0
+                ],
+                [
+                    346.0,
+                    387.0
+                ],
+                [
+                    345.0,
+                    387.0
+                ],
+                [
+                    345.0,
+                    393.0
+                ],
+                [
+                    346.0,
+                    393.0
+                ],
+                [
+                    346.0,
+                    394.0
+                ],
+                [
+                    348.0,
+                    394.0
+                ],
+                [
+                    348.0,
+                    395.0
+                ],
+                [
+                    352.0,
+                    395.0
+                ],
+                [
+                    352.0,
+                    394.0
+                ],
+                [
+                    353.0,
+                    394.0
+                ],
+                [
+                    353.0,
+                    393.0
+                ],
+                [
+                    354.0,
+                    393.0
+                ],
+                [
+                    354.0,
+                    384.0
+                ],
+                [
+                    355.0,
+                    384.0
+                ],
+                [
+                    355.0,
+                    378.0
+                ],
+                [
+                    354.0,
+                    378.0
+                ],
+                [
+                    354.0,
+                    376.0
+                ],
+                [
+                    348.0,
+                    376.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

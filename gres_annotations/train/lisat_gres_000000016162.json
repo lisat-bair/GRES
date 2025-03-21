@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the truck by concentrating on the big, dark vehicle with a noticeable grille and headlights.",
+        "Search for the truck, paying attention to the sizable, dark-colored vehicle that features large headlights and a rectangular grille.",
+        "Look for the truck, specifically the large, dark vehicle with standout headlights and a rectangular front grille."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016162.jpg",
+            "points": [
+                [
+                    59.0,
+                    322.0
+                ],
+                [
+                    59.0,
+                    323.0
+                ],
+                [
+                    56.0,
+                    323.0
+                ],
+                [
+                    56.0,
+                    328.0
+                ],
+                [
+                    55.0,
+                    328.0
+                ],
+                [
+                    55.0,
+                    331.0
+                ],
+                [
+                    56.0,
+                    331.0
+                ],
+                [
+                    56.0,
+                    333.0
+                ],
+                [
+                    63.0,
+                    333.0
+                ],
+                [
+                    63.0,
+                    332.0
+                ],
+                [
+                    64.0,
+                    332.0
+                ],
+                [
+                    64.0,
+                    331.0
+                ],
+                [
+                    65.0,
+                    331.0
+                ],
+                [
+                    65.0,
+                    328.0
+                ],
+                [
+                    66.0,
+                    328.0
+                ],
+                [
+                    66.0,
+                    322.0
+                ],
+                [
+                    59.0,
+                    322.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

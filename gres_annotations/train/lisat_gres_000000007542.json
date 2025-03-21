@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the car by looking for the shiny, mirror-like metal exterior and its unique shape contrasting with the darker surroundings.",
+        "Locate the vehicle by observing the sleek, glossy metal finish and its characteristic outline set against the dimmer backdrop.",
+        "Find the automobile by identifying the polished, reflective metal surface and its distinct silhouette against the darker environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007542.jpg",
+            "points": [
+                [
+                    0.0,
+                    409.0
+                ],
+                [
+                    0.0,
+                    419.0
+                ],
+                [
+                    1.0,
+                    419.0
+                ],
+                [
+                    1.0,
+                    418.0
+                ],
+                [
+                    2.0,
+                    418.0
+                ],
+                [
+                    2.0,
+                    417.0
+                ],
+                [
+                    3.0,
+                    417.0
+                ],
+                [
+                    3.0,
+                    416.0
+                ],
+                [
+                    4.0,
+                    416.0
+                ],
+                [
+                    4.0,
+                    413.0
+                ],
+                [
+                    3.0,
+                    413.0
+                ],
+                [
+                    3.0,
+                    411.0
+                ],
+                [
+                    2.0,
+                    411.0
+                ],
+                [
+                    2.0,
+                    410.0
+                ],
+                [
+                    1.0,
+                    410.0
+                ],
+                [
+                    1.0,
+                    409.0
+                ],
+                [
+                    0.0,
+                    409.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

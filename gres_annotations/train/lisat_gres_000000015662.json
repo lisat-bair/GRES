@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that has a shiny metal exterior and a boxy shape with wheels in the photo.",
+        "Identify the automobile in the picture that features a reflective metallic body and a rectangular design with wheels.",
+        "Spot the car in the image that is characterized by its bright metallic surface and rectangular form with wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015662.jpg",
+            "points": [
+                [
+                    188.0,
+                    54.0
+                ],
+                [
+                    188.0,
+                    55.0
+                ],
+                [
+                    185.0,
+                    55.0
+                ],
+                [
+                    185.0,
+                    56.0
+                ],
+                [
+                    181.0,
+                    56.0
+                ],
+                [
+                    181.0,
+                    57.0
+                ],
+                [
+                    180.0,
+                    57.0
+                ],
+                [
+                    180.0,
+                    58.0
+                ],
+                [
+                    179.0,
+                    58.0
+                ],
+                [
+                    179.0,
+                    62.0
+                ],
+                [
+                    180.0,
+                    62.0
+                ],
+                [
+                    180.0,
+                    63.0
+                ],
+                [
+                    188.0,
+                    63.0
+                ],
+                [
+                    188.0,
+                    62.0
+                ],
+                [
+                    193.0,
+                    62.0
+                ],
+                [
+                    193.0,
+                    61.0
+                ],
+                [
+                    195.0,
+                    61.0
+                ],
+                [
+                    195.0,
+                    58.0
+                ],
+                [
+                    194.0,
+                    58.0
+                ],
+                [
+                    194.0,
+                    56.0
+                ],
+                [
+                    193.0,
+                    56.0
+                ],
+                [
+                    193.0,
+                    54.0
+                ],
+                [
+                    188.0,
+                    54.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

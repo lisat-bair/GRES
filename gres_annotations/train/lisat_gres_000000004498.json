@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the black vehicle in the image positioned in the center of the dirt path, encircled by a lighter landscape.",
+        "Identify the centrally located black automobile on the dirt road within the picture, surrounded by a lighter area.",
+        "Spot the black car placed in the middle of the dirt road in the photograph, with a contrasting lighter terrain around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004498.jpg",
+            "points": [
+                [
+                    79.0,
+                    18.0
+                ],
+                [
+                    79.0,
+                    19.0
+                ],
+                [
+                    78.0,
+                    19.0
+                ],
+                [
+                    78.0,
+                    20.0
+                ],
+                [
+                    77.0,
+                    20.0
+                ],
+                [
+                    77.0,
+                    21.0
+                ],
+                [
+                    76.0,
+                    21.0
+                ],
+                [
+                    76.0,
+                    23.0
+                ],
+                [
+                    75.0,
+                    23.0
+                ],
+                [
+                    75.0,
+                    25.0
+                ],
+                [
+                    74.0,
+                    25.0
+                ],
+                [
+                    74.0,
+                    29.0
+                ],
+                [
+                    75.0,
+                    29.0
+                ],
+                [
+                    75.0,
+                    30.0
+                ],
+                [
+                    76.0,
+                    30.0
+                ],
+                [
+                    76.0,
+                    31.0
+                ],
+                [
+                    81.0,
+                    31.0
+                ],
+                [
+                    81.0,
+                    30.0
+                ],
+                [
+                    82.0,
+                    30.0
+                ],
+                [
+                    82.0,
+                    29.0
+                ],
+                [
+                    83.0,
+                    29.0
+                ],
+                [
+                    83.0,
+                    27.0
+                ],
+                [
+                    84.0,
+                    27.0
+                ],
+                [
+                    84.0,
+                    26.0
+                ],
+                [
+                    85.0,
+                    26.0
+                ],
+                [
+                    85.0,
+                    24.0
+                ],
+                [
+                    86.0,
+                    24.0
+                ],
+                [
+                    86.0,
+                    21.0
+                ],
+                [
+                    85.0,
+                    21.0
+                ],
+                [
+                    85.0,
+                    20.0
+                ],
+                [
+                    84.0,
+                    20.0
+                ],
+                [
+                    84.0,
+                    19.0
+                ],
+                [
+                    83.0,
+                    19.0
+                ],
+                [
+                    83.0,
+                    18.0
+                ],
+                [
+                    79.0,
+                    18.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

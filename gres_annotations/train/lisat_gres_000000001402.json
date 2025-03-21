@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Spot the big, yellow vehicle with a rectangular shape that often has windows on its sides and a noticeable front grille.",
+        "Find the large, bright yellow rectangular vehicle, usually equipped with side windows and a distinctive front grille.",
+        "Look for the prominent rectangular, yellow vehicle that typically has windows along its sides and a striking front grille."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001402.jpg",
+            "points": [
+                [
+                    127.0,
+                    0.0
+                ],
+                [
+                    127.0,
+                    23.0
+                ],
+                [
+                    128.0,
+                    23.0
+                ],
+                [
+                    128.0,
+                    27.0
+                ],
+                [
+                    130.0,
+                    27.0
+                ],
+                [
+                    130.0,
+                    28.0
+                ],
+                [
+                    134.0,
+                    28.0
+                ],
+                [
+                    134.0,
+                    27.0
+                ],
+                [
+                    136.0,
+                    27.0
+                ],
+                [
+                    136.0,
+                    10.0
+                ],
+                [
+                    135.0,
+                    10.0
+                ],
+                [
+                    135.0,
+                    0.0
+                ],
+                [
+                    127.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

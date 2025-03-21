@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the vehicle with a unique rectangular design and a lengthened flatbed in the lower-right corner of the picture, usually used for transporting items.",
+        "Locate the truck characterized by its distinctive rectangular form and prolonged flatbed portion, commonly seen hauling goods, in the bottom-right section of the image.",
+        "Find the truck in the bottom-right of the photo, recognizable by its special rectangular shape and extended flatbed, often used for carrying materials."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019879.jpg",
+            "points": [
+                [
+                    476.0,
+                    237.0
+                ],
+                [
+                    476.0,
+                    241.0
+                ],
+                [
+                    477.0,
+                    241.0
+                ],
+                [
+                    477.0,
+                    243.0
+                ],
+                [
+                    478.0,
+                    243.0
+                ],
+                [
+                    478.0,
+                    245.0
+                ],
+                [
+                    479.0,
+                    245.0
+                ],
+                [
+                    479.0,
+                    248.0
+                ],
+                [
+                    480.0,
+                    248.0
+                ],
+                [
+                    480.0,
+                    249.0
+                ],
+                [
+                    482.0,
+                    249.0
+                ],
+                [
+                    482.0,
+                    250.0
+                ],
+                [
+                    483.0,
+                    250.0
+                ],
+                [
+                    483.0,
+                    249.0
+                ],
+                [
+                    486.0,
+                    249.0
+                ],
+                [
+                    486.0,
+                    245.0
+                ],
+                [
+                    485.0,
+                    245.0
+                ],
+                [
+                    485.0,
+                    243.0
+                ],
+                [
+                    484.0,
+                    243.0
+                ],
+                [
+                    484.0,
+                    240.0
+                ],
+                [
+                    483.0,
+                    240.0
+                ],
+                [
+                    483.0,
+                    238.0
+                ],
+                [
+                    482.0,
+                    238.0
+                ],
+                [
+                    482.0,
+                    237.0
+                ],
+                [
+                    476.0,
+                    237.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

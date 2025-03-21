@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the vehicle that is uniquely white and has a rectangular form with wheels in the picture.",
+        "Locate the automobile in the photo that stands out due to its white hue and rectangular design with wheels.",
+        "Find the car in the image characterized by its distinctive white color and its rectangular shape accompanied by wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018379.jpg",
+            "points": [
+                [
+                    111.0,
+                    78.0
+                ],
+                [
+                    111.0,
+                    79.0
+                ],
+                [
+                    110.0,
+                    79.0
+                ],
+                [
+                    110.0,
+                    85.0
+                ],
+                [
+                    111.0,
+                    85.0
+                ],
+                [
+                    111.0,
+                    86.0
+                ],
+                [
+                    112.0,
+                    86.0
+                ],
+                [
+                    112.0,
+                    87.0
+                ],
+                [
+                    113.0,
+                    87.0
+                ],
+                [
+                    113.0,
+                    88.0
+                ],
+                [
+                    114.0,
+                    88.0
+                ],
+                [
+                    114.0,
+                    89.0
+                ],
+                [
+                    115.0,
+                    89.0
+                ],
+                [
+                    115.0,
+                    90.0
+                ],
+                [
+                    116.0,
+                    90.0
+                ],
+                [
+                    116.0,
+                    91.0
+                ],
+                [
+                    118.0,
+                    91.0
+                ],
+                [
+                    118.0,
+                    92.0
+                ],
+                [
+                    121.0,
+                    92.0
+                ],
+                [
+                    121.0,
+                    91.0
+                ],
+                [
+                    122.0,
+                    91.0
+                ],
+                [
+                    122.0,
+                    90.0
+                ],
+                [
+                    123.0,
+                    90.0
+                ],
+                [
+                    123.0,
+                    83.0
+                ],
+                [
+                    122.0,
+                    83.0
+                ],
+                [
+                    122.0,
+                    81.0
+                ],
+                [
+                    121.0,
+                    81.0
+                ],
+                [
+                    121.0,
+                    80.0
+                ],
+                [
+                    120.0,
+                    80.0
+                ],
+                [
+                    120.0,
+                    79.0
+                ],
+                [
+                    117.0,
+                    79.0
+                ],
+                [
+                    117.0,
+                    78.0
+                ],
+                [
+                    111.0,
+                    78.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

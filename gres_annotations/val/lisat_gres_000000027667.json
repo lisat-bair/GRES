@@ -1,0 +1,39 @@
+{
+    "text": [
+        "Identify the building with a light beige color and rectangular shape, contrasting against the darker surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027667.jpg",
+            "points": [
+                [
+                    123,
+                    20
+                ],
+                [
+                    178,
+                    20
+                ],
+                [
+                    178,
+                    62
+                ],
+                [
+                    123,
+                    62
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

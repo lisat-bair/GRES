@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Look for the uniquely white truck that has a rectangular design and noticeable dark accents at the base.",
+        "Spot the truck that stands out with its white color and rectangular form, highlighted by dark details at the bottom.",
+        "Find the truck characterized by its distinctive white hue and rectangular shape, with significant dark elements near the lower section."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028569.jpg",
+            "points": [
+                [
+                    311.0,
+                    345.0
+                ],
+                [
+                    311.0,
+                    346.0
+                ],
+                [
+                    310.0,
+                    346.0
+                ],
+                [
+                    310.0,
+                    350.0
+                ],
+                [
+                    309.0,
+                    350.0
+                ],
+                [
+                    309.0,
+                    360.0
+                ],
+                [
+                    310.0,
+                    360.0
+                ],
+                [
+                    310.0,
+                    362.0
+                ],
+                [
+                    311.0,
+                    362.0
+                ],
+                [
+                    311.0,
+                    363.0
+                ],
+                [
+                    316.0,
+                    363.0
+                ],
+                [
+                    316.0,
+                    362.0
+                ],
+                [
+                    317.0,
+                    362.0
+                ],
+                [
+                    317.0,
+                    361.0
+                ],
+                [
+                    318.0,
+                    361.0
+                ],
+                [
+                    318.0,
+                    354.0
+                ],
+                [
+                    319.0,
+                    354.0
+                ],
+                [
+                    319.0,
+                    346.0
+                ],
+                [
+                    318.0,
+                    346.0
+                ],
+                [
+                    318.0,
+                    345.0
+                ],
+                [
+                    311.0,
+                    345.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

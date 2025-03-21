@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Locate the truck in the image that has a big, unique red body and reflective panels on its sides.",
+        "Find the truck in the picture that features a prominent red body with shiny surfaces on its sides.",
+        "Spot the truck in the image that displays a large red body with reflective surfaces along its sides."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016419.jpg",
+            "points": [
+                [
+                    222,
+                    250
+                ],
+                [
+                    240,
+                    250
+                ],
+                [
+                    240,
+                    259
+                ],
+                [
+                    222,
+                    259
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

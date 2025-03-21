@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the uniquely shaped and colored truck positioned in the top-left corner of the image, confined to a small space.",
+        "Identify the truck located in the upper-left section of the picture, noted for its distinctive shape and hue, within a limited area.",
+        "Spot the truck with a unique color and shape situated in the top-left part of the image, occupying a compact region."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010717.jpg",
+            "points": [
+                [
+                    253.0,
+                    16.0
+                ],
+                [
+                    253.0,
+                    17.0
+                ],
+                [
+                    252.0,
+                    17.0
+                ],
+                [
+                    252.0,
+                    18.0
+                ],
+                [
+                    251.0,
+                    18.0
+                ],
+                [
+                    251.0,
+                    23.0
+                ],
+                [
+                    252.0,
+                    23.0
+                ],
+                [
+                    252.0,
+                    26.0
+                ],
+                [
+                    253.0,
+                    26.0
+                ],
+                [
+                    253.0,
+                    27.0
+                ],
+                [
+                    254.0,
+                    27.0
+                ],
+                [
+                    254.0,
+                    28.0
+                ],
+                [
+                    255.0,
+                    28.0
+                ],
+                [
+                    255.0,
+                    29.0
+                ],
+                [
+                    261.0,
+                    29.0
+                ],
+                [
+                    261.0,
+                    28.0
+                ],
+                [
+                    263.0,
+                    28.0
+                ],
+                [
+                    263.0,
+                    26.0
+                ],
+                [
+                    264.0,
+                    26.0
+                ],
+                [
+                    264.0,
+                    24.0
+                ],
+                [
+                    263.0,
+                    24.0
+                ],
+                [
+                    263.0,
+                    22.0
+                ],
+                [
+                    262.0,
+                    22.0
+                ],
+                [
+                    262.0,
+                    20.0
+                ],
+                [
+                    261.0,
+                    20.0
+                ],
+                [
+                    261.0,
+                    19.0
+                ],
+                [
+                    260.0,
+                    19.0
+                ],
+                [
+                    260.0,
+                    17.0
+                ],
+                [
+                    258.0,
+                    17.0
+                ],
+                [
+                    258.0,
+                    16.0
+                ],
+                [
+                    253.0,
+                    16.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

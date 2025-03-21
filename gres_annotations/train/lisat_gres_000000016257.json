@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the structure situated in the lower right corner of the picture.",
+        "Identify the edifice located at the bottom right side of the image.",
+        "Spot the construction at the bottom-right section of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016257.jpg",
+            "points": [
+                [
+                    234.0,
+                    502.0
+                ],
+                [
+                    234.0,
+                    503.0
+                ],
+                [
+                    233.0,
+                    503.0
+                ],
+                [
+                    233.0,
+                    504.0
+                ],
+                [
+                    232.0,
+                    504.0
+                ],
+                [
+                    232.0,
+                    512.0
+                ],
+                [
+                    257.0,
+                    512.0
+                ],
+                [
+                    257.0,
+                    505.0
+                ],
+                [
+                    256.0,
+                    505.0
+                ],
+                [
+                    256.0,
+                    503.0
+                ],
+                [
+                    255.0,
+                    503.0
+                ],
+                [
+                    255.0,
+                    502.0
+                ],
+                [
+                    234.0,
+                    502.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

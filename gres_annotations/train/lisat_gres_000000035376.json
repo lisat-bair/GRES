@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the truck that has a dark-colored body and a noticeable white or light section on its roof.",
+        "Identify the truck with a predominantly dark exterior and a clear white or light area on its top side.",
+        "Search for the truck featuring a dark body with a prominent white or light-colored patch on its upper surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035376.jpg",
+            "points": [
+                [
+                    382.0,
+                    44.0
+                ],
+                [
+                    382.0,
+                    45.0
+                ],
+                [
+                    379.0,
+                    45.0
+                ],
+                [
+                    379.0,
+                    46.0
+                ],
+                [
+                    378.0,
+                    46.0
+                ],
+                [
+                    378.0,
+                    48.0
+                ],
+                [
+                    377.0,
+                    48.0
+                ],
+                [
+                    377.0,
+                    51.0
+                ],
+                [
+                    376.0,
+                    51.0
+                ],
+                [
+                    376.0,
+                    56.0
+                ],
+                [
+                    375.0,
+                    56.0
+                ],
+                [
+                    375.0,
+                    57.0
+                ],
+                [
+                    376.0,
+                    57.0
+                ],
+                [
+                    376.0,
+                    59.0
+                ],
+                [
+                    377.0,
+                    59.0
+                ],
+                [
+                    377.0,
+                    60.0
+                ],
+                [
+                    381.0,
+                    60.0
+                ],
+                [
+                    381.0,
+                    59.0
+                ],
+                [
+                    382.0,
+                    59.0
+                ],
+                [
+                    382.0,
+                    58.0
+                ],
+                [
+                    383.0,
+                    58.0
+                ],
+                [
+                    383.0,
+                    53.0
+                ],
+                [
+                    384.0,
+                    53.0
+                ],
+                [
+                    384.0,
+                    47.0
+                ],
+                [
+                    383.0,
+                    47.0
+                ],
+                [
+                    383.0,
+                    46.0
+                ],
+                [
+                    384.0,
+                    46.0
+                ],
+                [
+                    384.0,
+                    45.0
+                ],
+                [
+                    383.0,
+                    45.0
+                ],
+                [
+                    383.0,
+                    44.0
+                ],
+                [
+                    382.0,
+                    44.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

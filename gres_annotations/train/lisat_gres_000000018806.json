@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the vehicle that has a big, boxy form with wheels and windows set against a shadowy backdrop.",
+        "Locate the automobile characterized by its sizable, rectangular design, complete with wheels and windows, contrasting a dim background.",
+        "Spot the car featuring a large, rectangular shape, equipped with wheels and windows, against a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018806.jpg",
+            "points": [
+                [
+                    347.0,
+                    336.0
+                ],
+                [
+                    347.0,
+                    337.0
+                ],
+                [
+                    340.0,
+                    337.0
+                ],
+                [
+                    340.0,
+                    338.0
+                ],
+                [
+                    339.0,
+                    338.0
+                ],
+                [
+                    339.0,
+                    341.0
+                ],
+                [
+                    340.0,
+                    341.0
+                ],
+                [
+                    340.0,
+                    343.0
+                ],
+                [
+                    341.0,
+                    343.0
+                ],
+                [
+                    341.0,
+                    345.0
+                ],
+                [
+                    342.0,
+                    345.0
+                ],
+                [
+                    342.0,
+                    346.0
+                ],
+                [
+                    343.0,
+                    346.0
+                ],
+                [
+                    343.0,
+                    347.0
+                ],
+                [
+                    352.0,
+                    347.0
+                ],
+                [
+                    352.0,
+                    346.0
+                ],
+                [
+                    356.0,
+                    346.0
+                ],
+                [
+                    356.0,
+                    345.0
+                ],
+                [
+                    359.0,
+                    345.0
+                ],
+                [
+                    359.0,
+                    344.0
+                ],
+                [
+                    360.0,
+                    344.0
+                ],
+                [
+                    360.0,
+                    339.0
+                ],
+                [
+                    359.0,
+                    339.0
+                ],
+                [
+                    359.0,
+                    337.0
+                ],
+                [
+                    352.0,
+                    337.0
+                ],
+                [
+                    352.0,
+                    336.0
+                ],
+                [
+                    347.0,
+                    336.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

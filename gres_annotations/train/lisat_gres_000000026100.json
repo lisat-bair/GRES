@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the trailer positioned at the middle of the picture.",
+        "Find the trailer that is situated in the center of the image.",
+        "Spot the trailer that is placed in the middle of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026100.jpg",
+            "points": [
+                [
+                    280.0,
+                    264.0
+                ],
+                [
+                    280.0,
+                    265.0
+                ],
+                [
+                    279.0,
+                    265.0
+                ],
+                [
+                    279.0,
+                    269.0
+                ],
+                [
+                    280.0,
+                    269.0
+                ],
+                [
+                    280.0,
+                    270.0
+                ],
+                [
+                    281.0,
+                    270.0
+                ],
+                [
+                    281.0,
+                    271.0
+                ],
+                [
+                    282.0,
+                    271.0
+                ],
+                [
+                    282.0,
+                    272.0
+                ],
+                [
+                    283.0,
+                    272.0
+                ],
+                [
+                    283.0,
+                    273.0
+                ],
+                [
+                    286.0,
+                    273.0
+                ],
+                [
+                    286.0,
+                    274.0
+                ],
+                [
+                    300.0,
+                    274.0
+                ],
+                [
+                    300.0,
+                    268.0
+                ],
+                [
+                    299.0,
+                    268.0
+                ],
+                [
+                    299.0,
+                    266.0
+                ],
+                [
+                    296.0,
+                    266.0
+                ],
+                [
+                    296.0,
+                    265.0
+                ],
+                [
+                    289.0,
+                    265.0
+                ],
+                [
+                    289.0,
+                    264.0
+                ],
+                [
+                    280.0,
+                    264.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

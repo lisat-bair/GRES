@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the load situated in the lower-left corner of the picture, characterized by a compact rectangle form and noticeable wheels, often made of metal or painted.",
+        "Find the item in the bottom-left section of the image, which is shaped like a compact rectangle and has distinct wheels, usually metallic or painted.",
+        "Spot the haul in the image's lower-left corner, identifiable by its compact rectangular shape and prominent wheels, typically metallic or coated with paint."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023120.jpg",
+            "points": [
+                [
+                    198.0,
+                    506.0
+                ],
+                [
+                    198.0,
+                    507.0
+                ],
+                [
+                    188.0,
+                    507.0
+                ],
+                [
+                    188.0,
+                    508.0
+                ],
+                [
+                    186.0,
+                    508.0
+                ],
+                [
+                    186.0,
+                    509.0
+                ],
+                [
+                    185.0,
+                    509.0
+                ],
+                [
+                    185.0,
+                    510.0
+                ],
+                [
+                    184.0,
+                    510.0
+                ],
+                [
+                    184.0,
+                    512.0
+                ],
+                [
+                    208.0,
+                    512.0
+                ],
+                [
+                    208.0,
+                    511.0
+                ],
+                [
+                    207.0,
+                    511.0
+                ],
+                [
+                    207.0,
+                    510.0
+                ],
+                [
+                    204.0,
+                    510.0
+                ],
+                [
+                    204.0,
+                    508.0
+                ],
+                [
+                    203.0,
+                    508.0
+                ],
+                [
+                    203.0,
+                    507.0
+                ],
+                [
+                    202.0,
+                    507.0
+                ],
+                [
+                    202.0,
+                    506.0
+                ],
+                [
+                    198.0,
+                    506.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

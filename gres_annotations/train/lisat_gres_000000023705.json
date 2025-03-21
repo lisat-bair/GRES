@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the vehicle situated in the upper-left section of the picture, concentrating on the tiny space outlined by the bounding box.",
+        "Identify the automobile in the top-left corner of the image, paying attention to the confined region marked by the bounding box.",
+        "Spot the car located in the top-left area of the image, focusing on the limited section defined by the bounding box."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023705.jpg",
+            "points": [
+                [
+                    209.0,
+                    109.0
+                ],
+                [
+                    209.0,
+                    110.0
+                ],
+                [
+                    206.0,
+                    110.0
+                ],
+                [
+                    206.0,
+                    111.0
+                ],
+                [
+                    205.0,
+                    111.0
+                ],
+                [
+                    205.0,
+                    116.0
+                ],
+                [
+                    206.0,
+                    116.0
+                ],
+                [
+                    206.0,
+                    119.0
+                ],
+                [
+                    207.0,
+                    119.0
+                ],
+                [
+                    207.0,
+                    125.0
+                ],
+                [
+                    208.0,
+                    125.0
+                ],
+                [
+                    208.0,
+                    126.0
+                ],
+                [
+                    214.0,
+                    126.0
+                ],
+                [
+                    214.0,
+                    125.0
+                ],
+                [
+                    215.0,
+                    125.0
+                ],
+                [
+                    215.0,
+                    124.0
+                ],
+                [
+                    216.0,
+                    124.0
+                ],
+                [
+                    216.0,
+                    118.0
+                ],
+                [
+                    215.0,
+                    118.0
+                ],
+                [
+                    215.0,
+                    115.0
+                ],
+                [
+                    214.0,
+                    115.0
+                ],
+                [
+                    214.0,
+                    111.0
+                ],
+                [
+                    213.0,
+                    111.0
+                ],
+                [
+                    213.0,
+                    110.0
+                ],
+                [
+                    212.0,
+                    110.0
+                ],
+                [
+                    212.0,
+                    109.0
+                ],
+                [
+                    209.0,
+                    109.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

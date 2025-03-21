@@ -1,0 +1,89 @@
+{
+    "text": [
+        "Find the bus situated in the lower-right corner of the picture.",
+        "Spot the bus located at the bottom-right section of the image.",
+        "Identify the bus positioned in the bottom-right part of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026532.jpg",
+            "points": [
+                [
+                    503.0,
+                    455.0
+                ],
+                [
+                    503.0,
+                    456.0
+                ],
+                [
+                    504.0,
+                    456.0
+                ],
+                [
+                    504.0,
+                    455.0
+                ],
+                [
+                    503.0,
+                    455.0
+                ],
+                [
+                    505.0,
+                    443.0
+                ],
+                [
+                    505.0,
+                    445.0
+                ],
+                [
+                    506.0,
+                    445.0
+                ],
+                [
+                    506.0,
+                    459.0
+                ],
+                [
+                    507.0,
+                    459.0
+                ],
+                [
+                    507.0,
+                    460.0
+                ],
+                [
+                    509.0,
+                    460.0
+                ],
+                [
+                    509.0,
+                    461.0
+                ],
+                [
+                    512.0,
+                    461.0
+                ],
+                [
+                    512.0,
+                    443.0
+                ],
+                [
+                    505.0,
+                    443.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

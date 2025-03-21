@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Locate the passenger car that has a unique metallic sheen and a circular design.",
+        "Find the passenger vehicle that features a noticeable metallic luster and a rounded appearance.",
+        "Spot the passenger automobile with a distinct metallic gloss and a curved form."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023246.jpg",
+            "points": [
+                [
+                    137.0,
+                    322.0
+                ],
+                [
+                    137.0,
+                    323.0
+                ],
+                [
+                    136.0,
+                    323.0
+                ],
+                [
+                    136.0,
+                    335.0
+                ],
+                [
+                    137.0,
+                    335.0
+                ],
+                [
+                    137.0,
+                    336.0
+                ],
+                [
+                    142.0,
+                    336.0
+                ],
+                [
+                    142.0,
+                    335.0
+                ],
+                [
+                    143.0,
+                    335.0
+                ],
+                [
+                    143.0,
+                    324.0
+                ],
+                [
+                    142.0,
+                    324.0
+                ],
+                [
+                    142.0,
+                    322.0
+                ],
+                [
+                    137.0,
+                    322.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

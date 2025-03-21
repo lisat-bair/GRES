@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the vessel featuring a sizable rectangular form and colorful containers piled high above the deck.",
+        "Identify the cargo ship characterized by its vast rectangular outline and stacked vibrant containers on the deck.",
+        "Spot the container ship distinguished by its large rectangular structure and the array of colorful containers stacked on top of the deck."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017826.jpg",
+            "points": [
+                [
+                    511.0,
+                    378.0
+                ],
+                [
+                    511.0,
+                    380.0
+                ],
+                [
+                    510.0,
+                    380.0
+                ],
+                [
+                    510.0,
+                    383.0
+                ],
+                [
+                    509.0,
+                    383.0
+                ],
+                [
+                    509.0,
+                    385.0
+                ],
+                [
+                    508.0,
+                    385.0
+                ],
+                [
+                    508.0,
+                    387.0
+                ],
+                [
+                    507.0,
+                    387.0
+                ],
+                [
+                    507.0,
+                    389.0
+                ],
+                [
+                    506.0,
+                    389.0
+                ],
+                [
+                    506.0,
+                    391.0
+                ],
+                [
+                    505.0,
+                    391.0
+                ],
+                [
+                    505.0,
+                    393.0
+                ],
+                [
+                    504.0,
+                    393.0
+                ],
+                [
+                    504.0,
+                    396.0
+                ],
+                [
+                    503.0,
+                    396.0
+                ],
+                [
+                    503.0,
+                    410.0
+                ],
+                [
+                    504.0,
+                    410.0
+                ],
+                [
+                    504.0,
+                    420.0
+                ],
+                [
+                    505.0,
+                    420.0
+                ],
+                [
+                    505.0,
+                    422.0
+                ],
+                [
+                    506.0,
+                    422.0
+                ],
+                [
+                    506.0,
+                    423.0
+                ],
+                [
+                    509.0,
+                    423.0
+                ],
+                [
+                    509.0,
+                    424.0
+                ],
+                [
+                    512.0,
+                    424.0
+                ],
+                [
+                    512.0,
+                    378.0
+                ],
+                [
+                    511.0,
+                    378.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the bus that has several windows and is typically a vivid color like yellow or red.",
+        "Spot the bus characterized by numerous windows and a standout color, frequently yellow or red.",
+        "Find the bus featuring many windows and a noticeable bright hue, often in shades of yellow or red."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024758.jpg",
+            "points": [
+                [
+                    273.0,
+                    0.0
+                ],
+                [
+                    273.0,
+                    2.0
+                ],
+                [
+                    272.0,
+                    2.0
+                ],
+                [
+                    272.0,
+                    7.0
+                ],
+                [
+                    273.0,
+                    7.0
+                ],
+                [
+                    273.0,
+                    8.0
+                ],
+                [
+                    276.0,
+                    8.0
+                ],
+                [
+                    276.0,
+                    7.0
+                ],
+                [
+                    278.0,
+                    7.0
+                ],
+                [
+                    278.0,
+                    6.0
+                ],
+                [
+                    279.0,
+                    6.0
+                ],
+                [
+                    279.0,
+                    5.0
+                ],
+                [
+                    281.0,
+                    5.0
+                ],
+                [
+                    281.0,
+                    4.0
+                ],
+                [
+                    282.0,
+                    4.0
+                ],
+                [
+                    282.0,
+                    3.0
+                ],
+                [
+                    284.0,
+                    3.0
+                ],
+                [
+                    284.0,
+                    2.0
+                ],
+                [
+                    285.0,
+                    2.0
+                ],
+                [
+                    285.0,
+                    1.0
+                ],
+                [
+                    287.0,
+                    1.0
+                ],
+                [
+                    287.0,
+                    0.0
+                ],
+                [
+                    273.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

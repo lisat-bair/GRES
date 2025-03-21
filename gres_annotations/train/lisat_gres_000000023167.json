@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Look for the truck with a trailer bed by its long rectangular design and the noticeable link between the cabin and trailer, which is often seen as a joint or hinge.",
+        "Spot the truck featuring a trailer bed by recognizing its elongated rectangle form and the clear connection between the cabin and trailer, typically visible as a joint or hinge.",
+        "Identify the truck that has a trailer bed by observing its long rectangular shape and the distinct joint or hinge that connects the cabin to the trailer."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023167.jpg",
+            "points": [
+                [
+                    238.0,
+                    364.0
+                ],
+                [
+                    238.0,
+                    365.0
+                ],
+                [
+                    237.0,
+                    365.0
+                ],
+                [
+                    237.0,
+                    366.0
+                ],
+                [
+                    236.0,
+                    366.0
+                ],
+                [
+                    236.0,
+                    387.0
+                ],
+                [
+                    237.0,
+                    387.0
+                ],
+                [
+                    237.0,
+                    391.0
+                ],
+                [
+                    238.0,
+                    391.0
+                ],
+                [
+                    238.0,
+                    392.0
+                ],
+                [
+                    243.0,
+                    392.0
+                ],
+                [
+                    243.0,
+                    391.0
+                ],
+                [
+                    246.0,
+                    391.0
+                ],
+                [
+                    246.0,
+                    390.0
+                ],
+                [
+                    247.0,
+                    390.0
+                ],
+                [
+                    247.0,
+                    364.0
+                ],
+                [
+                    238.0,
+                    364.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the large vertically positioned storage tank that has a cylindrical form and a metallic surface.",
+        "Identify the storage tank that is large, cylindrical, vertically oriented, and has a metallic texture.",
+        "Look for the storage tank that is tall, cylindrical, metallic, and stands upright."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034690.jpg",
+            "points": [
+                [
+                    0.0,
+                    97.0
+                ],
+                [
+                    0.0,
+                    139.0
+                ],
+                [
+                    4.0,
+                    139.0
+                ],
+                [
+                    4.0,
+                    137.0
+                ],
+                [
+                    5.0,
+                    137.0
+                ],
+                [
+                    5.0,
+                    131.0
+                ],
+                [
+                    4.0,
+                    131.0
+                ],
+                [
+                    4.0,
+                    125.0
+                ],
+                [
+                    5.0,
+                    125.0
+                ],
+                [
+                    5.0,
+                    124.0
+                ],
+                [
+                    4.0,
+                    124.0
+                ],
+                [
+                    4.0,
+                    122.0
+                ],
+                [
+                    5.0,
+                    122.0
+                ],
+                [
+                    5.0,
+                    112.0
+                ],
+                [
+                    4.0,
+                    112.0
+                ],
+                [
+                    4.0,
+                    106.0
+                ],
+                [
+                    5.0,
+                    106.0
+                ],
+                [
+                    5.0,
+                    101.0
+                ],
+                [
+                    4.0,
+                    101.0
+                ],
+                [
+                    4.0,
+                    100.0
+                ],
+                [
+                    3.0,
+                    100.0
+                ],
+                [
+                    3.0,
+                    99.0
+                ],
+                [
+                    2.0,
+                    99.0
+                ],
+                [
+                    2.0,
+                    98.0
+                ],
+                [
+                    1.0,
+                    98.0
+                ],
+                [
+                    1.0,
+                    97.0
+                ],
+                [
+                    0.0,
+                    97.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the structure that features unique arch designs and a light stone exterior among the darker, more textured surroundings.",
+        "Identify the edifice with standout arch shapes and a pale stone front set against the backdrop of darker and more textured elements.",
+        "Look for the building characterized by its unique arch forms and a bright stone facade amidst the darker, textured environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015749.jpg",
+            "points": [
+                [
+                    7.0,
+                    423.0
+                ],
+                [
+                    7.0,
+                    424.0
+                ],
+                [
+                    5.0,
+                    424.0
+                ],
+                [
+                    5.0,
+                    426.0
+                ],
+                [
+                    4.0,
+                    426.0
+                ],
+                [
+                    4.0,
+                    430.0
+                ],
+                [
+                    5.0,
+                    430.0
+                ],
+                [
+                    5.0,
+                    431.0
+                ],
+                [
+                    21.0,
+                    431.0
+                ],
+                [
+                    21.0,
+                    430.0
+                ],
+                [
+                    22.0,
+                    430.0
+                ],
+                [
+                    22.0,
+                    425.0
+                ],
+                [
+                    21.0,
+                    425.0
+                ],
+                [
+                    21.0,
+                    424.0
+                ],
+                [
+                    20.0,
+                    424.0
+                ],
+                [
+                    20.0,
+                    423.0
+                ],
+                [
+                    7.0,
+                    423.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

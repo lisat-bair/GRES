@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the truck that features unique black and white horizontal stripes on its roof, set against a dark background.",
+        "Search for the truck displaying noticeable white and black stripes horizontally on its roof, contrasting with a dark backdrop.",
+        "Identify the truck that has distinct horizontal stripes in white and black on its roof, standing out against a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031368.jpg",
+            "points": [
+                [
+                    289.0,
+                    335.0
+                ],
+                [
+                    289.0,
+                    336.0
+                ],
+                [
+                    288.0,
+                    336.0
+                ],
+                [
+                    288.0,
+                    337.0
+                ],
+                [
+                    287.0,
+                    337.0
+                ],
+                [
+                    287.0,
+                    338.0
+                ],
+                [
+                    286.0,
+                    338.0
+                ],
+                [
+                    286.0,
+                    340.0
+                ],
+                [
+                    285.0,
+                    340.0
+                ],
+                [
+                    285.0,
+                    343.0
+                ],
+                [
+                    284.0,
+                    343.0
+                ],
+                [
+                    284.0,
+                    353.0
+                ],
+                [
+                    285.0,
+                    353.0
+                ],
+                [
+                    285.0,
+                    354.0
+                ],
+                [
+                    292.0,
+                    354.0
+                ],
+                [
+                    292.0,
+                    353.0
+                ],
+                [
+                    293.0,
+                    353.0
+                ],
+                [
+                    293.0,
+                    351.0
+                ],
+                [
+                    294.0,
+                    351.0
+                ],
+                [
+                    294.0,
+                    345.0
+                ],
+                [
+                    295.0,
+                    345.0
+                ],
+                [
+                    295.0,
+                    337.0
+                ],
+                [
+                    294.0,
+                    337.0
+                ],
+                [
+                    294.0,
+                    336.0
+                ],
+                [
+                    293.0,
+                    336.0
+                ],
+                [
+                    293.0,
+                    335.0
+                ],
+                [
+                    289.0,
+                    335.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

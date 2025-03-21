@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the car that has a small, curved design with noticeable headlights and a shiny metallic surface.",
+        "Locate the automobile characterized by a compact, rounded form, prominent headlights, and a metallic exterior.",
+        "Spot the vehicle that exhibits a rounded, compact shape with distinctive headlights and a metallic sheen."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014467.jpg",
+            "points": [
+                [
+                    510.0,
+                    429.0
+                ],
+                [
+                    510.0,
+                    430.0
+                ],
+                [
+                    507.0,
+                    430.0
+                ],
+                [
+                    507.0,
+                    431.0
+                ],
+                [
+                    510.0,
+                    431.0
+                ],
+                [
+                    510.0,
+                    432.0
+                ],
+                [
+                    512.0,
+                    432.0
+                ],
+                [
+                    512.0,
+                    429.0
+                ],
+                [
+                    510.0,
+                    429.0
+                ],
+                [
+                    503.0,
+                    443.0
+                ],
+                [
+                    503.0,
+                    444.0
+                ],
+                [
+                    504.0,
+                    444.0
+                ],
+                [
+                    504.0,
+                    443.0
+                ],
+                [
+                    503.0,
+                    443.0
+                ],
+                [
+                    506.0,
+                    436.0
+                ],
+                [
+                    506.0,
+                    438.0
+                ],
+                [
+                    505.0,
+                    438.0
+                ],
+                [
+                    505.0,
+                    446.0
+                ],
+                [
+                    506.0,
+                    446.0
+                ],
+                [
+                    506.0,
+                    447.0
+                ],
+                [
+                    507.0,
+                    447.0
+                ],
+                [
+                    507.0,
+                    448.0
+                ],
+                [
+                    508.0,
+                    448.0
+                ],
+                [
+                    508.0,
+                    449.0
+                ],
+                [
+                    512.0,
+                    449.0
+                ],
+                [
+                    512.0,
+                    436.0
+                ],
+                [
+                    506.0,
+                    436.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

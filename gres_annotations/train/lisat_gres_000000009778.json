@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Spot the trailer located in the upper-right corner of the picture.",
+        "Find the trailer positioned in the top-right section of the image.",
+        "Locate the trailer situated in the top-right corner of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009778.jpg",
+            "points": [
+                [
+                    510.0,
+                    218.0
+                ],
+                [
+                    510.0,
+                    219.0
+                ],
+                [
+                    507.0,
+                    219.0
+                ],
+                [
+                    507.0,
+                    220.0
+                ],
+                [
+                    506.0,
+                    220.0
+                ],
+                [
+                    506.0,
+                    225.0
+                ],
+                [
+                    510.0,
+                    225.0
+                ],
+                [
+                    510.0,
+                    226.0
+                ],
+                [
+                    512.0,
+                    226.0
+                ],
+                [
+                    512.0,
+                    218.0
+                ],
+                [
+                    510.0,
+                    218.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

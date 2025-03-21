@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the engineering vehicle by its bright yellow hue and robust, sizable form, often fitted with heavy machinery or attachments.",
+        "Recognize the engineering vehicle through its unique yellow coloring and large, sturdy build, generally accessorized with heavy-duty machines or tools.",
+        "Distinguish the engineering vehicle by its characteristic yellow shade and bulky, tough design, usually featuring heavy equipment or add-ons."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012801.jpg",
+            "points": [
+                [
+                    445.0,
+                    490.0
+                ],
+                [
+                    445.0,
+                    491.0
+                ],
+                [
+                    443.0,
+                    491.0
+                ],
+                [
+                    443.0,
+                    492.0
+                ],
+                [
+                    437.0,
+                    492.0
+                ],
+                [
+                    437.0,
+                    493.0
+                ],
+                [
+                    429.0,
+                    493.0
+                ],
+                [
+                    429.0,
+                    494.0
+                ],
+                [
+                    421.0,
+                    494.0
+                ],
+                [
+                    421.0,
+                    495.0
+                ],
+                [
+                    416.0,
+                    495.0
+                ],
+                [
+                    416.0,
+                    497.0
+                ],
+                [
+                    415.0,
+                    497.0
+                ],
+                [
+                    415.0,
+                    500.0
+                ],
+                [
+                    416.0,
+                    500.0
+                ],
+                [
+                    416.0,
+                    508.0
+                ],
+                [
+                    417.0,
+                    508.0
+                ],
+                [
+                    417.0,
+                    512.0
+                ],
+                [
+                    459.0,
+                    512.0
+                ],
+                [
+                    459.0,
+                    511.0
+                ],
+                [
+                    458.0,
+                    511.0
+                ],
+                [
+                    458.0,
+                    504.0
+                ],
+                [
+                    457.0,
+                    504.0
+                ],
+                [
+                    457.0,
+                    503.0
+                ],
+                [
+                    456.0,
+                    503.0
+                ],
+                [
+                    456.0,
+                    504.0
+                ],
+                [
+                    455.0,
+                    504.0
+                ],
+                [
+                    455.0,
+                    498.0
+                ],
+                [
+                    454.0,
+                    498.0
+                ],
+                [
+                    454.0,
+                    496.0
+                ],
+                [
+                    455.0,
+                    496.0
+                ],
+                [
+                    455.0,
+                    493.0
+                ],
+                [
+                    454.0,
+                    493.0
+                ],
+                [
+                    454.0,
+                    491.0
+                ],
+                [
+                    453.0,
+                    491.0
+                ],
+                [
+                    453.0,
+                    490.0
+                ],
+                [
+                    445.0,
+                    490.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

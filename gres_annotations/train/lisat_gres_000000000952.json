@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the vehicle situated in the lower-left corner of the picture, concentrating on the detailed bounding box coordinates given.",
+        "Identify the automobile in the bottom-left section of the image by honing in on the specified bounding box coordinates provided.",
+        "Spot the car in the bottom-left area of the photo, paying attention to the particular bounding box coordinates supplied."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000952.jpg",
+            "points": [
+                [
+                    83.0,
+                    456.0
+                ],
+                [
+                    83.0,
+                    457.0
+                ],
+                [
+                    81.0,
+                    457.0
+                ],
+                [
+                    81.0,
+                    462.0
+                ],
+                [
+                    82.0,
+                    462.0
+                ],
+                [
+                    82.0,
+                    465.0
+                ],
+                [
+                    83.0,
+                    465.0
+                ],
+                [
+                    83.0,
+                    467.0
+                ],
+                [
+                    84.0,
+                    467.0
+                ],
+                [
+                    84.0,
+                    470.0
+                ],
+                [
+                    85.0,
+                    470.0
+                ],
+                [
+                    85.0,
+                    471.0
+                ],
+                [
+                    87.0,
+                    471.0
+                ],
+                [
+                    87.0,
+                    472.0
+                ],
+                [
+                    89.0,
+                    472.0
+                ],
+                [
+                    89.0,
+                    473.0
+                ],
+                [
+                    91.0,
+                    473.0
+                ],
+                [
+                    91.0,
+                    472.0
+                ],
+                [
+                    92.0,
+                    472.0
+                ],
+                [
+                    92.0,
+                    471.0
+                ],
+                [
+                    93.0,
+                    471.0
+                ],
+                [
+                    93.0,
+                    470.0
+                ],
+                [
+                    94.0,
+                    470.0
+                ],
+                [
+                    94.0,
+                    468.0
+                ],
+                [
+                    93.0,
+                    468.0
+                ],
+                [
+                    93.0,
+                    465.0
+                ],
+                [
+                    92.0,
+                    465.0
+                ],
+                [
+                    92.0,
+                    462.0
+                ],
+                [
+                    91.0,
+                    462.0
+                ],
+                [
+                    91.0,
+                    460.0
+                ],
+                [
+                    90.0,
+                    460.0
+                ],
+                [
+                    90.0,
+                    458.0
+                ],
+                [
+                    89.0,
+                    458.0
+                ],
+                [
+                    89.0,
+                    457.0
+                ],
+                [
+                    88.0,
+                    457.0
+                ],
+                [
+                    88.0,
+                    456.0
+                ],
+                [
+                    83.0,
+                    456.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

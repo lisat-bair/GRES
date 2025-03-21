@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Identify the truck in the image by its large rectangular shape, metallic gray color, and prominent headlights in the foreground.",
+        "Focus on the truck in the foreground of the image, characterized by its large rectangular build, metallic gray color, and noticeable headlights.",
+        "Highlight the truck in the image's foreground, marked by its substantial rectangular form, metallic gray hue, and striking headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002583.jpg",
+            "points": [
+                [
+                    509.0,
+                    124.0
+                ],
+                [
+                    509.0,
+                    125.0
+                ],
+                [
+                    508.0,
+                    125.0
+                ],
+                [
+                    508.0,
+                    126.0
+                ],
+                [
+                    506.0,
+                    126.0
+                ],
+                [
+                    506.0,
+                    127.0
+                ],
+                [
+                    505.0,
+                    127.0
+                ],
+                [
+                    505.0,
+                    128.0
+                ],
+                [
+                    504.0,
+                    128.0
+                ],
+                [
+                    504.0,
+                    129.0
+                ],
+                [
+                    502.0,
+                    129.0
+                ],
+                [
+                    502.0,
+                    130.0
+                ],
+                [
+                    501.0,
+                    130.0
+                ],
+                [
+                    501.0,
+                    131.0
+                ],
+                [
+                    500.0,
+                    131.0
+                ],
+                [
+                    500.0,
+                    135.0
+                ],
+                [
+                    501.0,
+                    135.0
+                ],
+                [
+                    501.0,
+                    136.0
+                ],
+                [
+                    505.0,
+                    136.0
+                ],
+                [
+                    505.0,
+                    135.0
+                ],
+                [
+                    508.0,
+                    135.0
+                ],
+                [
+                    508.0,
+                    134.0
+                ],
+                [
+                    510.0,
+                    134.0
+                ],
+                [
+                    510.0,
+                    133.0
+                ],
+                [
+                    512.0,
+                    133.0
+                ],
+                [
+                    512.0,
+                    124.0
+                ],
+                [
+                    509.0,
+                    124.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the vehicle whose unique shapes and hues stand out against the shadowy backdrop.",
+        "Find the automobile that features unique contours and colors, making it stand out from the dim background.",
+        "Locate the car with unique silhouettes and shades that pop against the dark backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019547.jpg",
+            "points": [
+                [
+                    114.0,
+                    100.0
+                ],
+                [
+                    114.0,
+                    101.0
+                ],
+                [
+                    113.0,
+                    101.0
+                ],
+                [
+                    113.0,
+                    102.0
+                ],
+                [
+                    112.0,
+                    102.0
+                ],
+                [
+                    112.0,
+                    106.0
+                ],
+                [
+                    111.0,
+                    106.0
+                ],
+                [
+                    111.0,
+                    111.0
+                ],
+                [
+                    112.0,
+                    111.0
+                ],
+                [
+                    112.0,
+                    113.0
+                ],
+                [
+                    113.0,
+                    113.0
+                ],
+                [
+                    113.0,
+                    115.0
+                ],
+                [
+                    117.0,
+                    115.0
+                ],
+                [
+                    117.0,
+                    114.0
+                ],
+                [
+                    119.0,
+                    114.0
+                ],
+                [
+                    119.0,
+                    113.0
+                ],
+                [
+                    120.0,
+                    113.0
+                ],
+                [
+                    120.0,
+                    112.0
+                ],
+                [
+                    121.0,
+                    112.0
+                ],
+                [
+                    121.0,
+                    104.0
+                ],
+                [
+                    120.0,
+                    104.0
+                ],
+                [
+                    120.0,
+                    102.0
+                ],
+                [
+                    119.0,
+                    102.0
+                ],
+                [
+                    119.0,
+                    101.0
+                ],
+                [
+                    117.0,
+                    101.0
+                ],
+                [
+                    117.0,
+                    100.0
+                ],
+                [
+                    114.0,
+                    100.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

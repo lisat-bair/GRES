@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the dark-hued vehicle featuring sleek contours and shiny surfaces in the picture.",
+        "Locate the dark-shaded automobile with graceful lines and glossy exteriors in the photo.",
+        "Find the car with a dark tone, smooth shapes, and reflective body in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029352.jpg",
+            "points": [
+                [
+                    258.0,
+                    353.0
+                ],
+                [
+                    258.0,
+                    354.0
+                ],
+                [
+                    257.0,
+                    354.0
+                ],
+                [
+                    257.0,
+                    357.0
+                ],
+                [
+                    258.0,
+                    357.0
+                ],
+                [
+                    258.0,
+                    359.0
+                ],
+                [
+                    259.0,
+                    359.0
+                ],
+                [
+                    259.0,
+                    361.0
+                ],
+                [
+                    260.0,
+                    361.0
+                ],
+                [
+                    260.0,
+                    362.0
+                ],
+                [
+                    261.0,
+                    362.0
+                ],
+                [
+                    261.0,
+                    363.0
+                ],
+                [
+                    262.0,
+                    363.0
+                ],
+                [
+                    262.0,
+                    364.0
+                ],
+                [
+                    266.0,
+                    364.0
+                ],
+                [
+                    266.0,
+                    363.0
+                ],
+                [
+                    267.0,
+                    363.0
+                ],
+                [
+                    267.0,
+                    358.0
+                ],
+                [
+                    266.0,
+                    358.0
+                ],
+                [
+                    266.0,
+                    357.0
+                ],
+                [
+                    265.0,
+                    357.0
+                ],
+                [
+                    265.0,
+                    355.0
+                ],
+                [
+                    263.0,
+                    355.0
+                ],
+                [
+                    263.0,
+                    354.0
+                ],
+                [
+                    262.0,
+                    354.0
+                ],
+                [
+                    262.0,
+                    353.0
+                ],
+                [
+                    258.0,
+                    353.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

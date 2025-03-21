@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the pale vehicle that has a rectangular form and sleek edges set against a shadowy backdrop.",
+        "Look for the vehicle with a light hue, boxy shape, and smooth lines in contrast to the dark setting.",
+        "Find the light-toned car with a rectangular design and smooth curves against the dim background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026239.jpg",
+            "points": [
+                [
+                    11.0,
+                    472.0
+                ],
+                [
+                    11.0,
+                    473.0
+                ],
+                [
+                    9.0,
+                    473.0
+                ],
+                [
+                    9.0,
+                    474.0
+                ],
+                [
+                    8.0,
+                    474.0
+                ],
+                [
+                    8.0,
+                    476.0
+                ],
+                [
+                    7.0,
+                    476.0
+                ],
+                [
+                    7.0,
+                    479.0
+                ],
+                [
+                    8.0,
+                    479.0
+                ],
+                [
+                    8.0,
+                    480.0
+                ],
+                [
+                    15.0,
+                    480.0
+                ],
+                [
+                    15.0,
+                    479.0
+                ],
+                [
+                    16.0,
+                    479.0
+                ],
+                [
+                    16.0,
+                    478.0
+                ],
+                [
+                    18.0,
+                    478.0
+                ],
+                [
+                    18.0,
+                    476.0
+                ],
+                [
+                    17.0,
+                    476.0
+                ],
+                [
+                    17.0,
+                    474.0
+                ],
+                [
+                    16.0,
+                    474.0
+                ],
+                [
+                    16.0,
+                    473.0
+                ],
+                [
+                    15.0,
+                    473.0
+                ],
+                [
+                    15.0,
+                    472.0
+                ],
+                [
+                    11.0,
+                    472.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

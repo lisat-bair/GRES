@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for the large, dark-colored truck that stands out due to its long form and size relative to other items nearby.",
+        "Spot the truck that is both elongated and dark, notable for its dimensions compared to the objects around it.",
+        "Find the dark truck with an elongated shape that is prominent because of its size in contrast to nearby objects."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024455.jpg",
+            "points": [
+                [
+                    348.0,
+                    70.0
+                ],
+                [
+                    348.0,
+                    71.0
+                ],
+                [
+                    346.0,
+                    71.0
+                ],
+                [
+                    346.0,
+                    72.0
+                ],
+                [
+                    345.0,
+                    72.0
+                ],
+                [
+                    345.0,
+                    76.0
+                ],
+                [
+                    346.0,
+                    76.0
+                ],
+                [
+                    346.0,
+                    79.0
+                ],
+                [
+                    347.0,
+                    79.0
+                ],
+                [
+                    347.0,
+                    83.0
+                ],
+                [
+                    348.0,
+                    83.0
+                ],
+                [
+                    348.0,
+                    86.0
+                ],
+                [
+                    349.0,
+                    86.0
+                ],
+                [
+                    349.0,
+                    89.0
+                ],
+                [
+                    350.0,
+                    89.0
+                ],
+                [
+                    350.0,
+                    92.0
+                ],
+                [
+                    351.0,
+                    92.0
+                ],
+                [
+                    351.0,
+                    93.0
+                ],
+                [
+                    352.0,
+                    93.0
+                ],
+                [
+                    352.0,
+                    94.0
+                ],
+                [
+                    353.0,
+                    94.0
+                ],
+                [
+                    353.0,
+                    93.0
+                ],
+                [
+                    357.0,
+                    93.0
+                ],
+                [
+                    357.0,
+                    92.0
+                ],
+                [
+                    358.0,
+                    92.0
+                ],
+                [
+                    358.0,
+                    85.0
+                ],
+                [
+                    357.0,
+                    85.0
+                ],
+                [
+                    357.0,
+                    80.0
+                ],
+                [
+                    356.0,
+                    80.0
+                ],
+                [
+                    356.0,
+                    76.0
+                ],
+                [
+                    355.0,
+                    76.0
+                ],
+                [
+                    355.0,
+                    73.0
+                ],
+                [
+                    354.0,
+                    73.0
+                ],
+                [
+                    354.0,
+                    70.0
+                ],
+                [
+                    348.0,
+                    70.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

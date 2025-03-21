@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the building by spotting the dark brown construction with a flat top and linear sides.",
+        "Locate the structure by identifying the dark brown edifice with a level surface and straight lines.",
+        "Determine the building by recognizing the dark brown facility featuring a flat area and straight borders."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011806.jpg",
+            "points": [
+                [
+                    0.0,
+                    493.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    24.0,
+                    512.0
+                ],
+                [
+                    24.0,
+                    509.0
+                ],
+                [
+                    23.0,
+                    509.0
+                ],
+                [
+                    23.0,
+                    505.0
+                ],
+                [
+                    22.0,
+                    505.0
+                ],
+                [
+                    22.0,
+                    501.0
+                ],
+                [
+                    21.0,
+                    501.0
+                ],
+                [
+                    21.0,
+                    499.0
+                ],
+                [
+                    20.0,
+                    499.0
+                ],
+                [
+                    20.0,
+                    498.0
+                ],
+                [
+                    17.0,
+                    498.0
+                ],
+                [
+                    17.0,
+                    497.0
+                ],
+                [
+                    13.0,
+                    497.0
+                ],
+                [
+                    13.0,
+                    496.0
+                ],
+                [
+                    10.0,
+                    496.0
+                ],
+                [
+                    10.0,
+                    495.0
+                ],
+                [
+                    6.0,
+                    495.0
+                ],
+                [
+                    6.0,
+                    494.0
+                ],
+                [
+                    3.0,
+                    494.0
+                ],
+                [
+                    3.0,
+                    493.0
+                ],
+                [
+                    0.0,
+                    493.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

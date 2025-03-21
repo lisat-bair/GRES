@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the long rectangular trailer attached to a truck cab in the upper-right corner of the image.",
+        "Spot the trailer with an elongated rectangular form linked to a truck cab, positioned at the top-right of the picture.",
+        "Find the trailer, which has a long rectangular shape and is connected to a truck cab, in the image's upper-right section."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001194.jpg",
+            "points": [
+                [
+                    329.0,
+                    260.0
+                ],
+                [
+                    329.0,
+                    263.0
+                ],
+                [
+                    328.0,
+                    263.0
+                ],
+                [
+                    328.0,
+                    264.0
+                ],
+                [
+                    329.0,
+                    264.0
+                ],
+                [
+                    329.0,
+                    267.0
+                ],
+                [
+                    332.0,
+                    267.0
+                ],
+                [
+                    332.0,
+                    268.0
+                ],
+                [
+                    342.0,
+                    268.0
+                ],
+                [
+                    342.0,
+                    269.0
+                ],
+                [
+                    351.0,
+                    269.0
+                ],
+                [
+                    351.0,
+                    268.0
+                ],
+                [
+                    353.0,
+                    268.0
+                ],
+                [
+                    353.0,
+                    267.0
+                ],
+                [
+                    354.0,
+                    267.0
+                ],
+                [
+                    354.0,
+                    262.0
+                ],
+                [
+                    353.0,
+                    262.0
+                ],
+                [
+                    353.0,
+                    261.0
+                ],
+                [
+                    346.0,
+                    261.0
+                ],
+                [
+                    346.0,
+                    260.0
+                ],
+                [
+                    329.0,
+                    260.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

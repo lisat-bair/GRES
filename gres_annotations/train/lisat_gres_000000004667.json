@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the elongated white car lying horizontally on the brown textured ground in the picture.",
+        "Identify the horizontally positioned white car, stretched out on the brown surface with texture in the photo.",
+        "Spot the white car, elongated and lying horizontally on the textured brown surface within the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004667.jpg",
+            "points": [
+                [
+                    212.0,
+                    456.0
+                ],
+                [
+                    212.0,
+                    457.0
+                ],
+                [
+                    211.0,
+                    457.0
+                ],
+                [
+                    211.0,
+                    463.0
+                ],
+                [
+                    212.0,
+                    463.0
+                ],
+                [
+                    212.0,
+                    464.0
+                ],
+                [
+                    217.0,
+                    464.0
+                ],
+                [
+                    217.0,
+                    465.0
+                ],
+                [
+                    222.0,
+                    465.0
+                ],
+                [
+                    222.0,
+                    464.0
+                ],
+                [
+                    226.0,
+                    464.0
+                ],
+                [
+                    226.0,
+                    463.0
+                ],
+                [
+                    227.0,
+                    463.0
+                ],
+                [
+                    227.0,
+                    457.0
+                ],
+                [
+                    225.0,
+                    457.0
+                ],
+                [
+                    225.0,
+                    456.0
+                ],
+                [
+                    212.0,
+                    456.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

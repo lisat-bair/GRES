@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the truck with its unique color and form, located next to the bigger vehicle.",
+        "Spot the truck by its unusual hue and outline, placed beside the larger vehicle.",
+        "Find the truck by observing its standout color and design, situated next to the bigger vehicle."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035308.jpg",
+            "points": [
+                [
+                    313.0,
+                    206.0
+                ],
+                [
+                    313.0,
+                    207.0
+                ],
+                [
+                    311.0,
+                    207.0
+                ],
+                [
+                    311.0,
+                    213.0
+                ],
+                [
+                    313.0,
+                    213.0
+                ],
+                [
+                    313.0,
+                    214.0
+                ],
+                [
+                    317.0,
+                    214.0
+                ],
+                [
+                    317.0,
+                    215.0
+                ],
+                [
+                    323.0,
+                    215.0
+                ],
+                [
+                    323.0,
+                    216.0
+                ],
+                [
+                    328.0,
+                    216.0
+                ],
+                [
+                    328.0,
+                    215.0
+                ],
+                [
+                    329.0,
+                    215.0
+                ],
+                [
+                    329.0,
+                    214.0
+                ],
+                [
+                    330.0,
+                    214.0
+                ],
+                [
+                    330.0,
+                    211.0
+                ],
+                [
+                    329.0,
+                    211.0
+                ],
+                [
+                    329.0,
+                    210.0
+                ],
+                [
+                    327.0,
+                    210.0
+                ],
+                [
+                    327.0,
+                    209.0
+                ],
+                [
+                    321.0,
+                    209.0
+                ],
+                [
+                    321.0,
+                    208.0
+                ],
+                [
+                    318.0,
+                    208.0
+                ],
+                [
+                    318.0,
+                    207.0
+                ],
+                [
+                    315.0,
+                    207.0
+                ],
+                [
+                    315.0,
+                    206.0
+                ],
+                [
+                    313.0,
+                    206.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

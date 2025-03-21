@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Identify the bus at the center of the picture and provide exact measurements for the bounding box.",
+        "Find the bus positioned in the middle of the image and specify the precise dimensions of its bounding box.",
+        "Pinpoint the bus located centrally in the photo and ensure accurate bounding box sizes are given."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020576.jpg",
+            "points": [
+                [
+                    256.0,
+                    101.0
+                ],
+                [
+                    256.0,
+                    102.0
+                ],
+                [
+                    253.0,
+                    102.0
+                ],
+                [
+                    253.0,
+                    103.0
+                ],
+                [
+                    252.0,
+                    103.0
+                ],
+                [
+                    252.0,
+                    104.0
+                ],
+                [
+                    251.0,
+                    104.0
+                ],
+                [
+                    251.0,
+                    117.0
+                ],
+                [
+                    252.0,
+                    117.0
+                ],
+                [
+                    252.0,
+                    119.0
+                ],
+                [
+                    255.0,
+                    119.0
+                ],
+                [
+                    255.0,
+                    120.0
+                ],
+                [
+                    258.0,
+                    120.0
+                ],
+                [
+                    258.0,
+                    121.0
+                ],
+                [
+                    262.0,
+                    121.0
+                ],
+                [
+                    262.0,
+                    109.0
+                ],
+                [
+                    261.0,
+                    109.0
+                ],
+                [
+                    261.0,
+                    104.0
+                ],
+                [
+                    260.0,
+                    104.0
+                ],
+                [
+                    260.0,
+                    103.0
+                ],
+                [
+                    259.0,
+                    103.0
+                ],
+                [
+                    259.0,
+                    102.0
+                ],
+                [
+                    257.0,
+                    102.0
+                ],
+                [
+                    257.0,
+                    101.0
+                ],
+                [
+                    256.0,
+                    101.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

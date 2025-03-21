@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the vehicle by spotting the prominent rectangular form with shiny surfaces and clear borders, usually positioned on the ground floor in the picture.",
+        "Identify the car by looking for the main rectangular shape featuring reflective surfaces and sharp edges, typically located at the ground level in the photo.",
+        "Search for the automobile by recognizing the key rectangular outline with glossy surfaces and defined edges, generally found at the ground level within the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016740.jpg",
+            "points": [
+                [
+                    208.0,
+                    248.0
+                ],
+                [
+                    208.0,
+                    249.0
+                ],
+                [
+                    206.0,
+                    249.0
+                ],
+                [
+                    206.0,
+                    251.0
+                ],
+                [
+                    205.0,
+                    251.0
+                ],
+                [
+                    205.0,
+                    253.0
+                ],
+                [
+                    204.0,
+                    253.0
+                ],
+                [
+                    204.0,
+                    257.0
+                ],
+                [
+                    203.0,
+                    257.0
+                ],
+                [
+                    203.0,
+                    263.0
+                ],
+                [
+                    204.0,
+                    263.0
+                ],
+                [
+                    204.0,
+                    264.0
+                ],
+                [
+                    209.0,
+                    264.0
+                ],
+                [
+                    209.0,
+                    262.0
+                ],
+                [
+                    210.0,
+                    262.0
+                ],
+                [
+                    210.0,
+                    257.0
+                ],
+                [
+                    211.0,
+                    257.0
+                ],
+                [
+                    211.0,
+                    249.0
+                ],
+                [
+                    209.0,
+                    249.0
+                ],
+                [
+                    209.0,
+                    248.0
+                ],
+                [
+                    208.0,
+                    248.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the vehicle with a boxy design and a sleek exterior, characterized by sharp contours and a shiny metal color.",
+        "Locate the automobile that has a rectangular form with a polished finish, highlighted by defined lines and a metallic hue.",
+        "Spot the car that possesses a squared-off structure and a smooth outer layer, marked by clear edges and a metallic tint."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011428.jpg",
+            "points": [
+                [
+                    410.0,
+                    193.0
+                ],
+                [
+                    410.0,
+                    194.0
+                ],
+                [
+                    409.0,
+                    194.0
+                ],
+                [
+                    409.0,
+                    198.0
+                ],
+                [
+                    408.0,
+                    198.0
+                ],
+                [
+                    408.0,
+                    200.0
+                ],
+                [
+                    407.0,
+                    200.0
+                ],
+                [
+                    407.0,
+                    201.0
+                ],
+                [
+                    408.0,
+                    201.0
+                ],
+                [
+                    408.0,
+                    202.0
+                ],
+                [
+                    411.0,
+                    202.0
+                ],
+                [
+                    411.0,
+                    201.0
+                ],
+                [
+                    412.0,
+                    201.0
+                ],
+                [
+                    412.0,
+                    200.0
+                ],
+                [
+                    413.0,
+                    200.0
+                ],
+                [
+                    413.0,
+                    199.0
+                ],
+                [
+                    415.0,
+                    199.0
+                ],
+                [
+                    415.0,
+                    198.0
+                ],
+                [
+                    416.0,
+                    198.0
+                ],
+                [
+                    416.0,
+                    197.0
+                ],
+                [
+                    417.0,
+                    197.0
+                ],
+                [
+                    417.0,
+                    194.0
+                ],
+                [
+                    416.0,
+                    194.0
+                ],
+                [
+                    416.0,
+                    193.0
+                ],
+                [
+                    410.0,
+                    193.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

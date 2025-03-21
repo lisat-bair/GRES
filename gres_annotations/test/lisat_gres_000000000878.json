@@ -1,0 +1,67 @@
+{
+    "text": [
+        "Locate the vehicle in the bottom-left of the image with a distinct trailer bed attached to the back."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000878.jpg",
+            "points": [
+                [
+                    211.0,
+                    297.0
+                ],
+                [
+                    211.0,
+                    298.0
+                ],
+                [
+                    210.0,
+                    298.0
+                ],
+                [
+                    210.0,
+                    305.0
+                ],
+                [
+                    216.0,
+                    305.0
+                ],
+                [
+                    216.0,
+                    303.0
+                ],
+                [
+                    217.0,
+                    303.0
+                ],
+                [
+                    217.0,
+                    298.0
+                ],
+                [
+                    216.0,
+                    298.0
+                ],
+                [
+                    216.0,
+                    297.0
+                ],
+                [
+                    211.0,
+                    297.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

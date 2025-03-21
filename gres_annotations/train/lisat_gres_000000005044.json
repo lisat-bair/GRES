@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the bus that stands out with bright colors or unique markings as it is situated on the road.",
+        "Find the bus on the road that features striking colors or special markings.",
+        "Spot the bus along the road that has eye-catching colors or identifiable markings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005044.jpg",
+            "points": [
+                [
+                    14.0,
+                    400.0
+                ],
+                [
+                    14.0,
+                    402.0
+                ],
+                [
+                    13.0,
+                    402.0
+                ],
+                [
+                    13.0,
+                    404.0
+                ],
+                [
+                    14.0,
+                    404.0
+                ],
+                [
+                    14.0,
+                    406.0
+                ],
+                [
+                    16.0,
+                    406.0
+                ],
+                [
+                    16.0,
+                    407.0
+                ],
+                [
+                    18.0,
+                    407.0
+                ],
+                [
+                    18.0,
+                    408.0
+                ],
+                [
+                    20.0,
+                    408.0
+                ],
+                [
+                    20.0,
+                    409.0
+                ],
+                [
+                    23.0,
+                    409.0
+                ],
+                [
+                    23.0,
+                    410.0
+                ],
+                [
+                    30.0,
+                    410.0
+                ],
+                [
+                    30.0,
+                    409.0
+                ],
+                [
+                    31.0,
+                    409.0
+                ],
+                [
+                    31.0,
+                    406.0
+                ],
+                [
+                    32.0,
+                    406.0
+                ],
+                [
+                    32.0,
+                    405.0
+                ],
+                [
+                    31.0,
+                    405.0
+                ],
+                [
+                    31.0,
+                    403.0
+                ],
+                [
+                    30.0,
+                    403.0
+                ],
+                [
+                    30.0,
+                    402.0
+                ],
+                [
+                    27.0,
+                    402.0
+                ],
+                [
+                    27.0,
+                    401.0
+                ],
+                [
+                    22.0,
+                    401.0
+                ],
+                [
+                    22.0,
+                    400.0
+                ],
+                [
+                    14.0,
+                    400.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

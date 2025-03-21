@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the barge situated in the lower-right section of the picture.",
+        "Find the barge positioned at the bottom-right of the image.",
+        "Spot the barge in the bottom-right area of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011290.jpg",
+            "points": [
+                [
+                    372.0,
+                    505.0
+                ],
+                [
+                    372.0,
+                    506.0
+                ],
+                [
+                    370.0,
+                    506.0
+                ],
+                [
+                    370.0,
+                    507.0
+                ],
+                [
+                    367.0,
+                    507.0
+                ],
+                [
+                    367.0,
+                    508.0
+                ],
+                [
+                    366.0,
+                    508.0
+                ],
+                [
+                    366.0,
+                    509.0
+                ],
+                [
+                    364.0,
+                    509.0
+                ],
+                [
+                    364.0,
+                    510.0
+                ],
+                [
+                    362.0,
+                    510.0
+                ],
+                [
+                    362.0,
+                    511.0
+                ],
+                [
+                    361.0,
+                    511.0
+                ],
+                [
+                    361.0,
+                    512.0
+                ],
+                [
+                    379.0,
+                    512.0
+                ],
+                [
+                    379.0,
+                    510.0
+                ],
+                [
+                    378.0,
+                    510.0
+                ],
+                [
+                    378.0,
+                    509.0
+                ],
+                [
+                    377.0,
+                    509.0
+                ],
+                [
+                    377.0,
+                    507.0
+                ],
+                [
+                    376.0,
+                    507.0
+                ],
+                [
+                    376.0,
+                    506.0
+                ],
+                [
+                    374.0,
+                    506.0
+                ],
+                [
+                    374.0,
+                    505.0
+                ],
+                [
+                    372.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

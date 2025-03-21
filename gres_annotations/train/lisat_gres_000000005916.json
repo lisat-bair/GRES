@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the dump truck characterized by its large rectangular shape, noticeable dump bed, and big wheels, usually in yellow or orange, often located near other construction machinery.",
+        "Spot the dump truck with a substantial rectangular form, a significant dump bed, and enormous wheels, often in yellow or orange, usually found next to other construction vehicles.",
+        "Find the dump truck that has a large rectangular design, a prominent dump bed, and massive wheels, typically painted yellow or orange, and generally seen alongside other construction equipment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005916.jpg",
+            "points": [
+                [
+                    298.0,
+                    366.0
+                ],
+                [
+                    298.0,
+                    367.0
+                ],
+                [
+                    297.0,
+                    367.0
+                ],
+                [
+                    297.0,
+                    371.0
+                ],
+                [
+                    298.0,
+                    371.0
+                ],
+                [
+                    298.0,
+                    372.0
+                ],
+                [
+                    300.0,
+                    372.0
+                ],
+                [
+                    300.0,
+                    373.0
+                ],
+                [
+                    304.0,
+                    373.0
+                ],
+                [
+                    304.0,
+                    374.0
+                ],
+                [
+                    306.0,
+                    374.0
+                ],
+                [
+                    306.0,
+                    373.0
+                ],
+                [
+                    309.0,
+                    373.0
+                ],
+                [
+                    309.0,
+                    374.0
+                ],
+                [
+                    313.0,
+                    374.0
+                ],
+                [
+                    313.0,
+                    373.0
+                ],
+                [
+                    314.0,
+                    373.0
+                ],
+                [
+                    314.0,
+                    370.0
+                ],
+                [
+                    313.0,
+                    370.0
+                ],
+                [
+                    313.0,
+                    369.0
+                ],
+                [
+                    308.0,
+                    369.0
+                ],
+                [
+                    308.0,
+                    368.0
+                ],
+                [
+                    306.0,
+                    368.0
+                ],
+                [
+                    306.0,
+                    367.0
+                ],
+                [
+                    302.0,
+                    367.0
+                ],
+                [
+                    302.0,
+                    366.0
+                ],
+                [
+                    298.0,
+                    366.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

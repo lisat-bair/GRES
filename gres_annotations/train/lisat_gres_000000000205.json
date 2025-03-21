@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Look for the bus that is usually large, rectangular, and has wheels, often painted in yellow or red.",
+        "Spot the vehicle that is rectangular in shape, large, with wheels, and is commonly found in shades like yellow or red.",
+        "Find the bus characterized by a large, rectangular body and wheels, typically seen in colors such as yellow or red."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000205.jpg",
+            "points": [
+                [
+                    136.0,
+                    435.0
+                ],
+                [
+                    136.0,
+                    436.0
+                ],
+                [
+                    135.0,
+                    436.0
+                ],
+                [
+                    135.0,
+                    444.0
+                ],
+                [
+                    136.0,
+                    444.0
+                ],
+                [
+                    136.0,
+                    450.0
+                ],
+                [
+                    137.0,
+                    450.0
+                ],
+                [
+                    137.0,
+                    452.0
+                ],
+                [
+                    143.0,
+                    452.0
+                ],
+                [
+                    143.0,
+                    451.0
+                ],
+                [
+                    144.0,
+                    451.0
+                ],
+                [
+                    144.0,
+                    443.0
+                ],
+                [
+                    143.0,
+                    443.0
+                ],
+                [
+                    143.0,
+                    437.0
+                ],
+                [
+                    142.0,
+                    437.0
+                ],
+                [
+                    142.0,
+                    435.0
+                ],
+                [
+                    136.0,
+                    435.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the shed by looking for the structure that is dark red, has a pitched roof, and features horizontal lines.",
+        "To locate the shed, search for the building characterized by its dark red color, pitched roof, and horizontal stripes.",
+        "Identify the shed by spotting the dark red building with a sloped roof and horizontal patterns."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018666.jpg",
+            "points": [
+                [
+                    286.0,
+                    95.0
+                ],
+                [
+                    286.0,
+                    98.0
+                ],
+                [
+                    285.0,
+                    98.0
+                ],
+                [
+                    285.0,
+                    112.0
+                ],
+                [
+                    286.0,
+                    112.0
+                ],
+                [
+                    286.0,
+                    113.0
+                ],
+                [
+                    287.0,
+                    113.0
+                ],
+                [
+                    287.0,
+                    115.0
+                ],
+                [
+                    288.0,
+                    115.0
+                ],
+                [
+                    288.0,
+                    116.0
+                ],
+                [
+                    308.0,
+                    116.0
+                ],
+                [
+                    308.0,
+                    115.0
+                ],
+                [
+                    314.0,
+                    115.0
+                ],
+                [
+                    314.0,
+                    114.0
+                ],
+                [
+                    318.0,
+                    114.0
+                ],
+                [
+                    318.0,
+                    113.0
+                ],
+                [
+                    319.0,
+                    113.0
+                ],
+                [
+                    319.0,
+                    103.0
+                ],
+                [
+                    318.0,
+                    103.0
+                ],
+                [
+                    318.0,
+                    100.0
+                ],
+                [
+                    317.0,
+                    100.0
+                ],
+                [
+                    317.0,
+                    98.0
+                ],
+                [
+                    316.0,
+                    98.0
+                ],
+                [
+                    316.0,
+                    95.0
+                ],
+                [
+                    286.0,
+                    95.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

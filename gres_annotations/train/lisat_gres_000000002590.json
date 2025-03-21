@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the truck by its unique color, bigger size in contrast to nearby items, and its special design, which may include extra structural features.",
+        "Recognize the truck through its notable color, larger dimension relative to other objects, and distinct form, potentially having additional construction elements.",
+        "Locate the truck by observing its specific color, its size which is bigger than other objects around, and its unique shape that might include extra structural parts."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002590.jpg",
+            "points": [
+                [
+                    453.0,
+                    422.0
+                ],
+                [
+                    453.0,
+                    423.0
+                ],
+                [
+                    452.0,
+                    423.0
+                ],
+                [
+                    452.0,
+                    424.0
+                ],
+                [
+                    451.0,
+                    424.0
+                ],
+                [
+                    451.0,
+                    426.0
+                ],
+                [
+                    450.0,
+                    426.0
+                ],
+                [
+                    450.0,
+                    428.0
+                ],
+                [
+                    449.0,
+                    428.0
+                ],
+                [
+                    449.0,
+                    434.0
+                ],
+                [
+                    450.0,
+                    434.0
+                ],
+                [
+                    450.0,
+                    435.0
+                ],
+                [
+                    451.0,
+                    435.0
+                ],
+                [
+                    451.0,
+                    436.0
+                ],
+                [
+                    452.0,
+                    436.0
+                ],
+                [
+                    452.0,
+                    437.0
+                ],
+                [
+                    455.0,
+                    437.0
+                ],
+                [
+                    455.0,
+                    436.0
+                ],
+                [
+                    456.0,
+                    436.0
+                ],
+                [
+                    456.0,
+                    434.0
+                ],
+                [
+                    457.0,
+                    434.0
+                ],
+                [
+                    457.0,
+                    428.0
+                ],
+                [
+                    458.0,
+                    428.0
+                ],
+                [
+                    458.0,
+                    423.0
+                ],
+                [
+                    457.0,
+                    423.0
+                ],
+                [
+                    457.0,
+                    422.0
+                ],
+                [
+                    453.0,
+                    422.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the car that stands out due to its unique design and color against the background.",
+        "Identify the vehicle whose unusual form and distinct hue make it different from its environment.",
+        "Spot the passenger car with an appearance and color that sharply contrasts with its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014501.jpg",
+            "points": [
+                [
+                    500.0,
+                    357.0
+                ],
+                [
+                    500.0,
+                    358.0
+                ],
+                [
+                    498.0,
+                    358.0
+                ],
+                [
+                    498.0,
+                    360.0
+                ],
+                [
+                    497.0,
+                    360.0
+                ],
+                [
+                    497.0,
+                    361.0
+                ],
+                [
+                    496.0,
+                    361.0
+                ],
+                [
+                    496.0,
+                    362.0
+                ],
+                [
+                    495.0,
+                    362.0
+                ],
+                [
+                    495.0,
+                    365.0
+                ],
+                [
+                    496.0,
+                    365.0
+                ],
+                [
+                    496.0,
+                    367.0
+                ],
+                [
+                    498.0,
+                    367.0
+                ],
+                [
+                    498.0,
+                    368.0
+                ],
+                [
+                    503.0,
+                    368.0
+                ],
+                [
+                    503.0,
+                    367.0
+                ],
+                [
+                    508.0,
+                    367.0
+                ],
+                [
+                    508.0,
+                    368.0
+                ],
+                [
+                    511.0,
+                    368.0
+                ],
+                [
+                    511.0,
+                    367.0
+                ],
+                [
+                    512.0,
+                    367.0
+                ],
+                [
+                    512.0,
+                    363.0
+                ],
+                [
+                    511.0,
+                    363.0
+                ],
+                [
+                    511.0,
+                    361.0
+                ],
+                [
+                    510.0,
+                    361.0
+                ],
+                [
+                    510.0,
+                    360.0
+                ],
+                [
+                    509.0,
+                    360.0
+                ],
+                [
+                    509.0,
+                    359.0
+                ],
+                [
+                    508.0,
+                    359.0
+                ],
+                [
+                    508.0,
+                    358.0
+                ],
+                [
+                    507.0,
+                    358.0
+                ],
+                [
+                    507.0,
+                    357.0
+                ],
+                [
+                    500.0,
+                    357.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

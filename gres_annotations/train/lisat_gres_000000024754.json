@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for the crane truck, distinguished by its prominent boom arm and elongated lifting mechanism, frequently seen in vivid colors such as yellow or red, mounted on a sturdy truck frame.",
+        "Spot the crane truck, recognizable by its sizable boom arm and extended lifting gear, often painted in eye-catching hues like yellow or red, and positioned on a strong truck base.",
+        "Identify the crane truck, notable for its large boom arm and extended hoisting equipment, typically in bright shades like yellow or red, set atop a durable truck chassis."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024754.jpg",
+            "points": [
+                [
+                    8.0,
+                    441.0
+                ],
+                [
+                    8.0,
+                    442.0
+                ],
+                [
+                    7.0,
+                    442.0
+                ],
+                [
+                    7.0,
+                    443.0
+                ],
+                [
+                    6.0,
+                    443.0
+                ],
+                [
+                    6.0,
+                    444.0
+                ],
+                [
+                    0.0,
+                    444.0
+                ],
+                [
+                    0.0,
+                    468.0
+                ],
+                [
+                    3.0,
+                    468.0
+                ],
+                [
+                    3.0,
+                    469.0
+                ],
+                [
+                    4.0,
+                    469.0
+                ],
+                [
+                    4.0,
+                    470.0
+                ],
+                [
+                    5.0,
+                    470.0
+                ],
+                [
+                    5.0,
+                    471.0
+                ],
+                [
+                    8.0,
+                    471.0
+                ],
+                [
+                    8.0,
+                    472.0
+                ],
+                [
+                    15.0,
+                    472.0
+                ],
+                [
+                    15.0,
+                    471.0
+                ],
+                [
+                    16.0,
+                    471.0
+                ],
+                [
+                    16.0,
+                    469.0
+                ],
+                [
+                    17.0,
+                    469.0
+                ],
+                [
+                    17.0,
+                    467.0
+                ],
+                [
+                    18.0,
+                    467.0
+                ],
+                [
+                    18.0,
+                    460.0
+                ],
+                [
+                    17.0,
+                    460.0
+                ],
+                [
+                    17.0,
+                    453.0
+                ],
+                [
+                    16.0,
+                    453.0
+                ],
+                [
+                    16.0,
+                    444.0
+                ],
+                [
+                    15.0,
+                    444.0
+                ],
+                [
+                    15.0,
+                    442.0
+                ],
+                [
+                    14.0,
+                    442.0
+                ],
+                [
+                    14.0,
+                    441.0
+                ],
+                [
+                    8.0,
+                    441.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

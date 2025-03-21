@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the long red rectangular forms that have windows and wheels in the picture.",
+        "Spot the red, rectangular, and elongated shapes featuring windows and wheels within the image.",
+        "Find the extended red rectangles with wheels and windows in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007532.jpg",
+            "points": [
+                [
+                    84.0,
+                    86.0
+                ],
+                [
+                    84.0,
+                    87.0
+                ],
+                [
+                    65.0,
+                    87.0
+                ],
+                [
+                    65.0,
+                    88.0
+                ],
+                [
+                    64.0,
+                    88.0
+                ],
+                [
+                    64.0,
+                    94.0
+                ],
+                [
+                    65.0,
+                    94.0
+                ],
+                [
+                    65.0,
+                    95.0
+                ],
+                [
+                    66.0,
+                    95.0
+                ],
+                [
+                    66.0,
+                    96.0
+                ],
+                [
+                    69.0,
+                    96.0
+                ],
+                [
+                    69.0,
+                    97.0
+                ],
+                [
+                    100.0,
+                    97.0
+                ],
+                [
+                    100.0,
+                    96.0
+                ],
+                [
+                    102.0,
+                    96.0
+                ],
+                [
+                    102.0,
+                    89.0
+                ],
+                [
+                    101.0,
+                    89.0
+                ],
+                [
+                    101.0,
+                    88.0
+                ],
+                [
+                    99.0,
+                    88.0
+                ],
+                [
+                    99.0,
+                    87.0
+                ],
+                [
+                    87.0,
+                    87.0
+                ],
+                [
+                    87.0,
+                    86.0
+                ],
+                [
+                    84.0,
+                    86.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

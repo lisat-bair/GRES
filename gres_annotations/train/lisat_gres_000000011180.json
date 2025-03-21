@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the long, rectangular bus with windows, usually painted yellow.",
+        "Identify the typically yellow bus that has a stretched rectangular form and windows.",
+        "Spot the bus that is generally yellow, featuring a long rectangular shape and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011180.jpg",
+            "points": [
+                [
+                    265.0,
+                    179.0
+                ],
+                [
+                    265.0,
+                    180.0
+                ],
+                [
+                    261.0,
+                    180.0
+                ],
+                [
+                    261.0,
+                    181.0
+                ],
+                [
+                    257.0,
+                    181.0
+                ],
+                [
+                    257.0,
+                    182.0
+                ],
+                [
+                    254.0,
+                    182.0
+                ],
+                [
+                    254.0,
+                    183.0
+                ],
+                [
+                    253.0,
+                    183.0
+                ],
+                [
+                    253.0,
+                    189.0
+                ],
+                [
+                    254.0,
+                    189.0
+                ],
+                [
+                    254.0,
+                    191.0
+                ],
+                [
+                    255.0,
+                    191.0
+                ],
+                [
+                    255.0,
+                    192.0
+                ],
+                [
+                    258.0,
+                    192.0
+                ],
+                [
+                    258.0,
+                    191.0
+                ],
+                [
+                    262.0,
+                    191.0
+                ],
+                [
+                    262.0,
+                    190.0
+                ],
+                [
+                    266.0,
+                    190.0
+                ],
+                [
+                    266.0,
+                    189.0
+                ],
+                [
+                    269.0,
+                    189.0
+                ],
+                [
+                    269.0,
+                    188.0
+                ],
+                [
+                    272.0,
+                    188.0
+                ],
+                [
+                    272.0,
+                    187.0
+                ],
+                [
+                    275.0,
+                    187.0
+                ],
+                [
+                    275.0,
+                    186.0
+                ],
+                [
+                    276.0,
+                    186.0
+                ],
+                [
+                    276.0,
+                    182.0
+                ],
+                [
+                    275.0,
+                    182.0
+                ],
+                [
+                    275.0,
+                    180.0
+                ],
+                [
+                    273.0,
+                    180.0
+                ],
+                [
+                    273.0,
+                    179.0
+                ],
+                [
+                    265.0,
+                    179.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Locate the passenger car located towards the top-right corner of the photo.",
+        "Find the vehicle meant for passengers near the upper right of the picture.",
+        "Spot the passenger automobile positioned at the top right of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035848.jpg",
+            "points": [
+                [
+                    324.0,
+                    137.0
+                ],
+                [
+                    324.0,
+                    138.0
+                ],
+                [
+                    323.0,
+                    138.0
+                ],
+                [
+                    323.0,
+                    151.0
+                ],
+                [
+                    324.0,
+                    151.0
+                ],
+                [
+                    324.0,
+                    153.0
+                ],
+                [
+                    330.0,
+                    153.0
+                ],
+                [
+                    330.0,
+                    152.0
+                ],
+                [
+                    331.0,
+                    152.0
+                ],
+                [
+                    331.0,
+                    139.0
+                ],
+                [
+                    330.0,
+                    139.0
+                ],
+                [
+                    330.0,
+                    138.0
+                ],
+                [
+                    329.0,
+                    138.0
+                ],
+                [
+                    329.0,
+                    137.0
+                ],
+                [
+                    324.0,
+                    137.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

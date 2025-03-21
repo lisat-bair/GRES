@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the bus in the picture, which looks like a fuzzy, rectangular shape with unclear characteristics.",
+        "Locate the bus in the photo, appearing as a hazy, rectangular zone with undefined attributes.",
+        "Find the bus in the image, which is visible as a vague, rectangular region with indistinct traits."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026672.jpg",
+            "points": [
+                [
+                    276.0,
+                    433.0
+                ],
+                [
+                    276.0,
+                    435.0
+                ],
+                [
+                    275.0,
+                    435.0
+                ],
+                [
+                    275.0,
+                    440.0
+                ],
+                [
+                    276.0,
+                    440.0
+                ],
+                [
+                    276.0,
+                    441.0
+                ],
+                [
+                    279.0,
+                    441.0
+                ],
+                [
+                    279.0,
+                    442.0
+                ],
+                [
+                    296.0,
+                    442.0
+                ],
+                [
+                    296.0,
+                    443.0
+                ],
+                [
+                    317.0,
+                    443.0
+                ],
+                [
+                    317.0,
+                    442.0
+                ],
+                [
+                    318.0,
+                    442.0
+                ],
+                [
+                    318.0,
+                    435.0
+                ],
+                [
+                    315.0,
+                    435.0
+                ],
+                [
+                    315.0,
+                    434.0
+                ],
+                [
+                    294.0,
+                    434.0
+                ],
+                [
+                    294.0,
+                    433.0
+                ],
+                [
+                    276.0,
+                    433.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

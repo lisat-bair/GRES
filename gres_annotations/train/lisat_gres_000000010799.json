@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the vehicle that has a sleek design, metallic exterior, and unique wheels.",
+        "Find the automobile characterized by its shiny body, unique wheels, and aerodynamic form.",
+        "Spot the car with a metal surface and distinctive wheels, boasting a streamlined appearance."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010799.jpg",
+            "points": [
+                [
+                    146.0,
+                    109.0
+                ],
+                [
+                    146.0,
+                    113.0
+                ],
+                [
+                    145.0,
+                    113.0
+                ],
+                [
+                    145.0,
+                    122.0
+                ],
+                [
+                    147.0,
+                    122.0
+                ],
+                [
+                    147.0,
+                    123.0
+                ],
+                [
+                    149.0,
+                    123.0
+                ],
+                [
+                    149.0,
+                    122.0
+                ],
+                [
+                    151.0,
+                    122.0
+                ],
+                [
+                    151.0,
+                    121.0
+                ],
+                [
+                    152.0,
+                    121.0
+                ],
+                [
+                    152.0,
+                    119.0
+                ],
+                [
+                    153.0,
+                    119.0
+                ],
+                [
+                    153.0,
+                    116.0
+                ],
+                [
+                    154.0,
+                    116.0
+                ],
+                [
+                    154.0,
+                    110.0
+                ],
+                [
+                    152.0,
+                    110.0
+                ],
+                [
+                    152.0,
+                    109.0
+                ],
+                [
+                    146.0,
+                    109.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

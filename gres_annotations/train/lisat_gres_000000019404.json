@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Design the bus with a big rectangular form, noticeable windows, and wheels that are frequently seen in vibrant hues such as yellow or red.",
+        "Construct the bus with a sizable rectangular frame, unique windows, and wheels that typically appear in bold colors like yellow or red.",
+        "Fashion the bus with an extensive rectangular outline, characteristic windows, and wheels that are often showcased in striking shades such as yellow or red."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019404.jpg",
+            "points": [
+                [
+                    73.0,
+                    76.0
+                ],
+                [
+                    73.0,
+                    77.0
+                ],
+                [
+                    72.0,
+                    77.0
+                ],
+                [
+                    72.0,
+                    78.0
+                ],
+                [
+                    71.0,
+                    78.0
+                ],
+                [
+                    71.0,
+                    80.0
+                ],
+                [
+                    70.0,
+                    80.0
+                ],
+                [
+                    70.0,
+                    83.0
+                ],
+                [
+                    69.0,
+                    83.0
+                ],
+                [
+                    69.0,
+                    85.0
+                ],
+                [
+                    68.0,
+                    85.0
+                ],
+                [
+                    68.0,
+                    92.0
+                ],
+                [
+                    69.0,
+                    92.0
+                ],
+                [
+                    69.0,
+                    93.0
+                ],
+                [
+                    70.0,
+                    93.0
+                ],
+                [
+                    70.0,
+                    94.0
+                ],
+                [
+                    78.0,
+                    94.0
+                ],
+                [
+                    78.0,
+                    93.0
+                ],
+                [
+                    79.0,
+                    93.0
+                ],
+                [
+                    79.0,
+                    91.0
+                ],
+                [
+                    80.0,
+                    91.0
+                ],
+                [
+                    80.0,
+                    88.0
+                ],
+                [
+                    81.0,
+                    88.0
+                ],
+                [
+                    81.0,
+                    85.0
+                ],
+                [
+                    82.0,
+                    85.0
+                ],
+                [
+                    82.0,
+                    78.0
+                ],
+                [
+                    81.0,
+                    78.0
+                ],
+                [
+                    81.0,
+                    77.0
+                ],
+                [
+                    79.0,
+                    77.0
+                ],
+                [
+                    79.0,
+                    76.0
+                ],
+                [
+                    73.0,
+                    76.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

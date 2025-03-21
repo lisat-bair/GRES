@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the structure that has a rectangular form and is mostly brown, with clear edges and a textured exterior.",
+        "Locate the building that is primarily brown, rectangular in shape, with sharp edges and a surface full of texture.",
+        "Spot the brown-colored, rectangular building that has pronounced edges and a surface rich in texture."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024325.jpg",
+            "points": [
+                [
+                    495.0,
+                    246.0
+                ],
+                [
+                    495.0,
+                    247.0
+                ],
+                [
+                    494.0,
+                    247.0
+                ],
+                [
+                    494.0,
+                    248.0
+                ],
+                [
+                    493.0,
+                    248.0
+                ],
+                [
+                    493.0,
+                    249.0
+                ],
+                [
+                    492.0,
+                    249.0
+                ],
+                [
+                    492.0,
+                    256.0
+                ],
+                [
+                    491.0,
+                    256.0
+                ],
+                [
+                    491.0,
+                    263.0
+                ],
+                [
+                    490.0,
+                    263.0
+                ],
+                [
+                    490.0,
+                    268.0
+                ],
+                [
+                    489.0,
+                    268.0
+                ],
+                [
+                    489.0,
+                    271.0
+                ],
+                [
+                    492.0,
+                    271.0
+                ],
+                [
+                    492.0,
+                    270.0
+                ],
+                [
+                    494.0,
+                    270.0
+                ],
+                [
+                    494.0,
+                    271.0
+                ],
+                [
+                    497.0,
+                    271.0
+                ],
+                [
+                    497.0,
+                    272.0
+                ],
+                [
+                    501.0,
+                    272.0
+                ],
+                [
+                    501.0,
+                    273.0
+                ],
+                [
+                    506.0,
+                    273.0
+                ],
+                [
+                    506.0,
+                    274.0
+                ],
+                [
+                    512.0,
+                    274.0
+                ],
+                [
+                    512.0,
+                    247.0
+                ],
+                [
+                    505.0,
+                    247.0
+                ],
+                [
+                    505.0,
+                    246.0
+                ],
+                [
+                    495.0,
+                    246.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the vehicle characterized by its unique red color and shiny exterior that creates an aerodynamic silhouette, standing out against its darker environment.",
+        "Look for the automobile with a notable red shade and glossy surfaces, which presents a sleek form, contrasting with the dim background.",
+        "Find the car that boasts a striking red tint and mirrored surfaces, giving it a streamlined appearance against the shadowy backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018384.jpg",
+            "points": [
+                [
+                    335.0,
+                    456.0
+                ],
+                [
+                    335.0,
+                    457.0
+                ],
+                [
+                    334.0,
+                    457.0
+                ],
+                [
+                    334.0,
+                    458.0
+                ],
+                [
+                    333.0,
+                    458.0
+                ],
+                [
+                    333.0,
+                    461.0
+                ],
+                [
+                    334.0,
+                    461.0
+                ],
+                [
+                    334.0,
+                    462.0
+                ],
+                [
+                    335.0,
+                    462.0
+                ],
+                [
+                    335.0,
+                    463.0
+                ],
+                [
+                    336.0,
+                    463.0
+                ],
+                [
+                    336.0,
+                    464.0
+                ],
+                [
+                    338.0,
+                    464.0
+                ],
+                [
+                    338.0,
+                    465.0
+                ],
+                [
+                    346.0,
+                    465.0
+                ],
+                [
+                    346.0,
+                    464.0
+                ],
+                [
+                    347.0,
+                    464.0
+                ],
+                [
+                    347.0,
+                    462.0
+                ],
+                [
+                    346.0,
+                    462.0
+                ],
+                [
+                    346.0,
+                    461.0
+                ],
+                [
+                    345.0,
+                    461.0
+                ],
+                [
+                    345.0,
+                    460.0
+                ],
+                [
+                    344.0,
+                    460.0
+                ],
+                [
+                    344.0,
+                    459.0
+                ],
+                [
+                    343.0,
+                    459.0
+                ],
+                [
+                    343.0,
+                    458.0
+                ],
+                [
+                    341.0,
+                    458.0
+                ],
+                [
+                    341.0,
+                    457.0
+                ],
+                [
+                    340.0,
+                    457.0
+                ],
+                [
+                    340.0,
+                    456.0
+                ],
+                [
+                    335.0,
+                    456.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

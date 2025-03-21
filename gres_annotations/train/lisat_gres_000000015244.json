@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the brightly colored car that stands out against the dark background due to its unique rectangular design.",
+        "Spot the vehicle with a bright hue and a distinctive square form contrasting against the dark surroundings.",
+        "Find the car that has a bold color and a unique rectangular shape, which is highlighted against the dim backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015244.jpg",
+            "points": [
+                [
+                    473.0,
+                    379.0
+                ],
+                [
+                    473.0,
+                    380.0
+                ],
+                [
+                    471.0,
+                    380.0
+                ],
+                [
+                    471.0,
+                    381.0
+                ],
+                [
+                    470.0,
+                    381.0
+                ],
+                [
+                    470.0,
+                    384.0
+                ],
+                [
+                    471.0,
+                    384.0
+                ],
+                [
+                    471.0,
+                    385.0
+                ],
+                [
+                    473.0,
+                    385.0
+                ],
+                [
+                    473.0,
+                    386.0
+                ],
+                [
+                    478.0,
+                    386.0
+                ],
+                [
+                    478.0,
+                    385.0
+                ],
+                [
+                    479.0,
+                    385.0
+                ],
+                [
+                    479.0,
+                    380.0
+                ],
+                [
+                    477.0,
+                    380.0
+                ],
+                [
+                    477.0,
+                    379.0
+                ],
+                [
+                    473.0,
+                    379.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

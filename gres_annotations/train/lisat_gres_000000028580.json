@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the white vehicle that has a boxy design and a shiny finish against the patterned backdrop.",
+        "Locate the glossy-surfaced white automobile with a rectangular form on the textured setting.",
+        "Find the white car, characterized by its rectangular shape and glossy exterior, on the textured background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028580.jpg",
+            "points": [
+                [
+                    278.0,
+                    6.0
+                ],
+                [
+                    278.0,
+                    7.0
+                ],
+                [
+                    277.0,
+                    7.0
+                ],
+                [
+                    277.0,
+                    8.0
+                ],
+                [
+                    276.0,
+                    8.0
+                ],
+                [
+                    276.0,
+                    11.0
+                ],
+                [
+                    275.0,
+                    11.0
+                ],
+                [
+                    275.0,
+                    20.0
+                ],
+                [
+                    277.0,
+                    20.0
+                ],
+                [
+                    277.0,
+                    21.0
+                ],
+                [
+                    282.0,
+                    21.0
+                ],
+                [
+                    282.0,
+                    20.0
+                ],
+                [
+                    283.0,
+                    20.0
+                ],
+                [
+                    283.0,
+                    17.0
+                ],
+                [
+                    284.0,
+                    17.0
+                ],
+                [
+                    284.0,
+                    7.0
+                ],
+                [
+                    282.0,
+                    7.0
+                ],
+                [
+                    282.0,
+                    6.0
+                ],
+                [
+                    278.0,
+                    6.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

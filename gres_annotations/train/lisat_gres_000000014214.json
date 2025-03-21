@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Identify the long and well-defined structure, usually metal, which highlights the truck with a trailer bed from its surroundings.",
+        "Spot the metallic, extended structure with sharp edges that sets the truck with a trailer bed apart from its environment.",
+        "Find the elongated, metallic form with clear edges that makes the truck with a trailer bed stand out from the area around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014214.jpg",
+            "points": [
+                [
+                    296.0,
+                    219.0
+                ],
+                [
+                    296.0,
+                    220.0
+                ],
+                [
+                    290.0,
+                    220.0
+                ],
+                [
+                    290.0,
+                    221.0
+                ],
+                [
+                    287.0,
+                    221.0
+                ],
+                [
+                    287.0,
+                    228.0
+                ],
+                [
+                    291.0,
+                    228.0
+                ],
+                [
+                    291.0,
+                    229.0
+                ],
+                [
+                    294.0,
+                    229.0
+                ],
+                [
+                    294.0,
+                    228.0
+                ],
+                [
+                    304.0,
+                    228.0
+                ],
+                [
+                    304.0,
+                    226.0
+                ],
+                [
+                    305.0,
+                    226.0
+                ],
+                [
+                    305.0,
+                    223.0
+                ],
+                [
+                    306.0,
+                    223.0
+                ],
+                [
+                    306.0,
+                    220.0
+                ],
+                [
+                    305.0,
+                    220.0
+                ],
+                [
+                    305.0,
+                    219.0
+                ],
+                [
+                    296.0,
+                    219.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

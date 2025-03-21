@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the shed in the image's upper-left corner.",
+        "Locate the shed positioned at the top-left of the picture.",
+        "Find the shed situated in the image's top-left area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018659.jpg",
+            "points": [
+                [
+                    0.0,
+                    402.0
+                ],
+                [
+                    0.0,
+                    422.0
+                ],
+                [
+                    1.0,
+                    422.0
+                ],
+                [
+                    1.0,
+                    421.0
+                ],
+                [
+                    2.0,
+                    421.0
+                ],
+                [
+                    2.0,
+                    420.0
+                ],
+                [
+                    3.0,
+                    420.0
+                ],
+                [
+                    3.0,
+                    418.0
+                ],
+                [
+                    4.0,
+                    418.0
+                ],
+                [
+                    4.0,
+                    414.0
+                ],
+                [
+                    5.0,
+                    414.0
+                ],
+                [
+                    5.0,
+                    406.0
+                ],
+                [
+                    4.0,
+                    406.0
+                ],
+                [
+                    4.0,
+                    404.0
+                ],
+                [
+                    2.0,
+                    404.0
+                ],
+                [
+                    2.0,
+                    402.0
+                ],
+                [
+                    0.0,
+                    402.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

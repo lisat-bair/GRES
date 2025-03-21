@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the truck that has a striking white cab and shiny surfaces against a shadowy backdrop.",
+        "Find the vehicle with a noticeable white cab and glossy parts set against a dim background.",
+        "Look for the truck featuring a bright white cab and reflective elements in front of a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019896.jpg",
+            "points": [
+                [
+                    416.0,
+                    340.0
+                ],
+                [
+                    416.0,
+                    341.0
+                ],
+                [
+                    415.0,
+                    341.0
+                ],
+                [
+                    415.0,
+                    342.0
+                ],
+                [
+                    414.0,
+                    342.0
+                ],
+                [
+                    414.0,
+                    344.0
+                ],
+                [
+                    413.0,
+                    344.0
+                ],
+                [
+                    413.0,
+                    346.0
+                ],
+                [
+                    414.0,
+                    346.0
+                ],
+                [
+                    414.0,
+                    356.0
+                ],
+                [
+                    415.0,
+                    356.0
+                ],
+                [
+                    415.0,
+                    357.0
+                ],
+                [
+                    424.0,
+                    357.0
+                ],
+                [
+                    424.0,
+                    356.0
+                ],
+                [
+                    425.0,
+                    356.0
+                ],
+                [
+                    425.0,
+                    349.0
+                ],
+                [
+                    424.0,
+                    349.0
+                ],
+                [
+                    424.0,
+                    345.0
+                ],
+                [
+                    423.0,
+                    345.0
+                ],
+                [
+                    423.0,
+                    342.0
+                ],
+                [
+                    422.0,
+                    342.0
+                ],
+                [
+                    422.0,
+                    341.0
+                ],
+                [
+                    421.0,
+                    341.0
+                ],
+                [
+                    421.0,
+                    340.0
+                ],
+                [
+                    416.0,
+                    340.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

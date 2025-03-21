@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Determine the identity of the indistinct car in the picture, even though it lacks clear attributes.",
+        "Recognize the obscured vehicle in the photo despite its indiscernible characteristics.",
+        "Spot the vague automobile in the image, notwithstanding the absence of distinct features."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020852.jpg",
+            "points": [
+                [
+                    442.0,
+                    107.0
+                ],
+                [
+                    442.0,
+                    108.0
+                ],
+                [
+                    441.0,
+                    108.0
+                ],
+                [
+                    441.0,
+                    109.0
+                ],
+                [
+                    440.0,
+                    109.0
+                ],
+                [
+                    440.0,
+                    113.0
+                ],
+                [
+                    441.0,
+                    113.0
+                ],
+                [
+                    441.0,
+                    115.0
+                ],
+                [
+                    442.0,
+                    115.0
+                ],
+                [
+                    442.0,
+                    116.0
+                ],
+                [
+                    444.0,
+                    116.0
+                ],
+                [
+                    444.0,
+                    117.0
+                ],
+                [
+                    445.0,
+                    117.0
+                ],
+                [
+                    445.0,
+                    118.0
+                ],
+                [
+                    448.0,
+                    118.0
+                ],
+                [
+                    448.0,
+                    117.0
+                ],
+                [
+                    449.0,
+                    117.0
+                ],
+                [
+                    449.0,
+                    116.0
+                ],
+                [
+                    450.0,
+                    116.0
+                ],
+                [
+                    450.0,
+                    112.0
+                ],
+                [
+                    449.0,
+                    112.0
+                ],
+                [
+                    449.0,
+                    110.0
+                ],
+                [
+                    448.0,
+                    110.0
+                ],
+                [
+                    448.0,
+                    108.0
+                ],
+                [
+                    447.0,
+                    108.0
+                ],
+                [
+                    447.0,
+                    107.0
+                ],
+                [
+                    442.0,
+                    107.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

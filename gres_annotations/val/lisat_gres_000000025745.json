@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the passenger vehicle with a distinct rectangular shape, metallic sheen, and reflective surfaces that contrast with the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025745.jpg",
+            "points": [
+                [
+                    488.0,
+                    288.0
+                ],
+                [
+                    488.0,
+                    289.0
+                ],
+                [
+                    476.0,
+                    289.0
+                ],
+                [
+                    476.0,
+                    293.0
+                ],
+                [
+                    477.0,
+                    293.0
+                ],
+                [
+                    477.0,
+                    294.0
+                ],
+                [
+                    478.0,
+                    294.0
+                ],
+                [
+                    478.0,
+                    295.0
+                ],
+                [
+                    480.0,
+                    295.0
+                ],
+                [
+                    480.0,
+                    296.0
+                ],
+                [
+                    488.0,
+                    296.0
+                ],
+                [
+                    488.0,
+                    295.0
+                ],
+                [
+                    495.0,
+                    295.0
+                ],
+                [
+                    495.0,
+                    290.0
+                ],
+                [
+                    494.0,
+                    290.0
+                ],
+                [
+                    494.0,
+                    289.0
+                ],
+                [
+                    489.0,
+                    289.0
+                ],
+                [
+                    489.0,
+                    288.0
+                ],
+                [
+                    488.0,
+                    288.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the sizable yellow equipment with significant wheels and a hefty body, commonly linked to construction or earth-moving tasks.",
+        "Recognize the big yellow apparatus featuring notable wheels and a substantial frame, usually related to building or earth-shifting operations.",
+        "Find the large yellow machine characterized by its prominent wheels and bulky structure, often associated with construction or moving earth."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020243.jpg",
+            "points": [
+                [
+                    366.0,
+                    383.0
+                ],
+                [
+                    366.0,
+                    384.0
+                ],
+                [
+                    363.0,
+                    384.0
+                ],
+                [
+                    363.0,
+                    385.0
+                ],
+                [
+                    362.0,
+                    385.0
+                ],
+                [
+                    362.0,
+                    391.0
+                ],
+                [
+                    363.0,
+                    391.0
+                ],
+                [
+                    363.0,
+                    395.0
+                ],
+                [
+                    364.0,
+                    395.0
+                ],
+                [
+                    364.0,
+                    396.0
+                ],
+                [
+                    365.0,
+                    396.0
+                ],
+                [
+                    365.0,
+                    397.0
+                ],
+                [
+                    366.0,
+                    397.0
+                ],
+                [
+                    366.0,
+                    398.0
+                ],
+                [
+                    367.0,
+                    398.0
+                ],
+                [
+                    367.0,
+                    399.0
+                ],
+                [
+                    369.0,
+                    399.0
+                ],
+                [
+                    369.0,
+                    400.0
+                ],
+                [
+                    373.0,
+                    400.0
+                ],
+                [
+                    373.0,
+                    399.0
+                ],
+                [
+                    375.0,
+                    399.0
+                ],
+                [
+                    375.0,
+                    384.0
+                ],
+                [
+                    372.0,
+                    384.0
+                ],
+                [
+                    372.0,
+                    383.0
+                ],
+                [
+                    366.0,
+                    383.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

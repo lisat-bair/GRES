@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the boat positioned at the upper-right corner of the picture.",
+        "Identify the boat situated in the top-right section of the photo.",
+        "Spot the boat located in the upper-right area of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004665.jpg",
+            "points": [
+                [
+                    472.0,
+                    0.0
+                ],
+                [
+                    472.0,
+                    2.0
+                ],
+                [
+                    473.0,
+                    2.0
+                ],
+                [
+                    473.0,
+                    5.0
+                ],
+                [
+                    474.0,
+                    5.0
+                ],
+                [
+                    474.0,
+                    6.0
+                ],
+                [
+                    476.0,
+                    6.0
+                ],
+                [
+                    476.0,
+                    7.0
+                ],
+                [
+                    488.0,
+                    7.0
+                ],
+                [
+                    488.0,
+                    2.0
+                ],
+                [
+                    489.0,
+                    2.0
+                ],
+                [
+                    489.0,
+                    0.0
+                ],
+                [
+                    472.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

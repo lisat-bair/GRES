@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the shed, which stands out due to its unique rectangular form and lighter hue against the darker background.",
+        "Look for the shed that has a distinctive rectangular shape and a lighter color, making it prominent against the darker environment.",
+        "Find the shed with its characteristic rectangular design and lighter shade, contrasting with the darker surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027333.jpg",
+            "points": [
+                [
+                    0.0,
+                    26.0
+                ],
+                [
+                    0.0,
+                    48.0
+                ],
+                [
+                    3.0,
+                    48.0
+                ],
+                [
+                    3.0,
+                    47.0
+                ],
+                [
+                    5.0,
+                    47.0
+                ],
+                [
+                    5.0,
+                    45.0
+                ],
+                [
+                    6.0,
+                    45.0
+                ],
+                [
+                    6.0,
+                    44.0
+                ],
+                [
+                    7.0,
+                    44.0
+                ],
+                [
+                    7.0,
+                    43.0
+                ],
+                [
+                    8.0,
+                    43.0
+                ],
+                [
+                    8.0,
+                    42.0
+                ],
+                [
+                    9.0,
+                    42.0
+                ],
+                [
+                    9.0,
+                    40.0
+                ],
+                [
+                    10.0,
+                    40.0
+                ],
+                [
+                    10.0,
+                    36.0
+                ],
+                [
+                    11.0,
+                    36.0
+                ],
+                [
+                    11.0,
+                    30.0
+                ],
+                [
+                    10.0,
+                    30.0
+                ],
+                [
+                    10.0,
+                    29.0
+                ],
+                [
+                    9.0,
+                    29.0
+                ],
+                [
+                    9.0,
+                    28.0
+                ],
+                [
+                    7.0,
+                    28.0
+                ],
+                [
+                    7.0,
+                    27.0
+                ],
+                [
+                    3.0,
+                    27.0
+                ],
+                [
+                    3.0,
+                    26.0
+                ],
+                [
+                    0.0,
+                    26.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the vehicle that is shaped like a truck and has a pattern of black and white colors.",
+        "Identify the truck that has a black and white color scheme, and is in the form of a truck.",
+        "Search for the truck-shaped vehicle that features a black and white color pattern."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026562.jpg",
+            "points": [
+                [
+                    34.0,
+                    10.0
+                ],
+                [
+                    34.0,
+                    11.0
+                ],
+                [
+                    32.0,
+                    11.0
+                ],
+                [
+                    32.0,
+                    13.0
+                ],
+                [
+                    31.0,
+                    13.0
+                ],
+                [
+                    31.0,
+                    16.0
+                ],
+                [
+                    30.0,
+                    16.0
+                ],
+                [
+                    30.0,
+                    19.0
+                ],
+                [
+                    29.0,
+                    19.0
+                ],
+                [
+                    29.0,
+                    27.0
+                ],
+                [
+                    32.0,
+                    27.0
+                ],
+                [
+                    32.0,
+                    28.0
+                ],
+                [
+                    37.0,
+                    28.0
+                ],
+                [
+                    37.0,
+                    27.0
+                ],
+                [
+                    38.0,
+                    27.0
+                ],
+                [
+                    38.0,
+                    26.0
+                ],
+                [
+                    39.0,
+                    26.0
+                ],
+                [
+                    39.0,
+                    24.0
+                ],
+                [
+                    40.0,
+                    24.0
+                ],
+                [
+                    40.0,
+                    22.0
+                ],
+                [
+                    41.0,
+                    22.0
+                ],
+                [
+                    41.0,
+                    20.0
+                ],
+                [
+                    42.0,
+                    20.0
+                ],
+                [
+                    42.0,
+                    18.0
+                ],
+                [
+                    43.0,
+                    18.0
+                ],
+                [
+                    43.0,
+                    14.0
+                ],
+                [
+                    42.0,
+                    14.0
+                ],
+                [
+                    42.0,
+                    13.0
+                ],
+                [
+                    41.0,
+                    13.0
+                ],
+                [
+                    41.0,
+                    12.0
+                ],
+                [
+                    40.0,
+                    12.0
+                ],
+                [
+                    40.0,
+                    11.0
+                ],
+                [
+                    38.0,
+                    11.0
+                ],
+                [
+                    38.0,
+                    10.0
+                ],
+                [
+                    34.0,
+                    10.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

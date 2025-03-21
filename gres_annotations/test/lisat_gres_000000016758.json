@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Locate the large, yellow vehicle with a flat, open bed and large tires, typically found in mining or construction settings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016758.jpg",
+            "points": [
+                [
+                    488.0,
+                    244.0
+                ],
+                [
+                    488.0,
+                    245.0
+                ],
+                [
+                    486.0,
+                    245.0
+                ],
+                [
+                    486.0,
+                    247.0
+                ],
+                [
+                    485.0,
+                    247.0
+                ],
+                [
+                    485.0,
+                    260.0
+                ],
+                [
+                    486.0,
+                    260.0
+                ],
+                [
+                    486.0,
+                    266.0
+                ],
+                [
+                    487.0,
+                    266.0
+                ],
+                [
+                    487.0,
+                    268.0
+                ],
+                [
+                    488.0,
+                    268.0
+                ],
+                [
+                    488.0,
+                    269.0
+                ],
+                [
+                    493.0,
+                    269.0
+                ],
+                [
+                    493.0,
+                    268.0
+                ],
+                [
+                    495.0,
+                    268.0
+                ],
+                [
+                    495.0,
+                    267.0
+                ],
+                [
+                    496.0,
+                    267.0
+                ],
+                [
+                    496.0,
+                    247.0
+                ],
+                [
+                    495.0,
+                    247.0
+                ],
+                [
+                    495.0,
+                    244.0
+                ],
+                [
+                    488.0,
+                    244.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

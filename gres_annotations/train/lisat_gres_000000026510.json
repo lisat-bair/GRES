@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the bus that is long, has a significant size, and features many windows in the picture.",
+        "Spot the bus in the image that is extensive in length and includes numerous windows.",
+        "Locate the bus with an extended form and several windows in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026510.jpg",
+            "points": [
+                [
+                    469.0,
+                    94.0
+                ],
+                [
+                    469.0,
+                    100.0
+                ],
+                [
+                    470.0,
+                    100.0
+                ],
+                [
+                    470.0,
+                    104.0
+                ],
+                [
+                    471.0,
+                    104.0
+                ],
+                [
+                    471.0,
+                    106.0
+                ],
+                [
+                    472.0,
+                    106.0
+                ],
+                [
+                    472.0,
+                    107.0
+                ],
+                [
+                    478.0,
+                    107.0
+                ],
+                [
+                    478.0,
+                    106.0
+                ],
+                [
+                    479.0,
+                    106.0
+                ],
+                [
+                    479.0,
+                    102.0
+                ],
+                [
+                    478.0,
+                    102.0
+                ],
+                [
+                    478.0,
+                    98.0
+                ],
+                [
+                    477.0,
+                    98.0
+                ],
+                [
+                    477.0,
+                    97.0
+                ],
+                [
+                    476.0,
+                    97.0
+                ],
+                [
+                    476.0,
+                    95.0
+                ],
+                [
+                    475.0,
+                    95.0
+                ],
+                [
+                    475.0,
+                    94.0
+                ],
+                [
+                    469.0,
+                    94.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

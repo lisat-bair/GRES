@@ -1,0 +1,145 @@
+{
+    "text": [
+        "Find the slim and towering pylon in the lower-left corner of the picture.",
+        "Identify the slender and high pylon situated at the bottom-left section of the image.",
+        "Spot the narrow and elevated pylon located in the bottom-left area of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036473.jpg",
+            "points": [
+                [
+                    0.0,
+                    456.0
+                ],
+                [
+                    0.0,
+                    485.0
+                ],
+                [
+                    1.0,
+                    485.0
+                ],
+                [
+                    1.0,
+                    484.0
+                ],
+                [
+                    2.0,
+                    484.0
+                ],
+                [
+                    2.0,
+                    483.0
+                ],
+                [
+                    4.0,
+                    483.0
+                ],
+                [
+                    4.0,
+                    482.0
+                ],
+                [
+                    5.0,
+                    482.0
+                ],
+                [
+                    5.0,
+                    475.0
+                ],
+                [
+                    6.0,
+                    475.0
+                ],
+                [
+                    6.0,
+                    472.0
+                ],
+                [
+                    5.0,
+                    472.0
+                ],
+                [
+                    5.0,
+                    470.0
+                ],
+                [
+                    6.0,
+                    470.0
+                ],
+                [
+                    6.0,
+                    469.0
+                ],
+                [
+                    5.0,
+                    469.0
+                ],
+                [
+                    5.0,
+                    460.0
+                ],
+                [
+                    4.0,
+                    460.0
+                ],
+                [
+                    4.0,
+                    459.0
+                ],
+                [
+                    3.0,
+                    459.0
+                ],
+                [
+                    3.0,
+                    457.0
+                ],
+                [
+                    1.0,
+                    457.0
+                ],
+                [
+                    1.0,
+                    456.0
+                ],
+                [
+                    0.0,
+                    456.0
+                ],
+                [
+                    0.0,
+                    489.0
+                ],
+                [
+                    0.0,
+                    490.0
+                ],
+                [
+                    1.0,
+                    490.0
+                ],
+                [
+                    1.0,
+                    489.0
+                ],
+                [
+                    0.0,
+                    489.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the building that is rectangular in shape with unique gray and teal hues running along its horizontal plane.",
+        "Locate the rectangular structure featuring a unique blend of gray and teal shades along its horizontal stretch.",
+        "Spot the rectangular facility characterized by a distinct mix of gray and teal colors across its horizontal axis."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023798.jpg",
+            "points": [
+                [
+                    509.0,
+                    80.0
+                ],
+                [
+                    509.0,
+                    81.0
+                ],
+                [
+                    508.0,
+                    81.0
+                ],
+                [
+                    508.0,
+                    84.0
+                ],
+                [
+                    507.0,
+                    84.0
+                ],
+                [
+                    507.0,
+                    88.0
+                ],
+                [
+                    506.0,
+                    88.0
+                ],
+                [
+                    506.0,
+                    90.0
+                ],
+                [
+                    507.0,
+                    90.0
+                ],
+                [
+                    507.0,
+                    91.0
+                ],
+                [
+                    508.0,
+                    91.0
+                ],
+                [
+                    508.0,
+                    92.0
+                ],
+                [
+                    510.0,
+                    92.0
+                ],
+                [
+                    510.0,
+                    93.0
+                ],
+                [
+                    512.0,
+                    93.0
+                ],
+                [
+                    512.0,
+                    80.0
+                ],
+                [
+                    509.0,
+                    80.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for a vessel characterized by a long, streamlined body and a tall mast, usually featuring sails or motor parts.",
+        "Spot the ship that has an elongated, elegant design and a notable mast, typically showing either sails or motor pieces.",
+        "Recognize the boat by its slim, extended form and noticeable mast, often equipped with sails or motor elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012361.jpg",
+            "points": [
+                [
+                    44.0,
+                    504.0
+                ],
+                [
+                    44.0,
+                    505.0
+                ],
+                [
+                    41.0,
+                    505.0
+                ],
+                [
+                    41.0,
+                    506.0
+                ],
+                [
+                    38.0,
+                    506.0
+                ],
+                [
+                    38.0,
+                    507.0
+                ],
+                [
+                    37.0,
+                    507.0
+                ],
+                [
+                    37.0,
+                    512.0
+                ],
+                [
+                    53.0,
+                    512.0
+                ],
+                [
+                    53.0,
+                    511.0
+                ],
+                [
+                    51.0,
+                    511.0
+                ],
+                [
+                    51.0,
+                    510.0
+                ],
+                [
+                    50.0,
+                    510.0
+                ],
+                [
+                    50.0,
+                    507.0
+                ],
+                [
+                    49.0,
+                    507.0
+                ],
+                [
+                    49.0,
+                    505.0
+                ],
+                [
+                    48.0,
+                    505.0
+                ],
+                [
+                    48.0,
+                    504.0
+                ],
+                [
+                    44.0,
+                    504.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the structure featuring a flat, rectangular roof accompanied by numerous rows of small, equally spaced windows.",
+        "Locate the edifice that has a flat, rectangular top and several lines of small, evenly distributed windows.",
+        "Look for the construction that boasts a flat, rectangular roof with multiple series of small, uniformly spaced windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032861.jpg",
+            "points": [
+                [
+                    370.0,
+                    469.0
+                ],
+                [
+                    370.0,
+                    470.0
+                ],
+                [
+                    369.0,
+                    470.0
+                ],
+                [
+                    369.0,
+                    471.0
+                ],
+                [
+                    368.0,
+                    471.0
+                ],
+                [
+                    368.0,
+                    473.0
+                ],
+                [
+                    367.0,
+                    473.0
+                ],
+                [
+                    367.0,
+                    476.0
+                ],
+                [
+                    366.0,
+                    476.0
+                ],
+                [
+                    366.0,
+                    479.0
+                ],
+                [
+                    365.0,
+                    479.0
+                ],
+                [
+                    365.0,
+                    486.0
+                ],
+                [
+                    366.0,
+                    486.0
+                ],
+                [
+                    366.0,
+                    487.0
+                ],
+                [
+                    368.0,
+                    487.0
+                ],
+                [
+                    368.0,
+                    488.0
+                ],
+                [
+                    371.0,
+                    488.0
+                ],
+                [
+                    371.0,
+                    489.0
+                ],
+                [
+                    382.0,
+                    489.0
+                ],
+                [
+                    382.0,
+                    488.0
+                ],
+                [
+                    383.0,
+                    488.0
+                ],
+                [
+                    383.0,
+                    485.0
+                ],
+                [
+                    384.0,
+                    485.0
+                ],
+                [
+                    384.0,
+                    481.0
+                ],
+                [
+                    385.0,
+                    481.0
+                ],
+                [
+                    385.0,
+                    475.0
+                ],
+                [
+                    386.0,
+                    475.0
+                ],
+                [
+                    386.0,
+                    474.0
+                ],
+                [
+                    385.0,
+                    474.0
+                ],
+                [
+                    385.0,
+                    472.0
+                ],
+                [
+                    381.0,
+                    472.0
+                ],
+                [
+                    381.0,
+                    471.0
+                ],
+                [
+                    376.0,
+                    471.0
+                ],
+                [
+                    376.0,
+                    470.0
+                ],
+                [
+                    372.0,
+                    470.0
+                ],
+                [
+                    372.0,
+                    469.0
+                ],
+                [
+                    370.0,
+                    469.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

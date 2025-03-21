@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the liquid container placed in the bottom-right corner of the picture.",
+        "Find the tank of liquid situated in the lower-right section of the image.",
+        "Spot the vessel holding liquid positioned at the bottom-right of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012729.jpg",
+            "points": [
+                [
+                    443.0,
+                    479.0
+                ],
+                [
+                    443.0,
+                    480.0
+                ],
+                [
+                    442.0,
+                    480.0
+                ],
+                [
+                    442.0,
+                    481.0
+                ],
+                [
+                    441.0,
+                    481.0
+                ],
+                [
+                    441.0,
+                    484.0
+                ],
+                [
+                    442.0,
+                    484.0
+                ],
+                [
+                    442.0,
+                    486.0
+                ],
+                [
+                    443.0,
+                    486.0
+                ],
+                [
+                    443.0,
+                    487.0
+                ],
+                [
+                    445.0,
+                    487.0
+                ],
+                [
+                    445.0,
+                    488.0
+                ],
+                [
+                    453.0,
+                    488.0
+                ],
+                [
+                    453.0,
+                    489.0
+                ],
+                [
+                    485.0,
+                    489.0
+                ],
+                [
+                    485.0,
+                    488.0
+                ],
+                [
+                    487.0,
+                    488.0
+                ],
+                [
+                    487.0,
+                    487.0
+                ],
+                [
+                    488.0,
+                    487.0
+                ],
+                [
+                    488.0,
+                    483.0
+                ],
+                [
+                    487.0,
+                    483.0
+                ],
+                [
+                    487.0,
+                    482.0
+                ],
+                [
+                    486.0,
+                    482.0
+                ],
+                [
+                    486.0,
+                    481.0
+                ],
+                [
+                    485.0,
+                    481.0
+                ],
+                [
+                    485.0,
+                    480.0
+                ],
+                [
+                    476.0,
+                    480.0
+                ],
+                [
+                    476.0,
+                    479.0
+                ],
+                [
+                    443.0,
+                    479.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

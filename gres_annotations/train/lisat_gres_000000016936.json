@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Highlight the vehicle with its unique metallic curve and glossy finish that stands out against the duller hues around it.",
+        "Emphasize the automobile featuring a noticeable metallic bend and shiny exterior, which contrasts with the subdued colors in its vicinity.",
+        "Spotlight the car's distinctive metallic contour and reflective coating, which sharply contrasts with the muted colors around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016936.jpg",
+            "points": [
+                [
+                    0.0,
+                    175.0
+                ],
+                [
+                    0.0,
+                    185.0
+                ],
+                [
+                    2.0,
+                    185.0
+                ],
+                [
+                    2.0,
+                    184.0
+                ],
+                [
+                    5.0,
+                    184.0
+                ],
+                [
+                    5.0,
+                    183.0
+                ],
+                [
+                    6.0,
+                    183.0
+                ],
+                [
+                    6.0,
+                    182.0
+                ],
+                [
+                    5.0,
+                    182.0
+                ],
+                [
+                    5.0,
+                    177.0
+                ],
+                [
+                    4.0,
+                    177.0
+                ],
+                [
+                    4.0,
+                    176.0
+                ],
+                [
+                    2.0,
+                    176.0
+                ],
+                [
+                    2.0,
+                    175.0
+                ],
+                [
+                    0.0,
+                    175.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Identify the car located in the upper-left section of the picture.",
+        "Isolate the vehicle in the top-left area of the image.",
+        "Locate and mark the automobile in the top-left corner of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014523.jpg",
+            "points": [
+                [
+                    0.0,
+                    378.0
+                ],
+                [
+                    0.0,
+                    385.0
+                ],
+                [
+                    2.0,
+                    385.0
+                ],
+                [
+                    2.0,
+                    386.0
+                ],
+                [
+                    6.0,
+                    386.0
+                ],
+                [
+                    6.0,
+                    385.0
+                ],
+                [
+                    7.0,
+                    385.0
+                ],
+                [
+                    7.0,
+                    382.0
+                ],
+                [
+                    6.0,
+                    382.0
+                ],
+                [
+                    6.0,
+                    380.0
+                ],
+                [
+                    4.0,
+                    380.0
+                ],
+                [
+                    4.0,
+                    379.0
+                ],
+                [
+                    3.0,
+                    379.0
+                ],
+                [
+                    3.0,
+                    378.0
+                ],
+                [
+                    0.0,
+                    378.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

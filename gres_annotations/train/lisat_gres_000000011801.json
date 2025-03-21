@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the vehicle that has a unique rectangular form, a shiny metallic surface, and wheels underneath, standing out against its surroundings.",
+        "Find the automobile characterized by its rectangular shape, metallic exterior, and wheels at the base, differing from its environment.",
+        "Locate the car with a distinctive boxy shape, metallic finish, and bottom-positioned wheels, contrasting with the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011801.jpg",
+            "points": [
+                [
+                    79.0,
+                    0.0
+                ],
+                [
+                    79.0,
+                    4.0
+                ],
+                [
+                    80.0,
+                    4.0
+                ],
+                [
+                    80.0,
+                    9.0
+                ],
+                [
+                    81.0,
+                    9.0
+                ],
+                [
+                    81.0,
+                    10.0
+                ],
+                [
+                    91.0,
+                    10.0
+                ],
+                [
+                    91.0,
+                    9.0
+                ],
+                [
+                    96.0,
+                    9.0
+                ],
+                [
+                    96.0,
+                    8.0
+                ],
+                [
+                    97.0,
+                    8.0
+                ],
+                [
+                    97.0,
+                    5.0
+                ],
+                [
+                    96.0,
+                    5.0
+                ],
+                [
+                    96.0,
+                    0.0
+                ],
+                [
+                    79.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

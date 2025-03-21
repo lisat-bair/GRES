@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the structure with clear damage located in the upper-left corner.",
+        "Pinpoint the damaged building situated in the top-left section.",
+        "Locate the edifice showing damage in the upper-left area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002164.jpg",
+            "points": [
+                [
+                    92.0,
+                    15.0
+                ],
+                [
+                    92.0,
+                    16.0
+                ],
+                [
+                    88.0,
+                    16.0
+                ],
+                [
+                    88.0,
+                    17.0
+                ],
+                [
+                    87.0,
+                    17.0
+                ],
+                [
+                    87.0,
+                    27.0
+                ],
+                [
+                    88.0,
+                    27.0
+                ],
+                [
+                    88.0,
+                    33.0
+                ],
+                [
+                    87.0,
+                    33.0
+                ],
+                [
+                    87.0,
+                    45.0
+                ],
+                [
+                    88.0,
+                    45.0
+                ],
+                [
+                    88.0,
+                    46.0
+                ],
+                [
+                    92.0,
+                    46.0
+                ],
+                [
+                    92.0,
+                    45.0
+                ],
+                [
+                    94.0,
+                    45.0
+                ],
+                [
+                    94.0,
+                    44.0
+                ],
+                [
+                    95.0,
+                    44.0
+                ],
+                [
+                    95.0,
+                    41.0
+                ],
+                [
+                    96.0,
+                    41.0
+                ],
+                [
+                    96.0,
+                    17.0
+                ],
+                [
+                    95.0,
+                    17.0
+                ],
+                [
+                    95.0,
+                    16.0
+                ],
+                [
+                    94.0,
+                    16.0
+                ],
+                [
+                    94.0,
+                    15.0
+                ],
+                [
+                    92.0,
+                    15.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

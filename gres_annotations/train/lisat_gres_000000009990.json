@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the automobile that has round wheels and shiny surfaces commonly linked to a vehicle.",
+        "Search for the vehicle with round tires and reflective areas that are usually found on a car.",
+        "Identify the car that features circular wheels and glossy surfaces typically seen in vehicles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009990.jpg",
+            "points": [
+                [
+                    466.0,
+                    339.0
+                ],
+                [
+                    466.0,
+                    340.0
+                ],
+                [
+                    456.0,
+                    340.0
+                ],
+                [
+                    456.0,
+                    341.0
+                ],
+                [
+                    454.0,
+                    341.0
+                ],
+                [
+                    454.0,
+                    344.0
+                ],
+                [
+                    455.0,
+                    344.0
+                ],
+                [
+                    455.0,
+                    345.0
+                ],
+                [
+                    456.0,
+                    345.0
+                ],
+                [
+                    456.0,
+                    346.0
+                ],
+                [
+                    463.0,
+                    346.0
+                ],
+                [
+                    463.0,
+                    345.0
+                ],
+                [
+                    470.0,
+                    345.0
+                ],
+                [
+                    470.0,
+                    340.0
+                ],
+                [
+                    468.0,
+                    340.0
+                ],
+                [
+                    468.0,
+                    339.0
+                ],
+                [
+                    466.0,
+                    339.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

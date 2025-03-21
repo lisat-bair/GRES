@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the vehicle that has a shiny exterior, unique contours, and notable wheel designs.",
+        "Look for the automobile featuring a metallic finish, specific silhouette, and distinctive wheel patterns.",
+        "Locate the car with a reflective surface, recognizable shape, and characteristic wheel styles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019916.jpg",
+            "points": [
+                [
+                    11.0,
+                    108.0
+                ],
+                [
+                    11.0,
+                    109.0
+                ],
+                [
+                    9.0,
+                    109.0
+                ],
+                [
+                    9.0,
+                    110.0
+                ],
+                [
+                    8.0,
+                    110.0
+                ],
+                [
+                    8.0,
+                    111.0
+                ],
+                [
+                    7.0,
+                    111.0
+                ],
+                [
+                    7.0,
+                    113.0
+                ],
+                [
+                    6.0,
+                    113.0
+                ],
+                [
+                    6.0,
+                    115.0
+                ],
+                [
+                    5.0,
+                    115.0
+                ],
+                [
+                    5.0,
+                    118.0
+                ],
+                [
+                    4.0,
+                    118.0
+                ],
+                [
+                    4.0,
+                    122.0
+                ],
+                [
+                    5.0,
+                    122.0
+                ],
+                [
+                    5.0,
+                    124.0
+                ],
+                [
+                    6.0,
+                    124.0
+                ],
+                [
+                    6.0,
+                    125.0
+                ],
+                [
+                    13.0,
+                    125.0
+                ],
+                [
+                    13.0,
+                    124.0
+                ],
+                [
+                    14.0,
+                    124.0
+                ],
+                [
+                    14.0,
+                    123.0
+                ],
+                [
+                    15.0,
+                    123.0
+                ],
+                [
+                    15.0,
+                    122.0
+                ],
+                [
+                    16.0,
+                    122.0
+                ],
+                [
+                    16.0,
+                    121.0
+                ],
+                [
+                    17.0,
+                    121.0
+                ],
+                [
+                    17.0,
+                    119.0
+                ],
+                [
+                    18.0,
+                    119.0
+                ],
+                [
+                    18.0,
+                    112.0
+                ],
+                [
+                    17.0,
+                    112.0
+                ],
+                [
+                    17.0,
+                    110.0
+                ],
+                [
+                    16.0,
+                    110.0
+                ],
+                [
+                    16.0,
+                    109.0
+                ],
+                [
+                    14.0,
+                    109.0
+                ],
+                [
+                    14.0,
+                    108.0
+                ],
+                [
+                    11.0,
+                    108.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the big, boxy vehicle with several windows and a unique roof design, usually seen on streets or in transportation zones.",
+        "Search for the sizable, rectangular vehicle with many windows and a distinctive roof, commonly spotted on roads or in areas where transit occurs.",
+        "Look for the large, rectangular vehicle that features multiple windows and a distinctively shaped roof, often located on roads or in transit regions."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025760.jpg",
+            "points": [
+                [
+                    154.0,
+                    380.0
+                ],
+                [
+                    154.0,
+                    381.0
+                ],
+                [
+                    151.0,
+                    381.0
+                ],
+                [
+                    151.0,
+                    382.0
+                ],
+                [
+                    147.0,
+                    382.0
+                ],
+                [
+                    147.0,
+                    383.0
+                ],
+                [
+                    144.0,
+                    383.0
+                ],
+                [
+                    144.0,
+                    384.0
+                ],
+                [
+                    142.0,
+                    384.0
+                ],
+                [
+                    142.0,
+                    385.0
+                ],
+                [
+                    140.0,
+                    385.0
+                ],
+                [
+                    140.0,
+                    389.0
+                ],
+                [
+                    141.0,
+                    389.0
+                ],
+                [
+                    141.0,
+                    392.0
+                ],
+                [
+                    143.0,
+                    392.0
+                ],
+                [
+                    143.0,
+                    393.0
+                ],
+                [
+                    146.0,
+                    393.0
+                ],
+                [
+                    146.0,
+                    394.0
+                ],
+                [
+                    149.0,
+                    394.0
+                ],
+                [
+                    149.0,
+                    393.0
+                ],
+                [
+                    153.0,
+                    393.0
+                ],
+                [
+                    153.0,
+                    392.0
+                ],
+                [
+                    157.0,
+                    392.0
+                ],
+                [
+                    157.0,
+                    391.0
+                ],
+                [
+                    158.0,
+                    391.0
+                ],
+                [
+                    158.0,
+                    390.0
+                ],
+                [
+                    159.0,
+                    390.0
+                ],
+                [
+                    159.0,
+                    389.0
+                ],
+                [
+                    160.0,
+                    389.0
+                ],
+                [
+                    160.0,
+                    384.0
+                ],
+                [
+                    159.0,
+                    384.0
+                ],
+                [
+                    159.0,
+                    382.0
+                ],
+                [
+                    158.0,
+                    382.0
+                ],
+                [
+                    158.0,
+                    381.0
+                ],
+                [
+                    156.0,
+                    381.0
+                ],
+                [
+                    156.0,
+                    380.0
+                ],
+                [
+                    154.0,
+                    380.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

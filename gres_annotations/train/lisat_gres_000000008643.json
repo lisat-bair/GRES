@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the truck that has a sizable dark form and notable white round details.",
+        "Locate the vehicle featuring a prominent dark silhouette and unique circular white elements.",
+        "Find the truck characterized by a large shadowy shape and remarkable white circular markings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008643.jpg",
+            "points": [
+                [
+                    177.0,
+                    220.0
+                ],
+                [
+                    177.0,
+                    239.0
+                ],
+                [
+                    179.0,
+                    239.0
+                ],
+                [
+                    179.0,
+                    240.0
+                ],
+                [
+                    185.0,
+                    240.0
+                ],
+                [
+                    185.0,
+                    239.0
+                ],
+                [
+                    187.0,
+                    239.0
+                ],
+                [
+                    187.0,
+                    237.0
+                ],
+                [
+                    188.0,
+                    237.0
+                ],
+                [
+                    188.0,
+                    226.0
+                ],
+                [
+                    187.0,
+                    226.0
+                ],
+                [
+                    187.0,
+                    221.0
+                ],
+                [
+                    186.0,
+                    221.0
+                ],
+                [
+                    186.0,
+                    220.0
+                ],
+                [
+                    184.0,
+                    220.0
+                ],
+                [
+                    184.0,
+                    221.0
+                ],
+                [
+                    180.0,
+                    221.0
+                ],
+                [
+                    180.0,
+                    220.0
+                ],
+                [
+                    177.0,
+                    220.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

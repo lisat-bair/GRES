@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the big vehicle that has an elongated rectangular form and noticeable roof lights.",
+        "Look for the sizable vehicle characterized by a long, rectangular design and unique roof lights.",
+        "Find the large vehicle featuring a long, rectangular shape with distinctive lights on the roof."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020794.jpg",
+            "points": [
+                [
+                    235.0,
+                    17.0
+                ],
+                [
+                    235.0,
+                    18.0
+                ],
+                [
+                    234.0,
+                    18.0
+                ],
+                [
+                    234.0,
+                    19.0
+                ],
+                [
+                    233.0,
+                    19.0
+                ],
+                [
+                    233.0,
+                    22.0
+                ],
+                [
+                    232.0,
+                    22.0
+                ],
+                [
+                    232.0,
+                    24.0
+                ],
+                [
+                    231.0,
+                    24.0
+                ],
+                [
+                    231.0,
+                    27.0
+                ],
+                [
+                    230.0,
+                    27.0
+                ],
+                [
+                    230.0,
+                    30.0
+                ],
+                [
+                    231.0,
+                    30.0
+                ],
+                [
+                    231.0,
+                    31.0
+                ],
+                [
+                    233.0,
+                    31.0
+                ],
+                [
+                    233.0,
+                    32.0
+                ],
+                [
+                    237.0,
+                    32.0
+                ],
+                [
+                    237.0,
+                    30.0
+                ],
+                [
+                    238.0,
+                    30.0
+                ],
+                [
+                    238.0,
+                    25.0
+                ],
+                [
+                    239.0,
+                    25.0
+                ],
+                [
+                    239.0,
+                    22.0
+                ],
+                [
+                    240.0,
+                    22.0
+                ],
+                [
+                    240.0,
+                    18.0
+                ],
+                [
+                    239.0,
+                    18.0
+                ],
+                [
+                    239.0,
+                    17.0
+                ],
+                [
+                    235.0,
+                    17.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

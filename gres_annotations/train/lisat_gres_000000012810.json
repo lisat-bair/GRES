@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the dump truck that features a large, unique bed and is equipped with high ground clearance to transport heavy materials.",
+        "Locate the heavy-duty truck characterized by its substantial bed and elevated ground clearance, both suited for carrying large loads.",
+        "Spot the haul vehicle with a distinctive, oversized bed and significant ground clearance, designed specifically for transporting hefty cargo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012810.jpg",
+            "points": [
+                [
+                    126.0,
+                    147.0
+                ],
+                [
+                    126.0,
+                    148.0
+                ],
+                [
+                    125.0,
+                    148.0
+                ],
+                [
+                    125.0,
+                    149.0
+                ],
+                [
+                    124.0,
+                    149.0
+                ],
+                [
+                    124.0,
+                    150.0
+                ],
+                [
+                    123.0,
+                    150.0
+                ],
+                [
+                    123.0,
+                    151.0
+                ],
+                [
+                    122.0,
+                    151.0
+                ],
+                [
+                    122.0,
+                    152.0
+                ],
+                [
+                    120.0,
+                    152.0
+                ],
+                [
+                    120.0,
+                    154.0
+                ],
+                [
+                    119.0,
+                    154.0
+                ],
+                [
+                    119.0,
+                    161.0
+                ],
+                [
+                    120.0,
+                    161.0
+                ],
+                [
+                    120.0,
+                    165.0
+                ],
+                [
+                    121.0,
+                    165.0
+                ],
+                [
+                    121.0,
+                    173.0
+                ],
+                [
+                    123.0,
+                    173.0
+                ],
+                [
+                    123.0,
+                    174.0
+                ],
+                [
+                    132.0,
+                    174.0
+                ],
+                [
+                    132.0,
+                    173.0
+                ],
+                [
+                    133.0,
+                    173.0
+                ],
+                [
+                    133.0,
+                    172.0
+                ],
+                [
+                    134.0,
+                    172.0
+                ],
+                [
+                    134.0,
+                    168.0
+                ],
+                [
+                    135.0,
+                    168.0
+                ],
+                [
+                    135.0,
+                    157.0
+                ],
+                [
+                    136.0,
+                    157.0
+                ],
+                [
+                    136.0,
+                    149.0
+                ],
+                [
+                    135.0,
+                    149.0
+                ],
+                [
+                    135.0,
+                    147.0
+                ],
+                [
+                    126.0,
+                    147.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

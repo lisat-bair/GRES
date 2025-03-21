@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the bus situated at the middle of the picture.",
+        "Identify the bus positioned in the center of the photograph.",
+        "Spot the bus located at the heart of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012245.jpg",
+            "points": [
+                [
+                    278.0,
+                    316.0
+                ],
+                [
+                    278.0,
+                    317.0
+                ],
+                [
+                    277.0,
+                    317.0
+                ],
+                [
+                    277.0,
+                    320.0
+                ],
+                [
+                    276.0,
+                    320.0
+                ],
+                [
+                    276.0,
+                    327.0
+                ],
+                [
+                    275.0,
+                    327.0
+                ],
+                [
+                    275.0,
+                    337.0
+                ],
+                [
+                    276.0,
+                    337.0
+                ],
+                [
+                    276.0,
+                    338.0
+                ],
+                [
+                    277.0,
+                    338.0
+                ],
+                [
+                    277.0,
+                    339.0
+                ],
+                [
+                    283.0,
+                    339.0
+                ],
+                [
+                    283.0,
+                    336.0
+                ],
+                [
+                    284.0,
+                    336.0
+                ],
+                [
+                    284.0,
+                    325.0
+                ],
+                [
+                    285.0,
+                    325.0
+                ],
+                [
+                    285.0,
+                    319.0
+                ],
+                [
+                    284.0,
+                    319.0
+                ],
+                [
+                    284.0,
+                    317.0
+                ],
+                [
+                    283.0,
+                    317.0
+                ],
+                [
+                    283.0,
+                    316.0
+                ],
+                [
+                    278.0,
+                    316.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

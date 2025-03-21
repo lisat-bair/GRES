@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the pylon located in the lower-left section of the picture.",
+        "Locate the pylon situated in the bottom-left area of the image.",
+        "Find the pylon that is positioned in the bottom-left corner of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031745.jpg",
+            "points": [
+                [
+                    5.0,
+                    496.0
+                ],
+                [
+                    5.0,
+                    497.0
+                ],
+                [
+                    4.0,
+                    497.0
+                ],
+                [
+                    4.0,
+                    499.0
+                ],
+                [
+                    3.0,
+                    499.0
+                ],
+                [
+                    3.0,
+                    501.0
+                ],
+                [
+                    2.0,
+                    501.0
+                ],
+                [
+                    2.0,
+                    509.0
+                ],
+                [
+                    3.0,
+                    509.0
+                ],
+                [
+                    3.0,
+                    511.0
+                ],
+                [
+                    4.0,
+                    511.0
+                ],
+                [
+                    4.0,
+                    512.0
+                ],
+                [
+                    9.0,
+                    512.0
+                ],
+                [
+                    9.0,
+                    510.0
+                ],
+                [
+                    10.0,
+                    510.0
+                ],
+                [
+                    10.0,
+                    501.0
+                ],
+                [
+                    9.0,
+                    501.0
+                ],
+                [
+                    9.0,
+                    499.0
+                ],
+                [
+                    8.0,
+                    499.0
+                ],
+                [
+                    8.0,
+                    496.0
+                ],
+                [
+                    5.0,
+                    496.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Spot the automobile that is located in the middle of the picture.",
+        "Point out the vehicle situated at the heart of the image.",
+        "Find the car positioned at the center of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013457.jpg",
+            "points": [
+                [
+                    227.0,
+                    138.0
+                ],
+                [
+                    227.0,
+                    139.0
+                ],
+                [
+                    226.0,
+                    139.0
+                ],
+                [
+                    226.0,
+                    143.0
+                ],
+                [
+                    227.0,
+                    143.0
+                ],
+                [
+                    227.0,
+                    144.0
+                ],
+                [
+                    231.0,
+                    144.0
+                ],
+                [
+                    231.0,
+                    145.0
+                ],
+                [
+                    236.0,
+                    145.0
+                ],
+                [
+                    236.0,
+                    144.0
+                ],
+                [
+                    237.0,
+                    144.0
+                ],
+                [
+                    237.0,
+                    138.0
+                ],
+                [
+                    227.0,
+                    138.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

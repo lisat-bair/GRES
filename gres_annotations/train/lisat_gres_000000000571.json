@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the trailer situated towards the center-right area of the picture.",
+        "The trailer can be seen in the middle-right section of the image.",
+        "Look for the trailer positioned in the central-right part of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000571.jpg",
+            "points": [
+                [
+                    253.0,
+                    307.0
+                ],
+                [
+                    253.0,
+                    308.0
+                ],
+                [
+                    249.0,
+                    308.0
+                ],
+                [
+                    249.0,
+                    309.0
+                ],
+                [
+                    248.0,
+                    309.0
+                ],
+                [
+                    248.0,
+                    316.0
+                ],
+                [
+                    249.0,
+                    316.0
+                ],
+                [
+                    249.0,
+                    333.0
+                ],
+                [
+                    250.0,
+                    333.0
+                ],
+                [
+                    250.0,
+                    335.0
+                ],
+                [
+                    251.0,
+                    335.0
+                ],
+                [
+                    251.0,
+                    336.0
+                ],
+                [
+                    258.0,
+                    336.0
+                ],
+                [
+                    258.0,
+                    335.0
+                ],
+                [
+                    259.0,
+                    335.0
+                ],
+                [
+                    259.0,
+                    308.0
+                ],
+                [
+                    257.0,
+                    308.0
+                ],
+                [
+                    257.0,
+                    307.0
+                ],
+                [
+                    253.0,
+                    307.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the storage container positioned in the lower-left corner of the picture.",
+        "Find the storage tank situated in the bottom-left section of the image.",
+        "Point out the storage unit that is placed in the bottom-left area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028742.jpg",
+            "points": [
+                [
+                    243.0,
+                    453.0
+                ],
+                [
+                    243.0,
+                    454.0
+                ],
+                [
+                    241.0,
+                    454.0
+                ],
+                [
+                    241.0,
+                    456.0
+                ],
+                [
+                    240.0,
+                    456.0
+                ],
+                [
+                    240.0,
+                    461.0
+                ],
+                [
+                    241.0,
+                    461.0
+                ],
+                [
+                    241.0,
+                    462.0
+                ],
+                [
+                    243.0,
+                    462.0
+                ],
+                [
+                    243.0,
+                    463.0
+                ],
+                [
+                    248.0,
+                    463.0
+                ],
+                [
+                    248.0,
+                    462.0
+                ],
+                [
+                    250.0,
+                    462.0
+                ],
+                [
+                    250.0,
+                    461.0
+                ],
+                [
+                    251.0,
+                    461.0
+                ],
+                [
+                    251.0,
+                    460.0
+                ],
+                [
+                    252.0,
+                    460.0
+                ],
+                [
+                    252.0,
+                    459.0
+                ],
+                [
+                    253.0,
+                    459.0
+                ],
+                [
+                    253.0,
+                    456.0
+                ],
+                [
+                    252.0,
+                    456.0
+                ],
+                [
+                    252.0,
+                    454.0
+                ],
+                [
+                    251.0,
+                    454.0
+                ],
+                [
+                    251.0,
+                    453.0
+                ],
+                [
+                    243.0,
+                    453.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

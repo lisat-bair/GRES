@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the automobile that has a metallic finish, sharp contours, four tires, and a boxy form.",
+        "Identify the vehicle featuring a shiny metal surface, distinct lines, four wheels, and a rectangular design.",
+        "Seek out the car characterized by a metallic luster, clear edges, four wheels, and a rectangular outline."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000729.jpg",
+            "points": [
+                [
+                    24.0,
+                    94.0
+                ],
+                [
+                    24.0,
+                    95.0
+                ],
+                [
+                    22.0,
+                    95.0
+                ],
+                [
+                    22.0,
+                    99.0
+                ],
+                [
+                    23.0,
+                    99.0
+                ],
+                [
+                    23.0,
+                    100.0
+                ],
+                [
+                    36.0,
+                    100.0
+                ],
+                [
+                    36.0,
+                    98.0
+                ],
+                [
+                    37.0,
+                    98.0
+                ],
+                [
+                    37.0,
+                    96.0
+                ],
+                [
+                    36.0,
+                    96.0
+                ],
+                [
+                    36.0,
+                    95.0
+                ],
+                [
+                    35.0,
+                    95.0
+                ],
+                [
+                    35.0,
+                    94.0
+                ],
+                [
+                    24.0,
+                    94.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

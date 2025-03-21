@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the rectangular truck that is prominently green in color.",
+        "Identify the truck that is large, rectangular, and uniquely green.",
+        "Spot the truck with a distinct green hue and a large rectangular design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034518.jpg",
+            "points": [
+                [
+                    15.0,
+                    313.0
+                ],
+                [
+                    15.0,
+                    314.0
+                ],
+                [
+                    14.0,
+                    314.0
+                ],
+                [
+                    14.0,
+                    316.0
+                ],
+                [
+                    13.0,
+                    316.0
+                ],
+                [
+                    13.0,
+                    318.0
+                ],
+                [
+                    12.0,
+                    318.0
+                ],
+                [
+                    12.0,
+                    320.0
+                ],
+                [
+                    11.0,
+                    320.0
+                ],
+                [
+                    11.0,
+                    322.0
+                ],
+                [
+                    10.0,
+                    322.0
+                ],
+                [
+                    10.0,
+                    329.0
+                ],
+                [
+                    11.0,
+                    329.0
+                ],
+                [
+                    11.0,
+                    330.0
+                ],
+                [
+                    13.0,
+                    330.0
+                ],
+                [
+                    13.0,
+                    331.0
+                ],
+                [
+                    17.0,
+                    331.0
+                ],
+                [
+                    17.0,
+                    330.0
+                ],
+                [
+                    18.0,
+                    330.0
+                ],
+                [
+                    18.0,
+                    327.0
+                ],
+                [
+                    19.0,
+                    327.0
+                ],
+                [
+                    19.0,
+                    323.0
+                ],
+                [
+                    20.0,
+                    323.0
+                ],
+                [
+                    20.0,
+                    319.0
+                ],
+                [
+                    21.0,
+                    319.0
+                ],
+                [
+                    21.0,
+                    314.0
+                ],
+                [
+                    20.0,
+                    314.0
+                ],
+                [
+                    20.0,
+                    313.0
+                ],
+                [
+                    15.0,
+                    313.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

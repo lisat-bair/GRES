@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Look for the bus in the picture, which is usually yellow and features a big rectangular shape, windows, and wheels.",
+        "Spot the bus in the image; it is commonly yellow, with a large rectangular body, windows, and wheels.",
+        "Find the bus in the photo, identifiable by its typically yellow color, large rectangular form, windows, and wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017954.jpg",
+            "points": [
+                [
+                    455.0,
+                    424.0
+                ],
+                [
+                    455.0,
+                    436.0
+                ],
+                [
+                    456.0,
+                    436.0
+                ],
+                [
+                    456.0,
+                    437.0
+                ],
+                [
+                    457.0,
+                    437.0
+                ],
+                [
+                    457.0,
+                    438.0
+                ],
+                [
+                    462.0,
+                    438.0
+                ],
+                [
+                    462.0,
+                    437.0
+                ],
+                [
+                    464.0,
+                    437.0
+                ],
+                [
+                    464.0,
+                    427.0
+                ],
+                [
+                    463.0,
+                    427.0
+                ],
+                [
+                    463.0,
+                    424.0
+                ],
+                [
+                    455.0,
+                    424.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

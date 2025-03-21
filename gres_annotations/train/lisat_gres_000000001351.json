@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the ship in the lower-left section of the picture.",
+        "Identify the boat in the image's bottom-left quadrant.",
+        "Spot the vessel situated in the bottom-left area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001351.jpg",
+            "points": [
+                [
+                    21.0,
+                    497.0
+                ],
+                [
+                    21.0,
+                    498.0
+                ],
+                [
+                    14.0,
+                    498.0
+                ],
+                [
+                    14.0,
+                    499.0
+                ],
+                [
+                    7.0,
+                    499.0
+                ],
+                [
+                    7.0,
+                    498.0
+                ],
+                [
+                    0.0,
+                    498.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    31.0,
+                    512.0
+                ],
+                [
+                    31.0,
+                    508.0
+                ],
+                [
+                    32.0,
+                    508.0
+                ],
+                [
+                    32.0,
+                    505.0
+                ],
+                [
+                    33.0,
+                    505.0
+                ],
+                [
+                    33.0,
+                    499.0
+                ],
+                [
+                    32.0,
+                    499.0
+                ],
+                [
+                    32.0,
+                    498.0
+                ],
+                [
+                    31.0,
+                    498.0
+                ],
+                [
+                    31.0,
+                    497.0
+                ],
+                [
+                    21.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "text": [
+        "Locate the bus in the center of the image near the top-left corner."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016934.jpg",
+            "points": [
+                [
+                    245,
+                    185
+                ],
+                [
+                    255,
+                    185
+                ],
+                [
+                    255,
+                    203
+                ],
+                [
+                    245,
+                    203
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

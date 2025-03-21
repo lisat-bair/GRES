@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the liquid container situated in the bottom-right corner of the picture, which has a long rectangular form with prominent wheels, usually metallic or painted, and is attached to a truck cab at the front.",
+        "In the image's bottom-right, identify the liquid reservoir, distinguished by its elongated rectangular shape with noticeable wheels, often metallic or painted, linked to a truck cab at the front.",
+        "Spot the liquid tank located in the bottom-right section of the image, recognized by its lengthy rectangular design with distinct wheels that are typically metallic or colored, and connected to a truck cab upfront."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022699.jpg",
+            "points": [
+                [
+                    382.0,
+                    384.0
+                ],
+                [
+                    382.0,
+                    385.0
+                ],
+                [
+                    370.0,
+                    385.0
+                ],
+                [
+                    370.0,
+                    386.0
+                ],
+                [
+                    358.0,
+                    386.0
+                ],
+                [
+                    358.0,
+                    387.0
+                ],
+                [
+                    355.0,
+                    387.0
+                ],
+                [
+                    355.0,
+                    392.0
+                ],
+                [
+                    356.0,
+                    392.0
+                ],
+                [
+                    356.0,
+                    393.0
+                ],
+                [
+                    362.0,
+                    393.0
+                ],
+                [
+                    362.0,
+                    392.0
+                ],
+                [
+                    365.0,
+                    392.0
+                ],
+                [
+                    365.0,
+                    393.0
+                ],
+                [
+                    369.0,
+                    393.0
+                ],
+                [
+                    369.0,
+                    394.0
+                ],
+                [
+                    383.0,
+                    394.0
+                ],
+                [
+                    383.0,
+                    393.0
+                ],
+                [
+                    386.0,
+                    393.0
+                ],
+                [
+                    386.0,
+                    392.0
+                ],
+                [
+                    388.0,
+                    392.0
+                ],
+                [
+                    388.0,
+                    390.0
+                ],
+                [
+                    389.0,
+                    390.0
+                ],
+                [
+                    389.0,
+                    386.0
+                ],
+                [
+                    388.0,
+                    386.0
+                ],
+                [
+                    388.0,
+                    385.0
+                ],
+                [
+                    385.0,
+                    385.0
+                ],
+                [
+                    385.0,
+                    384.0
+                ],
+                [
+                    382.0,
+                    384.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

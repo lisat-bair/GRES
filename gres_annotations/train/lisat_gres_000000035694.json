@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the white vehicle with a boxy design and four round elements, standing out against the black backdrop.",
+        "Locate the white automobile, characterized by its rectangular form and four circular aspects, highlighted against the dark setting.",
+        "Find the white car, notable for its square shape and four rounded features, contrasting with the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035694.jpg",
+            "points": [
+                [
+                    414.0,
+                    287.0
+                ],
+                [
+                    414.0,
+                    288.0
+                ],
+                [
+                    413.0,
+                    288.0
+                ],
+                [
+                    413.0,
+                    289.0
+                ],
+                [
+                    412.0,
+                    289.0
+                ],
+                [
+                    412.0,
+                    295.0
+                ],
+                [
+                    413.0,
+                    295.0
+                ],
+                [
+                    413.0,
+                    298.0
+                ],
+                [
+                    414.0,
+                    298.0
+                ],
+                [
+                    414.0,
+                    300.0
+                ],
+                [
+                    415.0,
+                    300.0
+                ],
+                [
+                    415.0,
+                    301.0
+                ],
+                [
+                    416.0,
+                    301.0
+                ],
+                [
+                    416.0,
+                    302.0
+                ],
+                [
+                    420.0,
+                    302.0
+                ],
+                [
+                    420.0,
+                    301.0
+                ],
+                [
+                    422.0,
+                    301.0
+                ],
+                [
+                    422.0,
+                    296.0
+                ],
+                [
+                    421.0,
+                    296.0
+                ],
+                [
+                    421.0,
+                    294.0
+                ],
+                [
+                    420.0,
+                    294.0
+                ],
+                [
+                    420.0,
+                    291.0
+                ],
+                [
+                    419.0,
+                    291.0
+                ],
+                [
+                    419.0,
+                    289.0
+                ],
+                [
+                    418.0,
+                    289.0
+                ],
+                [
+                    418.0,
+                    288.0
+                ],
+                [
+                    416.0,
+                    288.0
+                ],
+                [
+                    416.0,
+                    287.0
+                ],
+                [
+                    414.0,
+                    287.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

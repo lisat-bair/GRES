@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Locate the bus located at the bottom-left corner of the image that has unique wheels and a boxy design.",
+        "Find the bus at the lower-left of the picture that features unusual wheels and a rectangular form.",
+        "Spot the bus in the bottom-left area of the photo, recognizable by its distinctive wheels and rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022846.jpg",
+            "points": [
+                [
+                    247.0,
+                    434.0
+                ],
+                [
+                    247.0,
+                    435.0
+                ],
+                [
+                    246.0,
+                    435.0
+                ],
+                [
+                    246.0,
+                    446.0
+                ],
+                [
+                    248.0,
+                    446.0
+                ],
+                [
+                    248.0,
+                    447.0
+                ],
+                [
+                    251.0,
+                    447.0
+                ],
+                [
+                    251.0,
+                    446.0
+                ],
+                [
+                    253.0,
+                    446.0
+                ],
+                [
+                    253.0,
+                    438.0
+                ],
+                [
+                    252.0,
+                    438.0
+                ],
+                [
+                    252.0,
+                    435.0
+                ],
+                [
+                    251.0,
+                    435.0
+                ],
+                [
+                    251.0,
+                    434.0
+                ],
+                [
+                    247.0,
+                    434.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

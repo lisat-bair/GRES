@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the storage tank by finding the cylindrical structure that has a shiny, metal surface and horizontal stripes.",
+        "To locate the storage tank, identify the cylinder with a reflective metallic finish and horizontal lines.",
+        "Find the storage tank by spotting the cylindrical form with a metal-like, reflective exterior and horizontal bands."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012553.jpg",
+            "points": [
+                [
+                    74.0,
+                    410.0
+                ],
+                [
+                    74.0,
+                    411.0
+                ],
+                [
+                    72.0,
+                    411.0
+                ],
+                [
+                    72.0,
+                    412.0
+                ],
+                [
+                    71.0,
+                    412.0
+                ],
+                [
+                    71.0,
+                    419.0
+                ],
+                [
+                    72.0,
+                    419.0
+                ],
+                [
+                    72.0,
+                    431.0
+                ],
+                [
+                    73.0,
+                    431.0
+                ],
+                [
+                    73.0,
+                    432.0
+                ],
+                [
+                    82.0,
+                    432.0
+                ],
+                [
+                    82.0,
+                    431.0
+                ],
+                [
+                    83.0,
+                    431.0
+                ],
+                [
+                    83.0,
+                    428.0
+                ],
+                [
+                    84.0,
+                    428.0
+                ],
+                [
+                    84.0,
+                    417.0
+                ],
+                [
+                    83.0,
+                    417.0
+                ],
+                [
+                    83.0,
+                    412.0
+                ],
+                [
+                    82.0,
+                    412.0
+                ],
+                [
+                    82.0,
+                    411.0
+                ],
+                [
+                    81.0,
+                    411.0
+                ],
+                [
+                    81.0,
+                    410.0
+                ],
+                [
+                    74.0,
+                    410.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

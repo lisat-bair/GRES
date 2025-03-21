@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the vehicle that has a white and gray color pattern and a unique rectangular form in the picture.",
+        "Find the automobile characterized by a mix of white and gray colors and an unmistakable rectangular design within the photo.",
+        "Spot the car in the image that features a color palette of white and gray along with a distinctive rectangular silhouette."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010148.jpg",
+            "points": [
+                [
+                    59.0,
+                    229.0
+                ],
+                [
+                    59.0,
+                    230.0
+                ],
+                [
+                    53.0,
+                    230.0
+                ],
+                [
+                    53.0,
+                    231.0
+                ],
+                [
+                    52.0,
+                    231.0
+                ],
+                [
+                    52.0,
+                    232.0
+                ],
+                [
+                    51.0,
+                    232.0
+                ],
+                [
+                    51.0,
+                    236.0
+                ],
+                [
+                    52.0,
+                    236.0
+                ],
+                [
+                    52.0,
+                    237.0
+                ],
+                [
+                    54.0,
+                    237.0
+                ],
+                [
+                    54.0,
+                    238.0
+                ],
+                [
+                    55.0,
+                    238.0
+                ],
+                [
+                    55.0,
+                    239.0
+                ],
+                [
+                    57.0,
+                    239.0
+                ],
+                [
+                    57.0,
+                    240.0
+                ],
+                [
+                    60.0,
+                    240.0
+                ],
+                [
+                    60.0,
+                    241.0
+                ],
+                [
+                    63.0,
+                    241.0
+                ],
+                [
+                    63.0,
+                    240.0
+                ],
+                [
+                    64.0,
+                    240.0
+                ],
+                [
+                    64.0,
+                    239.0
+                ],
+                [
+                    65.0,
+                    239.0
+                ],
+                [
+                    65.0,
+                    232.0
+                ],
+                [
+                    64.0,
+                    232.0
+                ],
+                [
+                    64.0,
+                    231.0
+                ],
+                [
+                    63.0,
+                    231.0
+                ],
+                [
+                    63.0,
+                    230.0
+                ],
+                [
+                    61.0,
+                    230.0
+                ],
+                [
+                    61.0,
+                    229.0
+                ],
+                [
+                    59.0,
+                    229.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

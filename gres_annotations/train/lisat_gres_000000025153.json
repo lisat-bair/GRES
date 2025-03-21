@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the bus situated in the lower-left corner of the picture, characterized by a compact rectangular form and small windows, often painted in vivid colors.",
+        "Look for the bus with a small rectangular shape and tiny windows, usually in bright hues, located at the bottom-left section of the image.",
+        "Identify the bus positioned at the bottom-left of the photo, which has a compact rectangular design and small windows, commonly featuring vibrant colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025153.jpg",
+            "points": [
+                [
+                    36.0,
+                    276.0
+                ],
+                [
+                    36.0,
+                    277.0
+                ],
+                [
+                    30.0,
+                    277.0
+                ],
+                [
+                    30.0,
+                    278.0
+                ],
+                [
+                    29.0,
+                    278.0
+                ],
+                [
+                    29.0,
+                    279.0
+                ],
+                [
+                    28.0,
+                    279.0
+                ],
+                [
+                    28.0,
+                    282.0
+                ],
+                [
+                    29.0,
+                    282.0
+                ],
+                [
+                    29.0,
+                    284.0
+                ],
+                [
+                    36.0,
+                    284.0
+                ],
+                [
+                    36.0,
+                    283.0
+                ],
+                [
+                    40.0,
+                    283.0
+                ],
+                [
+                    40.0,
+                    282.0
+                ],
+                [
+                    41.0,
+                    282.0
+                ],
+                [
+                    41.0,
+                    281.0
+                ],
+                [
+                    42.0,
+                    281.0
+                ],
+                [
+                    42.0,
+                    278.0
+                ],
+                [
+                    41.0,
+                    278.0
+                ],
+                [
+                    41.0,
+                    276.0
+                ],
+                [
+                    36.0,
+                    276.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

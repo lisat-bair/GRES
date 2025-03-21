@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the uniquely long truck that has a subdued color, standing out against the landscape.",
+        "Find the truck that has an extended shape and a soft hue contrasting the area around it.",
+        "Locate the truck characterized by its elongated design and muted color, which contrasts with the environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016372.jpg",
+            "points": [
+                [
+                    160.0,
+                    243.0
+                ],
+                [
+                    160.0,
+                    244.0
+                ],
+                [
+                    159.0,
+                    244.0
+                ],
+                [
+                    159.0,
+                    246.0
+                ],
+                [
+                    158.0,
+                    246.0
+                ],
+                [
+                    158.0,
+                    248.0
+                ],
+                [
+                    157.0,
+                    248.0
+                ],
+                [
+                    157.0,
+                    255.0
+                ],
+                [
+                    158.0,
+                    255.0
+                ],
+                [
+                    158.0,
+                    256.0
+                ],
+                [
+                    163.0,
+                    256.0
+                ],
+                [
+                    163.0,
+                    255.0
+                ],
+                [
+                    164.0,
+                    255.0
+                ],
+                [
+                    164.0,
+                    254.0
+                ],
+                [
+                    165.0,
+                    254.0
+                ],
+                [
+                    165.0,
+                    253.0
+                ],
+                [
+                    166.0,
+                    253.0
+                ],
+                [
+                    166.0,
+                    251.0
+                ],
+                [
+                    167.0,
+                    251.0
+                ],
+                [
+                    167.0,
+                    248.0
+                ],
+                [
+                    168.0,
+                    248.0
+                ],
+                [
+                    168.0,
+                    246.0
+                ],
+                [
+                    167.0,
+                    246.0
+                ],
+                [
+                    167.0,
+                    245.0
+                ],
+                [
+                    166.0,
+                    245.0
+                ],
+                [
+                    166.0,
+                    244.0
+                ],
+                [
+                    163.0,
+                    244.0
+                ],
+                [
+                    163.0,
+                    243.0
+                ],
+                [
+                    160.0,
+                    243.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the edifice featuring beige walls and a red-tiled roof set against a backdrop of brown mountains.",
+        "Identify the structure that has a red roof made of tiles and beige-colored walls, positioned before a brown mountain range.",
+        "Spot the building characterized by its red-tiled roof and beige walls, with brown mountains in the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004833.jpg",
+            "points": [
+                [
+                    468.0,
+                    202.0
+                ],
+                [
+                    468.0,
+                    203.0
+                ],
+                [
+                    466.0,
+                    203.0
+                ],
+                [
+                    466.0,
+                    204.0
+                ],
+                [
+                    465.0,
+                    204.0
+                ],
+                [
+                    465.0,
+                    213.0
+                ],
+                [
+                    471.0,
+                    213.0
+                ],
+                [
+                    471.0,
+                    214.0
+                ],
+                [
+                    485.0,
+                    214.0
+                ],
+                [
+                    485.0,
+                    215.0
+                ],
+                [
+                    494.0,
+                    215.0
+                ],
+                [
+                    494.0,
+                    214.0
+                ],
+                [
+                    495.0,
+                    214.0
+                ],
+                [
+                    495.0,
+                    213.0
+                ],
+                [
+                    496.0,
+                    213.0
+                ],
+                [
+                    496.0,
+                    212.0
+                ],
+                [
+                    497.0,
+                    212.0
+                ],
+                [
+                    497.0,
+                    206.0
+                ],
+                [
+                    496.0,
+                    206.0
+                ],
+                [
+                    496.0,
+                    205.0
+                ],
+                [
+                    494.0,
+                    205.0
+                ],
+                [
+                    494.0,
+                    204.0
+                ],
+                [
+                    489.0,
+                    204.0
+                ],
+                [
+                    489.0,
+                    203.0
+                ],
+                [
+                    482.0,
+                    203.0
+                ],
+                [
+                    482.0,
+                    202.0
+                ],
+                [
+                    468.0,
+                    202.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

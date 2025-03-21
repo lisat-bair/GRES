@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the car that has a vivid red hue, sleek rounded edges, and shiny accents.",
+        "Find the automobile characterized by its striking red shade, smooth curved lines, and glossy highlights.",
+        "Spot the vehicle distinguished by its bright red color, gently curved contours, and reflective details."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026244.jpg",
+            "points": [
+                [
+                    24.0,
+                    69.0
+                ],
+                [
+                    24.0,
+                    70.0
+                ],
+                [
+                    21.0,
+                    70.0
+                ],
+                [
+                    21.0,
+                    71.0
+                ],
+                [
+                    18.0,
+                    71.0
+                ],
+                [
+                    18.0,
+                    72.0
+                ],
+                [
+                    16.0,
+                    72.0
+                ],
+                [
+                    16.0,
+                    76.0
+                ],
+                [
+                    17.0,
+                    76.0
+                ],
+                [
+                    17.0,
+                    77.0
+                ],
+                [
+                    18.0,
+                    77.0
+                ],
+                [
+                    18.0,
+                    78.0
+                ],
+                [
+                    25.0,
+                    78.0
+                ],
+                [
+                    25.0,
+                    77.0
+                ],
+                [
+                    29.0,
+                    77.0
+                ],
+                [
+                    29.0,
+                    72.0
+                ],
+                [
+                    28.0,
+                    72.0
+                ],
+                [
+                    28.0,
+                    70.0
+                ],
+                [
+                    27.0,
+                    70.0
+                ],
+                [
+                    27.0,
+                    69.0
+                ],
+                [
+                    24.0,
+                    69.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

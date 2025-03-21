@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Identify the building in the picture, even though it lacks sufficient detail for recognition or separation.",
+        "Spot the structure within the image, even if it doesn't have enough detail for clear identification or division.",
+        "Find the edifice in the photograph, despite the insufficient detail for distinguishing or segmenting it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015097.jpg",
+            "points": [
+                [
+                    0.0,
+                    497.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    95.0,
+                    512.0
+                ],
+                [
+                    95.0,
+                    511.0
+                ],
+                [
+                    92.0,
+                    511.0
+                ],
+                [
+                    92.0,
+                    510.0
+                ],
+                [
+                    85.0,
+                    510.0
+                ],
+                [
+                    85.0,
+                    509.0
+                ],
+                [
+                    79.0,
+                    509.0
+                ],
+                [
+                    79.0,
+                    508.0
+                ],
+                [
+                    72.0,
+                    508.0
+                ],
+                [
+                    72.0,
+                    507.0
+                ],
+                [
+                    65.0,
+                    507.0
+                ],
+                [
+                    65.0,
+                    506.0
+                ],
+                [
+                    59.0,
+                    506.0
+                ],
+                [
+                    59.0,
+                    505.0
+                ],
+                [
+                    53.0,
+                    505.0
+                ],
+                [
+                    53.0,
+                    504.0
+                ],
+                [
+                    46.0,
+                    504.0
+                ],
+                [
+                    46.0,
+                    503.0
+                ],
+                [
+                    40.0,
+                    503.0
+                ],
+                [
+                    40.0,
+                    502.0
+                ],
+                [
+                    34.0,
+                    502.0
+                ],
+                [
+                    34.0,
+                    501.0
+                ],
+                [
+                    27.0,
+                    501.0
+                ],
+                [
+                    27.0,
+                    500.0
+                ],
+                [
+                    21.0,
+                    500.0
+                ],
+                [
+                    21.0,
+                    499.0
+                ],
+                [
+                    14.0,
+                    499.0
+                ],
+                [
+                    14.0,
+                    498.0
+                ],
+                [
+                    7.0,
+                    498.0
+                ],
+                [
+                    7.0,
+                    497.0
+                ],
+                [
+                    0.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

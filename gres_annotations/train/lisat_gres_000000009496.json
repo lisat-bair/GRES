@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Look for the tent by recognizing its triangular design and pale fabric.",
+        "Spot the tent by noting its light-colored material and triangular form.",
+        "Find the tent by observing its triangle-like shape and light-toned cloth."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009496.jpg",
+            "points": [
+                [
+                    1.0,
+                    267.0
+                ],
+                [
+                    1.0,
+                    269.0
+                ],
+                [
+                    0.0,
+                    269.0
+                ],
+                [
+                    0.0,
+                    280.0
+                ],
+                [
+                    5.0,
+                    280.0
+                ],
+                [
+                    5.0,
+                    279.0
+                ],
+                [
+                    6.0,
+                    279.0
+                ],
+                [
+                    6.0,
+                    275.0
+                ],
+                [
+                    7.0,
+                    275.0
+                ],
+                [
+                    7.0,
+                    269.0
+                ],
+                [
+                    6.0,
+                    269.0
+                ],
+                [
+                    6.0,
+                    267.0
+                ],
+                [
+                    1.0,
+                    267.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

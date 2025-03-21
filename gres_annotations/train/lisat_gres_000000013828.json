@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the automobile by spotting the rectangular form with shiny surfaces and sharp borders.",
+        "Locate the vehicle by identifying the rectangular object with mirror-like surfaces and clear-cut edges.",
+        "Spot the car by recognizing the rectangle-shaped area that has reflective surfaces and well-defined contours."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013828.jpg",
+            "points": [
+                [
+                    466.0,
+                    463.0
+                ],
+                [
+                    466.0,
+                    464.0
+                ],
+                [
+                    463.0,
+                    464.0
+                ],
+                [
+                    463.0,
+                    466.0
+                ],
+                [
+                    462.0,
+                    466.0
+                ],
+                [
+                    462.0,
+                    468.0
+                ],
+                [
+                    463.0,
+                    468.0
+                ],
+                [
+                    463.0,
+                    472.0
+                ],
+                [
+                    465.0,
+                    472.0
+                ],
+                [
+                    465.0,
+                    473.0
+                ],
+                [
+                    470.0,
+                    473.0
+                ],
+                [
+                    470.0,
+                    472.0
+                ],
+                [
+                    472.0,
+                    472.0
+                ],
+                [
+                    472.0,
+                    466.0
+                ],
+                [
+                    471.0,
+                    466.0
+                ],
+                [
+                    471.0,
+                    465.0
+                ],
+                [
+                    470.0,
+                    465.0
+                ],
+                [
+                    470.0,
+                    464.0
+                ],
+                [
+                    467.0,
+                    464.0
+                ],
+                [
+                    467.0,
+                    463.0
+                ],
+                [
+                    466.0,
+                    463.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

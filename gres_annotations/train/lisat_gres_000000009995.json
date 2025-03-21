@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the structure with a unique pale gray triangular roof that contrasts with the darker environment.",
+        "Locate the edifice featuring a light gray triangular roof that is prominent against the darker background.",
+        "Find the building characterized by a distinct light gray triangular roof that stands out from the darker surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009995.jpg",
+            "points": [
+                [
+                    249.0,
+                    104.0
+                ],
+                [
+                    249.0,
+                    105.0
+                ],
+                [
+                    242.0,
+                    105.0
+                ],
+                [
+                    242.0,
+                    106.0
+                ],
+                [
+                    237.0,
+                    106.0
+                ],
+                [
+                    237.0,
+                    107.0
+                ],
+                [
+                    235.0,
+                    107.0
+                ],
+                [
+                    235.0,
+                    108.0
+                ],
+                [
+                    233.0,
+                    108.0
+                ],
+                [
+                    233.0,
+                    110.0
+                ],
+                [
+                    232.0,
+                    110.0
+                ],
+                [
+                    232.0,
+                    125.0
+                ],
+                [
+                    233.0,
+                    125.0
+                ],
+                [
+                    233.0,
+                    129.0
+                ],
+                [
+                    253.0,
+                    129.0
+                ],
+                [
+                    253.0,
+                    128.0
+                ],
+                [
+                    260.0,
+                    128.0
+                ],
+                [
+                    260.0,
+                    127.0
+                ],
+                [
+                    261.0,
+                    127.0
+                ],
+                [
+                    261.0,
+                    109.0
+                ],
+                [
+                    260.0,
+                    109.0
+                ],
+                [
+                    260.0,
+                    106.0
+                ],
+                [
+                    259.0,
+                    106.0
+                ],
+                [
+                    259.0,
+                    105.0
+                ],
+                [
+                    257.0,
+                    105.0
+                ],
+                [
+                    257.0,
+                    104.0
+                ],
+                [
+                    249.0,
+                    104.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

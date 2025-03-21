@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the light-colored rectangle on the dark background to locate the truck in the picture.",
+        "To spot the truck in the image, search for the bright rectangular shape set against the dark backdrop.",
+        "Find the truck in the photo by identifying the pale rectangle contrasting with the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025913.jpg",
+            "points": [
+                [
+                    430.0,
+                    188.0
+                ],
+                [
+                    430.0,
+                    189.0
+                ],
+                [
+                    429.0,
+                    189.0
+                ],
+                [
+                    429.0,
+                    190.0
+                ],
+                [
+                    427.0,
+                    190.0
+                ],
+                [
+                    427.0,
+                    191.0
+                ],
+                [
+                    425.0,
+                    191.0
+                ],
+                [
+                    425.0,
+                    192.0
+                ],
+                [
+                    424.0,
+                    192.0
+                ],
+                [
+                    424.0,
+                    193.0
+                ],
+                [
+                    423.0,
+                    193.0
+                ],
+                [
+                    423.0,
+                    195.0
+                ],
+                [
+                    424.0,
+                    195.0
+                ],
+                [
+                    424.0,
+                    197.0
+                ],
+                [
+                    425.0,
+                    197.0
+                ],
+                [
+                    425.0,
+                    198.0
+                ],
+                [
+                    426.0,
+                    198.0
+                ],
+                [
+                    426.0,
+                    199.0
+                ],
+                [
+                    429.0,
+                    199.0
+                ],
+                [
+                    429.0,
+                    198.0
+                ],
+                [
+                    431.0,
+                    198.0
+                ],
+                [
+                    431.0,
+                    197.0
+                ],
+                [
+                    432.0,
+                    197.0
+                ],
+                [
+                    432.0,
+                    196.0
+                ],
+                [
+                    434.0,
+                    196.0
+                ],
+                [
+                    434.0,
+                    194.0
+                ],
+                [
+                    435.0,
+                    194.0
+                ],
+                [
+                    435.0,
+                    190.0
+                ],
+                [
+                    434.0,
+                    190.0
+                ],
+                [
+                    434.0,
+                    188.0
+                ],
+                [
+                    430.0,
+                    188.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

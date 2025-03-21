@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the car that has a uniform surface and clear boundaries.",
+        "Identify the automobile with a smooth texture and noticeable outlines.",
+        "Spot the vehicle that features an even texture and defined edges."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035381.jpg",
+            "points": [
+                [
+                    48.0,
+                    482.0
+                ],
+                [
+                    48.0,
+                    483.0
+                ],
+                [
+                    47.0,
+                    483.0
+                ],
+                [
+                    47.0,
+                    485.0
+                ],
+                [
+                    46.0,
+                    485.0
+                ],
+                [
+                    46.0,
+                    488.0
+                ],
+                [
+                    47.0,
+                    488.0
+                ],
+                [
+                    47.0,
+                    489.0
+                ],
+                [
+                    48.0,
+                    489.0
+                ],
+                [
+                    48.0,
+                    490.0
+                ],
+                [
+                    52.0,
+                    490.0
+                ],
+                [
+                    52.0,
+                    491.0
+                ],
+                [
+                    59.0,
+                    491.0
+                ],
+                [
+                    59.0,
+                    492.0
+                ],
+                [
+                    62.0,
+                    492.0
+                ],
+                [
+                    62.0,
+                    491.0
+                ],
+                [
+                    63.0,
+                    491.0
+                ],
+                [
+                    63.0,
+                    486.0
+                ],
+                [
+                    62.0,
+                    486.0
+                ],
+                [
+                    62.0,
+                    485.0
+                ],
+                [
+                    59.0,
+                    485.0
+                ],
+                [
+                    59.0,
+                    484.0
+                ],
+                [
+                    56.0,
+                    484.0
+                ],
+                [
+                    56.0,
+                    483.0
+                ],
+                [
+                    52.0,
+                    483.0
+                ],
+                [
+                    52.0,
+                    482.0
+                ],
+                [
+                    48.0,
+                    482.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

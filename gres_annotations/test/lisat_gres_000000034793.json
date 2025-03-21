@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Identify the truck with a large rectangular shape, featuring angular edges and a prominent vertical alignment, contrasting against the dark background and lighter areas."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034793.jpg",
+            "points": [
+                [
+                    436.0,
+                    195.0
+                ],
+                [
+                    436.0,
+                    197.0
+                ],
+                [
+                    435.0,
+                    197.0
+                ],
+                [
+                    435.0,
+                    201.0
+                ],
+                [
+                    436.0,
+                    201.0
+                ],
+                [
+                    436.0,
+                    202.0
+                ],
+                [
+                    443.0,
+                    202.0
+                ],
+                [
+                    443.0,
+                    203.0
+                ],
+                [
+                    449.0,
+                    203.0
+                ],
+                [
+                    449.0,
+                    204.0
+                ],
+                [
+                    452.0,
+                    204.0
+                ],
+                [
+                    452.0,
+                    203.0
+                ],
+                [
+                    453.0,
+                    203.0
+                ],
+                [
+                    453.0,
+                    198.0
+                ],
+                [
+                    452.0,
+                    198.0
+                ],
+                [
+                    452.0,
+                    197.0
+                ],
+                [
+                    451.0,
+                    197.0
+                ],
+                [
+                    451.0,
+                    196.0
+                ],
+                [
+                    448.0,
+                    196.0
+                ],
+                [
+                    448.0,
+                    195.0
+                ],
+                [
+                    436.0,
+                    195.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

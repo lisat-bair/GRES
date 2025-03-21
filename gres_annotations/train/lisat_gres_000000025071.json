@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Point out the structure in the picture that lacks any visible features because of its dark brown hue.",
+        "Locate the edifice in the photo where no distinguishing characteristics can be seen owing to its dark brown shade.",
+        "Find the construction in the image that has no noticeable traits visible because of its dark brown coloration."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025071.jpg",
+            "points": [
+                [
+                    507.0,
+                    491.0
+                ],
+                [
+                    507.0,
+                    492.0
+                ],
+                [
+                    506.0,
+                    492.0
+                ],
+                [
+                    506.0,
+                    493.0
+                ],
+                [
+                    505.0,
+                    493.0
+                ],
+                [
+                    505.0,
+                    494.0
+                ],
+                [
+                    504.0,
+                    494.0
+                ],
+                [
+                    504.0,
+                    496.0
+                ],
+                [
+                    505.0,
+                    496.0
+                ],
+                [
+                    505.0,
+                    499.0
+                ],
+                [
+                    504.0,
+                    499.0
+                ],
+                [
+                    504.0,
+                    500.0
+                ],
+                [
+                    503.0,
+                    500.0
+                ],
+                [
+                    503.0,
+                    505.0
+                ],
+                [
+                    504.0,
+                    505.0
+                ],
+                [
+                    504.0,
+                    506.0
+                ],
+                [
+                    503.0,
+                    506.0
+                ],
+                [
+                    503.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    499.0
+                ],
+                [
+                    511.0,
+                    499.0
+                ],
+                [
+                    511.0,
+                    497.0
+                ],
+                [
+                    512.0,
+                    497.0
+                ],
+                [
+                    512.0,
+                    492.0
+                ],
+                [
+                    508.0,
+                    492.0
+                ],
+                [
+                    508.0,
+                    491.0
+                ],
+                [
+                    507.0,
+                    491.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

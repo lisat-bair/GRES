@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the truck positioned in the middle of the picture.",
+        "Identify the truck situated at the center of the image.",
+        "Spot the truck placed in the image's center."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031933.jpg",
+            "points": [
+                [
+                    280.0,
+                    247.0
+                ],
+                [
+                    280.0,
+                    249.0
+                ],
+                [
+                    279.0,
+                    249.0
+                ],
+                [
+                    279.0,
+                    267.0
+                ],
+                [
+                    283.0,
+                    267.0
+                ],
+                [
+                    283.0,
+                    268.0
+                ],
+                [
+                    287.0,
+                    268.0
+                ],
+                [
+                    287.0,
+                    267.0
+                ],
+                [
+                    288.0,
+                    267.0
+                ],
+                [
+                    288.0,
+                    266.0
+                ],
+                [
+                    289.0,
+                    266.0
+                ],
+                [
+                    289.0,
+                    249.0
+                ],
+                [
+                    288.0,
+                    249.0
+                ],
+                [
+                    288.0,
+                    248.0
+                ],
+                [
+                    287.0,
+                    248.0
+                ],
+                [
+                    287.0,
+                    247.0
+                ],
+                [
+                    280.0,
+                    247.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

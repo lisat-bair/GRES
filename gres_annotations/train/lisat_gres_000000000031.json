@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Identify the well-known equipment utilized for earth-moving operations, distinguished by its big, yellow frame, wheels, and metallic appendages.",
+        "Locate the widely-used machine for earth-moving activities, marked by its sizable, yellow structure, tires, and metal fittings.",
+        "Discover the popular apparatus employed for moving earth, noted for its large, yellow body, wheels, and metal accessories."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000031.jpg",
+            "points": [
+                [
+                    287.0,
+                    5.0
+                ],
+                [
+                    287.0,
+                    6.0
+                ],
+                [
+                    285.0,
+                    6.0
+                ],
+                [
+                    285.0,
+                    7.0
+                ],
+                [
+                    284.0,
+                    7.0
+                ],
+                [
+                    284.0,
+                    14.0
+                ],
+                [
+                    285.0,
+                    14.0
+                ],
+                [
+                    285.0,
+                    15.0
+                ],
+                [
+                    295.0,
+                    15.0
+                ],
+                [
+                    295.0,
+                    14.0
+                ],
+                [
+                    297.0,
+                    14.0
+                ],
+                [
+                    297.0,
+                    13.0
+                ],
+                [
+                    298.0,
+                    13.0
+                ],
+                [
+                    298.0,
+                    7.0
+                ],
+                [
+                    297.0,
+                    7.0
+                ],
+                [
+                    297.0,
+                    6.0
+                ],
+                [
+                    295.0,
+                    6.0
+                ],
+                [
+                    295.0,
+                    5.0
+                ],
+                [
+                    287.0,
+                    5.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

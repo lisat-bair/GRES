@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the rectangular shed that has a light roof contrasting with the darker environment.",
+        "Find the shed that is rectangular in form with a pale roof among the darker setting.",
+        "Spot the rectangularly shaped shed that features a light-colored roof against the darker backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011629.jpg",
+            "points": [
+                [
+                    365.0,
+                    256.0
+                ],
+                [
+                    365.0,
+                    257.0
+                ],
+                [
+                    364.0,
+                    257.0
+                ],
+                [
+                    364.0,
+                    259.0
+                ],
+                [
+                    363.0,
+                    259.0
+                ],
+                [
+                    363.0,
+                    262.0
+                ],
+                [
+                    362.0,
+                    262.0
+                ],
+                [
+                    362.0,
+                    266.0
+                ],
+                [
+                    361.0,
+                    266.0
+                ],
+                [
+                    361.0,
+                    269.0
+                ],
+                [
+                    360.0,
+                    269.0
+                ],
+                [
+                    360.0,
+                    270.0
+                ],
+                [
+                    361.0,
+                    270.0
+                ],
+                [
+                    361.0,
+                    272.0
+                ],
+                [
+                    365.0,
+                    272.0
+                ],
+                [
+                    365.0,
+                    273.0
+                ],
+                [
+                    370.0,
+                    273.0
+                ],
+                [
+                    370.0,
+                    272.0
+                ],
+                [
+                    371.0,
+                    272.0
+                ],
+                [
+                    371.0,
+                    268.0
+                ],
+                [
+                    372.0,
+                    268.0
+                ],
+                [
+                    372.0,
+                    266.0
+                ],
+                [
+                    373.0,
+                    266.0
+                ],
+                [
+                    373.0,
+                    261.0
+                ],
+                [
+                    374.0,
+                    261.0
+                ],
+                [
+                    374.0,
+                    258.0
+                ],
+                [
+                    373.0,
+                    258.0
+                ],
+                [
+                    373.0,
+                    257.0
+                ],
+                [
+                    372.0,
+                    257.0
+                ],
+                [
+                    372.0,
+                    256.0
+                ],
+                [
+                    365.0,
+                    256.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

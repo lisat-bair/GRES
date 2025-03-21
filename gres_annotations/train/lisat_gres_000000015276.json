@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the truck that has a unique white cab and an extended trailer.",
+        "Identify the vehicle featuring a prominent white cab and a lengthy trailer.",
+        "Spot the truck sporting a notable white cab along with a long trailer."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015276.jpg",
+            "points": [
+                [
+                    0.0,
+                    80.0
+                ],
+                [
+                    0.0,
+                    99.0
+                ],
+                [
+                    1.0,
+                    99.0
+                ],
+                [
+                    1.0,
+                    98.0
+                ],
+                [
+                    2.0,
+                    98.0
+                ],
+                [
+                    2.0,
+                    96.0
+                ],
+                [
+                    3.0,
+                    96.0
+                ],
+                [
+                    3.0,
+                    91.0
+                ],
+                [
+                    4.0,
+                    91.0
+                ],
+                [
+                    4.0,
+                    86.0
+                ],
+                [
+                    3.0,
+                    86.0
+                ],
+                [
+                    3.0,
+                    84.0
+                ],
+                [
+                    4.0,
+                    84.0
+                ],
+                [
+                    4.0,
+                    83.0
+                ],
+                [
+                    3.0,
+                    83.0
+                ],
+                [
+                    3.0,
+                    81.0
+                ],
+                [
+                    2.0,
+                    81.0
+                ],
+                [
+                    2.0,
+                    80.0
+                ],
+                [
+                    0.0,
+                    80.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

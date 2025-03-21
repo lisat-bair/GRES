@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the truck that is rectangular and light beige in the middle, encircled by darker hues, resembling a front-on perspective.",
+        "Spot the truck that has a rectangular form and a light beige hue at its center, bordered by darker shades, looking like it's viewed from the front.",
+        "Identify the truck with a rectangular outline and a light beige center, encompassed by darker tones, as if viewed from the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026588.jpg",
+            "points": [
+                [
+                    98.0,
+                    304.0
+                ],
+                [
+                    98.0,
+                    305.0
+                ],
+                [
+                    97.0,
+                    305.0
+                ],
+                [
+                    97.0,
+                    306.0
+                ],
+                [
+                    96.0,
+                    306.0
+                ],
+                [
+                    96.0,
+                    310.0
+                ],
+                [
+                    95.0,
+                    310.0
+                ],
+                [
+                    95.0,
+                    318.0
+                ],
+                [
+                    94.0,
+                    318.0
+                ],
+                [
+                    94.0,
+                    326.0
+                ],
+                [
+                    95.0,
+                    326.0
+                ],
+                [
+                    95.0,
+                    329.0
+                ],
+                [
+                    96.0,
+                    329.0
+                ],
+                [
+                    96.0,
+                    330.0
+                ],
+                [
+                    97.0,
+                    330.0
+                ],
+                [
+                    97.0,
+                    331.0
+                ],
+                [
+                    99.0,
+                    331.0
+                ],
+                [
+                    99.0,
+                    332.0
+                ],
+                [
+                    104.0,
+                    332.0
+                ],
+                [
+                    104.0,
+                    331.0
+                ],
+                [
+                    106.0,
+                    331.0
+                ],
+                [
+                    106.0,
+                    329.0
+                ],
+                [
+                    107.0,
+                    329.0
+                ],
+                [
+                    107.0,
+                    319.0
+                ],
+                [
+                    108.0,
+                    319.0
+                ],
+                [
+                    108.0,
+                    308.0
+                ],
+                [
+                    107.0,
+                    308.0
+                ],
+                [
+                    107.0,
+                    305.0
+                ],
+                [
+                    105.0,
+                    305.0
+                ],
+                [
+                    105.0,
+                    304.0
+                ],
+                [
+                    98.0,
+                    304.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

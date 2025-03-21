@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the vehicle that has a unique red hue, shiny finish, and easily identifiable design.",
+        "Find the automobile that features a standout red shade, polished exterior, and notable form.",
+        "Spot the car with an exceptional red tint, sleek surface, and distinct silhouette."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028904.jpg",
+            "points": [
+                [
+                    362.0,
+                    361.0
+                ],
+                [
+                    362.0,
+                    362.0
+                ],
+                [
+                    361.0,
+                    362.0
+                ],
+                [
+                    361.0,
+                    363.0
+                ],
+                [
+                    360.0,
+                    363.0
+                ],
+                [
+                    360.0,
+                    368.0
+                ],
+                [
+                    361.0,
+                    368.0
+                ],
+                [
+                    361.0,
+                    370.0
+                ],
+                [
+                    362.0,
+                    370.0
+                ],
+                [
+                    362.0,
+                    371.0
+                ],
+                [
+                    363.0,
+                    371.0
+                ],
+                [
+                    363.0,
+                    372.0
+                ],
+                [
+                    364.0,
+                    372.0
+                ],
+                [
+                    364.0,
+                    373.0
+                ],
+                [
+                    368.0,
+                    373.0
+                ],
+                [
+                    368.0,
+                    371.0
+                ],
+                [
+                    369.0,
+                    371.0
+                ],
+                [
+                    369.0,
+                    365.0
+                ],
+                [
+                    368.0,
+                    365.0
+                ],
+                [
+                    368.0,
+                    363.0
+                ],
+                [
+                    367.0,
+                    363.0
+                ],
+                [
+                    367.0,
+                    362.0
+                ],
+                [
+                    366.0,
+                    362.0
+                ],
+                [
+                    366.0,
+                    361.0
+                ],
+                [
+                    362.0,
+                    361.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

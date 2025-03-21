@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the structure situated in the upper-left section of the picture.",
+        "Point out the edifice found in the top-left quadrant of the photograph.",
+        "Determine the construction located in the top-left area of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023164.jpg",
+            "points": [
+                [
+                    44.0,
+                    0.0
+                ],
+                [
+                    44.0,
+                    1.0
+                ],
+                [
+                    45.0,
+                    1.0
+                ],
+                [
+                    45.0,
+                    2.0
+                ],
+                [
+                    46.0,
+                    2.0
+                ],
+                [
+                    46.0,
+                    3.0
+                ],
+                [
+                    47.0,
+                    3.0
+                ],
+                [
+                    47.0,
+                    4.0
+                ],
+                [
+                    51.0,
+                    4.0
+                ],
+                [
+                    51.0,
+                    5.0
+                ],
+                [
+                    68.0,
+                    5.0
+                ],
+                [
+                    68.0,
+                    6.0
+                ],
+                [
+                    70.0,
+                    6.0
+                ],
+                [
+                    70.0,
+                    5.0
+                ],
+                [
+                    75.0,
+                    5.0
+                ],
+                [
+                    75.0,
+                    4.0
+                ],
+                [
+                    76.0,
+                    4.0
+                ],
+                [
+                    76.0,
+                    3.0
+                ],
+                [
+                    77.0,
+                    3.0
+                ],
+                [
+                    77.0,
+                    2.0
+                ],
+                [
+                    80.0,
+                    2.0
+                ],
+                [
+                    80.0,
+                    1.0
+                ],
+                [
+                    81.0,
+                    1.0
+                ],
+                [
+                    81.0,
+                    0.0
+                ],
+                [
+                    44.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the car that features a unique chevron logo on its front grille.",
+        "Identify the passenger vehicle that displays a chevron-shaped emblem on the grille.",
+        "Spot the automobile with the distinctive chevron symbol prominently placed on its front grille."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009460.jpg",
+            "points": [
+                [
+                    56.0,
+                    0.0
+                ],
+                [
+                    56.0,
+                    4.0
+                ],
+                [
+                    57.0,
+                    4.0
+                ],
+                [
+                    57.0,
+                    5.0
+                ],
+                [
+                    58.0,
+                    5.0
+                ],
+                [
+                    58.0,
+                    7.0
+                ],
+                [
+                    61.0,
+                    7.0
+                ],
+                [
+                    61.0,
+                    6.0
+                ],
+                [
+                    62.0,
+                    6.0
+                ],
+                [
+                    62.0,
+                    5.0
+                ],
+                [
+                    64.0,
+                    5.0
+                ],
+                [
+                    64.0,
+                    4.0
+                ],
+                [
+                    65.0,
+                    4.0
+                ],
+                [
+                    65.0,
+                    2.0
+                ],
+                [
+                    66.0,
+                    2.0
+                ],
+                [
+                    66.0,
+                    0.0
+                ],
+                [
+                    56.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that generally has a big yellow body and a spacious, deep bed for carrying loose materials.",
+        "Locate the type of vehicle that often features a large yellow structure and a broad, deep cargo area intended for moving loose substances.",
+        "Spot the vehicle characterized by its substantial yellow body and expansive, deep cargo bed used for transporting loose items."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017984.jpg",
+            "points": [
+                [
+                    508.0,
+                    409.0
+                ],
+                [
+                    508.0,
+                    410.0
+                ],
+                [
+                    500.0,
+                    410.0
+                ],
+                [
+                    500.0,
+                    411.0
+                ],
+                [
+                    492.0,
+                    411.0
+                ],
+                [
+                    492.0,
+                    412.0
+                ],
+                [
+                    490.0,
+                    412.0
+                ],
+                [
+                    490.0,
+                    413.0
+                ],
+                [
+                    489.0,
+                    413.0
+                ],
+                [
+                    489.0,
+                    418.0
+                ],
+                [
+                    490.0,
+                    418.0
+                ],
+                [
+                    490.0,
+                    421.0
+                ],
+                [
+                    491.0,
+                    421.0
+                ],
+                [
+                    491.0,
+                    422.0
+                ],
+                [
+                    492.0,
+                    422.0
+                ],
+                [
+                    492.0,
+                    423.0
+                ],
+                [
+                    497.0,
+                    423.0
+                ],
+                [
+                    497.0,
+                    422.0
+                ],
+                [
+                    502.0,
+                    422.0
+                ],
+                [
+                    502.0,
+                    421.0
+                ],
+                [
+                    512.0,
+                    421.0
+                ],
+                [
+                    512.0,
+                    409.0
+                ],
+                [
+                    508.0,
+                    409.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

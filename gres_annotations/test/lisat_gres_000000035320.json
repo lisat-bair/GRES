@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the bus in the image, despite the blurriness."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035320.jpg",
+            "points": [
+                [
+                    341.0,
+                    0.0
+                ],
+                [
+                    341.0,
+                    1.0
+                ],
+                [
+                    342.0,
+                    1.0
+                ],
+                [
+                    342.0,
+                    2.0
+                ],
+                [
+                    344.0,
+                    2.0
+                ],
+                [
+                    344.0,
+                    3.0
+                ],
+                [
+                    347.0,
+                    3.0
+                ],
+                [
+                    347.0,
+                    4.0
+                ],
+                [
+                    350.0,
+                    4.0
+                ],
+                [
+                    350.0,
+                    3.0
+                ],
+                [
+                    351.0,
+                    3.0
+                ],
+                [
+                    351.0,
+                    2.0
+                ],
+                [
+                    352.0,
+                    2.0
+                ],
+                [
+                    352.0,
+                    0.0
+                ],
+                [
+                    341.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

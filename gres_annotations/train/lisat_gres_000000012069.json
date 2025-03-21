@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the big vehicle featuring bright headlights and a noticeable rectangular form set against the dim background.",
+        "Locate the large automobile that has glaring headlights and a unique rectangular silhouette amidst the dark backdrop.",
+        "Find the sizable vehicle with shining headlights and a distinctive rectangular appearance contrasting the dark scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012069.jpg",
+            "points": [
+                [
+                    96.0,
+                    377.0
+                ],
+                [
+                    96.0,
+                    379.0
+                ],
+                [
+                    95.0,
+                    379.0
+                ],
+                [
+                    95.0,
+                    385.0
+                ],
+                [
+                    96.0,
+                    385.0
+                ],
+                [
+                    96.0,
+                    389.0
+                ],
+                [
+                    97.0,
+                    389.0
+                ],
+                [
+                    97.0,
+                    390.0
+                ],
+                [
+                    101.0,
+                    390.0
+                ],
+                [
+                    101.0,
+                    389.0
+                ],
+                [
+                    102.0,
+                    389.0
+                ],
+                [
+                    102.0,
+                    388.0
+                ],
+                [
+                    103.0,
+                    388.0
+                ],
+                [
+                    103.0,
+                    378.0
+                ],
+                [
+                    102.0,
+                    378.0
+                ],
+                [
+                    102.0,
+                    377.0
+                ],
+                [
+                    96.0,
+                    377.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

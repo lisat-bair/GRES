@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the bus that is large with a rectangular design and has windows along its side, usually in bright colors such as yellow or red.",
+        "Spot the bus characterized by its large rectangular form and windows on the side, often painted in eye-catching colors like yellow or red.",
+        "Find the bus that is sizable with a rectangular shape and side windows, typically adorned in vibrant colors like yellow or red."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027078.jpg",
+            "points": [
+                [
+                    111.0,
+                    77.0
+                ],
+                [
+                    111.0,
+                    78.0
+                ],
+                [
+                    110.0,
+                    78.0
+                ],
+                [
+                    110.0,
+                    79.0
+                ],
+                [
+                    109.0,
+                    79.0
+                ],
+                [
+                    109.0,
+                    83.0
+                ],
+                [
+                    108.0,
+                    83.0
+                ],
+                [
+                    108.0,
+                    87.0
+                ],
+                [
+                    107.0,
+                    87.0
+                ],
+                [
+                    107.0,
+                    93.0
+                ],
+                [
+                    108.0,
+                    93.0
+                ],
+                [
+                    108.0,
+                    94.0
+                ],
+                [
+                    113.0,
+                    94.0
+                ],
+                [
+                    113.0,
+                    92.0
+                ],
+                [
+                    114.0,
+                    92.0
+                ],
+                [
+                    114.0,
+                    89.0
+                ],
+                [
+                    115.0,
+                    89.0
+                ],
+                [
+                    115.0,
+                    85.0
+                ],
+                [
+                    116.0,
+                    85.0
+                ],
+                [
+                    116.0,
+                    82.0
+                ],
+                [
+                    117.0,
+                    82.0
+                ],
+                [
+                    117.0,
+                    79.0
+                ],
+                [
+                    116.0,
+                    79.0
+                ],
+                [
+                    116.0,
+                    78.0
+                ],
+                [
+                    115.0,
+                    78.0
+                ],
+                [
+                    115.0,
+                    77.0
+                ],
+                [
+                    111.0,
+                    77.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

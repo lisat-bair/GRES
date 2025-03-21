@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Determine the structure shown in the picture, even though it's dark.",
+        "Figure out which building is depicted in the image, despite the lack of light.",
+        "Recognize the edifice in the photo, even with the limited visibility."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002158.jpg",
+            "points": [
+                [
+                    318.0,
+                    0.0
+                ],
+                [
+                    318.0,
+                    8.0
+                ],
+                [
+                    319.0,
+                    8.0
+                ],
+                [
+                    319.0,
+                    9.0
+                ],
+                [
+                    321.0,
+                    9.0
+                ],
+                [
+                    321.0,
+                    10.0
+                ],
+                [
+                    322.0,
+                    10.0
+                ],
+                [
+                    322.0,
+                    11.0
+                ],
+                [
+                    325.0,
+                    11.0
+                ],
+                [
+                    325.0,
+                    12.0
+                ],
+                [
+                    339.0,
+                    12.0
+                ],
+                [
+                    339.0,
+                    11.0
+                ],
+                [
+                    342.0,
+                    11.0
+                ],
+                [
+                    342.0,
+                    10.0
+                ],
+                [
+                    343.0,
+                    10.0
+                ],
+                [
+                    343.0,
+                    9.0
+                ],
+                [
+                    344.0,
+                    9.0
+                ],
+                [
+                    344.0,
+                    7.0
+                ],
+                [
+                    345.0,
+                    7.0
+                ],
+                [
+                    345.0,
+                    6.0
+                ],
+                [
+                    344.0,
+                    6.0
+                ],
+                [
+                    344.0,
+                    5.0
+                ],
+                [
+                    345.0,
+                    5.0
+                ],
+                [
+                    345.0,
+                    2.0
+                ],
+                [
+                    344.0,
+                    2.0
+                ],
+                [
+                    344.0,
+                    0.0
+                ],
+                [
+                    318.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

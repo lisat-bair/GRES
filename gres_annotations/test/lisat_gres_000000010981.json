@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Identify the car in the bottom right of the image, ensuring the bounding box coordinates fit within the image dimensions."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010981.jpg",
+            "points": [
+                [
+                    380.0,
+                    497.0
+                ],
+                [
+                    380.0,
+                    498.0
+                ],
+                [
+                    379.0,
+                    498.0
+                ],
+                [
+                    379.0,
+                    504.0
+                ],
+                [
+                    381.0,
+                    504.0
+                ],
+                [
+                    381.0,
+                    505.0
+                ],
+                [
+                    387.0,
+                    505.0
+                ],
+                [
+                    387.0,
+                    506.0
+                ],
+                [
+                    393.0,
+                    506.0
+                ],
+                [
+                    393.0,
+                    505.0
+                ],
+                [
+                    395.0,
+                    505.0
+                ],
+                [
+                    395.0,
+                    503.0
+                ],
+                [
+                    396.0,
+                    503.0
+                ],
+                [
+                    396.0,
+                    500.0
+                ],
+                [
+                    395.0,
+                    500.0
+                ],
+                [
+                    395.0,
+                    499.0
+                ],
+                [
+                    394.0,
+                    499.0
+                ],
+                [
+                    394.0,
+                    498.0
+                ],
+                [
+                    389.0,
+                    498.0
+                ],
+                [
+                    389.0,
+                    497.0
+                ],
+                [
+                    380.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

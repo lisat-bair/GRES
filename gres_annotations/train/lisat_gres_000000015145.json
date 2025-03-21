@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the car by recognizing its metal exterior and unique body outlines.",
+        "Identify the vehicle by spotting the shiny metal surface and the characteristic shapes of its body.",
+        "Discover the car by noting the reflective metal finish and distinctive body curves typical of its structure."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015145.jpg",
+            "points": [
+                [
+                    511.0,
+                    10.0
+                ],
+                [
+                    511.0,
+                    11.0
+                ],
+                [
+                    508.0,
+                    11.0
+                ],
+                [
+                    508.0,
+                    12.0
+                ],
+                [
+                    507.0,
+                    12.0
+                ],
+                [
+                    507.0,
+                    13.0
+                ],
+                [
+                    506.0,
+                    13.0
+                ],
+                [
+                    506.0,
+                    14.0
+                ],
+                [
+                    507.0,
+                    14.0
+                ],
+                [
+                    507.0,
+                    17.0
+                ],
+                [
+                    508.0,
+                    17.0
+                ],
+                [
+                    508.0,
+                    18.0
+                ],
+                [
+                    509.0,
+                    18.0
+                ],
+                [
+                    509.0,
+                    20.0
+                ],
+                [
+                    510.0,
+                    20.0
+                ],
+                [
+                    510.0,
+                    21.0
+                ],
+                [
+                    511.0,
+                    21.0
+                ],
+                [
+                    511.0,
+                    22.0
+                ],
+                [
+                    512.0,
+                    22.0
+                ],
+                [
+                    512.0,
+                    10.0
+                ],
+                [
+                    511.0,
+                    10.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

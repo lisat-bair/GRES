@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Determine which truck is unclear and indistinct in the picture, making segmentation challenging.",
+        "Spot the truck that appears vague and lacks definition in the image, complicating the segmentation process.",
+        "Locate the truck that is blurry and lacks detail in the image, making it hard to segment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000568.jpg",
+            "points": [
+                [
+                    505.0,
+                    133.0
+                ],
+                [
+                    505.0,
+                    134.0
+                ],
+                [
+                    503.0,
+                    134.0
+                ],
+                [
+                    503.0,
+                    135.0
+                ],
+                [
+                    502.0,
+                    135.0
+                ],
+                [
+                    502.0,
+                    136.0
+                ],
+                [
+                    501.0,
+                    136.0
+                ],
+                [
+                    501.0,
+                    137.0
+                ],
+                [
+                    500.0,
+                    137.0
+                ],
+                [
+                    500.0,
+                    138.0
+                ],
+                [
+                    501.0,
+                    138.0
+                ],
+                [
+                    501.0,
+                    141.0
+                ],
+                [
+                    502.0,
+                    141.0
+                ],
+                [
+                    502.0,
+                    143.0
+                ],
+                [
+                    503.0,
+                    143.0
+                ],
+                [
+                    503.0,
+                    145.0
+                ],
+                [
+                    504.0,
+                    145.0
+                ],
+                [
+                    504.0,
+                    147.0
+                ],
+                [
+                    505.0,
+                    147.0
+                ],
+                [
+                    505.0,
+                    149.0
+                ],
+                [
+                    506.0,
+                    149.0
+                ],
+                [
+                    506.0,
+                    151.0
+                ],
+                [
+                    507.0,
+                    151.0
+                ],
+                [
+                    507.0,
+                    153.0
+                ],
+                [
+                    508.0,
+                    153.0
+                ],
+                [
+                    508.0,
+                    154.0
+                ],
+                [
+                    509.0,
+                    154.0
+                ],
+                [
+                    509.0,
+                    156.0
+                ],
+                [
+                    510.0,
+                    156.0
+                ],
+                [
+                    510.0,
+                    157.0
+                ],
+                [
+                    511.0,
+                    157.0
+                ],
+                [
+                    511.0,
+                    158.0
+                ],
+                [
+                    512.0,
+                    158.0
+                ],
+                [
+                    512.0,
+                    134.0
+                ],
+                [
+                    510.0,
+                    134.0
+                ],
+                [
+                    510.0,
+                    133.0
+                ],
+                [
+                    505.0,
+                    133.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

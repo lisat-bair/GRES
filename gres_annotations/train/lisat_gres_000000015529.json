@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Identify the structure in the picture that is rectangular and has a warm, reddish-brown hue.",
+        "Locate the edifice in the image characterized by its rectangular form and warm, reddish-brown color.",
+        "Spot the building in the photo that features a warm, reddish-brown tone and a rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015529.jpg",
+            "points": [
+                [
+                    204.0,
+                    225.0
+                ],
+                [
+                    204.0,
+                    226.0
+                ],
+                [
+                    203.0,
+                    226.0
+                ],
+                [
+                    203.0,
+                    232.0
+                ],
+                [
+                    202.0,
+                    232.0
+                ],
+                [
+                    202.0,
+                    247.0
+                ],
+                [
+                    203.0,
+                    247.0
+                ],
+                [
+                    203.0,
+                    248.0
+                ],
+                [
+                    204.0,
+                    248.0
+                ],
+                [
+                    204.0,
+                    249.0
+                ],
+                [
+                    206.0,
+                    249.0
+                ],
+                [
+                    206.0,
+                    250.0
+                ],
+                [
+                    209.0,
+                    250.0
+                ],
+                [
+                    209.0,
+                    251.0
+                ],
+                [
+                    214.0,
+                    251.0
+                ],
+                [
+                    214.0,
+                    250.0
+                ],
+                [
+                    217.0,
+                    250.0
+                ],
+                [
+                    217.0,
+                    249.0
+                ],
+                [
+                    218.0,
+                    249.0
+                ],
+                [
+                    218.0,
+                    248.0
+                ],
+                [
+                    219.0,
+                    248.0
+                ],
+                [
+                    219.0,
+                    243.0
+                ],
+                [
+                    220.0,
+                    243.0
+                ],
+                [
+                    220.0,
+                    241.0
+                ],
+                [
+                    219.0,
+                    241.0
+                ],
+                [
+                    219.0,
+                    239.0
+                ],
+                [
+                    218.0,
+                    239.0
+                ],
+                [
+                    218.0,
+                    237.0
+                ],
+                [
+                    217.0,
+                    237.0
+                ],
+                [
+                    217.0,
+                    231.0
+                ],
+                [
+                    216.0,
+                    231.0
+                ],
+                [
+                    216.0,
+                    227.0
+                ],
+                [
+                    215.0,
+                    227.0
+                ],
+                [
+                    215.0,
+                    226.0
+                ],
+                [
+                    213.0,
+                    226.0
+                ],
+                [
+                    213.0,
+                    225.0
+                ],
+                [
+                    204.0,
+                    225.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

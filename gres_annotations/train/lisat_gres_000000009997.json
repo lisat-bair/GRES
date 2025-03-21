@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the bus that stands out due to its rectangular form and noticeable wheels.",
+        "Locate the bus characterized by its unique rectangular shape and large wheels.",
+        "Spot the bus that is easily recognizable by its boxy design and large, prominent wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009997.jpg",
+            "points": [
+                [
+                    370.0,
+                    192.0
+                ],
+                [
+                    370.0,
+                    194.0
+                ],
+                [
+                    369.0,
+                    194.0
+                ],
+                [
+                    369.0,
+                    198.0
+                ],
+                [
+                    370.0,
+                    198.0
+                ],
+                [
+                    370.0,
+                    210.0
+                ],
+                [
+                    371.0,
+                    210.0
+                ],
+                [
+                    371.0,
+                    219.0
+                ],
+                [
+                    372.0,
+                    219.0
+                ],
+                [
+                    372.0,
+                    226.0
+                ],
+                [
+                    373.0,
+                    226.0
+                ],
+                [
+                    373.0,
+                    227.0
+                ],
+                [
+                    375.0,
+                    227.0
+                ],
+                [
+                    375.0,
+                    228.0
+                ],
+                [
+                    382.0,
+                    228.0
+                ],
+                [
+                    382.0,
+                    227.0
+                ],
+                [
+                    383.0,
+                    227.0
+                ],
+                [
+                    383.0,
+                    212.0
+                ],
+                [
+                    382.0,
+                    212.0
+                ],
+                [
+                    382.0,
+                    210.0
+                ],
+                [
+                    383.0,
+                    210.0
+                ],
+                [
+                    383.0,
+                    207.0
+                ],
+                [
+                    382.0,
+                    207.0
+                ],
+                [
+                    382.0,
+                    195.0
+                ],
+                [
+                    381.0,
+                    195.0
+                ],
+                [
+                    381.0,
+                    192.0
+                ],
+                [
+                    370.0,
+                    192.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

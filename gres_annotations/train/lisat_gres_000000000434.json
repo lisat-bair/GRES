@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the truck that has a white front and a dark frame against a brown setting.",
+        "Locate the truck featuring a white cab and a dark chassis against a brown backdrop.",
+        "Find the truck distinguished by a white cab and dark base within a brown environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000434.jpg",
+            "points": [
+                [
+                    399.0,
+                    364.0
+                ],
+                [
+                    399.0,
+                    365.0
+                ],
+                [
+                    394.0,
+                    365.0
+                ],
+                [
+                    394.0,
+                    366.0
+                ],
+                [
+                    393.0,
+                    366.0
+                ],
+                [
+                    393.0,
+                    367.0
+                ],
+                [
+                    392.0,
+                    367.0
+                ],
+                [
+                    392.0,
+                    370.0
+                ],
+                [
+                    393.0,
+                    370.0
+                ],
+                [
+                    393.0,
+                    371.0
+                ],
+                [
+                    394.0,
+                    371.0
+                ],
+                [
+                    394.0,
+                    372.0
+                ],
+                [
+                    395.0,
+                    372.0
+                ],
+                [
+                    395.0,
+                    373.0
+                ],
+                [
+                    398.0,
+                    373.0
+                ],
+                [
+                    398.0,
+                    374.0
+                ],
+                [
+                    399.0,
+                    374.0
+                ],
+                [
+                    399.0,
+                    375.0
+                ],
+                [
+                    407.0,
+                    375.0
+                ],
+                [
+                    407.0,
+                    374.0
+                ],
+                [
+                    408.0,
+                    374.0
+                ],
+                [
+                    408.0,
+                    372.0
+                ],
+                [
+                    409.0,
+                    372.0
+                ],
+                [
+                    409.0,
+                    367.0
+                ],
+                [
+                    408.0,
+                    367.0
+                ],
+                [
+                    408.0,
+                    366.0
+                ],
+                [
+                    407.0,
+                    366.0
+                ],
+                [
+                    407.0,
+                    365.0
+                ],
+                [
+                    405.0,
+                    365.0
+                ],
+                [
+                    405.0,
+                    364.0
+                ],
+                [
+                    399.0,
+                    364.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

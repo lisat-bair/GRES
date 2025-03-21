@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the structure that stands out due to its unique geometric form and contrasting hue with its surroundings.",
+        "Locate the edifice that features a unique shape and a color that differs from the environment around it.",
+        "Find the building characterized by its distinctive geometry and a color that contrasts with the nearby area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007065.jpg",
+            "points": [
+                [
+                    25.0,
+                    0.0
+                ],
+                [
+                    25.0,
+                    1.0
+                ],
+                [
+                    27.0,
+                    1.0
+                ],
+                [
+                    27.0,
+                    2.0
+                ],
+                [
+                    29.0,
+                    2.0
+                ],
+                [
+                    29.0,
+                    3.0
+                ],
+                [
+                    31.0,
+                    3.0
+                ],
+                [
+                    31.0,
+                    4.0
+                ],
+                [
+                    33.0,
+                    4.0
+                ],
+                [
+                    33.0,
+                    5.0
+                ],
+                [
+                    36.0,
+                    5.0
+                ],
+                [
+                    36.0,
+                    6.0
+                ],
+                [
+                    46.0,
+                    6.0
+                ],
+                [
+                    46.0,
+                    5.0
+                ],
+                [
+                    47.0,
+                    5.0
+                ],
+                [
+                    47.0,
+                    3.0
+                ],
+                [
+                    48.0,
+                    3.0
+                ],
+                [
+                    48.0,
+                    0.0
+                ],
+                [
+                    25.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

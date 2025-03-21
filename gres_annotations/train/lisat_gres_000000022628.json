@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the truck in the picture, which has a big, boxy form and a noticeable divide between the cab and the trailer, complete with wheels along its body and a metallic or muted color scheme.",
+        "Locate the truck in the image, defined by its large, rectangular design, a clear separation between the cab and trailer, wheels running along its length, and a metallic or neutral color appearance.",
+        "Find the truck in the photo, distinguished by its sizeable, rectangular shape, a distinct gap between the cab and trailer, with wheels along its sides and a metallic or subdued color tone."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022628.jpg",
+            "points": [
+                [
+                    157.0,
+                    81.0
+                ],
+                [
+                    157.0,
+                    82.0
+                ],
+                [
+                    156.0,
+                    82.0
+                ],
+                [
+                    156.0,
+                    90.0
+                ],
+                [
+                    157.0,
+                    90.0
+                ],
+                [
+                    157.0,
+                    92.0
+                ],
+                [
+                    156.0,
+                    92.0
+                ],
+                [
+                    156.0,
+                    96.0
+                ],
+                [
+                    157.0,
+                    96.0
+                ],
+                [
+                    157.0,
+                    98.0
+                ],
+                [
+                    163.0,
+                    98.0
+                ],
+                [
+                    163.0,
+                    97.0
+                ],
+                [
+                    164.0,
+                    97.0
+                ],
+                [
+                    164.0,
+                    95.0
+                ],
+                [
+                    165.0,
+                    95.0
+                ],
+                [
+                    165.0,
+                    91.0
+                ],
+                [
+                    164.0,
+                    91.0
+                ],
+                [
+                    164.0,
+                    83.0
+                ],
+                [
+                    163.0,
+                    83.0
+                ],
+                [
+                    163.0,
+                    82.0
+                ],
+                [
+                    162.0,
+                    82.0
+                ],
+                [
+                    162.0,
+                    81.0
+                ],
+                [
+                    157.0,
+                    81.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

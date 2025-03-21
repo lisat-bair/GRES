@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the vehicle that possesses a shiny metallic exterior and four wheels, characterized by an aerodynamic design typical of cars.",
+        "Find the automobile with a sleek metallic finish and four wheels, showcasing a streamlined form that suggests a car.",
+        "Spot the car that features a polished metallic surface and has four wheels, with a shape that is streamlined in the style of vehicles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011563.jpg",
+            "points": [
+                [
+                    350.0,
+                    21.0
+                ],
+                [
+                    350.0,
+                    22.0
+                ],
+                [
+                    349.0,
+                    22.0
+                ],
+                [
+                    349.0,
+                    24.0
+                ],
+                [
+                    348.0,
+                    24.0
+                ],
+                [
+                    348.0,
+                    27.0
+                ],
+                [
+                    347.0,
+                    27.0
+                ],
+                [
+                    347.0,
+                    34.0
+                ],
+                [
+                    348.0,
+                    34.0
+                ],
+                [
+                    348.0,
+                    36.0
+                ],
+                [
+                    355.0,
+                    36.0
+                ],
+                [
+                    355.0,
+                    35.0
+                ],
+                [
+                    356.0,
+                    35.0
+                ],
+                [
+                    356.0,
+                    28.0
+                ],
+                [
+                    357.0,
+                    28.0
+                ],
+                [
+                    357.0,
+                    23.0
+                ],
+                [
+                    356.0,
+                    23.0
+                ],
+                [
+                    356.0,
+                    22.0
+                ],
+                [
+                    355.0,
+                    22.0
+                ],
+                [
+                    355.0,
+                    21.0
+                ],
+                [
+                    350.0,
+                    21.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

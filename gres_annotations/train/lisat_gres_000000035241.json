@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Outline the car with a rectangular form and clear edges that stand out against the dark background.",
+        "Highlight the vehicle using a rectangular shape with sharp edges that contrast against the darker background.",
+        "Encapsulate the automobile in a rectangular silhouette with defined edges that are prominent against the shadowed backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035241.jpg",
+            "points": [
+                [
+                    3.0,
+                    77.0
+                ],
+                [
+                    3.0,
+                    78.0
+                ],
+                [
+                    2.0,
+                    78.0
+                ],
+                [
+                    2.0,
+                    79.0
+                ],
+                [
+                    1.0,
+                    79.0
+                ],
+                [
+                    1.0,
+                    81.0
+                ],
+                [
+                    0.0,
+                    81.0
+                ],
+                [
+                    0.0,
+                    92.0
+                ],
+                [
+                    5.0,
+                    92.0
+                ],
+                [
+                    5.0,
+                    91.0
+                ],
+                [
+                    7.0,
+                    91.0
+                ],
+                [
+                    7.0,
+                    90.0
+                ],
+                [
+                    8.0,
+                    90.0
+                ],
+                [
+                    8.0,
+                    86.0
+                ],
+                [
+                    9.0,
+                    86.0
+                ],
+                [
+                    9.0,
+                    80.0
+                ],
+                [
+                    10.0,
+                    80.0
+                ],
+                [
+                    10.0,
+                    79.0
+                ],
+                [
+                    9.0,
+                    79.0
+                ],
+                [
+                    9.0,
+                    78.0
+                ],
+                [
+                    8.0,
+                    78.0
+                ],
+                [
+                    8.0,
+                    77.0
+                ],
+                [
+                    3.0,
+                    77.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

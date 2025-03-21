@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the vehicle that stands out with its white hue and tinted windows, characterized by a curved design.",
+        "Find the automobile that is notable for its unique white paint and darkened windows, which has a smooth, rounded form.",
+        "Spot the car that features a striking white color and blackened windows, possessing a rounded appearance."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019621.jpg",
+            "points": [
+                [
+                    195.0,
+                    409.0
+                ],
+                [
+                    195.0,
+                    410.0
+                ],
+                [
+                    194.0,
+                    410.0
+                ],
+                [
+                    194.0,
+                    411.0
+                ],
+                [
+                    193.0,
+                    411.0
+                ],
+                [
+                    193.0,
+                    414.0
+                ],
+                [
+                    192.0,
+                    414.0
+                ],
+                [
+                    192.0,
+                    418.0
+                ],
+                [
+                    191.0,
+                    418.0
+                ],
+                [
+                    191.0,
+                    422.0
+                ],
+                [
+                    192.0,
+                    422.0
+                ],
+                [
+                    192.0,
+                    423.0
+                ],
+                [
+                    194.0,
+                    423.0
+                ],
+                [
+                    194.0,
+                    424.0
+                ],
+                [
+                    198.0,
+                    424.0
+                ],
+                [
+                    198.0,
+                    423.0
+                ],
+                [
+                    200.0,
+                    423.0
+                ],
+                [
+                    200.0,
+                    422.0
+                ],
+                [
+                    201.0,
+                    422.0
+                ],
+                [
+                    201.0,
+                    420.0
+                ],
+                [
+                    202.0,
+                    420.0
+                ],
+                [
+                    202.0,
+                    418.0
+                ],
+                [
+                    203.0,
+                    418.0
+                ],
+                [
+                    203.0,
+                    411.0
+                ],
+                [
+                    202.0,
+                    411.0
+                ],
+                [
+                    202.0,
+                    410.0
+                ],
+                [
+                    201.0,
+                    410.0
+                ],
+                [
+                    201.0,
+                    409.0
+                ],
+                [
+                    195.0,
+                    409.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

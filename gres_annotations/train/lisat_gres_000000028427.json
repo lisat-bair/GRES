@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the building that features a triangular or cone-shaped roof with natural hues that stand out against its surroundings.",
+        "Spot the structure that has a pointed or conical roof and earthy colors that differ from the nearby area.",
+        "Find the edifice with a triangular or conical top and tones that contrast with its environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028427.jpg",
+            "points": [
+                [
+                    297.0,
+                    16.0
+                ],
+                [
+                    297.0,
+                    17.0
+                ],
+                [
+                    296.0,
+                    17.0
+                ],
+                [
+                    296.0,
+                    37.0
+                ],
+                [
+                    297.0,
+                    37.0
+                ],
+                [
+                    297.0,
+                    38.0
+                ],
+                [
+                    303.0,
+                    38.0
+                ],
+                [
+                    303.0,
+                    39.0
+                ],
+                [
+                    314.0,
+                    39.0
+                ],
+                [
+                    314.0,
+                    38.0
+                ],
+                [
+                    315.0,
+                    38.0
+                ],
+                [
+                    315.0,
+                    37.0
+                ],
+                [
+                    316.0,
+                    37.0
+                ],
+                [
+                    316.0,
+                    33.0
+                ],
+                [
+                    317.0,
+                    33.0
+                ],
+                [
+                    317.0,
+                    21.0
+                ],
+                [
+                    318.0,
+                    21.0
+                ],
+                [
+                    318.0,
+                    18.0
+                ],
+                [
+                    317.0,
+                    18.0
+                ],
+                [
+                    317.0,
+                    16.0
+                ],
+                [
+                    302.0,
+                    16.0
+                ],
+                [
+                    302.0,
+                    17.0
+                ],
+                [
+                    301.0,
+                    17.0
+                ],
+                [
+                    301.0,
+                    16.0
+                ],
+                [
+                    297.0,
+                    16.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

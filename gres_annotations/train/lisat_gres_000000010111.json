@@ -1,0 +1,61 @@
+{
+    "text": [
+        "Find the vehicle characterized by its unique rectangular form and shiny metallic exterior, supported by round black wheels underneath.",
+        "Identify the automobile with a noticeable rectangular design and a metallic finish, equipped with circular black tires at the bottom.",
+        "Seek out the car that has a distinctive boxy shape and a metal surface, with black circular wheels at its foundation."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010111.jpg",
+            "points": [
+                [
+                    319.0,
+                    215.0
+                ],
+                [
+                    319.0,
+                    216.0
+                ],
+                [
+                    318.0,
+                    216.0
+                ],
+                [
+                    318.0,
+                    226.0
+                ],
+                [
+                    323.0,
+                    226.0
+                ],
+                [
+                    323.0,
+                    225.0
+                ],
+                [
+                    324.0,
+                    225.0
+                ],
+                [
+                    324.0,
+                    215.0
+                ],
+                [
+                    319.0,
+                    215.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

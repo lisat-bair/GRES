@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for the car that stands out from its surroundings, equipped with wheels and windows, while omitting its whereabouts.",
+        "Identify the vehicle that is distinct from the landscape, which includes wheels and windows, without mentioning where it is situated.",
+        "Search for the automobile that contrasts with its setting, featuring both wheels and windows, without indicating its precise location."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021914.jpg",
+            "points": [
+                [
+                    497.0,
+                    460.0
+                ],
+                [
+                    497.0,
+                    461.0
+                ],
+                [
+                    491.0,
+                    461.0
+                ],
+                [
+                    491.0,
+                    462.0
+                ],
+                [
+                    490.0,
+                    462.0
+                ],
+                [
+                    490.0,
+                    463.0
+                ],
+                [
+                    489.0,
+                    463.0
+                ],
+                [
+                    489.0,
+                    469.0
+                ],
+                [
+                    490.0,
+                    469.0
+                ],
+                [
+                    490.0,
+                    471.0
+                ],
+                [
+                    491.0,
+                    471.0
+                ],
+                [
+                    491.0,
+                    472.0
+                ],
+                [
+                    494.0,
+                    472.0
+                ],
+                [
+                    494.0,
+                    473.0
+                ],
+                [
+                    505.0,
+                    473.0
+                ],
+                [
+                    505.0,
+                    472.0
+                ],
+                [
+                    506.0,
+                    472.0
+                ],
+                [
+                    506.0,
+                    471.0
+                ],
+                [
+                    508.0,
+                    471.0
+                ],
+                [
+                    508.0,
+                    472.0
+                ],
+                [
+                    511.0,
+                    472.0
+                ],
+                [
+                    511.0,
+                    471.0
+                ],
+                [
+                    512.0,
+                    471.0
+                ],
+                [
+                    512.0,
+                    469.0
+                ],
+                [
+                    509.0,
+                    469.0
+                ],
+                [
+                    509.0,
+                    468.0
+                ],
+                [
+                    508.0,
+                    468.0
+                ],
+                [
+                    508.0,
+                    466.0
+                ],
+                [
+                    507.0,
+                    466.0
+                ],
+                [
+                    507.0,
+                    463.0
+                ],
+                [
+                    506.0,
+                    463.0
+                ],
+                [
+                    506.0,
+                    462.0
+                ],
+                [
+                    505.0,
+                    462.0
+                ],
+                [
+                    505.0,
+                    461.0
+                ],
+                [
+                    501.0,
+                    461.0
+                ],
+                [
+                    501.0,
+                    460.0
+                ],
+                [
+                    497.0,
+                    460.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

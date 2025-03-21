@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the truck that has a big, light-colored rectangle set against a darker backdrop.",
+        "Identify the vehicle that features a large light-hued rectangle on a dark background.",
+        "Spot the truck with a prominent light-colored rectangular form contrasting with the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002474.jpg",
+            "points": [
+                [
+                    146.0,
+                    468.0
+                ],
+                [
+                    146.0,
+                    469.0
+                ],
+                [
+                    144.0,
+                    469.0
+                ],
+                [
+                    144.0,
+                    471.0
+                ],
+                [
+                    143.0,
+                    471.0
+                ],
+                [
+                    143.0,
+                    474.0
+                ],
+                [
+                    142.0,
+                    474.0
+                ],
+                [
+                    142.0,
+                    479.0
+                ],
+                [
+                    141.0,
+                    479.0
+                ],
+                [
+                    141.0,
+                    483.0
+                ],
+                [
+                    142.0,
+                    483.0
+                ],
+                [
+                    142.0,
+                    484.0
+                ],
+                [
+                    148.0,
+                    484.0
+                ],
+                [
+                    148.0,
+                    483.0
+                ],
+                [
+                    150.0,
+                    483.0
+                ],
+                [
+                    150.0,
+                    481.0
+                ],
+                [
+                    151.0,
+                    481.0
+                ],
+                [
+                    151.0,
+                    477.0
+                ],
+                [
+                    152.0,
+                    477.0
+                ],
+                [
+                    152.0,
+                    474.0
+                ],
+                [
+                    153.0,
+                    474.0
+                ],
+                [
+                    153.0,
+                    471.0
+                ],
+                [
+                    152.0,
+                    471.0
+                ],
+                [
+                    152.0,
+                    469.0
+                ],
+                [
+                    148.0,
+                    469.0
+                ],
+                [
+                    148.0,
+                    468.0
+                ],
+                [
+                    146.0,
+                    468.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

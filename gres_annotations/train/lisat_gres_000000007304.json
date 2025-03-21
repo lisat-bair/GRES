@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Look for a large, boxy vehicle with windows and wheels, often displaying vibrant colors or unique symbols, which usually signifies a bus.",
+        "Spot the vehicle that is large and rectangular, equipped with windows and wheels, and often adorned with bright hues or notable markings, suggesting it is a bus.",
+        "Find the vehicle that has a large, rectangular shape, complete with windows and wheels, and is usually marked by bright colors or distinctive signs, indicating it is a bus."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007304.jpg",
+            "points": [
+                [
+                    384.0,
+                    143.0
+                ],
+                [
+                    384.0,
+                    148.0
+                ],
+                [
+                    385.0,
+                    148.0
+                ],
+                [
+                    385.0,
+                    149.0
+                ],
+                [
+                    387.0,
+                    149.0
+                ],
+                [
+                    387.0,
+                    150.0
+                ],
+                [
+                    390.0,
+                    150.0
+                ],
+                [
+                    390.0,
+                    151.0
+                ],
+                [
+                    392.0,
+                    151.0
+                ],
+                [
+                    392.0,
+                    152.0
+                ],
+                [
+                    397.0,
+                    152.0
+                ],
+                [
+                    397.0,
+                    151.0
+                ],
+                [
+                    398.0,
+                    151.0
+                ],
+                [
+                    398.0,
+                    149.0
+                ],
+                [
+                    399.0,
+                    149.0
+                ],
+                [
+                    399.0,
+                    148.0
+                ],
+                [
+                    398.0,
+                    148.0
+                ],
+                [
+                    398.0,
+                    146.0
+                ],
+                [
+                    396.0,
+                    146.0
+                ],
+                [
+                    396.0,
+                    145.0
+                ],
+                [
+                    394.0,
+                    145.0
+                ],
+                [
+                    394.0,
+                    144.0
+                ],
+                [
+                    391.0,
+                    144.0
+                ],
+                [
+                    391.0,
+                    143.0
+                ],
+                [
+                    384.0,
+                    143.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

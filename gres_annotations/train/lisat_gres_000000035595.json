@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Spot the truck that has metallic characteristics and unique truck contours in the environment around it.",
+        "Locate the vehicle with metallic aspects and notable truck-style outlines within its surroundings.",
+        "Find the truck distinguished by its metallic properties and truck-specific shapes among the surrounding area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035595.jpg",
+            "points": [
+                [
+                    261.0,
+                    508.0
+                ],
+                [
+                    261.0,
+                    509.0
+                ],
+                [
+                    260.0,
+                    509.0
+                ],
+                [
+                    260.0,
+                    512.0
+                ],
+                [
+                    280.0,
+                    512.0
+                ],
+                [
+                    280.0,
+                    511.0
+                ],
+                [
+                    279.0,
+                    511.0
+                ],
+                [
+                    279.0,
+                    510.0
+                ],
+                [
+                    277.0,
+                    510.0
+                ],
+                [
+                    277.0,
+                    509.0
+                ],
+                [
+                    270.0,
+                    509.0
+                ],
+                [
+                    270.0,
+                    508.0
+                ],
+                [
+                    261.0,
+                    508.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

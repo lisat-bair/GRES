@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the truck by locating the large, rectangular shape with distinct color contrast against the surrounding environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012252.jpg",
+            "points": [
+                [
+                    175.0,
+                    320.0
+                ],
+                [
+                    175.0,
+                    323.0
+                ],
+                [
+                    174.0,
+                    323.0
+                ],
+                [
+                    174.0,
+                    326.0
+                ],
+                [
+                    175.0,
+                    326.0
+                ],
+                [
+                    175.0,
+                    328.0
+                ],
+                [
+                    186.0,
+                    328.0
+                ],
+                [
+                    186.0,
+                    327.0
+                ],
+                [
+                    188.0,
+                    327.0
+                ],
+                [
+                    188.0,
+                    322.0
+                ],
+                [
+                    187.0,
+                    322.0
+                ],
+                [
+                    187.0,
+                    321.0
+                ],
+                [
+                    185.0,
+                    321.0
+                ],
+                [
+                    185.0,
+                    320.0
+                ],
+                [
+                    175.0,
+                    320.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

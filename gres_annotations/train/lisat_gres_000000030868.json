@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the red car in the image that has shiny reflections and balanced features.",
+        "Locate the red vehicle in the picture, showcasing glossy reflections and even attributes.",
+        "Find the red automobile in the image, noted for its lustrous reflections and symmetrical characteristics."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030868.jpg",
+            "points": [
+                [
+                    301.0,
+                    484.0
+                ],
+                [
+                    301.0,
+                    485.0
+                ],
+                [
+                    300.0,
+                    485.0
+                ],
+                [
+                    300.0,
+                    486.0
+                ],
+                [
+                    299.0,
+                    486.0
+                ],
+                [
+                    299.0,
+                    491.0
+                ],
+                [
+                    300.0,
+                    491.0
+                ],
+                [
+                    300.0,
+                    492.0
+                ],
+                [
+                    302.0,
+                    492.0
+                ],
+                [
+                    302.0,
+                    493.0
+                ],
+                [
+                    305.0,
+                    493.0
+                ],
+                [
+                    305.0,
+                    494.0
+                ],
+                [
+                    310.0,
+                    494.0
+                ],
+                [
+                    310.0,
+                    495.0
+                ],
+                [
+                    312.0,
+                    495.0
+                ],
+                [
+                    312.0,
+                    494.0
+                ],
+                [
+                    316.0,
+                    494.0
+                ],
+                [
+                    316.0,
+                    493.0
+                ],
+                [
+                    317.0,
+                    493.0
+                ],
+                [
+                    317.0,
+                    489.0
+                ],
+                [
+                    316.0,
+                    489.0
+                ],
+                [
+                    316.0,
+                    488.0
+                ],
+                [
+                    315.0,
+                    488.0
+                ],
+                [
+                    315.0,
+                    487.0
+                ],
+                [
+                    313.0,
+                    487.0
+                ],
+                [
+                    313.0,
+                    486.0
+                ],
+                [
+                    311.0,
+                    486.0
+                ],
+                [
+                    311.0,
+                    485.0
+                ],
+                [
+                    308.0,
+                    485.0
+                ],
+                [
+                    308.0,
+                    484.0
+                ],
+                [
+                    301.0,
+                    484.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

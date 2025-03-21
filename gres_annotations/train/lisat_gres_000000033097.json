@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the shed that is uniquely rectangular and consistently brown, harmonizing with its environment.",
+        "Identify the shed characterized by its specific rectangular form and even brown hue that merges with the landscape.",
+        "Spot the shed featuring a notable rectangular design and a uniform brown tint that integrates seamlessly with its setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033097.jpg",
+            "points": [
+                [
+                    449.0,
+                    131.0
+                ],
+                [
+                    449.0,
+                    132.0
+                ],
+                [
+                    429.0,
+                    132.0
+                ],
+                [
+                    429.0,
+                    133.0
+                ],
+                [
+                    428.0,
+                    133.0
+                ],
+                [
+                    428.0,
+                    136.0
+                ],
+                [
+                    427.0,
+                    136.0
+                ],
+                [
+                    427.0,
+                    146.0
+                ],
+                [
+                    428.0,
+                    146.0
+                ],
+                [
+                    428.0,
+                    151.0
+                ],
+                [
+                    429.0,
+                    151.0
+                ],
+                [
+                    429.0,
+                    152.0
+                ],
+                [
+                    433.0,
+                    152.0
+                ],
+                [
+                    433.0,
+                    153.0
+                ],
+                [
+                    445.0,
+                    153.0
+                ],
+                [
+                    445.0,
+                    152.0
+                ],
+                [
+                    455.0,
+                    152.0
+                ],
+                [
+                    455.0,
+                    151.0
+                ],
+                [
+                    456.0,
+                    151.0
+                ],
+                [
+                    456.0,
+                    141.0
+                ],
+                [
+                    455.0,
+                    141.0
+                ],
+                [
+                    455.0,
+                    134.0
+                ],
+                [
+                    454.0,
+                    134.0
+                ],
+                [
+                    454.0,
+                    132.0
+                ],
+                [
+                    453.0,
+                    132.0
+                ],
+                [
+                    453.0,
+                    131.0
+                ],
+                [
+                    449.0,
+                    131.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

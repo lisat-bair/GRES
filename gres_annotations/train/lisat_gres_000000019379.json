@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the train with a unique design and shiny look located in the lower-right section of the picture.",
+        "In the bottom-right of the image, find the train characterized by its unusual form and metallic finish.",
+        "Locate the train with a notable shape and gleaming surface in the bottom-right corner of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019379.jpg",
+            "points": [
+                [
+                    274.0,
+                    504.0
+                ],
+                [
+                    274.0,
+                    505.0
+                ],
+                [
+                    270.0,
+                    505.0
+                ],
+                [
+                    270.0,
+                    506.0
+                ],
+                [
+                    268.0,
+                    506.0
+                ],
+                [
+                    268.0,
+                    509.0
+                ],
+                [
+                    267.0,
+                    509.0
+                ],
+                [
+                    267.0,
+                    512.0
+                ],
+                [
+                    323.0,
+                    512.0
+                ],
+                [
+                    323.0,
+                    511.0
+                ],
+                [
+                    321.0,
+                    511.0
+                ],
+                [
+                    321.0,
+                    510.0
+                ],
+                [
+                    318.0,
+                    510.0
+                ],
+                [
+                    318.0,
+                    509.0
+                ],
+                [
+                    310.0,
+                    509.0
+                ],
+                [
+                    310.0,
+                    508.0
+                ],
+                [
+                    306.0,
+                    508.0
+                ],
+                [
+                    306.0,
+                    507.0
+                ],
+                [
+                    303.0,
+                    507.0
+                ],
+                [
+                    303.0,
+                    506.0
+                ],
+                [
+                    290.0,
+                    506.0
+                ],
+                [
+                    290.0,
+                    505.0
+                ],
+                [
+                    277.0,
+                    505.0
+                ],
+                [
+                    277.0,
+                    504.0
+                ],
+                [
+                    274.0,
+                    504.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

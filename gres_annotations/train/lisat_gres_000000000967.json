@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the excavator, characterized by its large yellow structure and unique arm and bucket, set against a backdrop of earth tones.",
+        "Find the yellow excavator with its prominent arm and bucket standing out against the earthy surroundings.",
+        "Locate the large yellow machine with its distinctive arm and bucket, contrasted against the natural earth background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000967.jpg",
+            "points": [
+                [
+                    309.0,
+                    63.0
+                ],
+                [
+                    309.0,
+                    64.0
+                ],
+                [
+                    306.0,
+                    64.0
+                ],
+                [
+                    306.0,
+                    79.0
+                ],
+                [
+                    304.0,
+                    79.0
+                ],
+                [
+                    304.0,
+                    91.0
+                ],
+                [
+                    305.0,
+                    91.0
+                ],
+                [
+                    305.0,
+                    94.0
+                ],
+                [
+                    306.0,
+                    94.0
+                ],
+                [
+                    306.0,
+                    96.0
+                ],
+                [
+                    307.0,
+                    96.0
+                ],
+                [
+                    307.0,
+                    97.0
+                ],
+                [
+                    309.0,
+                    97.0
+                ],
+                [
+                    309.0,
+                    98.0
+                ],
+                [
+                    314.0,
+                    98.0
+                ],
+                [
+                    314.0,
+                    97.0
+                ],
+                [
+                    316.0,
+                    97.0
+                ],
+                [
+                    316.0,
+                    96.0
+                ],
+                [
+                    317.0,
+                    96.0
+                ],
+                [
+                    317.0,
+                    89.0
+                ],
+                [
+                    318.0,
+                    89.0
+                ],
+                [
+                    318.0,
+                    80.0
+                ],
+                [
+                    317.0,
+                    80.0
+                ],
+                [
+                    317.0,
+                    79.0
+                ],
+                [
+                    316.0,
+                    79.0
+                ],
+                [
+                    316.0,
+                    78.0
+                ],
+                [
+                    315.0,
+                    78.0
+                ],
+                [
+                    315.0,
+                    77.0
+                ],
+                [
+                    314.0,
+                    77.0
+                ],
+                [
+                    314.0,
+                    65.0
+                ],
+                [
+                    312.0,
+                    65.0
+                ],
+                [
+                    312.0,
+                    64.0
+                ],
+                [
+                    310.0,
+                    64.0
+                ],
+                [
+                    310.0,
+                    63.0
+                ],
+                [
+                    309.0,
+                    63.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

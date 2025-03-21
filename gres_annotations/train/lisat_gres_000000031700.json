@@ -1,0 +1,161 @@
+{
+    "text": [
+        "Spot the spacious, shiny vehicle with a polished finish and four round wheels that stands out from its surroundings.",
+        "Locate the big, metallic automobile featuring a sleek exterior and four circular tires that contrast with its backdrop.",
+        "Find the large, glossy car with a reflective surface and four round wheels that is noticeable against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031700.jpg",
+            "points": [
+                [
+                    505.0,
+                    493.0
+                ],
+                [
+                    505.0,
+                    495.0
+                ],
+                [
+                    509.0,
+                    495.0
+                ],
+                [
+                    509.0,
+                    494.0
+                ],
+                [
+                    508.0,
+                    494.0
+                ],
+                [
+                    508.0,
+                    493.0
+                ],
+                [
+                    505.0,
+                    493.0
+                ],
+                [
+                    504.0,
+                    499.0
+                ],
+                [
+                    504.0,
+                    500.0
+                ],
+                [
+                    503.0,
+                    500.0
+                ],
+                [
+                    503.0,
+                    501.0
+                ],
+                [
+                    502.0,
+                    501.0
+                ],
+                [
+                    502.0,
+                    504.0
+                ],
+                [
+                    499.0,
+                    504.0
+                ],
+                [
+                    499.0,
+                    505.0
+                ],
+                [
+                    498.0,
+                    505.0
+                ],
+                [
+                    498.0,
+                    506.0
+                ],
+                [
+                    494.0,
+                    506.0
+                ],
+                [
+                    494.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    506.0
+                ],
+                [
+                    511.0,
+                    506.0
+                ],
+                [
+                    511.0,
+                    505.0
+                ],
+                [
+                    510.0,
+                    505.0
+                ],
+                [
+                    510.0,
+                    504.0
+                ],
+                [
+                    512.0,
+                    504.0
+                ],
+                [
+                    512.0,
+                    502.0
+                ],
+                [
+                    510.0,
+                    502.0
+                ],
+                [
+                    510.0,
+                    501.0
+                ],
+                [
+                    507.0,
+                    501.0
+                ],
+                [
+                    507.0,
+                    500.0
+                ],
+                [
+                    506.0,
+                    500.0
+                ],
+                [
+                    506.0,
+                    499.0
+                ],
+                [
+                    504.0,
+                    499.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

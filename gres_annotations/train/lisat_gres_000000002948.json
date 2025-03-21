@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the sizable rectangular form with noticeable wheels and windows, frequently vibrant in color, taking up a major part of the image's bottom section to isolate the bus.",
+        "Find the big, rectangle-shaped object that features prominent wheels and windows, usually bright in color, and occupies a considerable part of the image's lower area to separate the bus.",
+        "Spot the large rectangular structure with distinct wheels and windows, often vividly colored, that covers a substantial portion of the lower section of the image to distinguish the bus."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002948.jpg",
+            "points": [
+                [
+                    492.0,
+                    429.0
+                ],
+                [
+                    492.0,
+                    431.0
+                ],
+                [
+                    490.0,
+                    431.0
+                ],
+                [
+                    490.0,
+                    432.0
+                ],
+                [
+                    489.0,
+                    432.0
+                ],
+                [
+                    489.0,
+                    436.0
+                ],
+                [
+                    490.0,
+                    436.0
+                ],
+                [
+                    490.0,
+                    442.0
+                ],
+                [
+                    491.0,
+                    442.0
+                ],
+                [
+                    491.0,
+                    444.0
+                ],
+                [
+                    492.0,
+                    444.0
+                ],
+                [
+                    492.0,
+                    445.0
+                ],
+                [
+                    498.0,
+                    445.0
+                ],
+                [
+                    498.0,
+                    444.0
+                ],
+                [
+                    499.0,
+                    444.0
+                ],
+                [
+                    499.0,
+                    443.0
+                ],
+                [
+                    500.0,
+                    443.0
+                ],
+                [
+                    500.0,
+                    439.0
+                ],
+                [
+                    499.0,
+                    439.0
+                ],
+                [
+                    499.0,
+                    436.0
+                ],
+                [
+                    498.0,
+                    436.0
+                ],
+                [
+                    498.0,
+                    433.0
+                ],
+                [
+                    497.0,
+                    433.0
+                ],
+                [
+                    497.0,
+                    431.0
+                ],
+                [
+                    496.0,
+                    431.0
+                ],
+                [
+                    496.0,
+                    429.0
+                ],
+                [
+                    492.0,
+                    429.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

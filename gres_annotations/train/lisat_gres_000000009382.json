@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the automobile that features a shiny, mirror-like finish and a unique rounded design.",
+        "Search for the vehicle boasting a sleek, polished exterior and a notable curved form.",
+        "Identify the car characterized by its lustrous, reflective coat and distinctive arched structure."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009382.jpg",
+            "points": [
+                [
+                    80.0,
+                    396.0
+                ],
+                [
+                    80.0,
+                    397.0
+                ],
+                [
+                    77.0,
+                    397.0
+                ],
+                [
+                    77.0,
+                    398.0
+                ],
+                [
+                    76.0,
+                    398.0
+                ],
+                [
+                    76.0,
+                    399.0
+                ],
+                [
+                    75.0,
+                    399.0
+                ],
+                [
+                    75.0,
+                    402.0
+                ],
+                [
+                    76.0,
+                    402.0
+                ],
+                [
+                    76.0,
+                    404.0
+                ],
+                [
+                    77.0,
+                    404.0
+                ],
+                [
+                    77.0,
+                    406.0
+                ],
+                [
+                    79.0,
+                    406.0
+                ],
+                [
+                    79.0,
+                    407.0
+                ],
+                [
+                    89.0,
+                    407.0
+                ],
+                [
+                    89.0,
+                    406.0
+                ],
+                [
+                    91.0,
+                    406.0
+                ],
+                [
+                    91.0,
+                    405.0
+                ],
+                [
+                    93.0,
+                    405.0
+                ],
+                [
+                    93.0,
+                    404.0
+                ],
+                [
+                    94.0,
+                    404.0
+                ],
+                [
+                    94.0,
+                    402.0
+                ],
+                [
+                    95.0,
+                    402.0
+                ],
+                [
+                    95.0,
+                    398.0
+                ],
+                [
+                    94.0,
+                    398.0
+                ],
+                [
+                    94.0,
+                    397.0
+                ],
+                [
+                    91.0,
+                    397.0
+                ],
+                [
+                    91.0,
+                    396.0
+                ],
+                [
+                    80.0,
+                    396.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

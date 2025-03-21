@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the vehicle that has a glossy, metal exterior with round forms that look like wheels.",
+        "Seek out the automobile that boasts a lustrous, metal finish and circular features akin to wheels.",
+        "Identify the car that displays a polished, metallic look and round structures similar to wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008216.jpg",
+            "points": [
+                [
+                    325.0,
+                    113.0
+                ],
+                [
+                    325.0,
+                    114.0
+                ],
+                [
+                    323.0,
+                    114.0
+                ],
+                [
+                    323.0,
+                    115.0
+                ],
+                [
+                    322.0,
+                    115.0
+                ],
+                [
+                    322.0,
+                    116.0
+                ],
+                [
+                    321.0,
+                    116.0
+                ],
+                [
+                    321.0,
+                    121.0
+                ],
+                [
+                    322.0,
+                    121.0
+                ],
+                [
+                    322.0,
+                    122.0
+                ],
+                [
+                    324.0,
+                    122.0
+                ],
+                [
+                    324.0,
+                    123.0
+                ],
+                [
+                    328.0,
+                    123.0
+                ],
+                [
+                    328.0,
+                    122.0
+                ],
+                [
+                    336.0,
+                    122.0
+                ],
+                [
+                    336.0,
+                    121.0
+                ],
+                [
+                    338.0,
+                    121.0
+                ],
+                [
+                    338.0,
+                    120.0
+                ],
+                [
+                    340.0,
+                    120.0
+                ],
+                [
+                    340.0,
+                    119.0
+                ],
+                [
+                    341.0,
+                    119.0
+                ],
+                [
+                    341.0,
+                    116.0
+                ],
+                [
+                    340.0,
+                    116.0
+                ],
+                [
+                    340.0,
+                    115.0
+                ],
+                [
+                    339.0,
+                    115.0
+                ],
+                [
+                    339.0,
+                    114.0
+                ],
+                [
+                    338.0,
+                    114.0
+                ],
+                [
+                    338.0,
+                    113.0
+                ],
+                [
+                    325.0,
+                    113.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the big yellow equipment that has noticeable wheels or tracks and a unique front blade or scoop against a brownish backdrop.",
+        "Spot the large, yellow machine with standout wheels or tracks and a characteristic front blade or scoop against the earth-colored setting.",
+        "Identify the sizable yellow apparatus featuring prominent wheels or tracks and a distinctive front scoop or blade on the earth-toned background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034720.jpg",
+            "points": [
+                [
+                    305.0,
+                    447.0
+                ],
+                [
+                    305.0,
+                    448.0
+                ],
+                [
+                    304.0,
+                    448.0
+                ],
+                [
+                    304.0,
+                    449.0
+                ],
+                [
+                    303.0,
+                    449.0
+                ],
+                [
+                    303.0,
+                    452.0
+                ],
+                [
+                    302.0,
+                    452.0
+                ],
+                [
+                    302.0,
+                    459.0
+                ],
+                [
+                    303.0,
+                    459.0
+                ],
+                [
+                    303.0,
+                    467.0
+                ],
+                [
+                    304.0,
+                    467.0
+                ],
+                [
+                    304.0,
+                    468.0
+                ],
+                [
+                    308.0,
+                    468.0
+                ],
+                [
+                    308.0,
+                    467.0
+                ],
+                [
+                    309.0,
+                    467.0
+                ],
+                [
+                    309.0,
+                    465.0
+                ],
+                [
+                    310.0,
+                    465.0
+                ],
+                [
+                    310.0,
+                    464.0
+                ],
+                [
+                    312.0,
+                    464.0
+                ],
+                [
+                    312.0,
+                    463.0
+                ],
+                [
+                    313.0,
+                    463.0
+                ],
+                [
+                    313.0,
+                    462.0
+                ],
+                [
+                    314.0,
+                    462.0
+                ],
+                [
+                    314.0,
+                    461.0
+                ],
+                [
+                    315.0,
+                    461.0
+                ],
+                [
+                    315.0,
+                    459.0
+                ],
+                [
+                    316.0,
+                    459.0
+                ],
+                [
+                    316.0,
+                    450.0
+                ],
+                [
+                    315.0,
+                    450.0
+                ],
+                [
+                    315.0,
+                    448.0
+                ],
+                [
+                    313.0,
+                    448.0
+                ],
+                [
+                    313.0,
+                    447.0
+                ],
+                [
+                    305.0,
+                    447.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

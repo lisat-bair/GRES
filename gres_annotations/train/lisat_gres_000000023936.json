@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for a truck with a trailer by spotting a sizable, stretched form that has a clear gap between the cabin and the trailer, typically with wheels and a metal or painted body.",
+        "To identify a truck with a trailer bed, search for a long shape that shows a separation between the cab and the trailer, usually equipped with wheels and an exterior that is either metallic or painted.",
+        "Find the truck with a trailer by seeking out a large, elongated vehicle with a noticeable division between the cab and the trailer, often having wheels and a metallic or painted surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023936.jpg",
+            "points": [
+                [
+                    0.0,
+                    136.0
+                ],
+                [
+                    0.0,
+                    168.0
+                ],
+                [
+                    1.0,
+                    168.0
+                ],
+                [
+                    1.0,
+                    167.0
+                ],
+                [
+                    3.0,
+                    167.0
+                ],
+                [
+                    3.0,
+                    166.0
+                ],
+                [
+                    7.0,
+                    166.0
+                ],
+                [
+                    7.0,
+                    165.0
+                ],
+                [
+                    9.0,
+                    165.0
+                ],
+                [
+                    9.0,
+                    164.0
+                ],
+                [
+                    10.0,
+                    164.0
+                ],
+                [
+                    10.0,
+                    159.0
+                ],
+                [
+                    11.0,
+                    159.0
+                ],
+                [
+                    11.0,
+                    155.0
+                ],
+                [
+                    12.0,
+                    155.0
+                ],
+                [
+                    12.0,
+                    153.0
+                ],
+                [
+                    13.0,
+                    153.0
+                ],
+                [
+                    13.0,
+                    150.0
+                ],
+                [
+                    14.0,
+                    150.0
+                ],
+                [
+                    14.0,
+                    146.0
+                ],
+                [
+                    15.0,
+                    146.0
+                ],
+                [
+                    15.0,
+                    145.0
+                ],
+                [
+                    16.0,
+                    145.0
+                ],
+                [
+                    16.0,
+                    146.0
+                ],
+                [
+                    17.0,
+                    146.0
+                ],
+                [
+                    17.0,
+                    142.0
+                ],
+                [
+                    14.0,
+                    142.0
+                ],
+                [
+                    14.0,
+                    140.0
+                ],
+                [
+                    13.0,
+                    140.0
+                ],
+                [
+                    13.0,
+                    139.0
+                ],
+                [
+                    12.0,
+                    139.0
+                ],
+                [
+                    12.0,
+                    138.0
+                ],
+                [
+                    10.0,
+                    138.0
+                ],
+                [
+                    10.0,
+                    137.0
+                ],
+                [
+                    8.0,
+                    137.0
+                ],
+                [
+                    8.0,
+                    136.0
+                ],
+                [
+                    0.0,
+                    136.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

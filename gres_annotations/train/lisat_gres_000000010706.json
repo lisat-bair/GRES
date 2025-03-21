@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Locate the truck characterized by its striking gray color and long form positioned on a dirt surface.",
+        "Spot the truck featuring a distinctive gray hue and extended shape placed on the dirt ground.",
+        "Find the truck marked by its noticeable gray coloration and stretched design resting on the earthy soil."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010706.jpg",
+            "points": [
+                [
+                    189.0,
+                    398.0
+                ],
+                [
+                    189.0,
+                    399.0
+                ],
+                [
+                    185.0,
+                    399.0
+                ],
+                [
+                    185.0,
+                    400.0
+                ],
+                [
+                    181.0,
+                    400.0
+                ],
+                [
+                    181.0,
+                    401.0
+                ],
+                [
+                    179.0,
+                    401.0
+                ],
+                [
+                    179.0,
+                    402.0
+                ],
+                [
+                    177.0,
+                    402.0
+                ],
+                [
+                    177.0,
+                    403.0
+                ],
+                [
+                    176.0,
+                    403.0
+                ],
+                [
+                    176.0,
+                    406.0
+                ],
+                [
+                    177.0,
+                    406.0
+                ],
+                [
+                    177.0,
+                    408.0
+                ],
+                [
+                    178.0,
+                    408.0
+                ],
+                [
+                    178.0,
+                    409.0
+                ],
+                [
+                    180.0,
+                    409.0
+                ],
+                [
+                    180.0,
+                    408.0
+                ],
+                [
+                    183.0,
+                    408.0
+                ],
+                [
+                    183.0,
+                    407.0
+                ],
+                [
+                    186.0,
+                    407.0
+                ],
+                [
+                    186.0,
+                    406.0
+                ],
+                [
+                    189.0,
+                    406.0
+                ],
+                [
+                    189.0,
+                    405.0
+                ],
+                [
+                    192.0,
+                    405.0
+                ],
+                [
+                    192.0,
+                    404.0
+                ],
+                [
+                    194.0,
+                    404.0
+                ],
+                [
+                    194.0,
+                    403.0
+                ],
+                [
+                    196.0,
+                    403.0
+                ],
+                [
+                    196.0,
+                    402.0
+                ],
+                [
+                    197.0,
+                    402.0
+                ],
+                [
+                    197.0,
+                    400.0
+                ],
+                [
+                    196.0,
+                    400.0
+                ],
+                [
+                    196.0,
+                    399.0
+                ],
+                [
+                    195.0,
+                    399.0
+                ],
+                [
+                    195.0,
+                    398.0
+                ],
+                [
+                    189.0,
+                    398.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

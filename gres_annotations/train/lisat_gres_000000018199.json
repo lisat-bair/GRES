@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the truck by spotting the big, white, reflective spot set against a dark, muddy-brown backdrop.",
+        "Identify the truck by looking for the large, white reflective section contrasting with the dark, muddy-brown surroundings.",
+        "Search for the truck by locating the prominent white reflective area amidst the dark, muddy-brown background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018199.jpg",
+            "points": [
+                [
+                    248.0,
+                    496.0
+                ],
+                [
+                    248.0,
+                    497.0
+                ],
+                [
+                    247.0,
+                    497.0
+                ],
+                [
+                    247.0,
+                    498.0
+                ],
+                [
+                    246.0,
+                    498.0
+                ],
+                [
+                    246.0,
+                    502.0
+                ],
+                [
+                    247.0,
+                    502.0
+                ],
+                [
+                    247.0,
+                    506.0
+                ],
+                [
+                    248.0,
+                    506.0
+                ],
+                [
+                    248.0,
+                    508.0
+                ],
+                [
+                    249.0,
+                    508.0
+                ],
+                [
+                    249.0,
+                    509.0
+                ],
+                [
+                    254.0,
+                    509.0
+                ],
+                [
+                    254.0,
+                    508.0
+                ],
+                [
+                    255.0,
+                    508.0
+                ],
+                [
+                    255.0,
+                    506.0
+                ],
+                [
+                    256.0,
+                    506.0
+                ],
+                [
+                    256.0,
+                    504.0
+                ],
+                [
+                    255.0,
+                    504.0
+                ],
+                [
+                    255.0,
+                    499.0
+                ],
+                [
+                    254.0,
+                    499.0
+                ],
+                [
+                    254.0,
+                    498.0
+                ],
+                [
+                    253.0,
+                    498.0
+                ],
+                [
+                    253.0,
+                    497.0
+                ],
+                [
+                    252.0,
+                    497.0
+                ],
+                [
+                    252.0,
+                    496.0
+                ],
+                [
+                    248.0,
+                    496.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

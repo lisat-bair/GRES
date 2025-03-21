@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the car in the picture by finding the object with shiny surfaces, unique shapes similar to a vehicle, and colors that stand out against the backdrop.",
+        "Locate the automobile in the photograph by identifying the item with glossy finishes, distinctive outlines like a car, and hues that contrast with the scenery.",
+        "Find the vehicle in the image by searching for the object with reflective surfaces, noticeable contours of an automobile, and colors that differ from the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016563.jpg",
+            "points": [
+                [
+                    42.0,
+                    224.0
+                ],
+                [
+                    42.0,
+                    225.0
+                ],
+                [
+                    41.0,
+                    225.0
+                ],
+                [
+                    41.0,
+                    226.0
+                ],
+                [
+                    40.0,
+                    226.0
+                ],
+                [
+                    40.0,
+                    228.0
+                ],
+                [
+                    39.0,
+                    228.0
+                ],
+                [
+                    39.0,
+                    231.0
+                ],
+                [
+                    38.0,
+                    231.0
+                ],
+                [
+                    38.0,
+                    236.0
+                ],
+                [
+                    43.0,
+                    236.0
+                ],
+                [
+                    43.0,
+                    235.0
+                ],
+                [
+                    44.0,
+                    235.0
+                ],
+                [
+                    44.0,
+                    233.0
+                ],
+                [
+                    45.0,
+                    233.0
+                ],
+                [
+                    45.0,
+                    229.0
+                ],
+                [
+                    46.0,
+                    229.0
+                ],
+                [
+                    46.0,
+                    226.0
+                ],
+                [
+                    45.0,
+                    226.0
+                ],
+                [
+                    45.0,
+                    225.0
+                ],
+                [
+                    43.0,
+                    225.0
+                ],
+                [
+                    43.0,
+                    224.0
+                ],
+                [
+                    42.0,
+                    224.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

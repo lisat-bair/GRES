@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Identify the large, circular, metallic structure with a flat top and distinct, even coloration against the contrasting background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002873.jpg",
+            "points": [
+                [
+                    508.0,
+                    279.0
+                ],
+                [
+                    508.0,
+                    280.0
+                ],
+                [
+                    507.0,
+                    280.0
+                ],
+                [
+                    507.0,
+                    281.0
+                ],
+                [
+                    506.0,
+                    281.0
+                ],
+                [
+                    506.0,
+                    296.0
+                ],
+                [
+                    505.0,
+                    296.0
+                ],
+                [
+                    505.0,
+                    300.0
+                ],
+                [
+                    506.0,
+                    300.0
+                ],
+                [
+                    506.0,
+                    301.0
+                ],
+                [
+                    507.0,
+                    301.0
+                ],
+                [
+                    507.0,
+                    302.0
+                ],
+                [
+                    508.0,
+                    302.0
+                ],
+                [
+                    508.0,
+                    303.0
+                ],
+                [
+                    509.0,
+                    303.0
+                ],
+                [
+                    509.0,
+                    304.0
+                ],
+                [
+                    512.0,
+                    304.0
+                ],
+                [
+                    512.0,
+                    279.0
+                ],
+                [
+                    508.0,
+                    279.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the elongated, thin white shape positioned against a dark backdrop, symbolizing the aircraft's fuselage.",
+        "Locate the lengthy, narrow white item placed against a dark background, depicting the body of the airplane.",
+        "Find the extended, slim white object situated against a dark setting, which signifies the fuselage of the plane."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003138.jpg",
+            "points": [
+                [
+                    133.0,
+                    495.0
+                ],
+                [
+                    133.0,
+                    497.0
+                ],
+                [
+                    132.0,
+                    497.0
+                ],
+                [
+                    132.0,
+                    499.0
+                ],
+                [
+                    133.0,
+                    499.0
+                ],
+                [
+                    133.0,
+                    504.0
+                ],
+                [
+                    134.0,
+                    504.0
+                ],
+                [
+                    134.0,
+                    512.0
+                ],
+                [
+                    152.0,
+                    512.0
+                ],
+                [
+                    152.0,
+                    511.0
+                ],
+                [
+                    151.0,
+                    511.0
+                ],
+                [
+                    151.0,
+                    507.0
+                ],
+                [
+                    150.0,
+                    507.0
+                ],
+                [
+                    150.0,
+                    506.0
+                ],
+                [
+                    149.0,
+                    506.0
+                ],
+                [
+                    149.0,
+                    507.0
+                ],
+                [
+                    147.0,
+                    507.0
+                ],
+                [
+                    147.0,
+                    506.0
+                ],
+                [
+                    146.0,
+                    506.0
+                ],
+                [
+                    146.0,
+                    504.0
+                ],
+                [
+                    145.0,
+                    504.0
+                ],
+                [
+                    145.0,
+                    501.0
+                ],
+                [
+                    144.0,
+                    501.0
+                ],
+                [
+                    144.0,
+                    499.0
+                ],
+                [
+                    143.0,
+                    499.0
+                ],
+                [
+                    143.0,
+                    498.0
+                ],
+                [
+                    142.0,
+                    498.0
+                ],
+                [
+                    142.0,
+                    497.0
+                ],
+                [
+                    141.0,
+                    497.0
+                ],
+                [
+                    141.0,
+                    496.0
+                ],
+                [
+                    139.0,
+                    496.0
+                ],
+                [
+                    139.0,
+                    495.0
+                ],
+                [
+                    133.0,
+                    495.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

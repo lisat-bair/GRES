@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the storage tank situated at the bottom center of the picture, which might be partially visible.",
+        "Identify the storage tank located at the bottom center of the image, as it could be partially seen.",
+        "Spot the storage tank at the bottom center of the photo, which may only be partially visible."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024280.jpg",
+            "points": [
+                [
+                    37.0,
+                    499.0
+                ],
+                [
+                    37.0,
+                    500.0
+                ],
+                [
+                    35.0,
+                    500.0
+                ],
+                [
+                    35.0,
+                    501.0
+                ],
+                [
+                    34.0,
+                    501.0
+                ],
+                [
+                    34.0,
+                    502.0
+                ],
+                [
+                    33.0,
+                    502.0
+                ],
+                [
+                    33.0,
+                    505.0
+                ],
+                [
+                    32.0,
+                    505.0
+                ],
+                [
+                    32.0,
+                    507.0
+                ],
+                [
+                    33.0,
+                    507.0
+                ],
+                [
+                    33.0,
+                    510.0
+                ],
+                [
+                    34.0,
+                    510.0
+                ],
+                [
+                    34.0,
+                    511.0
+                ],
+                [
+                    35.0,
+                    511.0
+                ],
+                [
+                    35.0,
+                    512.0
+                ],
+                [
+                    45.0,
+                    512.0
+                ],
+                [
+                    45.0,
+                    510.0
+                ],
+                [
+                    46.0,
+                    510.0
+                ],
+                [
+                    46.0,
+                    507.0
+                ],
+                [
+                    47.0,
+                    507.0
+                ],
+                [
+                    47.0,
+                    502.0
+                ],
+                [
+                    46.0,
+                    502.0
+                ],
+                [
+                    46.0,
+                    501.0
+                ],
+                [
+                    44.0,
+                    501.0
+                ],
+                [
+                    44.0,
+                    500.0
+                ],
+                [
+                    43.0,
+                    500.0
+                ],
+                [
+                    43.0,
+                    499.0
+                ],
+                [
+                    37.0,
+                    499.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

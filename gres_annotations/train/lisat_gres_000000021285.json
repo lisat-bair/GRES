@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the long rectangular form with clear boundaries and a shiny or metallic finish, suggesting a truck with a trailer bed.",
+        "Look for the extended rectangular figure with sharp edges and a reflective or metal surface, characteristic of a truck accompanied by a trailer bed.",
+        "Observe the lengthy rectangular outline with defined borders and a gleaming or metal appearance, hinting at a truck with a trailer attached."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021285.jpg",
+            "points": [
+                [
+                    511.0,
+                    471.0
+                ],
+                [
+                    511.0,
+                    472.0
+                ],
+                [
+                    510.0,
+                    472.0
+                ],
+                [
+                    510.0,
+                    474.0
+                ],
+                [
+                    509.0,
+                    474.0
+                ],
+                [
+                    509.0,
+                    475.0
+                ],
+                [
+                    508.0,
+                    475.0
+                ],
+                [
+                    508.0,
+                    477.0
+                ],
+                [
+                    507.0,
+                    477.0
+                ],
+                [
+                    507.0,
+                    478.0
+                ],
+                [
+                    506.0,
+                    478.0
+                ],
+                [
+                    506.0,
+                    480.0
+                ],
+                [
+                    505.0,
+                    480.0
+                ],
+                [
+                    505.0,
+                    482.0
+                ],
+                [
+                    504.0,
+                    482.0
+                ],
+                [
+                    504.0,
+                    484.0
+                ],
+                [
+                    503.0,
+                    484.0
+                ],
+                [
+                    503.0,
+                    486.0
+                ],
+                [
+                    502.0,
+                    486.0
+                ],
+                [
+                    502.0,
+                    488.0
+                ],
+                [
+                    501.0,
+                    488.0
+                ],
+                [
+                    501.0,
+                    507.0
+                ],
+                [
+                    502.0,
+                    507.0
+                ],
+                [
+                    502.0,
+                    509.0
+                ],
+                [
+                    504.0,
+                    509.0
+                ],
+                [
+                    504.0,
+                    510.0
+                ],
+                [
+                    508.0,
+                    510.0
+                ],
+                [
+                    508.0,
+                    511.0
+                ],
+                [
+                    509.0,
+                    511.0
+                ],
+                [
+                    509.0,
+                    510.0
+                ],
+                [
+                    510.0,
+                    510.0
+                ],
+                [
+                    510.0,
+                    509.0
+                ],
+                [
+                    511.0,
+                    509.0
+                ],
+                [
+                    511.0,
+                    508.0
+                ],
+                [
+                    512.0,
+                    508.0
+                ],
+                [
+                    512.0,
+                    471.0
+                ],
+                [
+                    511.0,
+                    471.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

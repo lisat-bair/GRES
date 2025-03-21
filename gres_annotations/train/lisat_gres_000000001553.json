@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the truck that stands out with a unique color design and size compared to its surroundings.",
+        "Spot the truck that has a different color scheme and size than the objects around it.",
+        "Find the truck that is distinguished by its unique color pattern and size from nearby items."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001553.jpg",
+            "points": [
+                [
+                    228.0,
+                    447.0
+                ],
+                [
+                    228.0,
+                    449.0
+                ],
+                [
+                    227.0,
+                    449.0
+                ],
+                [
+                    227.0,
+                    456.0
+                ],
+                [
+                    228.0,
+                    456.0
+                ],
+                [
+                    228.0,
+                    460.0
+                ],
+                [
+                    229.0,
+                    460.0
+                ],
+                [
+                    229.0,
+                    461.0
+                ],
+                [
+                    230.0,
+                    461.0
+                ],
+                [
+                    230.0,
+                    462.0
+                ],
+                [
+                    234.0,
+                    462.0
+                ],
+                [
+                    234.0,
+                    461.0
+                ],
+                [
+                    235.0,
+                    461.0
+                ],
+                [
+                    235.0,
+                    459.0
+                ],
+                [
+                    236.0,
+                    459.0
+                ],
+                [
+                    236.0,
+                    455.0
+                ],
+                [
+                    235.0,
+                    455.0
+                ],
+                [
+                    235.0,
+                    451.0
+                ],
+                [
+                    234.0,
+                    451.0
+                ],
+                [
+                    234.0,
+                    448.0
+                ],
+                [
+                    233.0,
+                    448.0
+                ],
+                [
+                    233.0,
+                    447.0
+                ],
+                [
+                    228.0,
+                    447.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

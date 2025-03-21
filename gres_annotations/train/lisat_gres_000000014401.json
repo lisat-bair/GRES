@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the haul truck positioned in the lower-right section of the image, characterized by its small rectangular form.",
+        "Search for the haul truck in the bottom-right area of the picture, notable for its compact rectangular design.",
+        "Look for the haul truck situated in the bottom-right corner of the image, distinguished by its compact rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014401.jpg",
+            "points": [
+                [
+                    332.0,
+                    505.0
+                ],
+                [
+                    332.0,
+                    506.0
+                ],
+                [
+                    325.0,
+                    506.0
+                ],
+                [
+                    325.0,
+                    507.0
+                ],
+                [
+                    323.0,
+                    507.0
+                ],
+                [
+                    323.0,
+                    508.0
+                ],
+                [
+                    322.0,
+                    508.0
+                ],
+                [
+                    322.0,
+                    510.0
+                ],
+                [
+                    321.0,
+                    510.0
+                ],
+                [
+                    321.0,
+                    512.0
+                ],
+                [
+                    350.0,
+                    512.0
+                ],
+                [
+                    350.0,
+                    511.0
+                ],
+                [
+                    349.0,
+                    511.0
+                ],
+                [
+                    349.0,
+                    509.0
+                ],
+                [
+                    348.0,
+                    509.0
+                ],
+                [
+                    348.0,
+                    507.0
+                ],
+                [
+                    346.0,
+                    507.0
+                ],
+                [
+                    346.0,
+                    506.0
+                ],
+                [
+                    342.0,
+                    506.0
+                ],
+                [
+                    342.0,
+                    505.0
+                ],
+                [
+                    332.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

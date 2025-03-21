@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the large yellow machine featuring a lengthy arm and bucket, characteristic of an excavator, set against the earthy surroundings.",
+        "Find the big, yellow apparatus with an extended arm and a scoop, commonly seen in excavators, against the natural backdrop.",
+        "Locate the sizable yellow structure with a long arm and a bucket, typical for an excavator, amidst the earthy landscape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012761.jpg",
+            "points": [
+                [
+                    127.0,
+                    252.0
+                ],
+                [
+                    127.0,
+                    255.0
+                ],
+                [
+                    126.0,
+                    255.0
+                ],
+                [
+                    126.0,
+                    264.0
+                ],
+                [
+                    125.0,
+                    264.0
+                ],
+                [
+                    125.0,
+                    266.0
+                ],
+                [
+                    124.0,
+                    266.0
+                ],
+                [
+                    124.0,
+                    268.0
+                ],
+                [
+                    123.0,
+                    268.0
+                ],
+                [
+                    123.0,
+                    270.0
+                ],
+                [
+                    122.0,
+                    270.0
+                ],
+                [
+                    122.0,
+                    272.0
+                ],
+                [
+                    123.0,
+                    272.0
+                ],
+                [
+                    123.0,
+                    274.0
+                ],
+                [
+                    125.0,
+                    274.0
+                ],
+                [
+                    125.0,
+                    275.0
+                ],
+                [
+                    127.0,
+                    275.0
+                ],
+                [
+                    127.0,
+                    276.0
+                ],
+                [
+                    128.0,
+                    276.0
+                ],
+                [
+                    128.0,
+                    275.0
+                ],
+                [
+                    130.0,
+                    275.0
+                ],
+                [
+                    130.0,
+                    274.0
+                ],
+                [
+                    131.0,
+                    274.0
+                ],
+                [
+                    131.0,
+                    272.0
+                ],
+                [
+                    132.0,
+                    272.0
+                ],
+                [
+                    132.0,
+                    263.0
+                ],
+                [
+                    131.0,
+                    263.0
+                ],
+                [
+                    131.0,
+                    255.0
+                ],
+                [
+                    130.0,
+                    255.0
+                ],
+                [
+                    130.0,
+                    252.0
+                ],
+                [
+                    127.0,
+                    252.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

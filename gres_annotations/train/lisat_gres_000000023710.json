@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for the elongated red rectangle that has a black cab at one end to find the trailer in the picture.",
+        "To spot the trailer in the image, search for the long red rectangular form with a black cab connected at one end.",
+        "Find the trailer in the picture by locating the lengthy red rectangle with a black cab attached at one end."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023710.jpg",
+            "points": [
+                [
+                    167.0,
+                    105.0
+                ],
+                [
+                    167.0,
+                    106.0
+                ],
+                [
+                    165.0,
+                    106.0
+                ],
+                [
+                    165.0,
+                    107.0
+                ],
+                [
+                    164.0,
+                    107.0
+                ],
+                [
+                    164.0,
+                    108.0
+                ],
+                [
+                    163.0,
+                    108.0
+                ],
+                [
+                    163.0,
+                    109.0
+                ],
+                [
+                    162.0,
+                    109.0
+                ],
+                [
+                    162.0,
+                    111.0
+                ],
+                [
+                    161.0,
+                    111.0
+                ],
+                [
+                    161.0,
+                    113.0
+                ],
+                [
+                    162.0,
+                    113.0
+                ],
+                [
+                    162.0,
+                    115.0
+                ],
+                [
+                    164.0,
+                    115.0
+                ],
+                [
+                    164.0,
+                    116.0
+                ],
+                [
+                    172.0,
+                    116.0
+                ],
+                [
+                    172.0,
+                    117.0
+                ],
+                [
+                    213.0,
+                    117.0
+                ],
+                [
+                    213.0,
+                    118.0
+                ],
+                [
+                    228.0,
+                    118.0
+                ],
+                [
+                    228.0,
+                    117.0
+                ],
+                [
+                    229.0,
+                    117.0
+                ],
+                [
+                    229.0,
+                    116.0
+                ],
+                [
+                    230.0,
+                    116.0
+                ],
+                [
+                    230.0,
+                    111.0
+                ],
+                [
+                    229.0,
+                    111.0
+                ],
+                [
+                    229.0,
+                    109.0
+                ],
+                [
+                    228.0,
+                    109.0
+                ],
+                [
+                    228.0,
+                    108.0
+                ],
+                [
+                    225.0,
+                    108.0
+                ],
+                [
+                    225.0,
+                    107.0
+                ],
+                [
+                    214.0,
+                    107.0
+                ],
+                [
+                    214.0,
+                    106.0
+                ],
+                [
+                    212.0,
+                    106.0
+                ],
+                [
+                    212.0,
+                    105.0
+                ],
+                [
+                    167.0,
+                    105.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

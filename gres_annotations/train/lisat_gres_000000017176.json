@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the vibrant yellow equipment with an extended arm and scoop, frequently seen on building sites.",
+        "Locate the sunny yellow apparatus featuring a lengthy arm and bucket, typically employed at construction locations.",
+        "Recognize the vivid yellow contraption with a prolonged arm and bucket, often utilized on construction sites."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017176.jpg",
+            "points": [
+                [
+                    137.0,
+                    37.0
+                ],
+                [
+                    137.0,
+                    38.0
+                ],
+                [
+                    136.0,
+                    38.0
+                ],
+                [
+                    136.0,
+                    40.0
+                ],
+                [
+                    135.0,
+                    40.0
+                ],
+                [
+                    135.0,
+                    49.0
+                ],
+                [
+                    136.0,
+                    49.0
+                ],
+                [
+                    136.0,
+                    50.0
+                ],
+                [
+                    137.0,
+                    50.0
+                ],
+                [
+                    137.0,
+                    51.0
+                ],
+                [
+                    140.0,
+                    51.0
+                ],
+                [
+                    140.0,
+                    52.0
+                ],
+                [
+                    142.0,
+                    52.0
+                ],
+                [
+                    142.0,
+                    53.0
+                ],
+                [
+                    149.0,
+                    53.0
+                ],
+                [
+                    149.0,
+                    52.0
+                ],
+                [
+                    150.0,
+                    52.0
+                ],
+                [
+                    150.0,
+                    51.0
+                ],
+                [
+                    151.0,
+                    51.0
+                ],
+                [
+                    151.0,
+                    50.0
+                ],
+                [
+                    153.0,
+                    50.0
+                ],
+                [
+                    153.0,
+                    49.0
+                ],
+                [
+                    155.0,
+                    49.0
+                ],
+                [
+                    155.0,
+                    48.0
+                ],
+                [
+                    156.0,
+                    48.0
+                ],
+                [
+                    156.0,
+                    44.0
+                ],
+                [
+                    155.0,
+                    44.0
+                ],
+                [
+                    155.0,
+                    40.0
+                ],
+                [
+                    153.0,
+                    40.0
+                ],
+                [
+                    153.0,
+                    39.0
+                ],
+                [
+                    152.0,
+                    39.0
+                ],
+                [
+                    152.0,
+                    37.0
+                ],
+                [
+                    149.0,
+                    37.0
+                ],
+                [
+                    149.0,
+                    38.0
+                ],
+                [
+                    142.0,
+                    38.0
+                ],
+                [
+                    142.0,
+                    37.0
+                ],
+                [
+                    137.0,
+                    37.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

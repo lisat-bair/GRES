@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the truck located in the upper-left section of the picture.",
+        "Find the truck positioned in the top-left corner of the image.",
+        "Locate the truck in the top-left part of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006211.jpg",
+            "points": [
+                [
+                    0.0,
+                    423.0
+                ],
+                [
+                    0.0,
+                    433.0
+                ],
+                [
+                    4.0,
+                    433.0
+                ],
+                [
+                    4.0,
+                    432.0
+                ],
+                [
+                    5.0,
+                    432.0
+                ],
+                [
+                    5.0,
+                    431.0
+                ],
+                [
+                    6.0,
+                    431.0
+                ],
+                [
+                    6.0,
+                    430.0
+                ],
+                [
+                    7.0,
+                    430.0
+                ],
+                [
+                    7.0,
+                    426.0
+                ],
+                [
+                    6.0,
+                    426.0
+                ],
+                [
+                    6.0,
+                    424.0
+                ],
+                [
+                    4.0,
+                    424.0
+                ],
+                [
+                    4.0,
+                    423.0
+                ],
+                [
+                    0.0,
+                    423.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

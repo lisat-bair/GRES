@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Locate the vehicle that has a unique metallic glow, box-like form, and prominent reflections.",
+        "Find the automobile that features a noticeable metallic shine, rectangular design, and distinct reflections.",
+        "Spot the car characterized by a special metallic luster, boxy shape, and evident reflections."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015099.jpg",
+            "points": [
+                [
+                    314.0,
+                    90.0
+                ],
+                [
+                    314.0,
+                    91.0
+                ],
+                [
+                    312.0,
+                    91.0
+                ],
+                [
+                    312.0,
+                    93.0
+                ],
+                [
+                    311.0,
+                    93.0
+                ],
+                [
+                    311.0,
+                    94.0
+                ],
+                [
+                    312.0,
+                    94.0
+                ],
+                [
+                    312.0,
+                    96.0
+                ],
+                [
+                    320.0,
+                    96.0
+                ],
+                [
+                    320.0,
+                    95.0
+                ],
+                [
+                    321.0,
+                    95.0
+                ],
+                [
+                    321.0,
+                    90.0
+                ],
+                [
+                    314.0,
+                    90.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the long vehicle equipped with sizable wheels and a boxy storage section protruding from its rear, typical of a truck featuring a trailer bed.",
+        "Spot the extended vehicle that has big wheels and a rectangular loading area stretching out from its back, similar to a truck with a trailer bed.",
+        "Find the stretched-out vehicle with large tires and a rectangular cargo section extending from the back, which is indicative of a truck with a trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023425.jpg",
+            "points": [
+                [
+                    118.0,
+                    0.0
+                ],
+                [
+                    118.0,
+                    15.0
+                ],
+                [
+                    117.0,
+                    15.0
+                ],
+                [
+                    117.0,
+                    16.0
+                ],
+                [
+                    118.0,
+                    16.0
+                ],
+                [
+                    118.0,
+                    21.0
+                ],
+                [
+                    120.0,
+                    21.0
+                ],
+                [
+                    120.0,
+                    22.0
+                ],
+                [
+                    123.0,
+                    22.0
+                ],
+                [
+                    123.0,
+                    23.0
+                ],
+                [
+                    127.0,
+                    23.0
+                ],
+                [
+                    127.0,
+                    22.0
+                ],
+                [
+                    128.0,
+                    22.0
+                ],
+                [
+                    128.0,
+                    21.0
+                ],
+                [
+                    129.0,
+                    21.0
+                ],
+                [
+                    129.0,
+                    0.0
+                ],
+                [
+                    118.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

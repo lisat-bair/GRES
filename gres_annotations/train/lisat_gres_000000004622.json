@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the truck that has a white cab and a big, rectangular trailer.",
+        "Identify the truck featuring a large, rectangular trailer and a white cab.",
+        "Spot the truck with a large rectangular trailer and a cab painted white."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004622.jpg",
+            "points": [
+                [
+                    181.0,
+                    418.0
+                ],
+                [
+                    181.0,
+                    419.0
+                ],
+                [
+                    174.0,
+                    419.0
+                ],
+                [
+                    174.0,
+                    420.0
+                ],
+                [
+                    170.0,
+                    420.0
+                ],
+                [
+                    170.0,
+                    421.0
+                ],
+                [
+                    169.0,
+                    421.0
+                ],
+                [
+                    169.0,
+                    422.0
+                ],
+                [
+                    168.0,
+                    422.0
+                ],
+                [
+                    168.0,
+                    427.0
+                ],
+                [
+                    169.0,
+                    427.0
+                ],
+                [
+                    169.0,
+                    428.0
+                ],
+                [
+                    181.0,
+                    428.0
+                ],
+                [
+                    181.0,
+                    427.0
+                ],
+                [
+                    187.0,
+                    427.0
+                ],
+                [
+                    187.0,
+                    426.0
+                ],
+                [
+                    191.0,
+                    426.0
+                ],
+                [
+                    191.0,
+                    419.0
+                ],
+                [
+                    190.0,
+                    419.0
+                ],
+                [
+                    190.0,
+                    418.0
+                ],
+                [
+                    181.0,
+                    418.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

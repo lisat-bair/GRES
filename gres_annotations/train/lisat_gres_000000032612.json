@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the broken structure characterized by uneven, sharp forms, deteriorating surfaces, and mainly brown colors.",
+        "Identify the ruined edifice featuring irregular, angular shapes, decaying textures, and a chiefly brown hue.",
+        "Spot the damaged construction with jagged, erratic outlines, crumbling appearances, and a largely brown color scheme."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032612.jpg",
+            "points": [
+                [
+                    324.0,
+                    0.0
+                ],
+                [
+                    324.0,
+                    2.0
+                ],
+                [
+                    323.0,
+                    2.0
+                ],
+                [
+                    323.0,
+                    24.0
+                ],
+                [
+                    322.0,
+                    24.0
+                ],
+                [
+                    322.0,
+                    32.0
+                ],
+                [
+                    323.0,
+                    32.0
+                ],
+                [
+                    323.0,
+                    37.0
+                ],
+                [
+                    324.0,
+                    37.0
+                ],
+                [
+                    324.0,
+                    38.0
+                ],
+                [
+                    325.0,
+                    38.0
+                ],
+                [
+                    325.0,
+                    39.0
+                ],
+                [
+                    328.0,
+                    39.0
+                ],
+                [
+                    328.0,
+                    40.0
+                ],
+                [
+                    362.0,
+                    40.0
+                ],
+                [
+                    362.0,
+                    39.0
+                ],
+                [
+                    369.0,
+                    39.0
+                ],
+                [
+                    369.0,
+                    38.0
+                ],
+                [
+                    370.0,
+                    38.0
+                ],
+                [
+                    370.0,
+                    36.0
+                ],
+                [
+                    371.0,
+                    36.0
+                ],
+                [
+                    371.0,
+                    31.0
+                ],
+                [
+                    372.0,
+                    31.0
+                ],
+                [
+                    372.0,
+                    26.0
+                ],
+                [
+                    373.0,
+                    26.0
+                ],
+                [
+                    373.0,
+                    20.0
+                ],
+                [
+                    374.0,
+                    20.0
+                ],
+                [
+                    374.0,
+                    14.0
+                ],
+                [
+                    375.0,
+                    14.0
+                ],
+                [
+                    375.0,
+                    9.0
+                ],
+                [
+                    376.0,
+                    9.0
+                ],
+                [
+                    376.0,
+                    5.0
+                ],
+                [
+                    377.0,
+                    5.0
+                ],
+                [
+                    377.0,
+                    0.0
+                ],
+                [
+                    324.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

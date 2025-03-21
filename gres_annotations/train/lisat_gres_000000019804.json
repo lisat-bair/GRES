@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Identify the car in the photo, even though the features are too indistinct to discern any specifics.",
+        "Find the vehicle in the picture, bearing in mind that the features are too unclear to recognize particular details.",
+        "Spot the car in the image, taking into account that the features are too fuzzy to make out any precise details."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019804.jpg",
+            "points": [
+                [
+                    249.0,
+                    462.0
+                ],
+                [
+                    249.0,
+                    463.0
+                ],
+                [
+                    248.0,
+                    463.0
+                ],
+                [
+                    248.0,
+                    469.0
+                ],
+                [
+                    247.0,
+                    469.0
+                ],
+                [
+                    247.0,
+                    478.0
+                ],
+                [
+                    248.0,
+                    478.0
+                ],
+                [
+                    248.0,
+                    479.0
+                ],
+                [
+                    257.0,
+                    479.0
+                ],
+                [
+                    257.0,
+                    477.0
+                ],
+                [
+                    258.0,
+                    477.0
+                ],
+                [
+                    258.0,
+                    473.0
+                ],
+                [
+                    259.0,
+                    473.0
+                ],
+                [
+                    259.0,
+                    465.0
+                ],
+                [
+                    258.0,
+                    465.0
+                ],
+                [
+                    258.0,
+                    463.0
+                ],
+                [
+                    257.0,
+                    463.0
+                ],
+                [
+                    257.0,
+                    462.0
+                ],
+                [
+                    249.0,
+                    462.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

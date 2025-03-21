@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the vehicle that has a unique dark outline, shiny surfaces, and sleek, rounded edges set against a brighter backdrop.",
+        "Spot the automobile with a notable dark shape, glossy surfaces, and smooth, curved contours contrasted by a lighter background.",
+        "Identify the car characterized by a prominent dark silhouette, reflective surfaces, and gentle, curved edges against a lighter backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028017.jpg",
+            "points": [
+                [
+                    510.0,
+                    264.0
+                ],
+                [
+                    510.0,
+                    265.0
+                ],
+                [
+                    508.0,
+                    265.0
+                ],
+                [
+                    508.0,
+                    266.0
+                ],
+                [
+                    506.0,
+                    266.0
+                ],
+                [
+                    506.0,
+                    267.0
+                ],
+                [
+                    505.0,
+                    267.0
+                ],
+                [
+                    505.0,
+                    268.0
+                ],
+                [
+                    504.0,
+                    268.0
+                ],
+                [
+                    504.0,
+                    269.0
+                ],
+                [
+                    502.0,
+                    269.0
+                ],
+                [
+                    502.0,
+                    270.0
+                ],
+                [
+                    501.0,
+                    270.0
+                ],
+                [
+                    501.0,
+                    273.0
+                ],
+                [
+                    502.0,
+                    273.0
+                ],
+                [
+                    502.0,
+                    274.0
+                ],
+                [
+                    503.0,
+                    274.0
+                ],
+                [
+                    503.0,
+                    275.0
+                ],
+                [
+                    505.0,
+                    275.0
+                ],
+                [
+                    505.0,
+                    276.0
+                ],
+                [
+                    506.0,
+                    276.0
+                ],
+                [
+                    506.0,
+                    277.0
+                ],
+                [
+                    508.0,
+                    277.0
+                ],
+                [
+                    508.0,
+                    278.0
+                ],
+                [
+                    509.0,
+                    278.0
+                ],
+                [
+                    509.0,
+                    279.0
+                ],
+                [
+                    511.0,
+                    279.0
+                ],
+                [
+                    511.0,
+                    280.0
+                ],
+                [
+                    512.0,
+                    280.0
+                ],
+                [
+                    512.0,
+                    264.0
+                ],
+                [
+                    510.0,
+                    264.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

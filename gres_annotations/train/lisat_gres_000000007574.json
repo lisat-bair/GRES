@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the bus that is large and rectangular, with numerous windows and bright lights on its sides and front.",
+        "Seek out the bus characterized by its big rectangular form, multiple windows, and bright lights usually situated on the sides and at the front.",
+        "Identify the bus that has a large rectangular shape, several windows, and bright lights commonly placed on its sides and front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007574.jpg",
+            "points": [
+                [
+                    69.0,
+                    76.0
+                ],
+                [
+                    69.0,
+                    77.0
+                ],
+                [
+                    62.0,
+                    77.0
+                ],
+                [
+                    62.0,
+                    78.0
+                ],
+                [
+                    61.0,
+                    78.0
+                ],
+                [
+                    61.0,
+                    85.0
+                ],
+                [
+                    62.0,
+                    85.0
+                ],
+                [
+                    62.0,
+                    86.0
+                ],
+                [
+                    63.0,
+                    86.0
+                ],
+                [
+                    63.0,
+                    87.0
+                ],
+                [
+                    97.0,
+                    87.0
+                ],
+                [
+                    97.0,
+                    86.0
+                ],
+                [
+                    100.0,
+                    86.0
+                ],
+                [
+                    100.0,
+                    85.0
+                ],
+                [
+                    101.0,
+                    85.0
+                ],
+                [
+                    101.0,
+                    83.0
+                ],
+                [
+                    102.0,
+                    83.0
+                ],
+                [
+                    102.0,
+                    80.0
+                ],
+                [
+                    101.0,
+                    80.0
+                ],
+                [
+                    101.0,
+                    78.0
+                ],
+                [
+                    100.0,
+                    78.0
+                ],
+                [
+                    100.0,
+                    77.0
+                ],
+                [
+                    98.0,
+                    77.0
+                ],
+                [
+                    98.0,
+                    76.0
+                ],
+                [
+                    69.0,
+                    76.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

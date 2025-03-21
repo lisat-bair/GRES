@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Locate the passenger or cargo plane situated in the bottom-right corner of the image.",
+        "Find the plane, whether passenger or cargo, that is positioned at the image's bottom-right.",
+        "Pinpoint the aircraft, either for passengers or cargo, located in the lower-right section of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027765.jpg",
+            "points": [
+                [
+                    199,
+                    413
+                ],
+                [
+                    354,
+                    413
+                ],
+                [
+                    354,
+                    499
+                ],
+                [
+                    199,
+                    499
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

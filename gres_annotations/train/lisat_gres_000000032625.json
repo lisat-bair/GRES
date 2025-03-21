@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Look for the vehicle characterized by sharp lines and shiny surfaces that stand out due to the play of light and shadow with the background.",
+        "Spot the automobile distinguished by its clear edges and gleaming surfaces, accentuated by the contrast of light against its surroundings.",
+        "Find the car marked by pronounced contours and reflective surfaces that are highlighted by the light's contrast with the backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032625.jpg",
+            "points": [
+                [
+                    361.0,
+                    382.0
+                ],
+                [
+                    361.0,
+                    383.0
+                ],
+                [
+                    360.0,
+                    383.0
+                ],
+                [
+                    360.0,
+                    384.0
+                ],
+                [
+                    359.0,
+                    384.0
+                ],
+                [
+                    359.0,
+                    388.0
+                ],
+                [
+                    360.0,
+                    388.0
+                ],
+                [
+                    360.0,
+                    390.0
+                ],
+                [
+                    363.0,
+                    390.0
+                ],
+                [
+                    363.0,
+                    391.0
+                ],
+                [
+                    370.0,
+                    391.0
+                ],
+                [
+                    370.0,
+                    390.0
+                ],
+                [
+                    371.0,
+                    390.0
+                ],
+                [
+                    371.0,
+                    389.0
+                ],
+                [
+                    372.0,
+                    389.0
+                ],
+                [
+                    372.0,
+                    388.0
+                ],
+                [
+                    373.0,
+                    388.0
+                ],
+                [
+                    373.0,
+                    383.0
+                ],
+                [
+                    364.0,
+                    383.0
+                ],
+                [
+                    364.0,
+                    382.0
+                ],
+                [
+                    361.0,
+                    382.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

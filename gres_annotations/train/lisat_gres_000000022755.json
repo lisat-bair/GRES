@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the bus that stands out with its bright yellow paint and numerous windows.",
+        "Find the bus that is uniquely colored in yellow and has several windows.",
+        "Spot the bus that is characterized by its striking yellow hue and many windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022755.jpg",
+            "points": [
+                [
+                    16.0,
+                    415.0
+                ],
+                [
+                    16.0,
+                    416.0
+                ],
+                [
+                    15.0,
+                    416.0
+                ],
+                [
+                    15.0,
+                    436.0
+                ],
+                [
+                    16.0,
+                    436.0
+                ],
+                [
+                    16.0,
+                    437.0
+                ],
+                [
+                    23.0,
+                    437.0
+                ],
+                [
+                    23.0,
+                    436.0
+                ],
+                [
+                    24.0,
+                    436.0
+                ],
+                [
+                    24.0,
+                    433.0
+                ],
+                [
+                    25.0,
+                    433.0
+                ],
+                [
+                    25.0,
+                    425.0
+                ],
+                [
+                    24.0,
+                    425.0
+                ],
+                [
+                    24.0,
+                    419.0
+                ],
+                [
+                    23.0,
+                    419.0
+                ],
+                [
+                    23.0,
+                    416.0
+                ],
+                [
+                    22.0,
+                    416.0
+                ],
+                [
+                    22.0,
+                    415.0
+                ],
+                [
+                    16.0,
+                    415.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

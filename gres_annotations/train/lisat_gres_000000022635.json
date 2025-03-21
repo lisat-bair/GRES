@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the vehicle by identifying a sizeable metal structure with distinct geometric forms like rectangles and circles, usually situated on roads and bordered by natural features.",
+        "Search for the automobile by spotting a big metallic item with clear geometric patterns such as rectangles and circles, commonly positioned on roadways and encircled by natural surroundings.",
+        "To find the car, look for a substantial metallic object characterized by geometric shapes like rectangles and circles, generally located on streets and flanked by natural elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022635.jpg",
+            "points": [
+                [
+                    117.0,
+                    506.0
+                ],
+                [
+                    117.0,
+                    507.0
+                ],
+                [
+                    115.0,
+                    507.0
+                ],
+                [
+                    115.0,
+                    508.0
+                ],
+                [
+                    114.0,
+                    508.0
+                ],
+                [
+                    114.0,
+                    507.0
+                ],
+                [
+                    111.0,
+                    507.0
+                ],
+                [
+                    111.0,
+                    508.0
+                ],
+                [
+                    109.0,
+                    508.0
+                ],
+                [
+                    109.0,
+                    509.0
+                ],
+                [
+                    108.0,
+                    509.0
+                ],
+                [
+                    108.0,
+                    510.0
+                ],
+                [
+                    107.0,
+                    510.0
+                ],
+                [
+                    107.0,
+                    512.0
+                ],
+                [
+                    123.0,
+                    512.0
+                ],
+                [
+                    123.0,
+                    510.0
+                ],
+                [
+                    122.0,
+                    510.0
+                ],
+                [
+                    122.0,
+                    508.0
+                ],
+                [
+                    120.0,
+                    508.0
+                ],
+                [
+                    120.0,
+                    507.0
+                ],
+                [
+                    119.0,
+                    507.0
+                ],
+                [
+                    119.0,
+                    506.0
+                ],
+                [
+                    117.0,
+                    506.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

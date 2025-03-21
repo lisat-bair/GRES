@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Identify the vehicle by spotting the rectangular form with wheels and a metal frame, which stands out from the natural environment.",
+        "Find the automobile by recognizing the boxy shape with tires and a metallic structure, differentiating it from the natural background.",
+        "Locate the car by detecting the rectangular outline with wheels and a metallic body, distinguishing it from the natural surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017673.jpg",
+            "points": [
+                [
+                    428.0,
+                    51.0
+                ],
+                [
+                    428.0,
+                    52.0
+                ],
+                [
+                    427.0,
+                    52.0
+                ],
+                [
+                    427.0,
+                    53.0
+                ],
+                [
+                    426.0,
+                    53.0
+                ],
+                [
+                    426.0,
+                    62.0
+                ],
+                [
+                    427.0,
+                    62.0
+                ],
+                [
+                    427.0,
+                    64.0
+                ],
+                [
+                    428.0,
+                    64.0
+                ],
+                [
+                    428.0,
+                    65.0
+                ],
+                [
+                    433.0,
+                    65.0
+                ],
+                [
+                    433.0,
+                    64.0
+                ],
+                [
+                    435.0,
+                    64.0
+                ],
+                [
+                    435.0,
+                    55.0
+                ],
+                [
+                    434.0,
+                    55.0
+                ],
+                [
+                    434.0,
+                    53.0
+                ],
+                [
+                    433.0,
+                    53.0
+                ],
+                [
+                    433.0,
+                    52.0
+                ],
+                [
+                    432.0,
+                    52.0
+                ],
+                [
+                    432.0,
+                    51.0
+                ],
+                [
+                    428.0,
+                    51.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the massive yellow truck with a box-like structure and large tires, located on the earthy ground.",
+        "Locate the big, yellow vehicle with a rectangular shape and huge wheels, positioned on the brown surface.",
+        "Find the large, yellow truck that has a square form and enormous tires, resting on the brown soil."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023800.jpg",
+            "points": [
+                [
+                    451.0,
+                    501.0
+                ],
+                [
+                    451.0,
+                    502.0
+                ],
+                [
+                    449.0,
+                    502.0
+                ],
+                [
+                    449.0,
+                    504.0
+                ],
+                [
+                    448.0,
+                    504.0
+                ],
+                [
+                    448.0,
+                    505.0
+                ],
+                [
+                    449.0,
+                    505.0
+                ],
+                [
+                    449.0,
+                    508.0
+                ],
+                [
+                    450.0,
+                    508.0
+                ],
+                [
+                    450.0,
+                    509.0
+                ],
+                [
+                    451.0,
+                    509.0
+                ],
+                [
+                    451.0,
+                    511.0
+                ],
+                [
+                    452.0,
+                    511.0
+                ],
+                [
+                    452.0,
+                    512.0
+                ],
+                [
+                    470.0,
+                    512.0
+                ],
+                [
+                    470.0,
+                    508.0
+                ],
+                [
+                    469.0,
+                    508.0
+                ],
+                [
+                    469.0,
+                    507.0
+                ],
+                [
+                    467.0,
+                    507.0
+                ],
+                [
+                    467.0,
+                    506.0
+                ],
+                [
+                    466.0,
+                    506.0
+                ],
+                [
+                    466.0,
+                    505.0
+                ],
+                [
+                    464.0,
+                    505.0
+                ],
+                [
+                    464.0,
+                    504.0
+                ],
+                [
+                    462.0,
+                    504.0
+                ],
+                [
+                    462.0,
+                    503.0
+                ],
+                [
+                    460.0,
+                    503.0
+                ],
+                [
+                    460.0,
+                    502.0
+                ],
+                [
+                    456.0,
+                    502.0
+                ],
+                [
+                    456.0,
+                    501.0
+                ],
+                [
+                    451.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

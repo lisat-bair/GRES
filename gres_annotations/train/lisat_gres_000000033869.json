@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the haul truck that stands out with its bright yellow hue and massive wheels, typically featuring a large bed that tilts to transport materials.",
+        "Spot the haul truck characterized by its eye-catching yellow paint and large wheels, usually equipped with a big, tilting bed for material transport.",
+        "Find the haul truck with its unique yellow color and giant wheels, commonly paired with an expansive, tilting bed to carry loads."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033869.jpg",
+            "points": [
+                [
+                    510.0,
+                    368.0
+                ],
+                [
+                    510.0,
+                    369.0
+                ],
+                [
+                    509.0,
+                    369.0
+                ],
+                [
+                    509.0,
+                    375.0
+                ],
+                [
+                    508.0,
+                    375.0
+                ],
+                [
+                    508.0,
+                    385.0
+                ],
+                [
+                    507.0,
+                    385.0
+                ],
+                [
+                    507.0,
+                    388.0
+                ],
+                [
+                    506.0,
+                    388.0
+                ],
+                [
+                    506.0,
+                    396.0
+                ],
+                [
+                    505.0,
+                    396.0
+                ],
+                [
+                    505.0,
+                    403.0
+                ],
+                [
+                    506.0,
+                    403.0
+                ],
+                [
+                    506.0,
+                    408.0
+                ],
+                [
+                    507.0,
+                    408.0
+                ],
+                [
+                    507.0,
+                    409.0
+                ],
+                [
+                    512.0,
+                    409.0
+                ],
+                [
+                    512.0,
+                    368.0
+                ],
+                [
+                    510.0,
+                    368.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

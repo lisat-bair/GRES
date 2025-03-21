@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the vehicle that features a smooth, metal finish and distinct geometric contours typical of an automobile.",
+        "Look for the automobile with a glossy metallic exterior and clear geometric lines that are typical of a car's design.",
+        "Find the car that has a shiny, metal surface and a well-defined geometric appearance that is characteristic of cars."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003153.jpg",
+            "points": [
+                [
+                    415.0,
+                    425.0
+                ],
+                [
+                    415.0,
+                    438.0
+                ],
+                [
+                    416.0,
+                    438.0
+                ],
+                [
+                    416.0,
+                    441.0
+                ],
+                [
+                    417.0,
+                    441.0
+                ],
+                [
+                    417.0,
+                    442.0
+                ],
+                [
+                    422.0,
+                    442.0
+                ],
+                [
+                    422.0,
+                    441.0
+                ],
+                [
+                    423.0,
+                    441.0
+                ],
+                [
+                    423.0,
+                    432.0
+                ],
+                [
+                    422.0,
+                    432.0
+                ],
+                [
+                    422.0,
+                    429.0
+                ],
+                [
+                    421.0,
+                    429.0
+                ],
+                [
+                    421.0,
+                    427.0
+                ],
+                [
+                    419.0,
+                    427.0
+                ],
+                [
+                    419.0,
+                    426.0
+                ],
+                [
+                    418.0,
+                    426.0
+                ],
+                [
+                    418.0,
+                    425.0
+                ],
+                [
+                    415.0,
+                    425.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

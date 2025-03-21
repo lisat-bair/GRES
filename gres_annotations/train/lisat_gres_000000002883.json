@@ -1,0 +1,61 @@
+{
+    "text": [
+        "Find the passenger car that has a unique rectangular design, a metallic hue, and wheels underneath.",
+        "Locate the vehicle used for carrying passengers that features a noticeable rectangular form, metallic shade, and wheels at its bottom.",
+        "Spot the passenger automobile characterized by its rectangular shape, metallic finish, and set of wheels at the base."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002883.jpg",
+            "points": [
+                [
+                    5.0,
+                    25.0
+                ],
+                [
+                    5.0,
+                    26.0
+                ],
+                [
+                    4.0,
+                    26.0
+                ],
+                [
+                    4.0,
+                    31.0
+                ],
+                [
+                    7.0,
+                    31.0
+                ],
+                [
+                    7.0,
+                    30.0
+                ],
+                [
+                    8.0,
+                    30.0
+                ],
+                [
+                    8.0,
+                    25.0
+                ],
+                [
+                    5.0,
+                    25.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

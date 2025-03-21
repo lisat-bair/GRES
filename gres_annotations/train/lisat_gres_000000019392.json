@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the vehicle that has an elongated rectangular form projecting from its rear, usually bigger than regular cars, and often featuring noticeable wheels on its sides.",
+        "Spot the truck that exhibits a long, rectangular extension at the back, generally larger than common automobiles, and often marked by prominent wheels along its sides.",
+        "Find the truck characterized by a lengthy rectangular section protruding from its back, typically more sizable than normal cars, and often having distinct wheels on the sides."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019392.jpg",
+            "points": [
+                [
+                    497.0,
+                    507.0
+                ],
+                [
+                    497.0,
+                    508.0
+                ],
+                [
+                    496.0,
+                    508.0
+                ],
+                [
+                    496.0,
+                    509.0
+                ],
+                [
+                    495.0,
+                    509.0
+                ],
+                [
+                    495.0,
+                    510.0
+                ],
+                [
+                    494.0,
+                    510.0
+                ],
+                [
+                    494.0,
+                    511.0
+                ],
+                [
+                    493.0,
+                    511.0
+                ],
+                [
+                    493.0,
+                    512.0
+                ],
+                [
+                    509.0,
+                    512.0
+                ],
+                [
+                    509.0,
+                    510.0
+                ],
+                [
+                    508.0,
+                    510.0
+                ],
+                [
+                    508.0,
+                    509.0
+                ],
+                [
+                    507.0,
+                    509.0
+                ],
+                [
+                    507.0,
+                    508.0
+                ],
+                [
+                    505.0,
+                    508.0
+                ],
+                [
+                    505.0,
+                    507.0
+                ],
+                [
+                    497.0,
+                    507.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

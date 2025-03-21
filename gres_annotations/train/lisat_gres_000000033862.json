@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the excavator by its unique yellow hue and its long arm featuring a bucket attachment.",
+        "Recognize the excavator through its distinctive yellow shade and the sizable arm fitted with a bucket.",
+        "Identify the excavator by its characteristic yellow color and the extended arm equipped with a bucket."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033862.jpg",
+            "points": [
+                [
+                    467.0,
+                    374.0
+                ],
+                [
+                    467.0,
+                    375.0
+                ],
+                [
+                    466.0,
+                    375.0
+                ],
+                [
+                    466.0,
+                    376.0
+                ],
+                [
+                    465.0,
+                    376.0
+                ],
+                [
+                    465.0,
+                    379.0
+                ],
+                [
+                    464.0,
+                    379.0
+                ],
+                [
+                    464.0,
+                    384.0
+                ],
+                [
+                    463.0,
+                    384.0
+                ],
+                [
+                    463.0,
+                    392.0
+                ],
+                [
+                    462.0,
+                    392.0
+                ],
+                [
+                    462.0,
+                    394.0
+                ],
+                [
+                    461.0,
+                    394.0
+                ],
+                [
+                    461.0,
+                    396.0
+                ],
+                [
+                    460.0,
+                    396.0
+                ],
+                [
+                    460.0,
+                    398.0
+                ],
+                [
+                    459.0,
+                    398.0
+                ],
+                [
+                    459.0,
+                    407.0
+                ],
+                [
+                    460.0,
+                    407.0
+                ],
+                [
+                    460.0,
+                    408.0
+                ],
+                [
+                    463.0,
+                    408.0
+                ],
+                [
+                    463.0,
+                    409.0
+                ],
+                [
+                    468.0,
+                    409.0
+                ],
+                [
+                    468.0,
+                    408.0
+                ],
+                [
+                    470.0,
+                    408.0
+                ],
+                [
+                    470.0,
+                    406.0
+                ],
+                [
+                    471.0,
+                    406.0
+                ],
+                [
+                    471.0,
+                    396.0
+                ],
+                [
+                    470.0,
+                    396.0
+                ],
+                [
+                    470.0,
+                    392.0
+                ],
+                [
+                    469.0,
+                    392.0
+                ],
+                [
+                    469.0,
+                    383.0
+                ],
+                [
+                    470.0,
+                    383.0
+                ],
+                [
+                    470.0,
+                    375.0
+                ],
+                [
+                    469.0,
+                    375.0
+                ],
+                [
+                    469.0,
+                    374.0
+                ],
+                [
+                    467.0,
+                    374.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

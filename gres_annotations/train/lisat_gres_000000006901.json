@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the vehicle that has a black and white look with a shiny metallic finish against the brown backdrop.",
+        "Spot the automobile featuring a glossy metallic surface in black and white against a brown background.",
+        "Locate the car displaying a black and white color scheme with a metallic luster on a brown backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006901.jpg",
+            "points": [
+                [
+                    96.0,
+                    457.0
+                ],
+                [
+                    96.0,
+                    458.0
+                ],
+                [
+                    95.0,
+                    458.0
+                ],
+                [
+                    95.0,
+                    459.0
+                ],
+                [
+                    94.0,
+                    459.0
+                ],
+                [
+                    94.0,
+                    461.0
+                ],
+                [
+                    93.0,
+                    461.0
+                ],
+                [
+                    93.0,
+                    463.0
+                ],
+                [
+                    92.0,
+                    463.0
+                ],
+                [
+                    92.0,
+                    470.0
+                ],
+                [
+                    93.0,
+                    470.0
+                ],
+                [
+                    93.0,
+                    471.0
+                ],
+                [
+                    96.0,
+                    471.0
+                ],
+                [
+                    96.0,
+                    472.0
+                ],
+                [
+                    98.0,
+                    472.0
+                ],
+                [
+                    98.0,
+                    471.0
+                ],
+                [
+                    100.0,
+                    471.0
+                ],
+                [
+                    100.0,
+                    470.0
+                ],
+                [
+                    102.0,
+                    470.0
+                ],
+                [
+                    102.0,
+                    468.0
+                ],
+                [
+                    103.0,
+                    468.0
+                ],
+                [
+                    103.0,
+                    462.0
+                ],
+                [
+                    102.0,
+                    462.0
+                ],
+                [
+                    102.0,
+                    459.0
+                ],
+                [
+                    101.0,
+                    459.0
+                ],
+                [
+                    101.0,
+                    458.0
+                ],
+                [
+                    100.0,
+                    458.0
+                ],
+                [
+                    100.0,
+                    457.0
+                ],
+                [
+                    96.0,
+                    457.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

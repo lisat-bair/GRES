@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the cabin that has a slanted roof and a rectangular form, standing out against the natural hues around it.",
+        "Spot the shelter with an inclined rooftop and a rectangular structure that contrasts with the surrounding natural palette.",
+        "Find the lodge featuring an angled roof and a rectangular shape, in contrast to the natural colors surrounding it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009358.jpg",
+            "points": [
+                [
+                    224.0,
+                    167.0
+                ],
+                [
+                    224.0,
+                    169.0
+                ],
+                [
+                    223.0,
+                    169.0
+                ],
+                [
+                    223.0,
+                    170.0
+                ],
+                [
+                    224.0,
+                    170.0
+                ],
+                [
+                    224.0,
+                    171.0
+                ],
+                [
+                    223.0,
+                    171.0
+                ],
+                [
+                    223.0,
+                    180.0
+                ],
+                [
+                    224.0,
+                    180.0
+                ],
+                [
+                    224.0,
+                    182.0
+                ],
+                [
+                    225.0,
+                    182.0
+                ],
+                [
+                    225.0,
+                    183.0
+                ],
+                [
+                    226.0,
+                    183.0
+                ],
+                [
+                    226.0,
+                    184.0
+                ],
+                [
+                    229.0,
+                    184.0
+                ],
+                [
+                    229.0,
+                    185.0
+                ],
+                [
+                    238.0,
+                    185.0
+                ],
+                [
+                    238.0,
+                    184.0
+                ],
+                [
+                    239.0,
+                    184.0
+                ],
+                [
+                    239.0,
+                    178.0
+                ],
+                [
+                    240.0,
+                    178.0
+                ],
+                [
+                    240.0,
+                    175.0
+                ],
+                [
+                    239.0,
+                    175.0
+                ],
+                [
+                    239.0,
+                    172.0
+                ],
+                [
+                    238.0,
+                    172.0
+                ],
+                [
+                    238.0,
+                    170.0
+                ],
+                [
+                    237.0,
+                    170.0
+                ],
+                [
+                    237.0,
+                    168.0
+                ],
+                [
+                    228.0,
+                    168.0
+                ],
+                [
+                    228.0,
+                    167.0
+                ],
+                [
+                    224.0,
+                    167.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

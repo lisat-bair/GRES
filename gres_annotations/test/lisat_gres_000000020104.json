@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Locate the large yellow rectangular object with windows and wheels in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020104.jpg",
+            "points": [
+                [
+                    200.0,
+                    404.0
+                ],
+                [
+                    200.0,
+                    406.0
+                ],
+                [
+                    199.0,
+                    406.0
+                ],
+                [
+                    199.0,
+                    409.0
+                ],
+                [
+                    200.0,
+                    409.0
+                ],
+                [
+                    200.0,
+                    412.0
+                ],
+                [
+                    206.0,
+                    412.0
+                ],
+                [
+                    206.0,
+                    413.0
+                ],
+                [
+                    233.0,
+                    413.0
+                ],
+                [
+                    233.0,
+                    412.0
+                ],
+                [
+                    234.0,
+                    412.0
+                ],
+                [
+                    234.0,
+                    411.0
+                ],
+                [
+                    235.0,
+                    411.0
+                ],
+                [
+                    235.0,
+                    405.0
+                ],
+                [
+                    223.0,
+                    405.0
+                ],
+                [
+                    223.0,
+                    404.0
+                ],
+                [
+                    200.0,
+                    404.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the bulky, earth-colored equipment that features significant wheels and a notable cab design.",
+        "Locate the massive machinery with an earthy hue, characterized by its large wheels and unique cab architecture.",
+        "Find the substantial, earth-toned apparatus with striking wheels and a distinguished cab configuration."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002181.jpg",
+            "points": [
+                [
+                    336.0,
+                    454.0
+                ],
+                [
+                    336.0,
+                    455.0
+                ],
+                [
+                    335.0,
+                    455.0
+                ],
+                [
+                    335.0,
+                    457.0
+                ],
+                [
+                    334.0,
+                    457.0
+                ],
+                [
+                    334.0,
+                    461.0
+                ],
+                [
+                    333.0,
+                    461.0
+                ],
+                [
+                    333.0,
+                    465.0
+                ],
+                [
+                    332.0,
+                    465.0
+                ],
+                [
+                    332.0,
+                    471.0
+                ],
+                [
+                    331.0,
+                    471.0
+                ],
+                [
+                    331.0,
+                    475.0
+                ],
+                [
+                    332.0,
+                    475.0
+                ],
+                [
+                    332.0,
+                    479.0
+                ],
+                [
+                    333.0,
+                    479.0
+                ],
+                [
+                    333.0,
+                    480.0
+                ],
+                [
+                    343.0,
+                    480.0
+                ],
+                [
+                    343.0,
+                    479.0
+                ],
+                [
+                    344.0,
+                    479.0
+                ],
+                [
+                    344.0,
+                    476.0
+                ],
+                [
+                    345.0,
+                    476.0
+                ],
+                [
+                    345.0,
+                    457.0
+                ],
+                [
+                    344.0,
+                    457.0
+                ],
+                [
+                    344.0,
+                    455.0
+                ],
+                [
+                    342.0,
+                    455.0
+                ],
+                [
+                    342.0,
+                    454.0
+                ],
+                [
+                    336.0,
+                    454.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

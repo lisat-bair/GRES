@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the vehicle located in the top-right corner of the picture that has a compact rectangular form and unique characteristics.",
+        "Find the truck positioned at the upper-right section of the image, which possesses a small rectangular shape and notable features.",
+        "Look for the truck in the top-right area of the image, distinguished by its compact rectangular shape and specific traits."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028832.jpg",
+            "points": [
+                [
+                    424.0,
+                    210.0
+                ],
+                [
+                    424.0,
+                    211.0
+                ],
+                [
+                    421.0,
+                    211.0
+                ],
+                [
+                    421.0,
+                    212.0
+                ],
+                [
+                    419.0,
+                    212.0
+                ],
+                [
+                    419.0,
+                    213.0
+                ],
+                [
+                    417.0,
+                    213.0
+                ],
+                [
+                    417.0,
+                    214.0
+                ],
+                [
+                    414.0,
+                    214.0
+                ],
+                [
+                    414.0,
+                    215.0
+                ],
+                [
+                    413.0,
+                    215.0
+                ],
+                [
+                    413.0,
+                    218.0
+                ],
+                [
+                    414.0,
+                    218.0
+                ],
+                [
+                    414.0,
+                    220.0
+                ],
+                [
+                    415.0,
+                    220.0
+                ],
+                [
+                    415.0,
+                    221.0
+                ],
+                [
+                    419.0,
+                    221.0
+                ],
+                [
+                    419.0,
+                    220.0
+                ],
+                [
+                    422.0,
+                    220.0
+                ],
+                [
+                    422.0,
+                    219.0
+                ],
+                [
+                    424.0,
+                    219.0
+                ],
+                [
+                    424.0,
+                    218.0
+                ],
+                [
+                    427.0,
+                    218.0
+                ],
+                [
+                    427.0,
+                    217.0
+                ],
+                [
+                    429.0,
+                    217.0
+                ],
+                [
+                    429.0,
+                    215.0
+                ],
+                [
+                    430.0,
+                    215.0
+                ],
+                [
+                    430.0,
+                    214.0
+                ],
+                [
+                    429.0,
+                    214.0
+                ],
+                [
+                    429.0,
+                    212.0
+                ],
+                [
+                    428.0,
+                    212.0
+                ],
+                [
+                    428.0,
+                    211.0
+                ],
+                [
+                    427.0,
+                    211.0
+                ],
+                [
+                    427.0,
+                    210.0
+                ],
+                [
+                    424.0,
+                    210.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

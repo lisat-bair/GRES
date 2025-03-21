@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the automobile that features a smooth metallic finish, a curved design, and shiny surfaces.",
+        "Identify the vehicle that boasts a glossy metal exterior, a rounded form, and reflective surfaces.",
+        "Spot the car with a streamlined metallic outside, a rounded silhouette, and surfaces that gleam."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018910.jpg",
+            "points": [
+                [
+                    402.0,
+                    42.0
+                ],
+                [
+                    402.0,
+                    43.0
+                ],
+                [
+                    401.0,
+                    43.0
+                ],
+                [
+                    401.0,
+                    44.0
+                ],
+                [
+                    400.0,
+                    44.0
+                ],
+                [
+                    400.0,
+                    45.0
+                ],
+                [
+                    399.0,
+                    45.0
+                ],
+                [
+                    399.0,
+                    46.0
+                ],
+                [
+                    400.0,
+                    46.0
+                ],
+                [
+                    400.0,
+                    50.0
+                ],
+                [
+                    402.0,
+                    50.0
+                ],
+                [
+                    402.0,
+                    51.0
+                ],
+                [
+                    406.0,
+                    51.0
+                ],
+                [
+                    406.0,
+                    50.0
+                ],
+                [
+                    409.0,
+                    50.0
+                ],
+                [
+                    409.0,
+                    49.0
+                ],
+                [
+                    410.0,
+                    49.0
+                ],
+                [
+                    410.0,
+                    44.0
+                ],
+                [
+                    408.0,
+                    44.0
+                ],
+                [
+                    408.0,
+                    43.0
+                ],
+                [
+                    406.0,
+                    43.0
+                ],
+                [
+                    406.0,
+                    42.0
+                ],
+                [
+                    402.0,
+                    42.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

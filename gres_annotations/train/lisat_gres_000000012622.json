@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the storage tank that's positioned just under the middle of the picture.",
+        "Find the storage tank situated a bit beneath the center of the image.",
+        "Spot the storage tank placed slightly lower than the central part of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012622.jpg",
+            "points": [
+                [
+                    275.0,
+                    216.0
+                ],
+                [
+                    275.0,
+                    217.0
+                ],
+                [
+                    274.0,
+                    217.0
+                ],
+                [
+                    274.0,
+                    218.0
+                ],
+                [
+                    273.0,
+                    218.0
+                ],
+                [
+                    273.0,
+                    227.0
+                ],
+                [
+                    274.0,
+                    227.0
+                ],
+                [
+                    274.0,
+                    228.0
+                ],
+                [
+                    276.0,
+                    228.0
+                ],
+                [
+                    276.0,
+                    229.0
+                ],
+                [
+                    292.0,
+                    229.0
+                ],
+                [
+                    292.0,
+                    228.0
+                ],
+                [
+                    294.0,
+                    228.0
+                ],
+                [
+                    294.0,
+                    227.0
+                ],
+                [
+                    295.0,
+                    227.0
+                ],
+                [
+                    295.0,
+                    221.0
+                ],
+                [
+                    294.0,
+                    221.0
+                ],
+                [
+                    294.0,
+                    218.0
+                ],
+                [
+                    293.0,
+                    218.0
+                ],
+                [
+                    293.0,
+                    217.0
+                ],
+                [
+                    292.0,
+                    217.0
+                ],
+                [
+                    292.0,
+                    216.0
+                ],
+                [
+                    275.0,
+                    216.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

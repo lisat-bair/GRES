@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Identify the shadowy object resembling a vehicle that features notable shiny spots.",
+        "Find the car-shaped silhouette that has clear reflective areas.",
+        "Spot the darkened form similar to a vehicle with obvious reflective highlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008438.jpg",
+            "points": [
+                [
+                    89.0,
+                    479.0
+                ],
+                [
+                    89.0,
+                    480.0
+                ],
+                [
+                    84.0,
+                    480.0
+                ],
+                [
+                    84.0,
+                    481.0
+                ],
+                [
+                    83.0,
+                    481.0
+                ],
+                [
+                    83.0,
+                    482.0
+                ],
+                [
+                    82.0,
+                    482.0
+                ],
+                [
+                    82.0,
+                    484.0
+                ],
+                [
+                    83.0,
+                    484.0
+                ],
+                [
+                    83.0,
+                    486.0
+                ],
+                [
+                    86.0,
+                    486.0
+                ],
+                [
+                    86.0,
+                    487.0
+                ],
+                [
+                    93.0,
+                    487.0
+                ],
+                [
+                    93.0,
+                    486.0
+                ],
+                [
+                    98.0,
+                    486.0
+                ],
+                [
+                    98.0,
+                    485.0
+                ],
+                [
+                    100.0,
+                    485.0
+                ],
+                [
+                    100.0,
+                    484.0
+                ],
+                [
+                    101.0,
+                    484.0
+                ],
+                [
+                    101.0,
+                    483.0
+                ],
+                [
+                    102.0,
+                    483.0
+                ],
+                [
+                    102.0,
+                    481.0
+                ],
+                [
+                    101.0,
+                    481.0
+                ],
+                [
+                    101.0,
+                    480.0
+                ],
+                [
+                    99.0,
+                    480.0
+                ],
+                [
+                    99.0,
+                    479.0
+                ],
+                [
+                    89.0,
+                    479.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the truck positioned in the upper left corner of the image that has a small rectangular form.",
+        "Look for the truck that is situated in the top-left section of the photo, characterized by its compact rectangular shape.",
+        "Identify the truck located in the image's top-left area with a small rectangular appearance."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018654.jpg",
+            "points": [
+                [
+                    37.0,
+                    191.0
+                ],
+                [
+                    37.0,
+                    192.0
+                ],
+                [
+                    35.0,
+                    192.0
+                ],
+                [
+                    35.0,
+                    193.0
+                ],
+                [
+                    34.0,
+                    193.0
+                ],
+                [
+                    34.0,
+                    194.0
+                ],
+                [
+                    33.0,
+                    194.0
+                ],
+                [
+                    33.0,
+                    197.0
+                ],
+                [
+                    32.0,
+                    197.0
+                ],
+                [
+                    32.0,
+                    204.0
+                ],
+                [
+                    31.0,
+                    204.0
+                ],
+                [
+                    31.0,
+                    207.0
+                ],
+                [
+                    32.0,
+                    207.0
+                ],
+                [
+                    32.0,
+                    208.0
+                ],
+                [
+                    33.0,
+                    208.0
+                ],
+                [
+                    33.0,
+                    209.0
+                ],
+                [
+                    39.0,
+                    209.0
+                ],
+                [
+                    39.0,
+                    208.0
+                ],
+                [
+                    40.0,
+                    208.0
+                ],
+                [
+                    40.0,
+                    207.0
+                ],
+                [
+                    41.0,
+                    207.0
+                ],
+                [
+                    41.0,
+                    206.0
+                ],
+                [
+                    42.0,
+                    206.0
+                ],
+                [
+                    42.0,
+                    205.0
+                ],
+                [
+                    43.0,
+                    205.0
+                ],
+                [
+                    43.0,
+                    204.0
+                ],
+                [
+                    44.0,
+                    204.0
+                ],
+                [
+                    44.0,
+                    202.0
+                ],
+                [
+                    45.0,
+                    202.0
+                ],
+                [
+                    45.0,
+                    194.0
+                ],
+                [
+                    44.0,
+                    194.0
+                ],
+                [
+                    44.0,
+                    193.0
+                ],
+                [
+                    42.0,
+                    193.0
+                ],
+                [
+                    42.0,
+                    192.0
+                ],
+                [
+                    40.0,
+                    192.0
+                ],
+                [
+                    40.0,
+                    191.0
+                ],
+                [
+                    37.0,
+                    191.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the bus characterized by its large white body, multiple windows, and side mirrors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026516.jpg",
+            "points": [
+                [
+                    340.0,
+                    342.0
+                ],
+                [
+                    340.0,
+                    344.0
+                ],
+                [
+                    339.0,
+                    344.0
+                ],
+                [
+                    339.0,
+                    347.0
+                ],
+                [
+                    340.0,
+                    347.0
+                ],
+                [
+                    340.0,
+                    348.0
+                ],
+                [
+                    341.0,
+                    348.0
+                ],
+                [
+                    341.0,
+                    349.0
+                ],
+                [
+                    358.0,
+                    349.0
+                ],
+                [
+                    358.0,
+                    348.0
+                ],
+                [
+                    359.0,
+                    348.0
+                ],
+                [
+                    359.0,
+                    343.0
+                ],
+                [
+                    358.0,
+                    343.0
+                ],
+                [
+                    358.0,
+                    342.0
+                ],
+                [
+                    340.0,
+                    342.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

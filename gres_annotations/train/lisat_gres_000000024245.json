@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the structure that stands out with its unique color and geometric design, differing from the nearby surfaces.",
+        "Locate the edifice characterized by a contrasting hue and geometric form, distinct from the adjacent textures.",
+        "Spot the construction that is marked by a notable color variance and geometric outline, setting it apart from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024245.jpg",
+            "points": [
+                [
+                    508.0,
+                    500.0
+                ],
+                [
+                    508.0,
+                    501.0
+                ],
+                [
+                    506.0,
+                    501.0
+                ],
+                [
+                    506.0,
+                    502.0
+                ],
+                [
+                    505.0,
+                    502.0
+                ],
+                [
+                    505.0,
+                    503.0
+                ],
+                [
+                    504.0,
+                    503.0
+                ],
+                [
+                    504.0,
+                    505.0
+                ],
+                [
+                    503.0,
+                    505.0
+                ],
+                [
+                    503.0,
+                    507.0
+                ],
+                [
+                    502.0,
+                    507.0
+                ],
+                [
+                    502.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    500.0
+                ],
+                [
+                    508.0,
+                    500.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

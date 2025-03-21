@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the vehicle that has a rectangular form and a shiny exterior reflecting light, set against a darker backdrop.",
+        "Identify the automobile with a rectangular design and a lustrous surface that reflects light, situated against a shadowy background.",
+        "Spot the car featuring a rectangular shape and a glossy surface that catches the light, placed against a dimmer background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009390.jpg",
+            "points": [
+                [
+                    222.0,
+                    387.0
+                ],
+                [
+                    222.0,
+                    388.0
+                ],
+                [
+                    220.0,
+                    388.0
+                ],
+                [
+                    220.0,
+                    389.0
+                ],
+                [
+                    219.0,
+                    389.0
+                ],
+                [
+                    219.0,
+                    391.0
+                ],
+                [
+                    218.0,
+                    391.0
+                ],
+                [
+                    218.0,
+                    392.0
+                ],
+                [
+                    219.0,
+                    392.0
+                ],
+                [
+                    219.0,
+                    395.0
+                ],
+                [
+                    220.0,
+                    395.0
+                ],
+                [
+                    220.0,
+                    397.0
+                ],
+                [
+                    221.0,
+                    397.0
+                ],
+                [
+                    221.0,
+                    398.0
+                ],
+                [
+                    223.0,
+                    398.0
+                ],
+                [
+                    223.0,
+                    399.0
+                ],
+                [
+                    225.0,
+                    399.0
+                ],
+                [
+                    225.0,
+                    398.0
+                ],
+                [
+                    226.0,
+                    398.0
+                ],
+                [
+                    226.0,
+                    396.0
+                ],
+                [
+                    227.0,
+                    396.0
+                ],
+                [
+                    227.0,
+                    393.0
+                ],
+                [
+                    226.0,
+                    393.0
+                ],
+                [
+                    226.0,
+                    389.0
+                ],
+                [
+                    225.0,
+                    389.0
+                ],
+                [
+                    225.0,
+                    388.0
+                ],
+                [
+                    224.0,
+                    388.0
+                ],
+                [
+                    224.0,
+                    387.0
+                ],
+                [
+                    222.0,
+                    387.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

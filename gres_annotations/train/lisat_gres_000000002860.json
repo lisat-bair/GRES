@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Point out the vehicle located at the lower-right corner of the picture.",
+        "Spot the automobile positioned in the bottom-right section of the image.",
+        "Locate the car that is situated in the lower-right area of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002860.jpg",
+            "points": [
+                [
+                    421.0,
+                    234.0
+                ],
+                [
+                    421.0,
+                    235.0
+                ],
+                [
+                    420.0,
+                    235.0
+                ],
+                [
+                    420.0,
+                    236.0
+                ],
+                [
+                    419.0,
+                    236.0
+                ],
+                [
+                    419.0,
+                    238.0
+                ],
+                [
+                    418.0,
+                    238.0
+                ],
+                [
+                    418.0,
+                    243.0
+                ],
+                [
+                    424.0,
+                    243.0
+                ],
+                [
+                    424.0,
+                    242.0
+                ],
+                [
+                    425.0,
+                    242.0
+                ],
+                [
+                    425.0,
+                    235.0
+                ],
+                [
+                    424.0,
+                    235.0
+                ],
+                [
+                    424.0,
+                    234.0
+                ],
+                [
+                    421.0,
+                    234.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

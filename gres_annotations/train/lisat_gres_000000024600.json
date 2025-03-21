@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the boat by looking for a structure that stands out with a long shape, a color that differs from its surroundings, and characteristics typical of a vessel like a hull or mast.",
+        "Spot the boat by identifying a structure that has an extended shape, a color that contrasts with its background, and features common to a ship such as a hull or mast.",
+        "Locate the boat by searching for a structure that features a distinctly elongated form, a color contrasting with the environment, and typical vessel attributes like a hull or mast."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024600.jpg",
+            "points": [
+                [
+                    190.0,
+                    6.0
+                ],
+                [
+                    190.0,
+                    7.0
+                ],
+                [
+                    187.0,
+                    7.0
+                ],
+                [
+                    187.0,
+                    8.0
+                ],
+                [
+                    186.0,
+                    8.0
+                ],
+                [
+                    186.0,
+                    9.0
+                ],
+                [
+                    185.0,
+                    9.0
+                ],
+                [
+                    185.0,
+                    13.0
+                ],
+                [
+                    186.0,
+                    13.0
+                ],
+                [
+                    186.0,
+                    14.0
+                ],
+                [
+                    188.0,
+                    14.0
+                ],
+                [
+                    188.0,
+                    15.0
+                ],
+                [
+                    191.0,
+                    15.0
+                ],
+                [
+                    191.0,
+                    16.0
+                ],
+                [
+                    195.0,
+                    16.0
+                ],
+                [
+                    195.0,
+                    17.0
+                ],
+                [
+                    201.0,
+                    17.0
+                ],
+                [
+                    201.0,
+                    16.0
+                ],
+                [
+                    204.0,
+                    16.0
+                ],
+                [
+                    204.0,
+                    13.0
+                ],
+                [
+                    203.0,
+                    13.0
+                ],
+                [
+                    203.0,
+                    12.0
+                ],
+                [
+                    202.0,
+                    12.0
+                ],
+                [
+                    202.0,
+                    11.0
+                ],
+                [
+                    201.0,
+                    11.0
+                ],
+                [
+                    201.0,
+                    10.0
+                ],
+                [
+                    200.0,
+                    10.0
+                ],
+                [
+                    200.0,
+                    9.0
+                ],
+                [
+                    199.0,
+                    9.0
+                ],
+                [
+                    199.0,
+                    8.0
+                ],
+                [
+                    197.0,
+                    8.0
+                ],
+                [
+                    197.0,
+                    7.0
+                ],
+                [
+                    194.0,
+                    7.0
+                ],
+                [
+                    194.0,
+                    6.0
+                ],
+                [
+                    190.0,
+                    6.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the haul truck in the image's upper-left corner, characterized by its compact design and exposed wheels.",
+        "Spot the haul truck positioned at the top-left of the picture, noted for its compact shape and visible wheels.",
+        "Find the haul truck at the upper-left section of the image, distinguished by its compact form and visible wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011671.jpg",
+            "points": [
+                [
+                    128.0,
+                    131.0
+                ],
+                [
+                    128.0,
+                    132.0
+                ],
+                [
+                    127.0,
+                    132.0
+                ],
+                [
+                    127.0,
+                    133.0
+                ],
+                [
+                    126.0,
+                    133.0
+                ],
+                [
+                    126.0,
+                    135.0
+                ],
+                [
+                    125.0,
+                    135.0
+                ],
+                [
+                    125.0,
+                    136.0
+                ],
+                [
+                    126.0,
+                    136.0
+                ],
+                [
+                    126.0,
+                    138.0
+                ],
+                [
+                    128.0,
+                    138.0
+                ],
+                [
+                    128.0,
+                    139.0
+                ],
+                [
+                    131.0,
+                    139.0
+                ],
+                [
+                    131.0,
+                    140.0
+                ],
+                [
+                    138.0,
+                    140.0
+                ],
+                [
+                    138.0,
+                    141.0
+                ],
+                [
+                    142.0,
+                    141.0
+                ],
+                [
+                    142.0,
+                    140.0
+                ],
+                [
+                    144.0,
+                    140.0
+                ],
+                [
+                    144.0,
+                    137.0
+                ],
+                [
+                    145.0,
+                    137.0
+                ],
+                [
+                    145.0,
+                    135.0
+                ],
+                [
+                    144.0,
+                    135.0
+                ],
+                [
+                    144.0,
+                    133.0
+                ],
+                [
+                    142.0,
+                    133.0
+                ],
+                [
+                    142.0,
+                    132.0
+                ],
+                [
+                    136.0,
+                    132.0
+                ],
+                [
+                    136.0,
+                    131.0
+                ],
+                [
+                    128.0,
+                    131.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

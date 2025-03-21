@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the vehicle that has a shiny exterior and sharp contours in the photo.",
+        "Locate the automobile in the picture that features a polished finish and distinct lines.",
+        "Find the car in the image that boasts a sleek surface and well-defined edges."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003077.jpg",
+            "points": [
+                [
+                    116.0,
+                    495.0
+                ],
+                [
+                    116.0,
+                    496.0
+                ],
+                [
+                    112.0,
+                    496.0
+                ],
+                [
+                    112.0,
+                    497.0
+                ],
+                [
+                    109.0,
+                    497.0
+                ],
+                [
+                    109.0,
+                    498.0
+                ],
+                [
+                    108.0,
+                    498.0
+                ],
+                [
+                    108.0,
+                    502.0
+                ],
+                [
+                    109.0,
+                    502.0
+                ],
+                [
+                    109.0,
+                    503.0
+                ],
+                [
+                    111.0,
+                    503.0
+                ],
+                [
+                    111.0,
+                    504.0
+                ],
+                [
+                    124.0,
+                    504.0
+                ],
+                [
+                    124.0,
+                    503.0
+                ],
+                [
+                    125.0,
+                    503.0
+                ],
+                [
+                    125.0,
+                    502.0
+                ],
+                [
+                    126.0,
+                    502.0
+                ],
+                [
+                    126.0,
+                    498.0
+                ],
+                [
+                    125.0,
+                    498.0
+                ],
+                [
+                    125.0,
+                    497.0
+                ],
+                [
+                    124.0,
+                    497.0
+                ],
+                [
+                    124.0,
+                    496.0
+                ],
+                [
+                    119.0,
+                    496.0
+                ],
+                [
+                    119.0,
+                    495.0
+                ],
+                [
+                    116.0,
+                    495.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

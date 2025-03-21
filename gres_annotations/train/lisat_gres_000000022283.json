@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the vehicle in the picture that has a shiny metallic finish, a streamlined design, and unique tires.",
+        "Identify the automobile in the image that features a metallic luster, an aerodynamic form, and special tires.",
+        "Spot the car in the photo with a metallic gloss, sleek shape, and standout tires."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022283.jpg",
+            "points": [
+                [
+                    190.0,
+                    501.0
+                ],
+                [
+                    190.0,
+                    502.0
+                ],
+                [
+                    188.0,
+                    502.0
+                ],
+                [
+                    188.0,
+                    503.0
+                ],
+                [
+                    187.0,
+                    503.0
+                ],
+                [
+                    187.0,
+                    504.0
+                ],
+                [
+                    185.0,
+                    504.0
+                ],
+                [
+                    185.0,
+                    506.0
+                ],
+                [
+                    184.0,
+                    506.0
+                ],
+                [
+                    184.0,
+                    508.0
+                ],
+                [
+                    183.0,
+                    508.0
+                ],
+                [
+                    183.0,
+                    512.0
+                ],
+                [
+                    194.0,
+                    512.0
+                ],
+                [
+                    194.0,
+                    509.0
+                ],
+                [
+                    195.0,
+                    509.0
+                ],
+                [
+                    195.0,
+                    503.0
+                ],
+                [
+                    194.0,
+                    503.0
+                ],
+                [
+                    194.0,
+                    502.0
+                ],
+                [
+                    192.0,
+                    502.0
+                ],
+                [
+                    192.0,
+                    501.0
+                ],
+                [
+                    190.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

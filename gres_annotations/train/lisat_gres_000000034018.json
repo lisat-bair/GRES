@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Identify the vehicle that features a shiny metallic exterior, polished finish, and unique headlights contrasting with the darker setting.",
+        "Find the automobile that boasts a metallic body with a glossy sheen and standout headlights against a darker backdrop.",
+        "Spot the car characterized by its metallic surface, sleek finish, and prominent headlights set against a darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034018.jpg",
+            "points": [
+                [
+                    63.0,
+                    272.0
+                ],
+                [
+                    63.0,
+                    273.0
+                ],
+                [
+                    62.0,
+                    273.0
+                ],
+                [
+                    62.0,
+                    277.0
+                ],
+                [
+                    63.0,
+                    277.0
+                ],
+                [
+                    63.0,
+                    278.0
+                ],
+                [
+                    64.0,
+                    278.0
+                ],
+                [
+                    64.0,
+                    279.0
+                ],
+                [
+                    66.0,
+                    279.0
+                ],
+                [
+                    66.0,
+                    280.0
+                ],
+                [
+                    68.0,
+                    280.0
+                ],
+                [
+                    68.0,
+                    281.0
+                ],
+                [
+                    69.0,
+                    281.0
+                ],
+                [
+                    69.0,
+                    282.0
+                ],
+                [
+                    73.0,
+                    282.0
+                ],
+                [
+                    73.0,
+                    281.0
+                ],
+                [
+                    74.0,
+                    281.0
+                ],
+                [
+                    74.0,
+                    280.0
+                ],
+                [
+                    75.0,
+                    280.0
+                ],
+                [
+                    75.0,
+                    275.0
+                ],
+                [
+                    74.0,
+                    275.0
+                ],
+                [
+                    74.0,
+                    274.0
+                ],
+                [
+                    73.0,
+                    274.0
+                ],
+                [
+                    73.0,
+                    273.0
+                ],
+                [
+                    72.0,
+                    273.0
+                ],
+                [
+                    72.0,
+                    272.0
+                ],
+                [
+                    63.0,
+                    272.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

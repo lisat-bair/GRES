@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for the shed that has a small building with a triangular roof and a light hue contrasting with the darker environment.",
+        "Find the shed characterized by a small structure, a triangular roof, and a light color that contrasts with the surrounding darkness.",
+        "Locate the shed with a petite structure featuring a triangular roof and a light shade, making it stand out against the darker backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001606.jpg",
+            "points": [
+                [
+                    224.0,
+                    497.0
+                ],
+                [
+                    224.0,
+                    498.0
+                ],
+                [
+                    223.0,
+                    498.0
+                ],
+                [
+                    223.0,
+                    499.0
+                ],
+                [
+                    222.0,
+                    499.0
+                ],
+                [
+                    222.0,
+                    500.0
+                ],
+                [
+                    221.0,
+                    500.0
+                ],
+                [
+                    221.0,
+                    501.0
+                ],
+                [
+                    220.0,
+                    501.0
+                ],
+                [
+                    220.0,
+                    502.0
+                ],
+                [
+                    219.0,
+                    502.0
+                ],
+                [
+                    219.0,
+                    503.0
+                ],
+                [
+                    218.0,
+                    503.0
+                ],
+                [
+                    218.0,
+                    505.0
+                ],
+                [
+                    217.0,
+                    505.0
+                ],
+                [
+                    217.0,
+                    510.0
+                ],
+                [
+                    216.0,
+                    510.0
+                ],
+                [
+                    216.0,
+                    512.0
+                ],
+                [
+                    232.0,
+                    512.0
+                ],
+                [
+                    232.0,
+                    510.0
+                ],
+                [
+                    233.0,
+                    510.0
+                ],
+                [
+                    233.0,
+                    508.0
+                ],
+                [
+                    234.0,
+                    508.0
+                ],
+                [
+                    234.0,
+                    506.0
+                ],
+                [
+                    235.0,
+                    506.0
+                ],
+                [
+                    235.0,
+                    502.0
+                ],
+                [
+                    234.0,
+                    502.0
+                ],
+                [
+                    234.0,
+                    501.0
+                ],
+                [
+                    233.0,
+                    501.0
+                ],
+                [
+                    233.0,
+                    500.0
+                ],
+                [
+                    231.0,
+                    500.0
+                ],
+                [
+                    231.0,
+                    499.0
+                ],
+                [
+                    229.0,
+                    499.0
+                ],
+                [
+                    229.0,
+                    498.0
+                ],
+                [
+                    227.0,
+                    498.0
+                ],
+                [
+                    227.0,
+                    497.0
+                ],
+                [
+                    224.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

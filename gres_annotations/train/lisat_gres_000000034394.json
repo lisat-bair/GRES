@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the truck in the picture that stands out with its distinctive color and shape from the other objects.",
+        "Identify the truck in the image which has a unique color scheme and an unusual shape compared to the items around it.",
+        "Spot the truck that has a different color pattern and shape than the other objects in the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034394.jpg",
+            "points": [
+                [
+                    351.0,
+                    389.0
+                ],
+                [
+                    351.0,
+                    390.0
+                ],
+                [
+                    350.0,
+                    390.0
+                ],
+                [
+                    350.0,
+                    391.0
+                ],
+                [
+                    349.0,
+                    391.0
+                ],
+                [
+                    349.0,
+                    400.0
+                ],
+                [
+                    348.0,
+                    400.0
+                ],
+                [
+                    348.0,
+                    414.0
+                ],
+                [
+                    356.0,
+                    414.0
+                ],
+                [
+                    356.0,
+                    413.0
+                ],
+                [
+                    357.0,
+                    413.0
+                ],
+                [
+                    357.0,
+                    399.0
+                ],
+                [
+                    358.0,
+                    399.0
+                ],
+                [
+                    358.0,
+                    396.0
+                ],
+                [
+                    357.0,
+                    396.0
+                ],
+                [
+                    357.0,
+                    390.0
+                ],
+                [
+                    356.0,
+                    390.0
+                ],
+                [
+                    356.0,
+                    389.0
+                ],
+                [
+                    351.0,
+                    389.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

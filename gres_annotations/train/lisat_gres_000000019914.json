@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the structure that has a dark, textured outer surface and is rectangular in form.",
+        "Find the building that features a dark, textured exterior and a rectangular design.",
+        "Point out the rectangular edifice with a dark, textured facade."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019914.jpg",
+            "points": [
+                [
+                    0.0,
+                    382.0
+                ],
+                [
+                    0.0,
+                    441.0
+                ],
+                [
+                    16.0,
+                    441.0
+                ],
+                [
+                    16.0,
+                    440.0
+                ],
+                [
+                    18.0,
+                    440.0
+                ],
+                [
+                    18.0,
+                    439.0
+                ],
+                [
+                    19.0,
+                    439.0
+                ],
+                [
+                    19.0,
+                    437.0
+                ],
+                [
+                    20.0,
+                    437.0
+                ],
+                [
+                    20.0,
+                    434.0
+                ],
+                [
+                    21.0,
+                    434.0
+                ],
+                [
+                    21.0,
+                    419.0
+                ],
+                [
+                    20.0,
+                    419.0
+                ],
+                [
+                    20.0,
+                    399.0
+                ],
+                [
+                    19.0,
+                    399.0
+                ],
+                [
+                    19.0,
+                    396.0
+                ],
+                [
+                    18.0,
+                    396.0
+                ],
+                [
+                    18.0,
+                    395.0
+                ],
+                [
+                    17.0,
+                    395.0
+                ],
+                [
+                    17.0,
+                    393.0
+                ],
+                [
+                    16.0,
+                    393.0
+                ],
+                [
+                    16.0,
+                    385.0
+                ],
+                [
+                    15.0,
+                    385.0
+                ],
+                [
+                    15.0,
+                    383.0
+                ],
+                [
+                    14.0,
+                    383.0
+                ],
+                [
+                    14.0,
+                    382.0
+                ],
+                [
+                    0.0,
+                    382.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the bus in the picture by looking for the big, yellow rectangular vehicle with several windows.",
+        "To spot the bus in the image, look for a sizable yellow vehicle that has a rectangular form and numerous windows.",
+        "Locate the bus within the image by identifying the large, yellow vehicle characterized by its rectangular shape and multiple windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025899.jpg",
+            "points": [
+                [
+                    340.0,
+                    105.0
+                ],
+                [
+                    340.0,
+                    106.0
+                ],
+                [
+                    339.0,
+                    106.0
+                ],
+                [
+                    339.0,
+                    109.0
+                ],
+                [
+                    340.0,
+                    109.0
+                ],
+                [
+                    340.0,
+                    110.0
+                ],
+                [
+                    342.0,
+                    110.0
+                ],
+                [
+                    342.0,
+                    111.0
+                ],
+                [
+                    353.0,
+                    111.0
+                ],
+                [
+                    353.0,
+                    110.0
+                ],
+                [
+                    354.0,
+                    110.0
+                ],
+                [
+                    354.0,
+                    108.0
+                ],
+                [
+                    355.0,
+                    108.0
+                ],
+                [
+                    355.0,
+                    106.0
+                ],
+                [
+                    354.0,
+                    106.0
+                ],
+                [
+                    354.0,
+                    105.0
+                ],
+                [
+                    340.0,
+                    105.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

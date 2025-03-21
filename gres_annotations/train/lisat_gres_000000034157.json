@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the big, yellow digging machine equipped with an extended arm and a bucket, commonly utilized for excavation.",
+        "Locate the substantial, yellow construction equipment featuring a long arm and a bucket, usually employed for digging purposes.",
+        "Find the large, yellow excavator that has an elongated arm and a bucket attachment, often used for digging tasks."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034157.jpg",
+            "points": [
+                [
+                    384.0,
+                    482.0
+                ],
+                [
+                    384.0,
+                    483.0
+                ],
+                [
+                    380.0,
+                    483.0
+                ],
+                [
+                    380.0,
+                    484.0
+                ],
+                [
+                    377.0,
+                    484.0
+                ],
+                [
+                    377.0,
+                    485.0
+                ],
+                [
+                    376.0,
+                    485.0
+                ],
+                [
+                    376.0,
+                    494.0
+                ],
+                [
+                    377.0,
+                    494.0
+                ],
+                [
+                    377.0,
+                    497.0
+                ],
+                [
+                    378.0,
+                    497.0
+                ],
+                [
+                    378.0,
+                    501.0
+                ],
+                [
+                    379.0,
+                    501.0
+                ],
+                [
+                    379.0,
+                    504.0
+                ],
+                [
+                    380.0,
+                    504.0
+                ],
+                [
+                    380.0,
+                    512.0
+                ],
+                [
+                    387.0,
+                    512.0
+                ],
+                [
+                    387.0,
+                    506.0
+                ],
+                [
+                    386.0,
+                    506.0
+                ],
+                [
+                    386.0,
+                    501.0
+                ],
+                [
+                    387.0,
+                    501.0
+                ],
+                [
+                    387.0,
+                    498.0
+                ],
+                [
+                    388.0,
+                    498.0
+                ],
+                [
+                    388.0,
+                    496.0
+                ],
+                [
+                    389.0,
+                    496.0
+                ],
+                [
+                    389.0,
+                    488.0
+                ],
+                [
+                    390.0,
+                    488.0
+                ],
+                [
+                    390.0,
+                    487.0
+                ],
+                [
+                    389.0,
+                    487.0
+                ],
+                [
+                    389.0,
+                    484.0
+                ],
+                [
+                    388.0,
+                    484.0
+                ],
+                [
+                    388.0,
+                    483.0
+                ],
+                [
+                    386.0,
+                    483.0
+                ],
+                [
+                    386.0,
+                    482.0
+                ],
+                [
+                    384.0,
+                    482.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

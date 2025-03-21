@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the uniquely shaped and colored truck that contrasts with its surroundings, showcasing design features characteristic of its category.",
+        "Locate the truck with a noticeable shape and color that differentiates it from the backdrop, having distinct design elements typical of its type.",
+        "Find the truck distinguished by its unique shape and color, which makes it stand out against the background, highlighting specific design aspects unique to its class."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014117.jpg",
+            "points": [
+                [
+                    3.0,
+                    454.0
+                ],
+                [
+                    3.0,
+                    455.0
+                ],
+                [
+                    1.0,
+                    455.0
+                ],
+                [
+                    1.0,
+                    456.0
+                ],
+                [
+                    0.0,
+                    456.0
+                ],
+                [
+                    0.0,
+                    465.0
+                ],
+                [
+                    1.0,
+                    465.0
+                ],
+                [
+                    1.0,
+                    468.0
+                ],
+                [
+                    2.0,
+                    468.0
+                ],
+                [
+                    2.0,
+                    470.0
+                ],
+                [
+                    9.0,
+                    470.0
+                ],
+                [
+                    9.0,
+                    469.0
+                ],
+                [
+                    10.0,
+                    469.0
+                ],
+                [
+                    10.0,
+                    461.0
+                ],
+                [
+                    9.0,
+                    461.0
+                ],
+                [
+                    9.0,
+                    456.0
+                ],
+                [
+                    8.0,
+                    456.0
+                ],
+                [
+                    8.0,
+                    454.0
+                ],
+                [
+                    3.0,
+                    454.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

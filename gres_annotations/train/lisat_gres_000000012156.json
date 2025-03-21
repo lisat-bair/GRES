@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the big yellow machine equipped with a long arm and a hook on its end.",
+        "Locate the sizable yellow vehicle featuring an elongated boom and a hook attached to it.",
+        "Find the large yellow apparatus that has a protruding boom arm ending with a hook."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012156.jpg",
+            "points": [
+                [
+                    241.0,
+                    119.0
+                ],
+                [
+                    241.0,
+                    120.0
+                ],
+                [
+                    232.0,
+                    120.0
+                ],
+                [
+                    232.0,
+                    121.0
+                ],
+                [
+                    224.0,
+                    121.0
+                ],
+                [
+                    224.0,
+                    122.0
+                ],
+                [
+                    218.0,
+                    122.0
+                ],
+                [
+                    218.0,
+                    123.0
+                ],
+                [
+                    217.0,
+                    123.0
+                ],
+                [
+                    217.0,
+                    127.0
+                ],
+                [
+                    218.0,
+                    127.0
+                ],
+                [
+                    218.0,
+                    128.0
+                ],
+                [
+                    219.0,
+                    128.0
+                ],
+                [
+                    219.0,
+                    129.0
+                ],
+                [
+                    231.0,
+                    129.0
+                ],
+                [
+                    231.0,
+                    128.0
+                ],
+                [
+                    237.0,
+                    128.0
+                ],
+                [
+                    237.0,
+                    129.0
+                ],
+                [
+                    240.0,
+                    129.0
+                ],
+                [
+                    240.0,
+                    128.0
+                ],
+                [
+                    246.0,
+                    128.0
+                ],
+                [
+                    246.0,
+                    127.0
+                ],
+                [
+                    250.0,
+                    127.0
+                ],
+                [
+                    250.0,
+                    123.0
+                ],
+                [
+                    249.0,
+                    123.0
+                ],
+                [
+                    249.0,
+                    121.0
+                ],
+                [
+                    248.0,
+                    121.0
+                ],
+                [
+                    248.0,
+                    119.0
+                ],
+                [
+                    241.0,
+                    119.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

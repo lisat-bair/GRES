@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the bus that is big, yellow, has a rectangular form, and features windows and wheels in the picture.",
+        "Locate the bus in the image that is characterized by its large, yellow rectangular shape, complete with windows and wheels.",
+        "Spot the bus in the photo that has a large yellow rectangle form with wheels and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025701.jpg",
+            "points": [
+                [
+                    116.0,
+                    355.0
+                ],
+                [
+                    116.0,
+                    356.0
+                ],
+                [
+                    114.0,
+                    356.0
+                ],
+                [
+                    114.0,
+                    357.0
+                ],
+                [
+                    113.0,
+                    357.0
+                ],
+                [
+                    113.0,
+                    364.0
+                ],
+                [
+                    114.0,
+                    364.0
+                ],
+                [
+                    114.0,
+                    365.0
+                ],
+                [
+                    117.0,
+                    365.0
+                ],
+                [
+                    117.0,
+                    366.0
+                ],
+                [
+                    128.0,
+                    366.0
+                ],
+                [
+                    128.0,
+                    367.0
+                ],
+                [
+                    147.0,
+                    367.0
+                ],
+                [
+                    147.0,
+                    368.0
+                ],
+                [
+                    154.0,
+                    368.0
+                ],
+                [
+                    154.0,
+                    367.0
+                ],
+                [
+                    155.0,
+                    367.0
+                ],
+                [
+                    155.0,
+                    361.0
+                ],
+                [
+                    156.0,
+                    361.0
+                ],
+                [
+                    156.0,
+                    360.0
+                ],
+                [
+                    155.0,
+                    360.0
+                ],
+                [
+                    155.0,
+                    358.0
+                ],
+                [
+                    154.0,
+                    358.0
+                ],
+                [
+                    154.0,
+                    357.0
+                ],
+                [
+                    142.0,
+                    357.0
+                ],
+                [
+                    142.0,
+                    356.0
+                ],
+                [
+                    124.0,
+                    356.0
+                ],
+                [
+                    124.0,
+                    355.0
+                ],
+                [
+                    116.0,
+                    355.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

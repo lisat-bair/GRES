@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the truck by looking for the big, dark vehicle that has noticeable side mirrors and a unique horizontal stripe on its body.",
+        "Search for the truck by spotting the large, dark vehicle with standout side mirrors and a striking horizontal band on its exterior.",
+        "Identify the truck by locating the sizable, dark vehicle with prominent side mirrors and a distinctive horizontal line across its body."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005176.jpg",
+            "points": [
+                [
+                    47.0,
+                    0.0
+                ],
+                [
+                    47.0,
+                    1.0
+                ],
+                [
+                    48.0,
+                    1.0
+                ],
+                [
+                    48.0,
+                    4.0
+                ],
+                [
+                    47.0,
+                    4.0
+                ],
+                [
+                    47.0,
+                    7.0
+                ],
+                [
+                    53.0,
+                    7.0
+                ],
+                [
+                    53.0,
+                    6.0
+                ],
+                [
+                    56.0,
+                    6.0
+                ],
+                [
+                    56.0,
+                    5.0
+                ],
+                [
+                    58.0,
+                    5.0
+                ],
+                [
+                    58.0,
+                    4.0
+                ],
+                [
+                    60.0,
+                    4.0
+                ],
+                [
+                    60.0,
+                    3.0
+                ],
+                [
+                    61.0,
+                    3.0
+                ],
+                [
+                    61.0,
+                    2.0
+                ],
+                [
+                    63.0,
+                    2.0
+                ],
+                [
+                    63.0,
+                    1.0
+                ],
+                [
+                    64.0,
+                    1.0
+                ],
+                [
+                    64.0,
+                    0.0
+                ],
+                [
+                    47.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the vehicle that features a sleek metal finish, curved corners, and a small design.",
+        "Find the automobile with a polished metal exterior, rounded contours, and a petite form.",
+        "Spot the car that has a glossy metallic surface, smooth edges, and a compact build."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011613.jpg",
+            "points": [
+                [
+                    121.0,
+                    89.0
+                ],
+                [
+                    121.0,
+                    90.0
+                ],
+                [
+                    120.0,
+                    90.0
+                ],
+                [
+                    120.0,
+                    91.0
+                ],
+                [
+                    119.0,
+                    91.0
+                ],
+                [
+                    119.0,
+                    94.0
+                ],
+                [
+                    120.0,
+                    94.0
+                ],
+                [
+                    120.0,
+                    95.0
+                ],
+                [
+                    121.0,
+                    95.0
+                ],
+                [
+                    121.0,
+                    96.0
+                ],
+                [
+                    130.0,
+                    96.0
+                ],
+                [
+                    130.0,
+                    95.0
+                ],
+                [
+                    131.0,
+                    95.0
+                ],
+                [
+                    131.0,
+                    91.0
+                ],
+                [
+                    130.0,
+                    91.0
+                ],
+                [
+                    130.0,
+                    90.0
+                ],
+                [
+                    129.0,
+                    90.0
+                ],
+                [
+                    129.0,
+                    89.0
+                ],
+                [
+                    121.0,
+                    89.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

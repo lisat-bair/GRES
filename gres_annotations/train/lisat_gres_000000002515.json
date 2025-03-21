@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the bus that has rectangular windows and an elongated, boxy form, often in bright colors, usually seen on the road transporting passengers.",
+        "Find the bus that features rectangular windows and a unique long, boxy appearance, frequently in vivid hues, commonly encountered on roads ferrying passengers.",
+        "Spot the bus that possesses rectangular windows and a distinctive long, box-shaped design, often in striking colors, typically found on streets carrying people."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002515.jpg",
+            "points": [
+                [
+                    511.0,
+                    54.0
+                ],
+                [
+                    511.0,
+                    55.0
+                ],
+                [
+                    510.0,
+                    55.0
+                ],
+                [
+                    510.0,
+                    57.0
+                ],
+                [
+                    509.0,
+                    57.0
+                ],
+                [
+                    509.0,
+                    60.0
+                ],
+                [
+                    508.0,
+                    60.0
+                ],
+                [
+                    508.0,
+                    62.0
+                ],
+                [
+                    507.0,
+                    62.0
+                ],
+                [
+                    507.0,
+                    63.0
+                ],
+                [
+                    506.0,
+                    63.0
+                ],
+                [
+                    506.0,
+                    68.0
+                ],
+                [
+                    505.0,
+                    68.0
+                ],
+                [
+                    505.0,
+                    71.0
+                ],
+                [
+                    504.0,
+                    71.0
+                ],
+                [
+                    504.0,
+                    73.0
+                ],
+                [
+                    505.0,
+                    73.0
+                ],
+                [
+                    505.0,
+                    75.0
+                ],
+                [
+                    507.0,
+                    75.0
+                ],
+                [
+                    507.0,
+                    76.0
+                ],
+                [
+                    510.0,
+                    76.0
+                ],
+                [
+                    510.0,
+                    75.0
+                ],
+                [
+                    511.0,
+                    75.0
+                ],
+                [
+                    511.0,
+                    74.0
+                ],
+                [
+                    512.0,
+                    74.0
+                ],
+                [
+                    512.0,
+                    54.0
+                ],
+                [
+                    511.0,
+                    54.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

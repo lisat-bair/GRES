@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the trailer positioned towards the middle right of the picture, which is hitched to a truck cab in the front.",
+        "Find the trailer situated slightly to the right of center in the image, linked to a truck cab ahead.",
+        "Spot the trailer located on the center-right side of the photo, attached to the truck cab at the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018146.jpg",
+            "points": [
+                [
+                    282.0,
+                    316.0
+                ],
+                [
+                    282.0,
+                    317.0
+                ],
+                [
+                    277.0,
+                    317.0
+                ],
+                [
+                    277.0,
+                    318.0
+                ],
+                [
+                    276.0,
+                    318.0
+                ],
+                [
+                    276.0,
+                    320.0
+                ],
+                [
+                    275.0,
+                    320.0
+                ],
+                [
+                    275.0,
+                    321.0
+                ],
+                [
+                    276.0,
+                    321.0
+                ],
+                [
+                    276.0,
+                    323.0
+                ],
+                [
+                    277.0,
+                    323.0
+                ],
+                [
+                    277.0,
+                    324.0
+                ],
+                [
+                    282.0,
+                    324.0
+                ],
+                [
+                    282.0,
+                    323.0
+                ],
+                [
+                    284.0,
+                    323.0
+                ],
+                [
+                    284.0,
+                    322.0
+                ],
+                [
+                    285.0,
+                    322.0
+                ],
+                [
+                    285.0,
+                    321.0
+                ],
+                [
+                    286.0,
+                    321.0
+                ],
+                [
+                    286.0,
+                    318.0
+                ],
+                [
+                    285.0,
+                    318.0
+                ],
+                [
+                    285.0,
+                    317.0
+                ],
+                [
+                    284.0,
+                    317.0
+                ],
+                [
+                    284.0,
+                    316.0
+                ],
+                [
+                    282.0,
+                    316.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

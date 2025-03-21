@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the vehicle that has a smooth, streamlined design and a shiny metallic finish that catches the light.",
+        "Locate the automobile characterized by its sleek, aerodynamic form and a metallic exterior that gleams in the light.",
+        "Find the car that boasts a sleek and aerodynamic silhouette, with a metallic surface that prominently reflects light."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016247.jpg",
+            "points": [
+                [
+                    304.0,
+                    180.0
+                ],
+                [
+                    304.0,
+                    181.0
+                ],
+                [
+                    303.0,
+                    181.0
+                ],
+                [
+                    303.0,
+                    186.0
+                ],
+                [
+                    304.0,
+                    186.0
+                ],
+                [
+                    304.0,
+                    188.0
+                ],
+                [
+                    306.0,
+                    188.0
+                ],
+                [
+                    306.0,
+                    189.0
+                ],
+                [
+                    307.0,
+                    189.0
+                ],
+                [
+                    307.0,
+                    190.0
+                ],
+                [
+                    310.0,
+                    190.0
+                ],
+                [
+                    310.0,
+                    189.0
+                ],
+                [
+                    312.0,
+                    189.0
+                ],
+                [
+                    312.0,
+                    186.0
+                ],
+                [
+                    313.0,
+                    186.0
+                ],
+                [
+                    313.0,
+                    185.0
+                ],
+                [
+                    312.0,
+                    185.0
+                ],
+                [
+                    312.0,
+                    183.0
+                ],
+                [
+                    311.0,
+                    183.0
+                ],
+                [
+                    311.0,
+                    182.0
+                ],
+                [
+                    309.0,
+                    182.0
+                ],
+                [
+                    309.0,
+                    181.0
+                ],
+                [
+                    307.0,
+                    181.0
+                ],
+                [
+                    307.0,
+                    180.0
+                ],
+                [
+                    304.0,
+                    180.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

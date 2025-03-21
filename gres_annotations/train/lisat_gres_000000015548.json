@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the vehicle that features sharp edges and shiny surfaces typically linked with cars.",
+        "Locate the automobile characterized by unique angles and glossy exteriors that are often seen in vehicles.",
+        "Spot the car distinguished by its defined lines and reflective surfaces usually found in automobiles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015548.jpg",
+            "points": [
+                [
+                    34.0,
+                    64.0
+                ],
+                [
+                    34.0,
+                    65.0
+                ],
+                [
+                    33.0,
+                    65.0
+                ],
+                [
+                    33.0,
+                    67.0
+                ],
+                [
+                    32.0,
+                    67.0
+                ],
+                [
+                    32.0,
+                    70.0
+                ],
+                [
+                    34.0,
+                    70.0
+                ],
+                [
+                    34.0,
+                    71.0
+                ],
+                [
+                    36.0,
+                    71.0
+                ],
+                [
+                    36.0,
+                    72.0
+                ],
+                [
+                    38.0,
+                    72.0
+                ],
+                [
+                    38.0,
+                    73.0
+                ],
+                [
+                    40.0,
+                    73.0
+                ],
+                [
+                    40.0,
+                    74.0
+                ],
+                [
+                    42.0,
+                    74.0
+                ],
+                [
+                    42.0,
+                    75.0
+                ],
+                [
+                    45.0,
+                    75.0
+                ],
+                [
+                    45.0,
+                    74.0
+                ],
+                [
+                    46.0,
+                    74.0
+                ],
+                [
+                    46.0,
+                    72.0
+                ],
+                [
+                    47.0,
+                    72.0
+                ],
+                [
+                    47.0,
+                    69.0
+                ],
+                [
+                    46.0,
+                    69.0
+                ],
+                [
+                    46.0,
+                    68.0
+                ],
+                [
+                    45.0,
+                    68.0
+                ],
+                [
+                    45.0,
+                    67.0
+                ],
+                [
+                    43.0,
+                    67.0
+                ],
+                [
+                    43.0,
+                    66.0
+                ],
+                [
+                    41.0,
+                    66.0
+                ],
+                [
+                    41.0,
+                    65.0
+                ],
+                [
+                    38.0,
+                    65.0
+                ],
+                [
+                    38.0,
+                    64.0
+                ],
+                [
+                    34.0,
+                    64.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

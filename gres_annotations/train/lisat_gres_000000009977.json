@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the passenger vehicle by recognizing its unique rectangular form, shiny exterior, and mirrored windows.",
+        "Identify the passenger car by its characteristic boxy shape, sleek surface, and reflective windows.",
+        "Find the passenger vehicle by noting its distinctive rectangular design, glossy finish, and presence of reflective glass."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009977.jpg",
+            "points": [
+                [
+                    117.0,
+                    41.0
+                ],
+                [
+                    117.0,
+                    42.0
+                ],
+                [
+                    101.0,
+                    42.0
+                ],
+                [
+                    101.0,
+                    43.0
+                ],
+                [
+                    98.0,
+                    43.0
+                ],
+                [
+                    98.0,
+                    44.0
+                ],
+                [
+                    97.0,
+                    44.0
+                ],
+                [
+                    97.0,
+                    45.0
+                ],
+                [
+                    96.0,
+                    45.0
+                ],
+                [
+                    96.0,
+                    53.0
+                ],
+                [
+                    97.0,
+                    53.0
+                ],
+                [
+                    97.0,
+                    55.0
+                ],
+                [
+                    98.0,
+                    55.0
+                ],
+                [
+                    98.0,
+                    56.0
+                ],
+                [
+                    99.0,
+                    56.0
+                ],
+                [
+                    99.0,
+                    57.0
+                ],
+                [
+                    101.0,
+                    57.0
+                ],
+                [
+                    101.0,
+                    58.0
+                ],
+                [
+                    120.0,
+                    58.0
+                ],
+                [
+                    120.0,
+                    57.0
+                ],
+                [
+                    125.0,
+                    57.0
+                ],
+                [
+                    125.0,
+                    56.0
+                ],
+                [
+                    127.0,
+                    56.0
+                ],
+                [
+                    127.0,
+                    55.0
+                ],
+                [
+                    128.0,
+                    55.0
+                ],
+                [
+                    128.0,
+                    53.0
+                ],
+                [
+                    129.0,
+                    53.0
+                ],
+                [
+                    129.0,
+                    45.0
+                ],
+                [
+                    128.0,
+                    45.0
+                ],
+                [
+                    128.0,
+                    43.0
+                ],
+                [
+                    127.0,
+                    43.0
+                ],
+                [
+                    127.0,
+                    42.0
+                ],
+                [
+                    118.0,
+                    42.0
+                ],
+                [
+                    118.0,
+                    41.0
+                ],
+                [
+                    117.0,
+                    41.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

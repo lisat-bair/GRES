@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the light-hued passenger vehicle characterized by its rectangular shape and sharp edges.",
+        "Locate the vehicle meant for passengers that has a pale color and a rectangular form with defined corners.",
+        "Spot the passenger vehicle that features a light tone and a rectangular structure with prominent edges."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009634.jpg",
+            "points": [
+                [
+                    382.0,
+                    315.0
+                ],
+                [
+                    382.0,
+                    316.0
+                ],
+                [
+                    380.0,
+                    316.0
+                ],
+                [
+                    380.0,
+                    317.0
+                ],
+                [
+                    379.0,
+                    317.0
+                ],
+                [
+                    379.0,
+                    321.0
+                ],
+                [
+                    380.0,
+                    321.0
+                ],
+                [
+                    380.0,
+                    323.0
+                ],
+                [
+                    382.0,
+                    323.0
+                ],
+                [
+                    382.0,
+                    324.0
+                ],
+                [
+                    384.0,
+                    324.0
+                ],
+                [
+                    384.0,
+                    325.0
+                ],
+                [
+                    388.0,
+                    325.0
+                ],
+                [
+                    388.0,
+                    324.0
+                ],
+                [
+                    389.0,
+                    324.0
+                ],
+                [
+                    389.0,
+                    323.0
+                ],
+                [
+                    390.0,
+                    323.0
+                ],
+                [
+                    390.0,
+                    321.0
+                ],
+                [
+                    389.0,
+                    321.0
+                ],
+                [
+                    389.0,
+                    319.0
+                ],
+                [
+                    388.0,
+                    319.0
+                ],
+                [
+                    388.0,
+                    318.0
+                ],
+                [
+                    387.0,
+                    318.0
+                ],
+                [
+                    387.0,
+                    317.0
+                ],
+                [
+                    386.0,
+                    317.0
+                ],
+                [
+                    386.0,
+                    316.0
+                ],
+                [
+                    384.0,
+                    316.0
+                ],
+                [
+                    384.0,
+                    315.0
+                ],
+                [
+                    382.0,
+                    315.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

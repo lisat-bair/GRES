@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the vehicle that has a sleek, dark rectangular form and shiny highlights.",
+        "Locate the automobile characterized by a smooth, dark rectangular shape with glossy reflections.",
+        "Find the car that features a dark, smooth rectangular design with reflective accents."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010893.jpg",
+            "points": [
+                [
+                    452.0,
+                    40.0
+                ],
+                [
+                    452.0,
+                    41.0
+                ],
+                [
+                    451.0,
+                    41.0
+                ],
+                [
+                    451.0,
+                    46.0
+                ],
+                [
+                    452.0,
+                    46.0
+                ],
+                [
+                    452.0,
+                    47.0
+                ],
+                [
+                    453.0,
+                    47.0
+                ],
+                [
+                    453.0,
+                    48.0
+                ],
+                [
+                    455.0,
+                    48.0
+                ],
+                [
+                    455.0,
+                    49.0
+                ],
+                [
+                    456.0,
+                    49.0
+                ],
+                [
+                    456.0,
+                    50.0
+                ],
+                [
+                    458.0,
+                    50.0
+                ],
+                [
+                    458.0,
+                    51.0
+                ],
+                [
+                    463.0,
+                    51.0
+                ],
+                [
+                    463.0,
+                    49.0
+                ],
+                [
+                    464.0,
+                    49.0
+                ],
+                [
+                    464.0,
+                    47.0
+                ],
+                [
+                    463.0,
+                    47.0
+                ],
+                [
+                    463.0,
+                    46.0
+                ],
+                [
+                    462.0,
+                    46.0
+                ],
+                [
+                    462.0,
+                    45.0
+                ],
+                [
+                    461.0,
+                    45.0
+                ],
+                [
+                    461.0,
+                    44.0
+                ],
+                [
+                    460.0,
+                    44.0
+                ],
+                [
+                    460.0,
+                    43.0
+                ],
+                [
+                    459.0,
+                    43.0
+                ],
+                [
+                    459.0,
+                    42.0
+                ],
+                [
+                    457.0,
+                    42.0
+                ],
+                [
+                    457.0,
+                    41.0
+                ],
+                [
+                    455.0,
+                    41.0
+                ],
+                [
+                    455.0,
+                    40.0
+                ],
+                [
+                    452.0,
+                    40.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

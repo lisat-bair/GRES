@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the big white truck that features a unique orange stripe running along its side.",
+        "Locate the large white vehicle that has a noticeable horizontal orange stripe on its side.",
+        "Find the substantial white truck that displays a distinctive horizontal orange stripe on its lateral surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008366.jpg",
+            "points": [
+                [
+                    476.0,
+                    208.0
+                ],
+                [
+                    476.0,
+                    209.0
+                ],
+                [
+                    456.0,
+                    209.0
+                ],
+                [
+                    456.0,
+                    210.0
+                ],
+                [
+                    455.0,
+                    210.0
+                ],
+                [
+                    455.0,
+                    217.0
+                ],
+                [
+                    457.0,
+                    217.0
+                ],
+                [
+                    457.0,
+                    218.0
+                ],
+                [
+                    461.0,
+                    218.0
+                ],
+                [
+                    461.0,
+                    219.0
+                ],
+                [
+                    483.0,
+                    219.0
+                ],
+                [
+                    483.0,
+                    218.0
+                ],
+                [
+                    484.0,
+                    218.0
+                ],
+                [
+                    484.0,
+                    217.0
+                ],
+                [
+                    485.0,
+                    217.0
+                ],
+                [
+                    485.0,
+                    209.0
+                ],
+                [
+                    483.0,
+                    209.0
+                ],
+                [
+                    483.0,
+                    208.0
+                ],
+                [
+                    476.0,
+                    208.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the shed positioned in the upper-left section of the picture.",
+        "Identify the shed situated at the top-left corner of the photo.",
+        "Spot the shed located in the top-left area of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014702.jpg",
+            "points": [
+                [
+                    0.0,
+                    188.0
+                ],
+                [
+                    0.0,
+                    205.0
+                ],
+                [
+                    3.0,
+                    205.0
+                ],
+                [
+                    3.0,
+                    204.0
+                ],
+                [
+                    5.0,
+                    204.0
+                ],
+                [
+                    5.0,
+                    203.0
+                ],
+                [
+                    6.0,
+                    203.0
+                ],
+                [
+                    6.0,
+                    202.0
+                ],
+                [
+                    7.0,
+                    202.0
+                ],
+                [
+                    7.0,
+                    194.0
+                ],
+                [
+                    6.0,
+                    194.0
+                ],
+                [
+                    6.0,
+                    192.0
+                ],
+                [
+                    5.0,
+                    192.0
+                ],
+                [
+                    5.0,
+                    190.0
+                ],
+                [
+                    3.0,
+                    190.0
+                ],
+                [
+                    3.0,
+                    189.0
+                ],
+                [
+                    2.0,
+                    189.0
+                ],
+                [
+                    2.0,
+                    188.0
+                ],
+                [
+                    0.0,
+                    188.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

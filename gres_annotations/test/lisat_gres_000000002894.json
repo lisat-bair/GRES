@@ -1,0 +1,123 @@
+{
+    "text": [
+        "Segment the crane truck in the image with a distinct, elongated arm or boom extending upwards and featuring industrial design elements such as cables and hook attachments."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002894.jpg",
+            "points": [
+                [
+                    164.0,
+                    505.0
+                ],
+                [
+                    164.0,
+                    506.0
+                ],
+                [
+                    162.0,
+                    506.0
+                ],
+                [
+                    162.0,
+                    507.0
+                ],
+                [
+                    159.0,
+                    507.0
+                ],
+                [
+                    159.0,
+                    508.0
+                ],
+                [
+                    151.0,
+                    508.0
+                ],
+                [
+                    151.0,
+                    510.0
+                ],
+                [
+                    152.0,
+                    510.0
+                ],
+                [
+                    152.0,
+                    512.0
+                ],
+                [
+                    177.0,
+                    512.0
+                ],
+                [
+                    177.0,
+                    511.0
+                ],
+                [
+                    175.0,
+                    511.0
+                ],
+                [
+                    175.0,
+                    510.0
+                ],
+                [
+                    172.0,
+                    510.0
+                ],
+                [
+                    172.0,
+                    509.0
+                ],
+                [
+                    171.0,
+                    509.0
+                ],
+                [
+                    171.0,
+                    508.0
+                ],
+                [
+                    170.0,
+                    508.0
+                ],
+                [
+                    170.0,
+                    507.0
+                ],
+                [
+                    169.0,
+                    507.0
+                ],
+                [
+                    169.0,
+                    506.0
+                ],
+                [
+                    166.0,
+                    506.0
+                ],
+                [
+                    166.0,
+                    505.0
+                ],
+                [
+                    164.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

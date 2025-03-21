@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Identify the ship by its unique silhouette and color difference against the dark backdrop, paying attention to distinctive elements like the mast or hull design.",
+        "Spot the boat by observing its particular form and color variation against the dim background, focusing on features such as the mast or hull structure.",
+        "Find the vessel by noting its specific shape and color contrast against the dark setting, concentrating on unique aspects like the mast or hull configuration."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013143.jpg",
+            "points": [
+                [
+                    400.0,
+                    0.0
+                ],
+                [
+                    400.0,
+                    13.0
+                ],
+                [
+                    402.0,
+                    13.0
+                ],
+                [
+                    402.0,
+                    14.0
+                ],
+                [
+                    404.0,
+                    14.0
+                ],
+                [
+                    404.0,
+                    15.0
+                ],
+                [
+                    411.0,
+                    15.0
+                ],
+                [
+                    411.0,
+                    14.0
+                ],
+                [
+                    413.0,
+                    14.0
+                ],
+                [
+                    413.0,
+                    13.0
+                ],
+                [
+                    414.0,
+                    13.0
+                ],
+                [
+                    414.0,
+                    12.0
+                ],
+                [
+                    415.0,
+                    12.0
+                ],
+                [
+                    415.0,
+                    11.0
+                ],
+                [
+                    416.0,
+                    11.0
+                ],
+                [
+                    416.0,
+                    7.0
+                ],
+                [
+                    417.0,
+                    7.0
+                ],
+                [
+                    417.0,
+                    4.0
+                ],
+                [
+                    416.0,
+                    4.0
+                ],
+                [
+                    416.0,
+                    3.0
+                ],
+                [
+                    417.0,
+                    3.0
+                ],
+                [
+                    417.0,
+                    0.0
+                ],
+                [
+                    400.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

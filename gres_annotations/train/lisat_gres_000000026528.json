@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the barge situated in the upper-left section of the picture.",
+        "Find the barge positioned at the top-left of the photo.",
+        "Spot the barge located in the top-left area of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026528.jpg",
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    15.0
+                ],
+                [
+                    4.0,
+                    15.0
+                ],
+                [
+                    4.0,
+                    16.0
+                ],
+                [
+                    9.0,
+                    16.0
+                ],
+                [
+                    9.0,
+                    15.0
+                ],
+                [
+                    15.0,
+                    15.0
+                ],
+                [
+                    15.0,
+                    14.0
+                ],
+                [
+                    17.0,
+                    14.0
+                ],
+                [
+                    17.0,
+                    13.0
+                ],
+                [
+                    21.0,
+                    13.0
+                ],
+                [
+                    21.0,
+                    12.0
+                ],
+                [
+                    22.0,
+                    12.0
+                ],
+                [
+                    22.0,
+                    13.0
+                ],
+                [
+                    26.0,
+                    13.0
+                ],
+                [
+                    26.0,
+                    8.0
+                ],
+                [
+                    25.0,
+                    8.0
+                ],
+                [
+                    25.0,
+                    3.0
+                ],
+                [
+                    24.0,
+                    3.0
+                ],
+                [
+                    24.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

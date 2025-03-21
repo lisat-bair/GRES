@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Identify the car by its unique color and design, observing any noticeable windows, wheels, and lights.",
+        "Spot the passenger vehicle by its specific hue and form, taking note of visible windows, tires, and lights.",
+        "Find the car by its particular color and silhouette, marking any observable windows, wheels, and lighting features."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023239.jpg",
+            "points": [
+                [
+                    72.0,
+                    237.0
+                ],
+                [
+                    72.0,
+                    238.0
+                ],
+                [
+                    71.0,
+                    238.0
+                ],
+                [
+                    71.0,
+                    244.0
+                ],
+                [
+                    72.0,
+                    244.0
+                ],
+                [
+                    72.0,
+                    246.0
+                ],
+                [
+                    73.0,
+                    246.0
+                ],
+                [
+                    73.0,
+                    247.0
+                ],
+                [
+                    74.0,
+                    247.0
+                ],
+                [
+                    74.0,
+                    248.0
+                ],
+                [
+                    76.0,
+                    248.0
+                ],
+                [
+                    76.0,
+                    246.0
+                ],
+                [
+                    77.0,
+                    246.0
+                ],
+                [
+                    77.0,
+                    238.0
+                ],
+                [
+                    76.0,
+                    238.0
+                ],
+                [
+                    76.0,
+                    237.0
+                ],
+                [
+                    72.0,
+                    237.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

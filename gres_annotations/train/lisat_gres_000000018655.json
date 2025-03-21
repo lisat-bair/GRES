@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Recognize the shed as a small, rectangular building featuring a unique roofline that's often in a different color compared to its environment.",
+        "Spot the shed as a compact, rectangular structure with a distinctive roofline, usually contrasting in color with its surroundings.",
+        "Notice the shed as a small, rectangular construction with a notable roofline that is often in a contrasting hue to the area around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018655.jpg",
+            "points": [
+                [
+                    357.0,
+                    282.0
+                ],
+                [
+                    357.0,
+                    283.0
+                ],
+                [
+                    355.0,
+                    283.0
+                ],
+                [
+                    355.0,
+                    284.0
+                ],
+                [
+                    354.0,
+                    284.0
+                ],
+                [
+                    354.0,
+                    285.0
+                ],
+                [
+                    353.0,
+                    285.0
+                ],
+                [
+                    353.0,
+                    295.0
+                ],
+                [
+                    354.0,
+                    295.0
+                ],
+                [
+                    354.0,
+                    297.0
+                ],
+                [
+                    355.0,
+                    297.0
+                ],
+                [
+                    355.0,
+                    298.0
+                ],
+                [
+                    356.0,
+                    298.0
+                ],
+                [
+                    356.0,
+                    299.0
+                ],
+                [
+                    357.0,
+                    299.0
+                ],
+                [
+                    357.0,
+                    300.0
+                ],
+                [
+                    359.0,
+                    300.0
+                ],
+                [
+                    359.0,
+                    301.0
+                ],
+                [
+                    366.0,
+                    301.0
+                ],
+                [
+                    366.0,
+                    302.0
+                ],
+                [
+                    372.0,
+                    302.0
+                ],
+                [
+                    372.0,
+                    301.0
+                ],
+                [
+                    373.0,
+                    301.0
+                ],
+                [
+                    373.0,
+                    300.0
+                ],
+                [
+                    374.0,
+                    300.0
+                ],
+                [
+                    374.0,
+                    298.0
+                ],
+                [
+                    375.0,
+                    298.0
+                ],
+                [
+                    375.0,
+                    292.0
+                ],
+                [
+                    376.0,
+                    292.0
+                ],
+                [
+                    376.0,
+                    284.0
+                ],
+                [
+                    375.0,
+                    284.0
+                ],
+                [
+                    375.0,
+                    283.0
+                ],
+                [
+                    371.0,
+                    283.0
+                ],
+                [
+                    371.0,
+                    282.0
+                ],
+                [
+                    357.0,
+                    282.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

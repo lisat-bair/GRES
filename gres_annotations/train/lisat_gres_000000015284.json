@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for the vehicle that has a smooth, stretched-out design and a shiny surface that bounces light off.",
+        "Spot the automobile with a long, streamlined contour and a glossy exterior that reflects light.",
+        "Find the car characterized by a sleek, extended form and a metallic finish that mirrors light."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015284.jpg",
+            "points": [
+                [
+                    494.0,
+                    448.0
+                ],
+                [
+                    494.0,
+                    449.0
+                ],
+                [
+                    490.0,
+                    449.0
+                ],
+                [
+                    490.0,
+                    451.0
+                ],
+                [
+                    489.0,
+                    451.0
+                ],
+                [
+                    489.0,
+                    452.0
+                ],
+                [
+                    488.0,
+                    452.0
+                ],
+                [
+                    488.0,
+                    454.0
+                ],
+                [
+                    487.0,
+                    454.0
+                ],
+                [
+                    487.0,
+                    459.0
+                ],
+                [
+                    488.0,
+                    459.0
+                ],
+                [
+                    488.0,
+                    460.0
+                ],
+                [
+                    489.0,
+                    460.0
+                ],
+                [
+                    489.0,
+                    461.0
+                ],
+                [
+                    500.0,
+                    461.0
+                ],
+                [
+                    500.0,
+                    460.0
+                ],
+                [
+                    501.0,
+                    460.0
+                ],
+                [
+                    501.0,
+                    459.0
+                ],
+                [
+                    502.0,
+                    459.0
+                ],
+                [
+                    502.0,
+                    454.0
+                ],
+                [
+                    501.0,
+                    454.0
+                ],
+                [
+                    501.0,
+                    453.0
+                ],
+                [
+                    500.0,
+                    453.0
+                ],
+                [
+                    500.0,
+                    452.0
+                ],
+                [
+                    498.0,
+                    452.0
+                ],
+                [
+                    498.0,
+                    451.0
+                ],
+                [
+                    497.0,
+                    451.0
+                ],
+                [
+                    497.0,
+                    450.0
+                ],
+                [
+                    496.0,
+                    450.0
+                ],
+                [
+                    496.0,
+                    449.0
+                ],
+                [
+                    495.0,
+                    449.0
+                ],
+                [
+                    495.0,
+                    448.0
+                ],
+                [
+                    494.0,
+                    448.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

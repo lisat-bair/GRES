@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the big, round metal container placed horizontally on a truck base with noticeable wheels.",
+        "Locate the sizable, tube-shaped metal storage fixed horizontally onto a truck's chassis, featuring evident wheels.",
+        "Find the large, cylindrical metal tank set horizontally on a truck frame, with visible wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013618.jpg",
+            "points": [
+                [
+                    507.0,
+                    166.0
+                ],
+                [
+                    507.0,
+                    167.0
+                ],
+                [
+                    505.0,
+                    167.0
+                ],
+                [
+                    505.0,
+                    168.0
+                ],
+                [
+                    499.0,
+                    168.0
+                ],
+                [
+                    499.0,
+                    169.0
+                ],
+                [
+                    494.0,
+                    169.0
+                ],
+                [
+                    494.0,
+                    170.0
+                ],
+                [
+                    491.0,
+                    170.0
+                ],
+                [
+                    491.0,
+                    171.0
+                ],
+                [
+                    489.0,
+                    171.0
+                ],
+                [
+                    489.0,
+                    172.0
+                ],
+                [
+                    487.0,
+                    172.0
+                ],
+                [
+                    487.0,
+                    177.0
+                ],
+                [
+                    488.0,
+                    177.0
+                ],
+                [
+                    488.0,
+                    178.0
+                ],
+                [
+                    497.0,
+                    178.0
+                ],
+                [
+                    497.0,
+                    177.0
+                ],
+                [
+                    501.0,
+                    177.0
+                ],
+                [
+                    501.0,
+                    176.0
+                ],
+                [
+                    504.0,
+                    176.0
+                ],
+                [
+                    504.0,
+                    175.0
+                ],
+                [
+                    512.0,
+                    175.0
+                ],
+                [
+                    512.0,
+                    166.0
+                ],
+                [
+                    507.0,
+                    166.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

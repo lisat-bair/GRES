@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the vehicle by its unique hue, glossy parts, and common boxy form with round elements symbolizing the wheels.",
+        "Find the automobile by its specific coloration, shiny surfaces, and usual rectangular structure with circular components denoting the wheels.",
+        "Recognize the car through its particular color, reflective parts, and standard square shape with circular features indicating the wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024501.jpg",
+            "points": [
+                [
+                    493.0,
+                    129.0
+                ],
+                [
+                    493.0,
+                    138.0
+                ],
+                [
+                    494.0,
+                    138.0
+                ],
+                [
+                    494.0,
+                    140.0
+                ],
+                [
+                    495.0,
+                    140.0
+                ],
+                [
+                    495.0,
+                    141.0
+                ],
+                [
+                    496.0,
+                    141.0
+                ],
+                [
+                    496.0,
+                    142.0
+                ],
+                [
+                    500.0,
+                    142.0
+                ],
+                [
+                    500.0,
+                    141.0
+                ],
+                [
+                    501.0,
+                    141.0
+                ],
+                [
+                    501.0,
+                    140.0
+                ],
+                [
+                    502.0,
+                    140.0
+                ],
+                [
+                    502.0,
+                    133.0
+                ],
+                [
+                    501.0,
+                    133.0
+                ],
+                [
+                    501.0,
+                    131.0
+                ],
+                [
+                    500.0,
+                    131.0
+                ],
+                [
+                    500.0,
+                    129.0
+                ],
+                [
+                    493.0,
+                    129.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

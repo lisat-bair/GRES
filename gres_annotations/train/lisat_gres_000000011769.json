@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the vehicle located in the lower-right corner of the picture that features unique wheels and a metal exterior.",
+        "Spot the truck positioned at the bottom-right of the image, characterized by its distinctive wheels and metallic frame.",
+        "Locate the truck in the image's bottom-right corner with its remarkable wheels and shiny metal body."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011769.jpg",
+            "points": [
+                [
+                    174.0,
+                    369.0
+                ],
+                [
+                    174.0,
+                    371.0
+                ],
+                [
+                    173.0,
+                    371.0
+                ],
+                [
+                    173.0,
+                    375.0
+                ],
+                [
+                    172.0,
+                    375.0
+                ],
+                [
+                    172.0,
+                    380.0
+                ],
+                [
+                    171.0,
+                    380.0
+                ],
+                [
+                    171.0,
+                    386.0
+                ],
+                [
+                    172.0,
+                    386.0
+                ],
+                [
+                    172.0,
+                    387.0
+                ],
+                [
+                    174.0,
+                    387.0
+                ],
+                [
+                    174.0,
+                    388.0
+                ],
+                [
+                    179.0,
+                    388.0
+                ],
+                [
+                    179.0,
+                    387.0
+                ],
+                [
+                    180.0,
+                    387.0
+                ],
+                [
+                    180.0,
+                    386.0
+                ],
+                [
+                    181.0,
+                    386.0
+                ],
+                [
+                    181.0,
+                    383.0
+                ],
+                [
+                    182.0,
+                    383.0
+                ],
+                [
+                    182.0,
+                    372.0
+                ],
+                [
+                    181.0,
+                    372.0
+                ],
+                [
+                    181.0,
+                    370.0
+                ],
+                [
+                    180.0,
+                    370.0
+                ],
+                [
+                    180.0,
+                    369.0
+                ],
+                [
+                    174.0,
+                    369.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the truck by its unusual color scheme or size, which generally stands out with a wider or taller build compared to other objects around it.",
+        "Look for the truck with standout features like a special color design or dimensions, often having a larger or taller shape than nearby objects.",
+        "Identify the truck by its unique coloring or size, which is typically broader or taller than its surroundings, a common trait of trucks."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012088.jpg",
+            "points": [
+                [
+                    482.0,
+                    406.0
+                ],
+                [
+                    482.0,
+                    408.0
+                ],
+                [
+                    481.0,
+                    408.0
+                ],
+                [
+                    481.0,
+                    414.0
+                ],
+                [
+                    482.0,
+                    414.0
+                ],
+                [
+                    482.0,
+                    415.0
+                ],
+                [
+                    486.0,
+                    415.0
+                ],
+                [
+                    486.0,
+                    414.0
+                ],
+                [
+                    487.0,
+                    414.0
+                ],
+                [
+                    487.0,
+                    413.0
+                ],
+                [
+                    488.0,
+                    413.0
+                ],
+                [
+                    488.0,
+                    407.0
+                ],
+                [
+                    487.0,
+                    407.0
+                ],
+                [
+                    487.0,
+                    406.0
+                ],
+                [
+                    482.0,
+                    406.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

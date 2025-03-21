@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Locate the large yellow rectangular vehicle with windows and wheels, typically positioned on the road or near a bus stop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007897.jpg",
+            "points": [
+                [
+                    428.0,
+                    450.0
+                ],
+                [
+                    428.0,
+                    451.0
+                ],
+                [
+                    427.0,
+                    451.0
+                ],
+                [
+                    427.0,
+                    458.0
+                ],
+                [
+                    428.0,
+                    458.0
+                ],
+                [
+                    428.0,
+                    460.0
+                ],
+                [
+                    429.0,
+                    460.0
+                ],
+                [
+                    429.0,
+                    461.0
+                ],
+                [
+                    434.0,
+                    461.0
+                ],
+                [
+                    434.0,
+                    456.0
+                ],
+                [
+                    433.0,
+                    456.0
+                ],
+                [
+                    433.0,
+                    454.0
+                ],
+                [
+                    434.0,
+                    454.0
+                ],
+                [
+                    434.0,
+                    451.0
+                ],
+                [
+                    432.0,
+                    451.0
+                ],
+                [
+                    432.0,
+                    450.0
+                ],
+                [
+                    428.0,
+                    450.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the vehicle that is white and has a noticeable rectangular form set against a dark backdrop.",
+        "Identify the white automobile that stands out with its rectangular shape on a dark background.",
+        "Spot the white car with a unique rectangular appearance contrasting against a dark scene."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013376.jpg",
+            "points": [
+                [
+                    402.0,
+                    74.0
+                ],
+                [
+                    402.0,
+                    75.0
+                ],
+                [
+                    395.0,
+                    75.0
+                ],
+                [
+                    395.0,
+                    76.0
+                ],
+                [
+                    392.0,
+                    76.0
+                ],
+                [
+                    392.0,
+                    77.0
+                ],
+                [
+                    391.0,
+                    77.0
+                ],
+                [
+                    391.0,
+                    82.0
+                ],
+                [
+                    392.0,
+                    82.0
+                ],
+                [
+                    392.0,
+                    84.0
+                ],
+                [
+                    393.0,
+                    84.0
+                ],
+                [
+                    393.0,
+                    85.0
+                ],
+                [
+                    401.0,
+                    85.0
+                ],
+                [
+                    401.0,
+                    84.0
+                ],
+                [
+                    404.0,
+                    84.0
+                ],
+                [
+                    404.0,
+                    83.0
+                ],
+                [
+                    406.0,
+                    83.0
+                ],
+                [
+                    406.0,
+                    82.0
+                ],
+                [
+                    407.0,
+                    82.0
+                ],
+                [
+                    407.0,
+                    80.0
+                ],
+                [
+                    408.0,
+                    80.0
+                ],
+                [
+                    408.0,
+                    78.0
+                ],
+                [
+                    407.0,
+                    78.0
+                ],
+                [
+                    407.0,
+                    75.0
+                ],
+                [
+                    405.0,
+                    75.0
+                ],
+                [
+                    405.0,
+                    74.0
+                ],
+                [
+                    402.0,
+                    74.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

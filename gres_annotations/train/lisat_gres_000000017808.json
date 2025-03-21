@@ -1,0 +1,85 @@
+{
+    "text": [
+        "The automobile features a glossy, metal exterior, four wheels, and an aerodynamic form typical of a vehicle.",
+        "This car boasts a shiny, metallic frame, four wheels, and a streamlined design characteristic of vehicles.",
+        "With a polished, metallic surface, four wheels, and a sleek shape, this vehicle embodies the typical car design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017808.jpg",
+            "points": [
+                [
+                    489.0,
+                    125.0
+                ],
+                [
+                    489.0,
+                    126.0
+                ],
+                [
+                    488.0,
+                    126.0
+                ],
+                [
+                    488.0,
+                    128.0
+                ],
+                [
+                    487.0,
+                    128.0
+                ],
+                [
+                    487.0,
+                    132.0
+                ],
+                [
+                    491.0,
+                    132.0
+                ],
+                [
+                    491.0,
+                    129.0
+                ],
+                [
+                    492.0,
+                    129.0
+                ],
+                [
+                    492.0,
+                    128.0
+                ],
+                [
+                    491.0,
+                    128.0
+                ],
+                [
+                    491.0,
+                    126.0
+                ],
+                [
+                    490.0,
+                    126.0
+                ],
+                [
+                    490.0,
+                    125.0
+                ],
+                [
+                    489.0,
+                    125.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

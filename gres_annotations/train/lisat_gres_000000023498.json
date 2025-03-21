@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the long and large bus that is mostly white with many windows, probably driving down a street.",
+        "Spot the bus characterized by its elongated form and mostly white exterior with numerous windows, likely situated on a roadway.",
+        "Find the bus that is large and elongated, has a predominantly white body, and features several windows, probably on a road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023498.jpg",
+            "points": [
+                [
+                    264.0,
+                    101.0
+                ],
+                [
+                    264.0,
+                    103.0
+                ],
+                [
+                    263.0,
+                    103.0
+                ],
+                [
+                    263.0,
+                    105.0
+                ],
+                [
+                    262.0,
+                    105.0
+                ],
+                [
+                    262.0,
+                    108.0
+                ],
+                [
+                    261.0,
+                    108.0
+                ],
+                [
+                    261.0,
+                    111.0
+                ],
+                [
+                    260.0,
+                    111.0
+                ],
+                [
+                    260.0,
+                    114.0
+                ],
+                [
+                    261.0,
+                    114.0
+                ],
+                [
+                    261.0,
+                    115.0
+                ],
+                [
+                    262.0,
+                    115.0
+                ],
+                [
+                    262.0,
+                    116.0
+                ],
+                [
+                    265.0,
+                    116.0
+                ],
+                [
+                    265.0,
+                    115.0
+                ],
+                [
+                    266.0,
+                    115.0
+                ],
+                [
+                    266.0,
+                    114.0
+                ],
+                [
+                    267.0,
+                    114.0
+                ],
+                [
+                    267.0,
+                    112.0
+                ],
+                [
+                    268.0,
+                    112.0
+                ],
+                [
+                    268.0,
+                    109.0
+                ],
+                [
+                    269.0,
+                    109.0
+                ],
+                [
+                    269.0,
+                    106.0
+                ],
+                [
+                    270.0,
+                    106.0
+                ],
+                [
+                    270.0,
+                    102.0
+                ],
+                [
+                    269.0,
+                    102.0
+                ],
+                [
+                    269.0,
+                    101.0
+                ],
+                [
+                    264.0,
+                    101.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

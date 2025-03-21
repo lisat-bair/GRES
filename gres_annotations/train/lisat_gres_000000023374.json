@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the building characterized by angled roofs and a texture similar to canvas, usually showcasing earthy or subdued hues, akin to a classic hut or tent.",
+        "Identify the construction with inclined roofs and a canvas-like feel, often displaying neutral or earthy tones, reminiscent of a conventional hut or tent.",
+        "Seek out the edifice with sloped roofs and a fabric-like texture, commonly featuring muted or natural colors, resembling a traditional tent or hut."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023374.jpg",
+            "points": [
+                [
+                    0.0,
+                    477.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    39.0,
+                    512.0
+                ],
+                [
+                    39.0,
+                    483.0
+                ],
+                [
+                    38.0,
+                    483.0
+                ],
+                [
+                    38.0,
+                    482.0
+                ],
+                [
+                    32.0,
+                    482.0
+                ],
+                [
+                    32.0,
+                    481.0
+                ],
+                [
+                    25.0,
+                    481.0
+                ],
+                [
+                    25.0,
+                    480.0
+                ],
+                [
+                    21.0,
+                    480.0
+                ],
+                [
+                    21.0,
+                    479.0
+                ],
+                [
+                    16.0,
+                    479.0
+                ],
+                [
+                    16.0,
+                    478.0
+                ],
+                [
+                    10.0,
+                    478.0
+                ],
+                [
+                    10.0,
+                    477.0
+                ],
+                [
+                    0.0,
+                    477.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

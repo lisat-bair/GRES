@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Look for the vehicle in the image that has a boxy design, shiny surfaces, and prominent wheel arches.",
+        "Pinpoint the automobile in the picture that features a square shape, glossy exteriors, and noticeable wheel arches.",
+        "Find the car in the image characterized by a rectangular form, reflective exteriors, and distinctive wheel arches."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009710.jpg",
+            "points": [
+                [
+                    314.0,
+                    170.0
+                ],
+                [
+                    314.0,
+                    171.0
+                ],
+                [
+                    313.0,
+                    171.0
+                ],
+                [
+                    313.0,
+                    174.0
+                ],
+                [
+                    312.0,
+                    174.0
+                ],
+                [
+                    312.0,
+                    181.0
+                ],
+                [
+                    313.0,
+                    181.0
+                ],
+                [
+                    313.0,
+                    182.0
+                ],
+                [
+                    314.0,
+                    182.0
+                ],
+                [
+                    314.0,
+                    183.0
+                ],
+                [
+                    318.0,
+                    183.0
+                ],
+                [
+                    318.0,
+                    182.0
+                ],
+                [
+                    319.0,
+                    182.0
+                ],
+                [
+                    319.0,
+                    180.0
+                ],
+                [
+                    320.0,
+                    180.0
+                ],
+                [
+                    320.0,
+                    178.0
+                ],
+                [
+                    321.0,
+                    178.0
+                ],
+                [
+                    321.0,
+                    176.0
+                ],
+                [
+                    320.0,
+                    176.0
+                ],
+                [
+                    320.0,
+                    172.0
+                ],
+                [
+                    319.0,
+                    172.0
+                ],
+                [
+                    319.0,
+                    171.0
+                ],
+                [
+                    317.0,
+                    171.0
+                ],
+                [
+                    317.0,
+                    170.0
+                ],
+                [
+                    314.0,
+                    170.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

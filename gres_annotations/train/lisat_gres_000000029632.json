@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the vehicle by spotting the shiny metal surfaces and the unique window and wheel shapes that stand out against the surroundings.",
+        "Identify the automobile by looking for the reflective metallic areas and the distinctive geometric outlines of the windows and tires amidst the backdrop.",
+        "Spot the car by recognizing the gleaming surfaces and the distinct geometric formations of the windows and wheels in contrast with the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029632.jpg",
+            "points": [
+                [
+                    479.0,
+                    67.0
+                ],
+                [
+                    479.0,
+                    68.0
+                ],
+                [
+                    478.0,
+                    68.0
+                ],
+                [
+                    478.0,
+                    72.0
+                ],
+                [
+                    479.0,
+                    72.0
+                ],
+                [
+                    479.0,
+                    75.0
+                ],
+                [
+                    478.0,
+                    75.0
+                ],
+                [
+                    478.0,
+                    80.0
+                ],
+                [
+                    479.0,
+                    80.0
+                ],
+                [
+                    479.0,
+                    81.0
+                ],
+                [
+                    487.0,
+                    81.0
+                ],
+                [
+                    487.0,
+                    80.0
+                ],
+                [
+                    488.0,
+                    80.0
+                ],
+                [
+                    488.0,
+                    76.0
+                ],
+                [
+                    487.0,
+                    76.0
+                ],
+                [
+                    487.0,
+                    74.0
+                ],
+                [
+                    486.0,
+                    74.0
+                ],
+                [
+                    486.0,
+                    73.0
+                ],
+                [
+                    485.0,
+                    73.0
+                ],
+                [
+                    485.0,
+                    71.0
+                ],
+                [
+                    484.0,
+                    71.0
+                ],
+                [
+                    484.0,
+                    70.0
+                ],
+                [
+                    483.0,
+                    70.0
+                ],
+                [
+                    483.0,
+                    69.0
+                ],
+                [
+                    482.0,
+                    69.0
+                ],
+                [
+                    482.0,
+                    68.0
+                ],
+                [
+                    480.0,
+                    68.0
+                ],
+                [
+                    480.0,
+                    67.0
+                ],
+                [
+                    479.0,
+                    67.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

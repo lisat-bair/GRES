@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Identify the haul truck with a prominent, angular dump bed and oversized wheels, often located in mining or construction settings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024197.jpg",
+            "points": [
+                [
+                    379.0,
+                    505.0
+                ],
+                [
+                    379.0,
+                    506.0
+                ],
+                [
+                    372.0,
+                    506.0
+                ],
+                [
+                    372.0,
+                    507.0
+                ],
+                [
+                    371.0,
+                    507.0
+                ],
+                [
+                    371.0,
+                    508.0
+                ],
+                [
+                    370.0,
+                    508.0
+                ],
+                [
+                    370.0,
+                    509.0
+                ],
+                [
+                    369.0,
+                    509.0
+                ],
+                [
+                    369.0,
+                    512.0
+                ],
+                [
+                    396.0,
+                    512.0
+                ],
+                [
+                    396.0,
+                    509.0
+                ],
+                [
+                    395.0,
+                    509.0
+                ],
+                [
+                    395.0,
+                    508.0
+                ],
+                [
+                    392.0,
+                    508.0
+                ],
+                [
+                    392.0,
+                    507.0
+                ],
+                [
+                    390.0,
+                    507.0
+                ],
+                [
+                    390.0,
+                    506.0
+                ],
+                [
+                    386.0,
+                    506.0
+                ],
+                [
+                    386.0,
+                    505.0
+                ],
+                [
+                    379.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

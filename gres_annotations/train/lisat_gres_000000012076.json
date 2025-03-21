@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the truck that features a prominent white area bordered by darker shades.",
+        "Spot the vehicle with a sizable white section encircled by deeper hues.",
+        "Find the truck characterized by a notable white portion framed by darker colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012076.jpg",
+            "points": [
+                [
+                    2.0,
+                    46.0
+                ],
+                [
+                    2.0,
+                    47.0
+                ],
+                [
+                    0.0,
+                    47.0
+                ],
+                [
+                    0.0,
+                    64.0
+                ],
+                [
+                    3.0,
+                    64.0
+                ],
+                [
+                    3.0,
+                    65.0
+                ],
+                [
+                    5.0,
+                    65.0
+                ],
+                [
+                    5.0,
+                    64.0
+                ],
+                [
+                    7.0,
+                    64.0
+                ],
+                [
+                    7.0,
+                    62.0
+                ],
+                [
+                    8.0,
+                    62.0
+                ],
+                [
+                    8.0,
+                    54.0
+                ],
+                [
+                    7.0,
+                    54.0
+                ],
+                [
+                    7.0,
+                    48.0
+                ],
+                [
+                    6.0,
+                    48.0
+                ],
+                [
+                    6.0,
+                    47.0
+                ],
+                [
+                    5.0,
+                    47.0
+                ],
+                [
+                    5.0,
+                    46.0
+                ],
+                [
+                    2.0,
+                    46.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

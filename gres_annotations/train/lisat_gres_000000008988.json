@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for the vehicle that has a boxy design and a shiny finish, usually found on a concrete surface.",
+        "Spot the automobile with a square appearance and a glossy look, often located on a tarmac area.",
+        "Find the car characterized by a rectangular form and a metal-like sheen, commonly parked on a paved spot."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008988.jpg",
+            "points": [
+                [
+                    305.0,
+                    480.0
+                ],
+                [
+                    305.0,
+                    481.0
+                ],
+                [
+                    304.0,
+                    481.0
+                ],
+                [
+                    304.0,
+                    482.0
+                ],
+                [
+                    303.0,
+                    482.0
+                ],
+                [
+                    303.0,
+                    484.0
+                ],
+                [
+                    304.0,
+                    484.0
+                ],
+                [
+                    304.0,
+                    487.0
+                ],
+                [
+                    305.0,
+                    487.0
+                ],
+                [
+                    305.0,
+                    489.0
+                ],
+                [
+                    306.0,
+                    489.0
+                ],
+                [
+                    306.0,
+                    490.0
+                ],
+                [
+                    307.0,
+                    490.0
+                ],
+                [
+                    307.0,
+                    492.0
+                ],
+                [
+                    308.0,
+                    492.0
+                ],
+                [
+                    308.0,
+                    493.0
+                ],
+                [
+                    313.0,
+                    493.0
+                ],
+                [
+                    313.0,
+                    492.0
+                ],
+                [
+                    315.0,
+                    492.0
+                ],
+                [
+                    315.0,
+                    486.0
+                ],
+                [
+                    314.0,
+                    486.0
+                ],
+                [
+                    314.0,
+                    485.0
+                ],
+                [
+                    313.0,
+                    485.0
+                ],
+                [
+                    313.0,
+                    484.0
+                ],
+                [
+                    312.0,
+                    484.0
+                ],
+                [
+                    312.0,
+                    483.0
+                ],
+                [
+                    311.0,
+                    483.0
+                ],
+                [
+                    311.0,
+                    482.0
+                ],
+                [
+                    310.0,
+                    482.0
+                ],
+                [
+                    310.0,
+                    481.0
+                ],
+                [
+                    309.0,
+                    481.0
+                ],
+                [
+                    309.0,
+                    480.0
+                ],
+                [
+                    305.0,
+                    480.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

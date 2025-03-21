@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the building that has unclear features because of its dark and fuzzy look.",
+        "Identify the structure that appears vague due to its shadowy and blurred appearance.",
+        "Spot the building whose features are hard to distinguish due to its dim and unclear facade."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003900.jpg",
+            "points": [
+                [
+                    0.0,
+                    199.0
+                ],
+                [
+                    0.0,
+                    243.0
+                ],
+                [
+                    4.0,
+                    243.0
+                ],
+                [
+                    4.0,
+                    240.0
+                ],
+                [
+                    3.0,
+                    240.0
+                ],
+                [
+                    3.0,
+                    238.0
+                ],
+                [
+                    4.0,
+                    238.0
+                ],
+                [
+                    4.0,
+                    223.0
+                ],
+                [
+                    3.0,
+                    223.0
+                ],
+                [
+                    3.0,
+                    222.0
+                ],
+                [
+                    4.0,
+                    222.0
+                ],
+                [
+                    4.0,
+                    214.0
+                ],
+                [
+                    3.0,
+                    214.0
+                ],
+                [
+                    3.0,
+                    213.0
+                ],
+                [
+                    4.0,
+                    213.0
+                ],
+                [
+                    4.0,
+                    206.0
+                ],
+                [
+                    3.0,
+                    206.0
+                ],
+                [
+                    3.0,
+                    201.0
+                ],
+                [
+                    2.0,
+                    201.0
+                ],
+                [
+                    2.0,
+                    200.0
+                ],
+                [
+                    1.0,
+                    200.0
+                ],
+                [
+                    1.0,
+                    199.0
+                ],
+                [
+                    0.0,
+                    199.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

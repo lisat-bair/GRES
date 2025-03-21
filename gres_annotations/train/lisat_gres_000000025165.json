@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Spot the car with luminous white lights positioned at the back against a dim backdrop.",
+        "Locate the vehicle featuring vivid white lights centrally located at the rear amidst a shadowy setting.",
+        "Find the automobile characterized by intense white lights centered on the rear in a darkened environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025165.jpg",
+            "points": [
+                [
+                    446.0,
+                    120.0
+                ],
+                [
+                    446.0,
+                    124.0
+                ],
+                [
+                    447.0,
+                    124.0
+                ],
+                [
+                    447.0,
+                    126.0
+                ],
+                [
+                    448.0,
+                    126.0
+                ],
+                [
+                    448.0,
+                    128.0
+                ],
+                [
+                    453.0,
+                    128.0
+                ],
+                [
+                    453.0,
+                    122.0
+                ],
+                [
+                    452.0,
+                    122.0
+                ],
+                [
+                    452.0,
+                    121.0
+                ],
+                [
+                    451.0,
+                    121.0
+                ],
+                [
+                    451.0,
+                    120.0
+                ],
+                [
+                    446.0,
+                    120.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

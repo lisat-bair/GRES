@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the trailer that features a lengthy horizontal design, equipped with wheels, and has a noticeable gap between the cab and the elongated flatbed section.",
+        "Spot the trailer characterized by its extended horizontal build, with wheels and a clear division between the cab and the stretched flatbed part.",
+        "Find the trailer which has a prolonged horizontal shape, includes wheels, and displays a distinct separation from the cab to the extended flatbed area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003944.jpg",
+            "points": [
+                [
+                    348.0,
+                    123.0
+                ],
+                [
+                    348.0,
+                    124.0
+                ],
+                [
+                    347.0,
+                    124.0
+                ],
+                [
+                    347.0,
+                    125.0
+                ],
+                [
+                    346.0,
+                    125.0
+                ],
+                [
+                    346.0,
+                    129.0
+                ],
+                [
+                    347.0,
+                    129.0
+                ],
+                [
+                    347.0,
+                    130.0
+                ],
+                [
+                    348.0,
+                    130.0
+                ],
+                [
+                    348.0,
+                    131.0
+                ],
+                [
+                    352.0,
+                    131.0
+                ],
+                [
+                    352.0,
+                    130.0
+                ],
+                [
+                    354.0,
+                    130.0
+                ],
+                [
+                    354.0,
+                    129.0
+                ],
+                [
+                    356.0,
+                    129.0
+                ],
+                [
+                    356.0,
+                    128.0
+                ],
+                [
+                    357.0,
+                    128.0
+                ],
+                [
+                    357.0,
+                    127.0
+                ],
+                [
+                    358.0,
+                    127.0
+                ],
+                [
+                    358.0,
+                    126.0
+                ],
+                [
+                    359.0,
+                    126.0
+                ],
+                [
+                    359.0,
+                    124.0
+                ],
+                [
+                    357.0,
+                    124.0
+                ],
+                [
+                    357.0,
+                    123.0
+                ],
+                [
+                    348.0,
+                    123.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

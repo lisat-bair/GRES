@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the vehicle that has a metallic glint, square windows, and uniquely shaped headlights set against a dimmer backdrop.",
+        "Locate the automobile featuring a shiny metallic finish, rectangular windows, and distinctive headlights contrasting with the dark background.",
+        "Find the car with a metallic shine, rectangular panes, and uniquely designed headlights against a darker setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010141.jpg",
+            "points": [
+                [
+                    225.0,
+                    97.0
+                ],
+                [
+                    225.0,
+                    98.0
+                ],
+                [
+                    224.0,
+                    98.0
+                ],
+                [
+                    224.0,
+                    99.0
+                ],
+                [
+                    223.0,
+                    99.0
+                ],
+                [
+                    223.0,
+                    101.0
+                ],
+                [
+                    222.0,
+                    101.0
+                ],
+                [
+                    222.0,
+                    104.0
+                ],
+                [
+                    221.0,
+                    104.0
+                ],
+                [
+                    221.0,
+                    108.0
+                ],
+                [
+                    222.0,
+                    108.0
+                ],
+                [
+                    222.0,
+                    109.0
+                ],
+                [
+                    223.0,
+                    109.0
+                ],
+                [
+                    223.0,
+                    110.0
+                ],
+                [
+                    224.0,
+                    110.0
+                ],
+                [
+                    224.0,
+                    111.0
+                ],
+                [
+                    225.0,
+                    111.0
+                ],
+                [
+                    225.0,
+                    112.0
+                ],
+                [
+                    227.0,
+                    112.0
+                ],
+                [
+                    227.0,
+                    113.0
+                ],
+                [
+                    230.0,
+                    113.0
+                ],
+                [
+                    230.0,
+                    112.0
+                ],
+                [
+                    232.0,
+                    112.0
+                ],
+                [
+                    232.0,
+                    111.0
+                ],
+                [
+                    233.0,
+                    111.0
+                ],
+                [
+                    233.0,
+                    109.0
+                ],
+                [
+                    234.0,
+                    109.0
+                ],
+                [
+                    234.0,
+                    101.0
+                ],
+                [
+                    233.0,
+                    101.0
+                ],
+                [
+                    233.0,
+                    100.0
+                ],
+                [
+                    232.0,
+                    100.0
+                ],
+                [
+                    232.0,
+                    99.0
+                ],
+                [
+                    231.0,
+                    99.0
+                ],
+                [
+                    231.0,
+                    98.0
+                ],
+                [
+                    230.0,
+                    98.0
+                ],
+                [
+                    230.0,
+                    97.0
+                ],
+                [
+                    225.0,
+                    97.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

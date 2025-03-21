@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the small boat in the picture that seems to depict a person instead.",
+        "Find the small vessel in the photo, which seems to illustrate a person instead.",
+        "Locate the tiny boat in the image, which seems to display a person rather than the boat."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026433.jpg",
+            "points": [
+                [
+                    468.0,
+                    399.0
+                ],
+                [
+                    468.0,
+                    400.0
+                ],
+                [
+                    467.0,
+                    400.0
+                ],
+                [
+                    467.0,
+                    401.0
+                ],
+                [
+                    466.0,
+                    401.0
+                ],
+                [
+                    466.0,
+                    402.0
+                ],
+                [
+                    465.0,
+                    402.0
+                ],
+                [
+                    465.0,
+                    406.0
+                ],
+                [
+                    464.0,
+                    406.0
+                ],
+                [
+                    464.0,
+                    411.0
+                ],
+                [
+                    465.0,
+                    411.0
+                ],
+                [
+                    465.0,
+                    412.0
+                ],
+                [
+                    467.0,
+                    412.0
+                ],
+                [
+                    467.0,
+                    413.0
+                ],
+                [
+                    478.0,
+                    413.0
+                ],
+                [
+                    478.0,
+                    408.0
+                ],
+                [
+                    477.0,
+                    408.0
+                ],
+                [
+                    477.0,
+                    407.0
+                ],
+                [
+                    476.0,
+                    407.0
+                ],
+                [
+                    476.0,
+                    406.0
+                ],
+                [
+                    475.0,
+                    406.0
+                ],
+                [
+                    475.0,
+                    405.0
+                ],
+                [
+                    474.0,
+                    405.0
+                ],
+                [
+                    474.0,
+                    403.0
+                ],
+                [
+                    473.0,
+                    403.0
+                ],
+                [
+                    473.0,
+                    401.0
+                ],
+                [
+                    472.0,
+                    401.0
+                ],
+                [
+                    472.0,
+                    400.0
+                ],
+                [
+                    470.0,
+                    400.0
+                ],
+                [
+                    470.0,
+                    399.0
+                ],
+                [
+                    468.0,
+                    399.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

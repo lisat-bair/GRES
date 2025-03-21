@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the vehicle that has a long, dark silhouette with shiny surfaces and apparent wheels.",
+        "Locate the automobile featuring a stretched-out dark form, glossy surfaces, and visible wheels.",
+        "Spot the car that possesses an extended dark outline and reflective areas, with wheels that are noticeable."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008782.jpg",
+            "points": [
+                [
+                    473.0,
+                    335.0
+                ],
+                [
+                    473.0,
+                    336.0
+                ],
+                [
+                    472.0,
+                    336.0
+                ],
+                [
+                    472.0,
+                    338.0
+                ],
+                [
+                    471.0,
+                    338.0
+                ],
+                [
+                    471.0,
+                    341.0
+                ],
+                [
+                    472.0,
+                    341.0
+                ],
+                [
+                    472.0,
+                    342.0
+                ],
+                [
+                    473.0,
+                    342.0
+                ],
+                [
+                    473.0,
+                    343.0
+                ],
+                [
+                    476.0,
+                    343.0
+                ],
+                [
+                    476.0,
+                    344.0
+                ],
+                [
+                    479.0,
+                    344.0
+                ],
+                [
+                    479.0,
+                    345.0
+                ],
+                [
+                    482.0,
+                    345.0
+                ],
+                [
+                    482.0,
+                    346.0
+                ],
+                [
+                    485.0,
+                    346.0
+                ],
+                [
+                    485.0,
+                    347.0
+                ],
+                [
+                    488.0,
+                    347.0
+                ],
+                [
+                    488.0,
+                    346.0
+                ],
+                [
+                    490.0,
+                    346.0
+                ],
+                [
+                    490.0,
+                    344.0
+                ],
+                [
+                    491.0,
+                    344.0
+                ],
+                [
+                    491.0,
+                    342.0
+                ],
+                [
+                    490.0,
+                    342.0
+                ],
+                [
+                    490.0,
+                    340.0
+                ],
+                [
+                    488.0,
+                    340.0
+                ],
+                [
+                    488.0,
+                    339.0
+                ],
+                [
+                    486.0,
+                    339.0
+                ],
+                [
+                    486.0,
+                    338.0
+                ],
+                [
+                    485.0,
+                    338.0
+                ],
+                [
+                    485.0,
+                    337.0
+                ],
+                [
+                    482.0,
+                    337.0
+                ],
+                [
+                    482.0,
+                    336.0
+                ],
+                [
+                    479.0,
+                    336.0
+                ],
+                [
+                    479.0,
+                    335.0
+                ],
+                [
+                    473.0,
+                    335.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

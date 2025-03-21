@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the truck by spotting the big, boxy form with a silvery gray hue set against a muddy brown backdrop.",
+        "Identify the truck by looking for the sizable, rectangular figure with a metallic gray tint against the earthy, brown scenery.",
+        "Spot the truck by recognizing the large, rectangular silhouette with a steel-gray color against a muddy brown setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007436.jpg",
+            "points": [
+                [
+                    184.0,
+                    60.0
+                ],
+                [
+                    184.0,
+                    61.0
+                ],
+                [
+                    182.0,
+                    61.0
+                ],
+                [
+                    182.0,
+                    62.0
+                ],
+                [
+                    181.0,
+                    62.0
+                ],
+                [
+                    181.0,
+                    63.0
+                ],
+                [
+                    180.0,
+                    63.0
+                ],
+                [
+                    180.0,
+                    64.0
+                ],
+                [
+                    179.0,
+                    64.0
+                ],
+                [
+                    179.0,
+                    75.0
+                ],
+                [
+                    180.0,
+                    75.0
+                ],
+                [
+                    180.0,
+                    76.0
+                ],
+                [
+                    181.0,
+                    76.0
+                ],
+                [
+                    181.0,
+                    77.0
+                ],
+                [
+                    187.0,
+                    77.0
+                ],
+                [
+                    187.0,
+                    76.0
+                ],
+                [
+                    188.0,
+                    76.0
+                ],
+                [
+                    188.0,
+                    74.0
+                ],
+                [
+                    189.0,
+                    74.0
+                ],
+                [
+                    189.0,
+                    72.0
+                ],
+                [
+                    190.0,
+                    72.0
+                ],
+                [
+                    190.0,
+                    69.0
+                ],
+                [
+                    191.0,
+                    69.0
+                ],
+                [
+                    191.0,
+                    66.0
+                ],
+                [
+                    192.0,
+                    66.0
+                ],
+                [
+                    192.0,
+                    61.0
+                ],
+                [
+                    191.0,
+                    61.0
+                ],
+                [
+                    191.0,
+                    60.0
+                ],
+                [
+                    184.0,
+                    60.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

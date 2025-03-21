@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the truck that features a large, dark body and a uniquely light-colored cabin in the picture.",
+        "Look for the truck with a prominent dark body and a noticeable light-colored cabin in the photograph.",
+        "Identify the truck in the image that has a sizable dark body and a distinctive light-colored cabin."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035594.jpg",
+            "points": [
+                [
+                    450.0,
+                    448.0
+                ],
+                [
+                    450.0,
+                    449.0
+                ],
+                [
+                    448.0,
+                    449.0
+                ],
+                [
+                    448.0,
+                    456.0
+                ],
+                [
+                    447.0,
+                    456.0
+                ],
+                [
+                    447.0,
+                    461.0
+                ],
+                [
+                    448.0,
+                    461.0
+                ],
+                [
+                    448.0,
+                    463.0
+                ],
+                [
+                    451.0,
+                    463.0
+                ],
+                [
+                    451.0,
+                    464.0
+                ],
+                [
+                    454.0,
+                    464.0
+                ],
+                [
+                    454.0,
+                    463.0
+                ],
+                [
+                    458.0,
+                    463.0
+                ],
+                [
+                    458.0,
+                    462.0
+                ],
+                [
+                    460.0,
+                    462.0
+                ],
+                [
+                    460.0,
+                    457.0
+                ],
+                [
+                    459.0,
+                    457.0
+                ],
+                [
+                    459.0,
+                    450.0
+                ],
+                [
+                    458.0,
+                    450.0
+                ],
+                [
+                    458.0,
+                    449.0
+                ],
+                [
+                    457.0,
+                    449.0
+                ],
+                [
+                    457.0,
+                    448.0
+                ],
+                [
+                    450.0,
+                    448.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

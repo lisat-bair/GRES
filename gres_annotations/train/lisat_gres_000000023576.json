@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the bus situated in the upper-left section of the picture.",
+        "Find the bus positioned in the top-left area of the image.",
+        "Spot the bus in the upper-left corner of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023576.jpg",
+            "points": [
+                [
+                    112.0,
+                    75.0
+                ],
+                [
+                    112.0,
+                    76.0
+                ],
+                [
+                    111.0,
+                    76.0
+                ],
+                [
+                    111.0,
+                    78.0
+                ],
+                [
+                    110.0,
+                    78.0
+                ],
+                [
+                    110.0,
+                    81.0
+                ],
+                [
+                    109.0,
+                    81.0
+                ],
+                [
+                    109.0,
+                    85.0
+                ],
+                [
+                    108.0,
+                    85.0
+                ],
+                [
+                    108.0,
+                    92.0
+                ],
+                [
+                    110.0,
+                    92.0
+                ],
+                [
+                    110.0,
+                    93.0
+                ],
+                [
+                    114.0,
+                    93.0
+                ],
+                [
+                    114.0,
+                    92.0
+                ],
+                [
+                    116.0,
+                    92.0
+                ],
+                [
+                    116.0,
+                    91.0
+                ],
+                [
+                    117.0,
+                    91.0
+                ],
+                [
+                    117.0,
+                    90.0
+                ],
+                [
+                    118.0,
+                    90.0
+                ],
+                [
+                    118.0,
+                    82.0
+                ],
+                [
+                    119.0,
+                    82.0
+                ],
+                [
+                    119.0,
+                    77.0
+                ],
+                [
+                    118.0,
+                    77.0
+                ],
+                [
+                    118.0,
+                    76.0
+                ],
+                [
+                    117.0,
+                    76.0
+                ],
+                [
+                    117.0,
+                    75.0
+                ],
+                [
+                    112.0,
+                    75.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

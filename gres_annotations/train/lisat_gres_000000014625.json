@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the structure featuring a light gray stone exterior and rectangular windows within a mainly dark setting.",
+        "Find the edifice that has a facade of light gray stone and rectangular windows in a largely dim area.",
+        "Spot the building characterized by a light gray stone front and rectangular windows surrounded by a mostly dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014625.jpg",
+            "points": [
+                [
+                    0.0,
+                    206.0
+                ],
+                [
+                    0.0,
+                    238.0
+                ],
+                [
+                    12.0,
+                    238.0
+                ],
+                [
+                    12.0,
+                    237.0
+                ],
+                [
+                    16.0,
+                    237.0
+                ],
+                [
+                    16.0,
+                    236.0
+                ],
+                [
+                    18.0,
+                    236.0
+                ],
+                [
+                    18.0,
+                    235.0
+                ],
+                [
+                    19.0,
+                    235.0
+                ],
+                [
+                    19.0,
+                    223.0
+                ],
+                [
+                    20.0,
+                    223.0
+                ],
+                [
+                    20.0,
+                    210.0
+                ],
+                [
+                    19.0,
+                    210.0
+                ],
+                [
+                    19.0,
+                    209.0
+                ],
+                [
+                    15.0,
+                    209.0
+                ],
+                [
+                    15.0,
+                    208.0
+                ],
+                [
+                    10.0,
+                    208.0
+                ],
+                [
+                    10.0,
+                    207.0
+                ],
+                [
+                    2.0,
+                    207.0
+                ],
+                [
+                    2.0,
+                    206.0
+                ],
+                [
+                    0.0,
+                    206.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

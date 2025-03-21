@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the bus by searching for a big, yellow rectangular shape.",
+        "Locate the bus by finding a sizable, rectangular object that is yellow.",
+        "Find the bus by identifying a large, yellow rectangular structure."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020110.jpg",
+            "points": [
+                [
+                    445.0,
+                    455.0
+                ],
+                [
+                    445.0,
+                    456.0
+                ],
+                [
+                    444.0,
+                    456.0
+                ],
+                [
+                    444.0,
+                    466.0
+                ],
+                [
+                    445.0,
+                    466.0
+                ],
+                [
+                    445.0,
+                    472.0
+                ],
+                [
+                    446.0,
+                    472.0
+                ],
+                [
+                    446.0,
+                    476.0
+                ],
+                [
+                    447.0,
+                    476.0
+                ],
+                [
+                    447.0,
+                    478.0
+                ],
+                [
+                    450.0,
+                    478.0
+                ],
+                [
+                    450.0,
+                    479.0
+                ],
+                [
+                    452.0,
+                    479.0
+                ],
+                [
+                    452.0,
+                    478.0
+                ],
+                [
+                    457.0,
+                    478.0
+                ],
+                [
+                    457.0,
+                    477.0
+                ],
+                [
+                    458.0,
+                    477.0
+                ],
+                [
+                    458.0,
+                    476.0
+                ],
+                [
+                    459.0,
+                    476.0
+                ],
+                [
+                    459.0,
+                    471.0
+                ],
+                [
+                    458.0,
+                    471.0
+                ],
+                [
+                    458.0,
+                    460.0
+                ],
+                [
+                    457.0,
+                    460.0
+                ],
+                [
+                    457.0,
+                    457.0
+                ],
+                [
+                    456.0,
+                    457.0
+                ],
+                [
+                    456.0,
+                    455.0
+                ],
+                [
+                    445.0,
+                    455.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

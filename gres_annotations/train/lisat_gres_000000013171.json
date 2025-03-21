@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the tent positioned in the upper-left section of the picture.",
+        "Find the tent located at the top-left area of the image.",
+        "Spot the tent in the corner on the upper-left side of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013171.jpg",
+            "points": [
+                [
+                    3.0,
+                    457.0
+                ],
+                [
+                    3.0,
+                    458.0
+                ],
+                [
+                    1.0,
+                    458.0
+                ],
+                [
+                    1.0,
+                    459.0
+                ],
+                [
+                    0.0,
+                    459.0
+                ],
+                [
+                    0.0,
+                    470.0
+                ],
+                [
+                    2.0,
+                    470.0
+                ],
+                [
+                    2.0,
+                    473.0
+                ],
+                [
+                    4.0,
+                    473.0
+                ],
+                [
+                    4.0,
+                    468.0
+                ],
+                [
+                    5.0,
+                    468.0
+                ],
+                [
+                    5.0,
+                    463.0
+                ],
+                [
+                    4.0,
+                    463.0
+                ],
+                [
+                    4.0,
+                    460.0
+                ],
+                [
+                    5.0,
+                    460.0
+                ],
+                [
+                    5.0,
+                    458.0
+                ],
+                [
+                    4.0,
+                    458.0
+                ],
+                [
+                    4.0,
+                    457.0
+                ],
+                [
+                    3.0,
+                    457.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

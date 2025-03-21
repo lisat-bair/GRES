@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Divide the excavator, the massive yellow construction machine with a flexible arm and scoop, positioned on the soil.",
+        "Separate the excavator, the big yellow construction equipment featuring a jointed arm and bucket, located on the ground.",
+        "Partition the excavator, the sizeable yellow construction vehicle equipped with a hinged arm and bucket, resting on the earth."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000012.jpg",
+            "points": [
+                [
+                    11.0,
+                    388.0
+                ],
+                [
+                    11.0,
+                    389.0
+                ],
+                [
+                    10.0,
+                    389.0
+                ],
+                [
+                    10.0,
+                    390.0
+                ],
+                [
+                    8.0,
+                    390.0
+                ],
+                [
+                    8.0,
+                    391.0
+                ],
+                [
+                    6.0,
+                    391.0
+                ],
+                [
+                    6.0,
+                    392.0
+                ],
+                [
+                    5.0,
+                    392.0
+                ],
+                [
+                    5.0,
+                    393.0
+                ],
+                [
+                    2.0,
+                    393.0
+                ],
+                [
+                    2.0,
+                    394.0
+                ],
+                [
+                    0.0,
+                    394.0
+                ],
+                [
+                    0.0,
+                    403.0
+                ],
+                [
+                    3.0,
+                    403.0
+                ],
+                [
+                    3.0,
+                    404.0
+                ],
+                [
+                    6.0,
+                    404.0
+                ],
+                [
+                    6.0,
+                    403.0
+                ],
+                [
+                    9.0,
+                    403.0
+                ],
+                [
+                    9.0,
+                    402.0
+                ],
+                [
+                    14.0,
+                    402.0
+                ],
+                [
+                    14.0,
+                    401.0
+                ],
+                [
+                    17.0,
+                    401.0
+                ],
+                [
+                    17.0,
+                    400.0
+                ],
+                [
+                    18.0,
+                    400.0
+                ],
+                [
+                    18.0,
+                    394.0
+                ],
+                [
+                    17.0,
+                    394.0
+                ],
+                [
+                    17.0,
+                    390.0
+                ],
+                [
+                    16.0,
+                    390.0
+                ],
+                [
+                    16.0,
+                    389.0
+                ],
+                [
+                    15.0,
+                    389.0
+                ],
+                [
+                    15.0,
+                    388.0
+                ],
+                [
+                    11.0,
+                    388.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

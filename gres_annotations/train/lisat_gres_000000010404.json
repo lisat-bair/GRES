@@ -1,0 +1,153 @@
+{
+    "text": [
+        "Locate the tower that maintains an even vertical line and stands out in color compared to its environment.",
+        "Find the structure that exhibits a straight vertical alignment and contrasts in color with the nearby area.",
+        "Spot the tower that is vertically aligned and visually distinct in color from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010404.jpg",
+            "points": [
+                [
+                    190.0,
+                    246.0
+                ],
+                [
+                    190.0,
+                    248.0
+                ],
+                [
+                    191.0,
+                    248.0
+                ],
+                [
+                    191.0,
+                    247.0
+                ],
+                [
+                    192.0,
+                    247.0
+                ],
+                [
+                    192.0,
+                    246.0
+                ],
+                [
+                    190.0,
+                    246.0
+                ],
+                [
+                    186.0,
+                    228.0
+                ],
+                [
+                    186.0,
+                    235.0
+                ],
+                [
+                    187.0,
+                    235.0
+                ],
+                [
+                    187.0,
+                    241.0
+                ],
+                [
+                    188.0,
+                    241.0
+                ],
+                [
+                    188.0,
+                    242.0
+                ],
+                [
+                    190.0,
+                    242.0
+                ],
+                [
+                    190.0,
+                    243.0
+                ],
+                [
+                    195.0,
+                    243.0
+                ],
+                [
+                    195.0,
+                    246.0
+                ],
+                [
+                    194.0,
+                    246.0
+                ],
+                [
+                    194.0,
+                    248.0
+                ],
+                [
+                    200.0,
+                    248.0
+                ],
+                [
+                    200.0,
+                    244.0
+                ],
+                [
+                    201.0,
+                    244.0
+                ],
+                [
+                    201.0,
+                    241.0
+                ],
+                [
+                    202.0,
+                    241.0
+                ],
+                [
+                    202.0,
+                    236.0
+                ],
+                [
+                    203.0,
+                    236.0
+                ],
+                [
+                    203.0,
+                    230.0
+                ],
+                [
+                    202.0,
+                    230.0
+                ],
+                [
+                    202.0,
+                    229.0
+                ],
+                [
+                    201.0,
+                    229.0
+                ],
+                [
+                    201.0,
+                    228.0
+                ],
+                [
+                    186.0,
+                    228.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

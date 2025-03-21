@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the bus in the top-left corner of the picture; it has a long rectangular form and noticeable wheels.",
+        "Identify the bus located in the top-left area of the image; it is characterized by its long rectangular shape and distinct wheels.",
+        "Search for the bus positioned at the top-left of the image, known for its elongated rectangular shape and clear wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007289.jpg",
+            "points": [
+                [
+                    20.0,
+                    132.0
+                ],
+                [
+                    20.0,
+                    133.0
+                ],
+                [
+                    16.0,
+                    133.0
+                ],
+                [
+                    16.0,
+                    134.0
+                ],
+                [
+                    15.0,
+                    134.0
+                ],
+                [
+                    15.0,
+                    136.0
+                ],
+                [
+                    14.0,
+                    136.0
+                ],
+                [
+                    14.0,
+                    139.0
+                ],
+                [
+                    15.0,
+                    139.0
+                ],
+                [
+                    15.0,
+                    140.0
+                ],
+                [
+                    16.0,
+                    140.0
+                ],
+                [
+                    16.0,
+                    141.0
+                ],
+                [
+                    24.0,
+                    141.0
+                ],
+                [
+                    24.0,
+                    140.0
+                ],
+                [
+                    28.0,
+                    140.0
+                ],
+                [
+                    28.0,
+                    139.0
+                ],
+                [
+                    30.0,
+                    139.0
+                ],
+                [
+                    30.0,
+                    133.0
+                ],
+                [
+                    29.0,
+                    133.0
+                ],
+                [
+                    29.0,
+                    132.0
+                ],
+                [
+                    20.0,
+                    132.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

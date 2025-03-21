@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the vehicle that stands out with its sharp, white form against the shadowy backdrop.",
+        "Locate the automobile characterized by its unique, angular, white appearance set against a dim background.",
+        "Find the car that features a prominent white, geometric shape contrasting with the dark surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004779.jpg",
+            "points": [
+                [
+                    448.0,
+                    500.0
+                ],
+                [
+                    448.0,
+                    502.0
+                ],
+                [
+                    447.0,
+                    502.0
+                ],
+                [
+                    447.0,
+                    504.0
+                ],
+                [
+                    444.0,
+                    504.0
+                ],
+                [
+                    444.0,
+                    503.0
+                ],
+                [
+                    443.0,
+                    503.0
+                ],
+                [
+                    443.0,
+                    504.0
+                ],
+                [
+                    442.0,
+                    504.0
+                ],
+                [
+                    442.0,
+                    505.0
+                ],
+                [
+                    441.0,
+                    505.0
+                ],
+                [
+                    441.0,
+                    507.0
+                ],
+                [
+                    440.0,
+                    507.0
+                ],
+                [
+                    440.0,
+                    508.0
+                ],
+                [
+                    439.0,
+                    508.0
+                ],
+                [
+                    439.0,
+                    510.0
+                ],
+                [
+                    438.0,
+                    510.0
+                ],
+                [
+                    438.0,
+                    512.0
+                ],
+                [
+                    456.0,
+                    512.0
+                ],
+                [
+                    456.0,
+                    509.0
+                ],
+                [
+                    457.0,
+                    509.0
+                ],
+                [
+                    457.0,
+                    506.0
+                ],
+                [
+                    458.0,
+                    506.0
+                ],
+                [
+                    458.0,
+                    501.0
+                ],
+                [
+                    456.0,
+                    501.0
+                ],
+                [
+                    456.0,
+                    502.0
+                ],
+                [
+                    455.0,
+                    502.0
+                ],
+                [
+                    455.0,
+                    504.0
+                ],
+                [
+                    454.0,
+                    504.0
+                ],
+                [
+                    454.0,
+                    503.0
+                ],
+                [
+                    452.0,
+                    503.0
+                ],
+                [
+                    452.0,
+                    500.0
+                ],
+                [
+                    448.0,
+                    500.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

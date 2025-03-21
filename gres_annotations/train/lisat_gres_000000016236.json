@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Identify the truck by its unique red hue and large box-like structure amidst other items.",
+        "Spot the truck with its prominent red tone and hefty rectangular design among various objects.",
+        "Locate the truck featuring a noticeable red shade and bulky rectangular form among the surrounding items."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016236.jpg",
+            "points": [
+                [
+                    187.0,
+                    502.0
+                ],
+                [
+                    187.0,
+                    503.0
+                ],
+                [
+                    186.0,
+                    503.0
+                ],
+                [
+                    186.0,
+                    504.0
+                ],
+                [
+                    185.0,
+                    504.0
+                ],
+                [
+                    185.0,
+                    506.0
+                ],
+                [
+                    184.0,
+                    506.0
+                ],
+                [
+                    184.0,
+                    508.0
+                ],
+                [
+                    183.0,
+                    508.0
+                ],
+                [
+                    183.0,
+                    512.0
+                ],
+                [
+                    214.0,
+                    512.0
+                ],
+                [
+                    214.0,
+                    511.0
+                ],
+                [
+                    212.0,
+                    511.0
+                ],
+                [
+                    212.0,
+                    510.0
+                ],
+                [
+                    210.0,
+                    510.0
+                ],
+                [
+                    210.0,
+                    509.0
+                ],
+                [
+                    208.0,
+                    509.0
+                ],
+                [
+                    208.0,
+                    508.0
+                ],
+                [
+                    205.0,
+                    508.0
+                ],
+                [
+                    205.0,
+                    507.0
+                ],
+                [
+                    201.0,
+                    507.0
+                ],
+                [
+                    201.0,
+                    506.0
+                ],
+                [
+                    198.0,
+                    506.0
+                ],
+                [
+                    198.0,
+                    505.0
+                ],
+                [
+                    196.0,
+                    505.0
+                ],
+                [
+                    196.0,
+                    504.0
+                ],
+                [
+                    194.0,
+                    504.0
+                ],
+                [
+                    194.0,
+                    503.0
+                ],
+                [
+                    192.0,
+                    503.0
+                ],
+                [
+                    192.0,
+                    502.0
+                ],
+                [
+                    187.0,
+                    502.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

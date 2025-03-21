@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the car that has a unique metallic gloss and sleek, rounded edges, contrasting with the dimmer backdrop.",
+        "Spot the automobile that features a shiny metallic surface and smooth, curvy contours, making it prominent against the darker setting.",
+        "Locate the vehicle that possesses a noticeable metallic shine and sleek, curved lines, standing out from the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014509.jpg",
+            "points": [
+                [
+                    108.0,
+                    341.0
+                ],
+                [
+                    108.0,
+                    343.0
+                ],
+                [
+                    107.0,
+                    343.0
+                ],
+                [
+                    107.0,
+                    345.0
+                ],
+                [
+                    106.0,
+                    345.0
+                ],
+                [
+                    106.0,
+                    349.0
+                ],
+                [
+                    105.0,
+                    349.0
+                ],
+                [
+                    105.0,
+                    350.0
+                ],
+                [
+                    106.0,
+                    350.0
+                ],
+                [
+                    106.0,
+                    353.0
+                ],
+                [
+                    107.0,
+                    353.0
+                ],
+                [
+                    107.0,
+                    354.0
+                ],
+                [
+                    112.0,
+                    354.0
+                ],
+                [
+                    112.0,
+                    353.0
+                ],
+                [
+                    113.0,
+                    353.0
+                ],
+                [
+                    113.0,
+                    348.0
+                ],
+                [
+                    114.0,
+                    348.0
+                ],
+                [
+                    114.0,
+                    347.0
+                ],
+                [
+                    113.0,
+                    347.0
+                ],
+                [
+                    113.0,
+                    343.0
+                ],
+                [
+                    112.0,
+                    343.0
+                ],
+                [
+                    112.0,
+                    341.0
+                ],
+                [
+                    108.0,
+                    341.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

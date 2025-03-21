@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the car in the picture that has a unique metallic glow and sleek, rounded contours.",
+        "Spot the automobile in the image characterized by its shiny metallic finish and smooth, curved lines.",
+        "Locate the vehicle in the photograph that features a notable metallic luster and soft, rounded edges."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009632.jpg",
+            "points": [
+                [
+                    305.0,
+                    148.0
+                ],
+                [
+                    305.0,
+                    150.0
+                ],
+                [
+                    304.0,
+                    150.0
+                ],
+                [
+                    304.0,
+                    158.0
+                ],
+                [
+                    305.0,
+                    158.0
+                ],
+                [
+                    305.0,
+                    159.0
+                ],
+                [
+                    311.0,
+                    159.0
+                ],
+                [
+                    311.0,
+                    158.0
+                ],
+                [
+                    312.0,
+                    158.0
+                ],
+                [
+                    312.0,
+                    149.0
+                ],
+                [
+                    311.0,
+                    149.0
+                ],
+                [
+                    311.0,
+                    148.0
+                ],
+                [
+                    305.0,
+                    148.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the truck that has a long rectangular trailer bed in a combination of dark and light shades.",
+        "Find the truck with a rectangular trailer bed extended in length, displaying both dark and light hues.",
+        "Look for the truck that features an extended rectangular trailer bed, showcasing a blend of dark and light colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004856.jpg",
+            "points": [
+                [
+                    114.0,
+                    160.0
+                ],
+                [
+                    114.0,
+                    167.0
+                ],
+                [
+                    113.0,
+                    167.0
+                ],
+                [
+                    113.0,
+                    170.0
+                ],
+                [
+                    112.0,
+                    170.0
+                ],
+                [
+                    112.0,
+                    173.0
+                ],
+                [
+                    111.0,
+                    173.0
+                ],
+                [
+                    111.0,
+                    176.0
+                ],
+                [
+                    110.0,
+                    176.0
+                ],
+                [
+                    110.0,
+                    182.0
+                ],
+                [
+                    109.0,
+                    182.0
+                ],
+                [
+                    109.0,
+                    187.0
+                ],
+                [
+                    110.0,
+                    187.0
+                ],
+                [
+                    110.0,
+                    190.0
+                ],
+                [
+                    111.0,
+                    190.0
+                ],
+                [
+                    111.0,
+                    192.0
+                ],
+                [
+                    112.0,
+                    192.0
+                ],
+                [
+                    112.0,
+                    193.0
+                ],
+                [
+                    115.0,
+                    193.0
+                ],
+                [
+                    115.0,
+                    194.0
+                ],
+                [
+                    116.0,
+                    194.0
+                ],
+                [
+                    116.0,
+                    193.0
+                ],
+                [
+                    121.0,
+                    193.0
+                ],
+                [
+                    121.0,
+                    192.0
+                ],
+                [
+                    124.0,
+                    192.0
+                ],
+                [
+                    124.0,
+                    191.0
+                ],
+                [
+                    126.0,
+                    191.0
+                ],
+                [
+                    126.0,
+                    171.0
+                ],
+                [
+                    127.0,
+                    171.0
+                ],
+                [
+                    127.0,
+                    162.0
+                ],
+                [
+                    126.0,
+                    162.0
+                ],
+                [
+                    126.0,
+                    161.0
+                ],
+                [
+                    125.0,
+                    161.0
+                ],
+                [
+                    125.0,
+                    160.0
+                ],
+                [
+                    114.0,
+                    160.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

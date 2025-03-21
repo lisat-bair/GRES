@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the vehicle that has a shiny body, unique shape, glossy surfaces, and standard automobile components like tires and headlamps.",
+        "Find the automobile characterized by its metal exterior, noticeable silhouette, gleaming surfaces, and usual car elements such as wheels and lights.",
+        "Spot the car that features a metallic frame, distinctive contour, polished surfaces, and typical automotive parts like wheels and headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036824.jpg",
+            "points": [
+                [
+                    469.0,
+                    227.0
+                ],
+                [
+                    469.0,
+                    228.0
+                ],
+                [
+                    468.0,
+                    228.0
+                ],
+                [
+                    468.0,
+                    229.0
+                ],
+                [
+                    467.0,
+                    229.0
+                ],
+                [
+                    467.0,
+                    232.0
+                ],
+                [
+                    468.0,
+                    232.0
+                ],
+                [
+                    468.0,
+                    235.0
+                ],
+                [
+                    469.0,
+                    235.0
+                ],
+                [
+                    469.0,
+                    237.0
+                ],
+                [
+                    470.0,
+                    237.0
+                ],
+                [
+                    470.0,
+                    238.0
+                ],
+                [
+                    471.0,
+                    238.0
+                ],
+                [
+                    471.0,
+                    239.0
+                ],
+                [
+                    472.0,
+                    239.0
+                ],
+                [
+                    472.0,
+                    240.0
+                ],
+                [
+                    477.0,
+                    240.0
+                ],
+                [
+                    477.0,
+                    236.0
+                ],
+                [
+                    476.0,
+                    236.0
+                ],
+                [
+                    476.0,
+                    234.0
+                ],
+                [
+                    475.0,
+                    234.0
+                ],
+                [
+                    475.0,
+                    232.0
+                ],
+                [
+                    474.0,
+                    232.0
+                ],
+                [
+                    474.0,
+                    231.0
+                ],
+                [
+                    473.0,
+                    231.0
+                ],
+                [
+                    473.0,
+                    230.0
+                ],
+                [
+                    472.0,
+                    230.0
+                ],
+                [
+                    472.0,
+                    228.0
+                ],
+                [
+                    471.0,
+                    228.0
+                ],
+                [
+                    471.0,
+                    227.0
+                ],
+                [
+                    469.0,
+                    227.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

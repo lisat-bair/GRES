@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Focus on the shed located in the bottom-right of the image, noting any parts that are visible within the frame.",
+        "Look closely at the shed in the lower-right corner of the picture, observing any visible sections within the image's borders.",
+        "Examine the shed situated in the image's bottom-right corner, paying attention to any portions visible within the picture's limits."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012227.jpg",
+            "points": [
+                [
+                    454.0,
+                    499.0
+                ],
+                [
+                    454.0,
+                    501.0
+                ],
+                [
+                    453.0,
+                    501.0
+                ],
+                [
+                    453.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    503.0
+                ],
+                [
+                    507.0,
+                    503.0
+                ],
+                [
+                    507.0,
+                    502.0
+                ],
+                [
+                    500.0,
+                    502.0
+                ],
+                [
+                    500.0,
+                    501.0
+                ],
+                [
+                    498.0,
+                    501.0
+                ],
+                [
+                    498.0,
+                    502.0
+                ],
+                [
+                    495.0,
+                    502.0
+                ],
+                [
+                    495.0,
+                    501.0
+                ],
+                [
+                    481.0,
+                    501.0
+                ],
+                [
+                    481.0,
+                    500.0
+                ],
+                [
+                    470.0,
+                    500.0
+                ],
+                [
+                    470.0,
+                    499.0
+                ],
+                [
+                    454.0,
+                    499.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

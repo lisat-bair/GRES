@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the bus characterized by its big white rectangular form, complete with windows and wheels, situated in the road or street section of the picture.",
+        "Find the bus that features a large white rectangular body with windows and wheels and is situated on the road or street in the image.",
+        "Spot the bus with a large white rectangular shape, equipped with windows and wheels, and positioned on the road or street in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019007.jpg",
+            "points": [
+                [
+                    267.0,
+                    197.0
+                ],
+                [
+                    267.0,
+                    198.0
+                ],
+                [
+                    266.0,
+                    198.0
+                ],
+                [
+                    266.0,
+                    201.0
+                ],
+                [
+                    267.0,
+                    201.0
+                ],
+                [
+                    267.0,
+                    202.0
+                ],
+                [
+                    268.0,
+                    202.0
+                ],
+                [
+                    268.0,
+                    203.0
+                ],
+                [
+                    269.0,
+                    203.0
+                ],
+                [
+                    269.0,
+                    204.0
+                ],
+                [
+                    275.0,
+                    204.0
+                ],
+                [
+                    275.0,
+                    203.0
+                ],
+                [
+                    276.0,
+                    203.0
+                ],
+                [
+                    276.0,
+                    200.0
+                ],
+                [
+                    275.0,
+                    200.0
+                ],
+                [
+                    275.0,
+                    199.0
+                ],
+                [
+                    274.0,
+                    199.0
+                ],
+                [
+                    274.0,
+                    198.0
+                ],
+                [
+                    272.0,
+                    198.0
+                ],
+                [
+                    272.0,
+                    197.0
+                ],
+                [
+                    267.0,
+                    197.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

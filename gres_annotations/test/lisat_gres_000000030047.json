@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Locate the car by identifying the dark, metallic structure with four circular wheels and reflective surfaces against the brown background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030047.jpg",
+            "points": [
+                [
+                    249.0,
+                    22.0
+                ],
+                [
+                    249.0,
+                    23.0
+                ],
+                [
+                    247.0,
+                    23.0
+                ],
+                [
+                    247.0,
+                    26.0
+                ],
+                [
+                    246.0,
+                    26.0
+                ],
+                [
+                    246.0,
+                    37.0
+                ],
+                [
+                    247.0,
+                    37.0
+                ],
+                [
+                    247.0,
+                    38.0
+                ],
+                [
+                    254.0,
+                    38.0
+                ],
+                [
+                    254.0,
+                    37.0
+                ],
+                [
+                    255.0,
+                    37.0
+                ],
+                [
+                    255.0,
+                    31.0
+                ],
+                [
+                    256.0,
+                    31.0
+                ],
+                [
+                    256.0,
+                    24.0
+                ],
+                [
+                    255.0,
+                    24.0
+                ],
+                [
+                    255.0,
+                    23.0
+                ],
+                [
+                    252.0,
+                    23.0
+                ],
+                [
+                    252.0,
+                    22.0
+                ],
+                [
+                    249.0,
+                    22.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the storage tank situated in the lower-right corner of the picture.",
+        "Identify the storage tank positioned at the bottom-right corner of the image.",
+        "Spot the storage tank located in the bottom-right section of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015246.jpg",
+            "points": [
+                [
+                    509.0,
+                    476.0
+                ],
+                [
+                    509.0,
+                    477.0
+                ],
+                [
+                    507.0,
+                    477.0
+                ],
+                [
+                    507.0,
+                    478.0
+                ],
+                [
+                    506.0,
+                    478.0
+                ],
+                [
+                    506.0,
+                    479.0
+                ],
+                [
+                    505.0,
+                    479.0
+                ],
+                [
+                    505.0,
+                    480.0
+                ],
+                [
+                    504.0,
+                    480.0
+                ],
+                [
+                    504.0,
+                    482.0
+                ],
+                [
+                    503.0,
+                    482.0
+                ],
+                [
+                    503.0,
+                    491.0
+                ],
+                [
+                    504.0,
+                    491.0
+                ],
+                [
+                    504.0,
+                    493.0
+                ],
+                [
+                    505.0,
+                    493.0
+                ],
+                [
+                    505.0,
+                    495.0
+                ],
+                [
+                    506.0,
+                    495.0
+                ],
+                [
+                    506.0,
+                    496.0
+                ],
+                [
+                    507.0,
+                    496.0
+                ],
+                [
+                    507.0,
+                    497.0
+                ],
+                [
+                    510.0,
+                    497.0
+                ],
+                [
+                    510.0,
+                    498.0
+                ],
+                [
+                    512.0,
+                    498.0
+                ],
+                [
+                    512.0,
+                    476.0
+                ],
+                [
+                    509.0,
+                    476.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

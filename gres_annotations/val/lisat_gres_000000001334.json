@@ -1,0 +1,39 @@
+{
+    "text": [
+        "Identify the truck in the top-right corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001334.jpg",
+            "points": [
+                [
+                    379,
+                    173
+                ],
+                [
+                    387,
+                    173
+                ],
+                [
+                    387,
+                    188
+                ],
+                [
+                    379,
+                    188
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

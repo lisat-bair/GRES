@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for the truck that stands out with its dark hue and rectangular form in the picture.",
+        "Spot the truck in the image that is notable for its dark shade and rectangular shape.",
+        "Find the truck with a unique dark color and a rectangular outline in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007271.jpg",
+            "points": [
+                [
+                    328.0,
+                    368.0
+                ],
+                [
+                    328.0,
+                    369.0
+                ],
+                [
+                    326.0,
+                    369.0
+                ],
+                [
+                    326.0,
+                    370.0
+                ],
+                [
+                    324.0,
+                    370.0
+                ],
+                [
+                    324.0,
+                    371.0
+                ],
+                [
+                    323.0,
+                    371.0
+                ],
+                [
+                    323.0,
+                    373.0
+                ],
+                [
+                    322.0,
+                    373.0
+                ],
+                [
+                    322.0,
+                    377.0
+                ],
+                [
+                    323.0,
+                    377.0
+                ],
+                [
+                    323.0,
+                    378.0
+                ],
+                [
+                    324.0,
+                    378.0
+                ],
+                [
+                    324.0,
+                    379.0
+                ],
+                [
+                    326.0,
+                    379.0
+                ],
+                [
+                    326.0,
+                    378.0
+                ],
+                [
+                    329.0,
+                    378.0
+                ],
+                [
+                    329.0,
+                    377.0
+                ],
+                [
+                    331.0,
+                    377.0
+                ],
+                [
+                    331.0,
+                    376.0
+                ],
+                [
+                    332.0,
+                    376.0
+                ],
+                [
+                    332.0,
+                    375.0
+                ],
+                [
+                    334.0,
+                    375.0
+                ],
+                [
+                    334.0,
+                    373.0
+                ],
+                [
+                    335.0,
+                    373.0
+                ],
+                [
+                    335.0,
+                    372.0
+                ],
+                [
+                    334.0,
+                    372.0
+                ],
+                [
+                    334.0,
+                    370.0
+                ],
+                [
+                    333.0,
+                    370.0
+                ],
+                [
+                    333.0,
+                    369.0
+                ],
+                [
+                    332.0,
+                    369.0
+                ],
+                [
+                    332.0,
+                    368.0
+                ],
+                [
+                    328.0,
+                    368.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

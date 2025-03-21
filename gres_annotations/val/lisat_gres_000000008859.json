@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Identify the truck in the top-left of the image with a long rectangular shape and distinct wheels, typically metallic or painted, connected to a cab at the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008859.jpg",
+            "points": [
+                [
+                    150.0,
+                    63.0
+                ],
+                [
+                    150.0,
+                    64.0
+                ],
+                [
+                    149.0,
+                    64.0
+                ],
+                [
+                    149.0,
+                    67.0
+                ],
+                [
+                    150.0,
+                    67.0
+                ],
+                [
+                    150.0,
+                    68.0
+                ],
+                [
+                    151.0,
+                    68.0
+                ],
+                [
+                    151.0,
+                    69.0
+                ],
+                [
+                    164.0,
+                    69.0
+                ],
+                [
+                    164.0,
+                    70.0
+                ],
+                [
+                    168.0,
+                    70.0
+                ],
+                [
+                    168.0,
+                    69.0
+                ],
+                [
+                    169.0,
+                    69.0
+                ],
+                [
+                    169.0,
+                    66.0
+                ],
+                [
+                    170.0,
+                    66.0
+                ],
+                [
+                    170.0,
+                    65.0
+                ],
+                [
+                    169.0,
+                    65.0
+                ],
+                [
+                    169.0,
+                    64.0
+                ],
+                [
+                    168.0,
+                    64.0
+                ],
+                [
+                    168.0,
+                    63.0
+                ],
+                [
+                    150.0,
+                    63.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the vehicle by spotting the long form with clear boundaries and a shiny exterior.",
+        "Identify the automobile by looking for the extended form with distinct edges and a glossy surface.",
+        "Spot the car by searching for the stretched shape that has sharp outlines and a reflective exterior."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008538.jpg",
+            "points": [
+                [
+                    55.0,
+                    0.0
+                ],
+                [
+                    55.0,
+                    4.0
+                ],
+                [
+                    54.0,
+                    4.0
+                ],
+                [
+                    54.0,
+                    13.0
+                ],
+                [
+                    58.0,
+                    13.0
+                ],
+                [
+                    58.0,
+                    12.0
+                ],
+                [
+                    59.0,
+                    12.0
+                ],
+                [
+                    59.0,
+                    11.0
+                ],
+                [
+                    60.0,
+                    11.0
+                ],
+                [
+                    60.0,
+                    8.0
+                ],
+                [
+                    61.0,
+                    8.0
+                ],
+                [
+                    61.0,
+                    5.0
+                ],
+                [
+                    62.0,
+                    5.0
+                ],
+                [
+                    62.0,
+                    0.0
+                ],
+                [
+                    55.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

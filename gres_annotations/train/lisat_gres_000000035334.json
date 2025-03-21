@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle positioned in the lower-left corner of the picture.",
+        "Spot the automobile located at the bottom-left area of the photo.",
+        "Identify the car situated in the bottom-left section of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035334.jpg",
+            "points": [
+                [
+                    2.0,
+                    425.0
+                ],
+                [
+                    2.0,
+                    426.0
+                ],
+                [
+                    1.0,
+                    426.0
+                ],
+                [
+                    1.0,
+                    428.0
+                ],
+                [
+                    0.0,
+                    428.0
+                ],
+                [
+                    0.0,
+                    429.0
+                ],
+                [
+                    1.0,
+                    429.0
+                ],
+                [
+                    1.0,
+                    431.0
+                ],
+                [
+                    4.0,
+                    431.0
+                ],
+                [
+                    4.0,
+                    432.0
+                ],
+                [
+                    5.0,
+                    432.0
+                ],
+                [
+                    5.0,
+                    433.0
+                ],
+                [
+                    11.0,
+                    433.0
+                ],
+                [
+                    11.0,
+                    432.0
+                ],
+                [
+                    12.0,
+                    432.0
+                ],
+                [
+                    12.0,
+                    428.0
+                ],
+                [
+                    11.0,
+                    428.0
+                ],
+                [
+                    11.0,
+                    427.0
+                ],
+                [
+                    10.0,
+                    427.0
+                ],
+                [
+                    10.0,
+                    426.0
+                ],
+                [
+                    8.0,
+                    426.0
+                ],
+                [
+                    8.0,
+                    425.0
+                ],
+                [
+                    2.0,
+                    425.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

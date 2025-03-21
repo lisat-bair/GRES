@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the vehicle that has a noticeable pink color and a significant rounded design.",
+        "Look for the automobile with a unique shade of pink and a striking, curved form.",
+        "Search for the car that features a distinctive pink tint and a bold, round appearance."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028347.jpg",
+            "points": [
+                [
+                    423.0,
+                    469.0
+                ],
+                [
+                    423.0,
+                    470.0
+                ],
+                [
+                    422.0,
+                    470.0
+                ],
+                [
+                    422.0,
+                    471.0
+                ],
+                [
+                    421.0,
+                    471.0
+                ],
+                [
+                    421.0,
+                    473.0
+                ],
+                [
+                    420.0,
+                    473.0
+                ],
+                [
+                    420.0,
+                    481.0
+                ],
+                [
+                    421.0,
+                    481.0
+                ],
+                [
+                    421.0,
+                    483.0
+                ],
+                [
+                    422.0,
+                    483.0
+                ],
+                [
+                    422.0,
+                    484.0
+                ],
+                [
+                    423.0,
+                    484.0
+                ],
+                [
+                    423.0,
+                    485.0
+                ],
+                [
+                    430.0,
+                    485.0
+                ],
+                [
+                    430.0,
+                    484.0
+                ],
+                [
+                    431.0,
+                    484.0
+                ],
+                [
+                    431.0,
+                    483.0
+                ],
+                [
+                    432.0,
+                    483.0
+                ],
+                [
+                    432.0,
+                    482.0
+                ],
+                [
+                    433.0,
+                    482.0
+                ],
+                [
+                    433.0,
+                    473.0
+                ],
+                [
+                    432.0,
+                    473.0
+                ],
+                [
+                    432.0,
+                    470.0
+                ],
+                [
+                    431.0,
+                    470.0
+                ],
+                [
+                    431.0,
+                    469.0
+                ],
+                [
+                    423.0,
+                    469.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

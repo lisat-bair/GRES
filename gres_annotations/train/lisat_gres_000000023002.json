@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Point out the structure located in the lower-left section of the picture.",
+        "Determine which building is positioned at the bottom-left of the photo.",
+        "Recognize the edifice found in the bottom-left corner of this image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023002.jpg",
+            "points": [
+                [
+                    0.0,
+                    496.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    9.0,
+                    512.0
+                ],
+                [
+                    9.0,
+                    502.0
+                ],
+                [
+                    8.0,
+                    502.0
+                ],
+                [
+                    8.0,
+                    499.0
+                ],
+                [
+                    7.0,
+                    499.0
+                ],
+                [
+                    7.0,
+                    498.0
+                ],
+                [
+                    4.0,
+                    498.0
+                ],
+                [
+                    4.0,
+                    497.0
+                ],
+                [
+                    1.0,
+                    497.0
+                ],
+                [
+                    1.0,
+                    496.0
+                ],
+                [
+                    0.0,
+                    496.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

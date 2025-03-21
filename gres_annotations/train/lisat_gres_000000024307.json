@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the automobile that has a shiny surface, a sleek body design, and characteristic contours seen in cars.",
+        "Spot the vehicle that features a polished exterior, an aerodynamic silhouette, and marked outlines common to cars.",
+        "Find the car that possesses a lustrous finish, a smooth body form, and definitive lines indicative of a typical automobile."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024307.jpg",
+            "points": [
+                [
+                    36.0,
+                    100.0
+                ],
+                [
+                    36.0,
+                    101.0
+                ],
+                [
+                    35.0,
+                    101.0
+                ],
+                [
+                    35.0,
+                    104.0
+                ],
+                [
+                    34.0,
+                    104.0
+                ],
+                [
+                    34.0,
+                    107.0
+                ],
+                [
+                    33.0,
+                    107.0
+                ],
+                [
+                    33.0,
+                    111.0
+                ],
+                [
+                    37.0,
+                    111.0
+                ],
+                [
+                    37.0,
+                    112.0
+                ],
+                [
+                    39.0,
+                    112.0
+                ],
+                [
+                    39.0,
+                    113.0
+                ],
+                [
+                    42.0,
+                    113.0
+                ],
+                [
+                    42.0,
+                    112.0
+                ],
+                [
+                    45.0,
+                    112.0
+                ],
+                [
+                    45.0,
+                    111.0
+                ],
+                [
+                    46.0,
+                    111.0
+                ],
+                [
+                    46.0,
+                    109.0
+                ],
+                [
+                    47.0,
+                    109.0
+                ],
+                [
+                    47.0,
+                    104.0
+                ],
+                [
+                    46.0,
+                    104.0
+                ],
+                [
+                    46.0,
+                    102.0
+                ],
+                [
+                    43.0,
+                    102.0
+                ],
+                [
+                    43.0,
+                    101.0
+                ],
+                [
+                    40.0,
+                    101.0
+                ],
+                [
+                    40.0,
+                    100.0
+                ],
+                [
+                    36.0,
+                    100.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

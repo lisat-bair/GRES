@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle by looking for a rectangular form with metal surfaces, wheels, and unique lighting elements like headlights and taillights.",
+        "Spot the automobile by identifying the rectangular shape that includes metallic parts, wheels, and specific lighting like headlights and taillights.",
+        "Locate the car by recognizing the rectangular structure with metal surfaces, wheels, and notable lights such as headlights and taillights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003085.jpg",
+            "points": [
+                [
+                    169.0,
+                    153.0
+                ],
+                [
+                    169.0,
+                    155.0
+                ],
+                [
+                    168.0,
+                    155.0
+                ],
+                [
+                    168.0,
+                    158.0
+                ],
+                [
+                    167.0,
+                    158.0
+                ],
+                [
+                    167.0,
+                    161.0
+                ],
+                [
+                    166.0,
+                    161.0
+                ],
+                [
+                    166.0,
+                    165.0
+                ],
+                [
+                    168.0,
+                    165.0
+                ],
+                [
+                    168.0,
+                    166.0
+                ],
+                [
+                    173.0,
+                    166.0
+                ],
+                [
+                    173.0,
+                    164.0
+                ],
+                [
+                    174.0,
+                    164.0
+                ],
+                [
+                    174.0,
+                    161.0
+                ],
+                [
+                    175.0,
+                    161.0
+                ],
+                [
+                    175.0,
+                    158.0
+                ],
+                [
+                    176.0,
+                    158.0
+                ],
+                [
+                    176.0,
+                    155.0
+                ],
+                [
+                    175.0,
+                    155.0
+                ],
+                [
+                    175.0,
+                    154.0
+                ],
+                [
+                    173.0,
+                    154.0
+                ],
+                [
+                    173.0,
+                    153.0
+                ],
+                [
+                    169.0,
+                    153.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

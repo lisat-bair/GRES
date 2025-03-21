@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the cone-shaped structure with natural colors among the lush greenery.",
+        "Locate the earthy-toned, cone-like form nestled within the verdant leaves.",
+        "Find the earthy, conical form situated amidst the vibrant foliage."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004797.jpg",
+            "points": [
+                [
+                    45.0,
+                    0.0
+                ],
+                [
+                    45.0,
+                    3.0
+                ],
+                [
+                    46.0,
+                    3.0
+                ],
+                [
+                    46.0,
+                    4.0
+                ],
+                [
+                    48.0,
+                    4.0
+                ],
+                [
+                    48.0,
+                    5.0
+                ],
+                [
+                    59.0,
+                    5.0
+                ],
+                [
+                    59.0,
+                    4.0
+                ],
+                [
+                    61.0,
+                    4.0
+                ],
+                [
+                    61.0,
+                    2.0
+                ],
+                [
+                    62.0,
+                    2.0
+                ],
+                [
+                    62.0,
+                    1.0
+                ],
+                [
+                    63.0,
+                    1.0
+                ],
+                [
+                    63.0,
+                    0.0
+                ],
+                [
+                    45.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

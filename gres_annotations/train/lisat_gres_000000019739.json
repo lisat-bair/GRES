@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Locate the car that has a shiny surface and a metallic appearance similar to a vehicle's outline.",
+        "Find the vehicle with a reflective finish and a metallic look that resembles a car's silhouette.",
+        "Spot the automobile with a glossy exterior that mirrors a metal-like silhouette of a vehicle."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019739.jpg",
+            "points": [
+                [
+                    377.0,
+                    198.0
+                ],
+                [
+                    377.0,
+                    199.0
+                ],
+                [
+                    372.0,
+                    199.0
+                ],
+                [
+                    372.0,
+                    200.0
+                ],
+                [
+                    368.0,
+                    200.0
+                ],
+                [
+                    368.0,
+                    201.0
+                ],
+                [
+                    367.0,
+                    201.0
+                ],
+                [
+                    367.0,
+                    208.0
+                ],
+                [
+                    368.0,
+                    208.0
+                ],
+                [
+                    368.0,
+                    209.0
+                ],
+                [
+                    371.0,
+                    209.0
+                ],
+                [
+                    371.0,
+                    210.0
+                ],
+                [
+                    376.0,
+                    210.0
+                ],
+                [
+                    376.0,
+                    211.0
+                ],
+                [
+                    377.0,
+                    211.0
+                ],
+                [
+                    377.0,
+                    210.0
+                ],
+                [
+                    380.0,
+                    210.0
+                ],
+                [
+                    380.0,
+                    209.0
+                ],
+                [
+                    383.0,
+                    209.0
+                ],
+                [
+                    383.0,
+                    208.0
+                ],
+                [
+                    385.0,
+                    208.0
+                ],
+                [
+                    385.0,
+                    207.0
+                ],
+                [
+                    386.0,
+                    207.0
+                ],
+                [
+                    386.0,
+                    206.0
+                ],
+                [
+                    388.0,
+                    206.0
+                ],
+                [
+                    388.0,
+                    204.0
+                ],
+                [
+                    389.0,
+                    204.0
+                ],
+                [
+                    389.0,
+                    201.0
+                ],
+                [
+                    388.0,
+                    201.0
+                ],
+                [
+                    388.0,
+                    199.0
+                ],
+                [
+                    386.0,
+                    199.0
+                ],
+                [
+                    386.0,
+                    198.0
+                ],
+                [
+                    377.0,
+                    198.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

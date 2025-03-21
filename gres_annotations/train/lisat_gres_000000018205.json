@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the big, round white building that has a flat top and is set in an industrial area.",
+        "Locate the large, cylindrical white edifice featuring a flat top amidst an industrial backdrop.",
+        "Find the sizable white structure, cylindrical in shape, with a flat top and surrounded by industrial elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018205.jpg",
+            "points": [
+                [
+                    187.0,
+                    473.0
+                ],
+                [
+                    187.0,
+                    474.0
+                ],
+                [
+                    185.0,
+                    474.0
+                ],
+                [
+                    185.0,
+                    476.0
+                ],
+                [
+                    184.0,
+                    476.0
+                ],
+                [
+                    184.0,
+                    480.0
+                ],
+                [
+                    185.0,
+                    480.0
+                ],
+                [
+                    185.0,
+                    481.0
+                ],
+                [
+                    187.0,
+                    481.0
+                ],
+                [
+                    187.0,
+                    482.0
+                ],
+                [
+                    190.0,
+                    482.0
+                ],
+                [
+                    190.0,
+                    481.0
+                ],
+                [
+                    192.0,
+                    481.0
+                ],
+                [
+                    192.0,
+                    479.0
+                ],
+                [
+                    193.0,
+                    479.0
+                ],
+                [
+                    193.0,
+                    476.0
+                ],
+                [
+                    192.0,
+                    476.0
+                ],
+                [
+                    192.0,
+                    474.0
+                ],
+                [
+                    190.0,
+                    474.0
+                ],
+                [
+                    190.0,
+                    473.0
+                ],
+                [
+                    187.0,
+                    473.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

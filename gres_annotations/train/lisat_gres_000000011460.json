@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the bus that is large and rectangular with windows, standing out from its environment.",
+        "Spot the bus that has a big rectangular form and windows, differing from what's around it.",
+        "Find the bus characterized by its large rectangular shape and windows, distinct from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011460.jpg",
+            "points": [
+                [
+                    87.0,
+                    332.0
+                ],
+                [
+                    87.0,
+                    333.0
+                ],
+                [
+                    86.0,
+                    333.0
+                ],
+                [
+                    86.0,
+                    341.0
+                ],
+                [
+                    87.0,
+                    341.0
+                ],
+                [
+                    87.0,
+                    346.0
+                ],
+                [
+                    88.0,
+                    346.0
+                ],
+                [
+                    88.0,
+                    351.0
+                ],
+                [
+                    89.0,
+                    351.0
+                ],
+                [
+                    89.0,
+                    353.0
+                ],
+                [
+                    90.0,
+                    353.0
+                ],
+                [
+                    90.0,
+                    354.0
+                ],
+                [
+                    97.0,
+                    354.0
+                ],
+                [
+                    97.0,
+                    348.0
+                ],
+                [
+                    96.0,
+                    348.0
+                ],
+                [
+                    96.0,
+                    342.0
+                ],
+                [
+                    95.0,
+                    342.0
+                ],
+                [
+                    95.0,
+                    338.0
+                ],
+                [
+                    94.0,
+                    338.0
+                ],
+                [
+                    94.0,
+                    334.0
+                ],
+                [
+                    93.0,
+                    334.0
+                ],
+                [
+                    93.0,
+                    332.0
+                ],
+                [
+                    87.0,
+                    332.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the truck that has a white front and a cabin shaped like a rectangle.",
+        "Find the vehicle with a front section that is white and features a rectangular cabin.",
+        "Spot the truck with a rectangular cabin and a white front area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019262.jpg",
+            "points": [
+                [
+                    224.0,
+                    306.0
+                ],
+                [
+                    224.0,
+                    307.0
+                ],
+                [
+                    222.0,
+                    307.0
+                ],
+                [
+                    222.0,
+                    312.0
+                ],
+                [
+                    221.0,
+                    312.0
+                ],
+                [
+                    221.0,
+                    320.0
+                ],
+                [
+                    222.0,
+                    320.0
+                ],
+                [
+                    222.0,
+                    322.0
+                ],
+                [
+                    224.0,
+                    322.0
+                ],
+                [
+                    224.0,
+                    323.0
+                ],
+                [
+                    232.0,
+                    323.0
+                ],
+                [
+                    232.0,
+                    322.0
+                ],
+                [
+                    233.0,
+                    322.0
+                ],
+                [
+                    233.0,
+                    320.0
+                ],
+                [
+                    234.0,
+                    320.0
+                ],
+                [
+                    234.0,
+                    316.0
+                ],
+                [
+                    235.0,
+                    316.0
+                ],
+                [
+                    235.0,
+                    310.0
+                ],
+                [
+                    236.0,
+                    310.0
+                ],
+                [
+                    236.0,
+                    307.0
+                ],
+                [
+                    235.0,
+                    307.0
+                ],
+                [
+                    235.0,
+                    306.0
+                ],
+                [
+                    224.0,
+                    306.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

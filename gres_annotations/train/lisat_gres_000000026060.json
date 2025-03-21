@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the engineering vehicle that boasts a prominent yellow design, complete with industrial characteristics and mechanical components.",
+        "Search for the engineering machine that displays a significant yellow structure equipped with industrial and mechanical features.",
+        "Identify the engineering vehicle with a notable yellow framework, characterized by its industrial and machinery elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026060.jpg",
+            "points": [
+                [
+                    170.0,
+                    478.0
+                ],
+                [
+                    170.0,
+                    481.0
+                ],
+                [
+                    169.0,
+                    481.0
+                ],
+                [
+                    169.0,
+                    483.0
+                ],
+                [
+                    168.0,
+                    483.0
+                ],
+                [
+                    168.0,
+                    492.0
+                ],
+                [
+                    169.0,
+                    492.0
+                ],
+                [
+                    169.0,
+                    493.0
+                ],
+                [
+                    170.0,
+                    493.0
+                ],
+                [
+                    170.0,
+                    494.0
+                ],
+                [
+                    171.0,
+                    494.0
+                ],
+                [
+                    171.0,
+                    495.0
+                ],
+                [
+                    172.0,
+                    495.0
+                ],
+                [
+                    172.0,
+                    496.0
+                ],
+                [
+                    173.0,
+                    496.0
+                ],
+                [
+                    173.0,
+                    495.0
+                ],
+                [
+                    174.0,
+                    495.0
+                ],
+                [
+                    174.0,
+                    494.0
+                ],
+                [
+                    176.0,
+                    494.0
+                ],
+                [
+                    176.0,
+                    493.0
+                ],
+                [
+                    177.0,
+                    493.0
+                ],
+                [
+                    177.0,
+                    492.0
+                ],
+                [
+                    178.0,
+                    492.0
+                ],
+                [
+                    178.0,
+                    490.0
+                ],
+                [
+                    179.0,
+                    490.0
+                ],
+                [
+                    179.0,
+                    485.0
+                ],
+                [
+                    180.0,
+                    485.0
+                ],
+                [
+                    180.0,
+                    480.0
+                ],
+                [
+                    179.0,
+                    480.0
+                ],
+                [
+                    179.0,
+                    479.0
+                ],
+                [
+                    176.0,
+                    479.0
+                ],
+                [
+                    176.0,
+                    478.0
+                ],
+                [
+                    170.0,
+                    478.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

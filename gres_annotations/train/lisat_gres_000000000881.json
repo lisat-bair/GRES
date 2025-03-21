@@ -1,0 +1,141 @@
+{
+    "text": [
+        "To find the storage tank, look for the big, round, light-toned structure set against a darker backdrop.",
+        "Spot the storage tank by identifying the large, circular, and pale structure contrasting with the darker surroundings.",
+        "Locate the storage tank by finding the significant round, light-colored formation on a dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000881.jpg",
+            "points": [
+                [
+                    336.0,
+                    153.0
+                ],
+                [
+                    336.0,
+                    154.0
+                ],
+                [
+                    334.0,
+                    154.0
+                ],
+                [
+                    334.0,
+                    156.0
+                ],
+                [
+                    333.0,
+                    156.0
+                ],
+                [
+                    333.0,
+                    159.0
+                ],
+                [
+                    334.0,
+                    159.0
+                ],
+                [
+                    334.0,
+                    162.0
+                ],
+                [
+                    335.0,
+                    162.0
+                ],
+                [
+                    335.0,
+                    163.0
+                ],
+                [
+                    336.0,
+                    163.0
+                ],
+                [
+                    336.0,
+                    164.0
+                ],
+                [
+                    338.0,
+                    164.0
+                ],
+                [
+                    338.0,
+                    165.0
+                ],
+                [
+                    342.0,
+                    165.0
+                ],
+                [
+                    342.0,
+                    164.0
+                ],
+                [
+                    344.0,
+                    164.0
+                ],
+                [
+                    344.0,
+                    163.0
+                ],
+                [
+                    345.0,
+                    163.0
+                ],
+                [
+                    345.0,
+                    161.0
+                ],
+                [
+                    346.0,
+                    161.0
+                ],
+                [
+                    346.0,
+                    157.0
+                ],
+                [
+                    345.0,
+                    157.0
+                ],
+                [
+                    345.0,
+                    155.0
+                ],
+                [
+                    344.0,
+                    155.0
+                ],
+                [
+                    344.0,
+                    154.0
+                ],
+                [
+                    342.0,
+                    154.0
+                ],
+                [
+                    342.0,
+                    153.0
+                ],
+                [
+                    336.0,
+                    153.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

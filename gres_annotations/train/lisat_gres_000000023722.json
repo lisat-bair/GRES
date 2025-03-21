@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the rectangular vehicle with noticeable wheels in the top left part of the picture, attached to a cab at the front.",
+        "Find the box-shaped truck with prominent wheels in the upper left corner of the image, linked to a truck cab in the front.",
+        "Spot the truck with a rectangular form and distinct wheels in the upper left section of the image, which is connected to the cab at the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023722.jpg",
+            "points": [
+                [
+                    12.0,
+                    38.0
+                ],
+                [
+                    12.0,
+                    39.0
+                ],
+                [
+                    8.0,
+                    39.0
+                ],
+                [
+                    8.0,
+                    40.0
+                ],
+                [
+                    5.0,
+                    40.0
+                ],
+                [
+                    5.0,
+                    41.0
+                ],
+                [
+                    0.0,
+                    41.0
+                ],
+                [
+                    0.0,
+                    51.0
+                ],
+                [
+                    4.0,
+                    51.0
+                ],
+                [
+                    4.0,
+                    50.0
+                ],
+                [
+                    8.0,
+                    50.0
+                ],
+                [
+                    8.0,
+                    49.0
+                ],
+                [
+                    13.0,
+                    49.0
+                ],
+                [
+                    13.0,
+                    48.0
+                ],
+                [
+                    15.0,
+                    48.0
+                ],
+                [
+                    15.0,
+                    47.0
+                ],
+                [
+                    17.0,
+                    47.0
+                ],
+                [
+                    17.0,
+                    46.0
+                ],
+                [
+                    18.0,
+                    46.0
+                ],
+                [
+                    18.0,
+                    45.0
+                ],
+                [
+                    19.0,
+                    45.0
+                ],
+                [
+                    19.0,
+                    44.0
+                ],
+                [
+                    20.0,
+                    44.0
+                ],
+                [
+                    20.0,
+                    42.0
+                ],
+                [
+                    19.0,
+                    42.0
+                ],
+                [
+                    19.0,
+                    40.0
+                ],
+                [
+                    18.0,
+                    40.0
+                ],
+                [
+                    18.0,
+                    39.0
+                ],
+                [
+                    16.0,
+                    39.0
+                ],
+                [
+                    16.0,
+                    38.0
+                ],
+                [
+                    12.0,
+                    38.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

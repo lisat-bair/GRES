@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck that features unique vertical patterns in shades of maroon and brown.",
+        "Search for the truck that displays distinctive vertical stripes in maroon and brown hues.",
+        "Look for the truck with specific vertical bands in maroon and brown colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033542.jpg",
+            "points": [
+                [
+                    72.0,
+                    0.0
+                ],
+                [
+                    72.0,
+                    1.0
+                ],
+                [
+                    75.0,
+                    1.0
+                ],
+                [
+                    75.0,
+                    2.0
+                ],
+                [
+                    76.0,
+                    2.0
+                ],
+                [
+                    76.0,
+                    3.0
+                ],
+                [
+                    77.0,
+                    3.0
+                ],
+                [
+                    77.0,
+                    4.0
+                ],
+                [
+                    92.0,
+                    4.0
+                ],
+                [
+                    92.0,
+                    3.0
+                ],
+                [
+                    93.0,
+                    3.0
+                ],
+                [
+                    93.0,
+                    2.0
+                ],
+                [
+                    97.0,
+                    2.0
+                ],
+                [
+                    97.0,
+                    0.0
+                ],
+                [
+                    72.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

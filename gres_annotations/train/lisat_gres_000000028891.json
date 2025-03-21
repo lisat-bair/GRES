@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the white vehicle that has a rectangular form with smooth corners against a dark backdrop.",
+        "Identify the white automobile, characterized by its rectangular design and rounded corners, set against a dark background.",
+        "Spot the white car, notable for its rectangular shape and curved edges, against a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028891.jpg",
+            "points": [
+                [
+                    221.0,
+                    222.0
+                ],
+                [
+                    221.0,
+                    223.0
+                ],
+                [
+                    219.0,
+                    223.0
+                ],
+                [
+                    219.0,
+                    224.0
+                ],
+                [
+                    218.0,
+                    224.0
+                ],
+                [
+                    218.0,
+                    227.0
+                ],
+                [
+                    219.0,
+                    227.0
+                ],
+                [
+                    219.0,
+                    230.0
+                ],
+                [
+                    220.0,
+                    230.0
+                ],
+                [
+                    220.0,
+                    232.0
+                ],
+                [
+                    221.0,
+                    232.0
+                ],
+                [
+                    221.0,
+                    234.0
+                ],
+                [
+                    222.0,
+                    234.0
+                ],
+                [
+                    222.0,
+                    236.0
+                ],
+                [
+                    224.0,
+                    236.0
+                ],
+                [
+                    224.0,
+                    237.0
+                ],
+                [
+                    227.0,
+                    237.0
+                ],
+                [
+                    227.0,
+                    236.0
+                ],
+                [
+                    228.0,
+                    236.0
+                ],
+                [
+                    228.0,
+                    235.0
+                ],
+                [
+                    229.0,
+                    235.0
+                ],
+                [
+                    229.0,
+                    230.0
+                ],
+                [
+                    228.0,
+                    230.0
+                ],
+                [
+                    228.0,
+                    228.0
+                ],
+                [
+                    227.0,
+                    228.0
+                ],
+                [
+                    227.0,
+                    226.0
+                ],
+                [
+                    226.0,
+                    226.0
+                ],
+                [
+                    226.0,
+                    225.0
+                ],
+                [
+                    225.0,
+                    225.0
+                ],
+                [
+                    225.0,
+                    224.0
+                ],
+                [
+                    224.0,
+                    224.0
+                ],
+                [
+                    224.0,
+                    223.0
+                ],
+                [
+                    222.0,
+                    223.0
+                ],
+                [
+                    222.0,
+                    222.0
+                ],
+                [
+                    221.0,
+                    222.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

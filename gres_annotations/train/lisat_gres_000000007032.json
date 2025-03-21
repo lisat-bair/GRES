@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for the excavator, characterized by its unique arm and bucket arrangement, commonly in shades of yellow or orange, and sitting on a substantial, tracked base.",
+        "Spot the excavator, noted for its distinct arm and bucket configuration, usually in yellow or orange hues, resting on a large, tracked foundation.",
+        "Recognize the excavator by its prominent arm and bucket design, often colored yellow or orange, and supported by a sizable, tracked base."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007032.jpg",
+            "points": [
+                [
+                    397.0,
+                    176.0
+                ],
+                [
+                    397.0,
+                    177.0
+                ],
+                [
+                    395.0,
+                    177.0
+                ],
+                [
+                    395.0,
+                    178.0
+                ],
+                [
+                    394.0,
+                    178.0
+                ],
+                [
+                    394.0,
+                    182.0
+                ],
+                [
+                    398.0,
+                    182.0
+                ],
+                [
+                    398.0,
+                    183.0
+                ],
+                [
+                    403.0,
+                    183.0
+                ],
+                [
+                    403.0,
+                    184.0
+                ],
+                [
+                    407.0,
+                    184.0
+                ],
+                [
+                    407.0,
+                    185.0
+                ],
+                [
+                    409.0,
+                    185.0
+                ],
+                [
+                    409.0,
+                    187.0
+                ],
+                [
+                    410.0,
+                    187.0
+                ],
+                [
+                    410.0,
+                    188.0
+                ],
+                [
+                    417.0,
+                    188.0
+                ],
+                [
+                    417.0,
+                    189.0
+                ],
+                [
+                    422.0,
+                    189.0
+                ],
+                [
+                    422.0,
+                    187.0
+                ],
+                [
+                    423.0,
+                    187.0
+                ],
+                [
+                    423.0,
+                    179.0
+                ],
+                [
+                    422.0,
+                    179.0
+                ],
+                [
+                    422.0,
+                    178.0
+                ],
+                [
+                    420.0,
+                    178.0
+                ],
+                [
+                    420.0,
+                    177.0
+                ],
+                [
+                    418.0,
+                    177.0
+                ],
+                [
+                    418.0,
+                    176.0
+                ],
+                [
+                    410.0,
+                    176.0
+                ],
+                [
+                    410.0,
+                    178.0
+                ],
+                [
+                    403.0,
+                    178.0
+                ],
+                [
+                    403.0,
+                    177.0
+                ],
+                [
+                    400.0,
+                    177.0
+                ],
+                [
+                    400.0,
+                    176.0
+                ],
+                [
+                    397.0,
+                    176.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

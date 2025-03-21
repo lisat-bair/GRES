@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the automobile that has a shiny, metal finish and unique geometric forms typical of a car.",
+        "Search for the vehicle with a lustrous, metallic exterior and prominent geometric features characteristic of a car.",
+        "Identify the car that boasts a sleek, metallic surface and distinct geometric patterns typical of an automobile."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036271.jpg",
+            "points": [
+                [
+                    386.0,
+                    417.0
+                ],
+                [
+                    386.0,
+                    418.0
+                ],
+                [
+                    384.0,
+                    418.0
+                ],
+                [
+                    384.0,
+                    419.0
+                ],
+                [
+                    383.0,
+                    419.0
+                ],
+                [
+                    383.0,
+                    423.0
+                ],
+                [
+                    384.0,
+                    423.0
+                ],
+                [
+                    384.0,
+                    424.0
+                ],
+                [
+                    385.0,
+                    424.0
+                ],
+                [
+                    385.0,
+                    425.0
+                ],
+                [
+                    388.0,
+                    425.0
+                ],
+                [
+                    388.0,
+                    426.0
+                ],
+                [
+                    394.0,
+                    426.0
+                ],
+                [
+                    394.0,
+                    427.0
+                ],
+                [
+                    398.0,
+                    427.0
+                ],
+                [
+                    398.0,
+                    426.0
+                ],
+                [
+                    401.0,
+                    426.0
+                ],
+                [
+                    401.0,
+                    425.0
+                ],
+                [
+                    402.0,
+                    425.0
+                ],
+                [
+                    402.0,
+                    422.0
+                ],
+                [
+                    401.0,
+                    422.0
+                ],
+                [
+                    401.0,
+                    421.0
+                ],
+                [
+                    400.0,
+                    421.0
+                ],
+                [
+                    400.0,
+                    420.0
+                ],
+                [
+                    399.0,
+                    420.0
+                ],
+                [
+                    399.0,
+                    419.0
+                ],
+                [
+                    398.0,
+                    419.0
+                ],
+                [
+                    398.0,
+                    418.0
+                ],
+                [
+                    396.0,
+                    418.0
+                ],
+                [
+                    396.0,
+                    417.0
+                ],
+                [
+                    386.0,
+                    417.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

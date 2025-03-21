@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the large metallic cylinder that has a consistent color and serves as a storage tank.",
+        "Identify the storage tank characterized by its metallic texture, cylindrical form, and even coloring.",
+        "Spot the cylinder-shaped, uniformly colored storage tank with a metallic surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009189.jpg",
+            "points": [
+                [
+                    157.0,
+                    321.0
+                ],
+                [
+                    157.0,
+                    322.0
+                ],
+                [
+                    154.0,
+                    322.0
+                ],
+                [
+                    154.0,
+                    323.0
+                ],
+                [
+                    152.0,
+                    323.0
+                ],
+                [
+                    152.0,
+                    324.0
+                ],
+                [
+                    150.0,
+                    324.0
+                ],
+                [
+                    150.0,
+                    334.0
+                ],
+                [
+                    151.0,
+                    334.0
+                ],
+                [
+                    151.0,
+                    336.0
+                ],
+                [
+                    152.0,
+                    336.0
+                ],
+                [
+                    152.0,
+                    337.0
+                ],
+                [
+                    155.0,
+                    337.0
+                ],
+                [
+                    155.0,
+                    338.0
+                ],
+                [
+                    169.0,
+                    338.0
+                ],
+                [
+                    169.0,
+                    337.0
+                ],
+                [
+                    171.0,
+                    337.0
+                ],
+                [
+                    171.0,
+                    336.0
+                ],
+                [
+                    172.0,
+                    336.0
+                ],
+                [
+                    172.0,
+                    329.0
+                ],
+                [
+                    171.0,
+                    329.0
+                ],
+                [
+                    171.0,
+                    327.0
+                ],
+                [
+                    170.0,
+                    327.0
+                ],
+                [
+                    170.0,
+                    326.0
+                ],
+                [
+                    169.0,
+                    326.0
+                ],
+                [
+                    169.0,
+                    325.0
+                ],
+                [
+                    168.0,
+                    325.0
+                ],
+                [
+                    168.0,
+                    324.0
+                ],
+                [
+                    167.0,
+                    324.0
+                ],
+                [
+                    167.0,
+                    323.0
+                ],
+                [
+                    165.0,
+                    323.0
+                ],
+                [
+                    165.0,
+                    322.0
+                ],
+                [
+                    161.0,
+                    322.0
+                ],
+                [
+                    161.0,
+                    321.0
+                ],
+                [
+                    157.0,
+                    321.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

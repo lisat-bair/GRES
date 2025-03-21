@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the truck located in the lower-right corner of the picture, notable for its small rectangular form and unique wheels, often metallic or painted.",
+        "Find the truck in the bottom-right section of the image, recognized by its compact rectangular design and distinct wheels, usually metallic or colored.",
+        "Locate the truck positioned at the lower-right of the photo, identified by its compact rectangular shape and distinctive wheels, which are commonly metallic or painted."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009458.jpg",
+            "points": [
+                [
+                    464.0,
+                    319.0
+                ],
+                [
+                    464.0,
+                    320.0
+                ],
+                [
+                    461.0,
+                    320.0
+                ],
+                [
+                    461.0,
+                    324.0
+                ],
+                [
+                    462.0,
+                    324.0
+                ],
+                [
+                    462.0,
+                    326.0
+                ],
+                [
+                    463.0,
+                    326.0
+                ],
+                [
+                    463.0,
+                    327.0
+                ],
+                [
+                    470.0,
+                    327.0
+                ],
+                [
+                    470.0,
+                    326.0
+                ],
+                [
+                    472.0,
+                    326.0
+                ],
+                [
+                    472.0,
+                    325.0
+                ],
+                [
+                    473.0,
+                    325.0
+                ],
+                [
+                    473.0,
+                    324.0
+                ],
+                [
+                    474.0,
+                    324.0
+                ],
+                [
+                    474.0,
+                    321.0
+                ],
+                [
+                    473.0,
+                    321.0
+                ],
+                [
+                    473.0,
+                    320.0
+                ],
+                [
+                    472.0,
+                    320.0
+                ],
+                [
+                    472.0,
+                    319.0
+                ],
+                [
+                    464.0,
+                    319.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

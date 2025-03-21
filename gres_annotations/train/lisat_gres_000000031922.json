@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the vehicle with a large open-top bed and giant wheels, commonly seen in industrial or construction environments.",
+        "Identify the truck that features an expansive open-top cargo space and large tires, typically used in construction or industrial contexts.",
+        "Search for the truck with a huge open-top loading area and big tires, often spotted in construction or industrial settings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031922.jpg",
+            "points": [
+                [
+                    167.0,
+                    0.0
+                ],
+                [
+                    167.0,
+                    3.0
+                ],
+                [
+                    168.0,
+                    3.0
+                ],
+                [
+                    168.0,
+                    4.0
+                ],
+                [
+                    169.0,
+                    4.0
+                ],
+                [
+                    169.0,
+                    5.0
+                ],
+                [
+                    172.0,
+                    5.0
+                ],
+                [
+                    172.0,
+                    6.0
+                ],
+                [
+                    179.0,
+                    6.0
+                ],
+                [
+                    179.0,
+                    5.0
+                ],
+                [
+                    180.0,
+                    5.0
+                ],
+                [
+                    180.0,
+                    4.0
+                ],
+                [
+                    181.0,
+                    4.0
+                ],
+                [
+                    181.0,
+                    2.0
+                ],
+                [
+                    182.0,
+                    2.0
+                ],
+                [
+                    182.0,
+                    0.0
+                ],
+                [
+                    167.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

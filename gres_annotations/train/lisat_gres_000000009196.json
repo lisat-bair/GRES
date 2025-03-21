@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck that has a darker color, a unique boxy rear, and noticeable white spots on its side.",
+        "Search for the truck that features a darker hue, a box-shaped back, and clear white symbols on its side.",
+        "Identify the truck with a dark exterior, a rectangular rear section, and prominent white markings along its side."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009196.jpg",
+            "points": [
+                [
+                    442.0,
+                    63.0
+                ],
+                [
+                    442.0,
+                    64.0
+                ],
+                [
+                    441.0,
+                    64.0
+                ],
+                [
+                    441.0,
+                    80.0
+                ],
+                [
+                    442.0,
+                    80.0
+                ],
+                [
+                    442.0,
+                    81.0
+                ],
+                [
+                    443.0,
+                    81.0
+                ],
+                [
+                    443.0,
+                    82.0
+                ],
+                [
+                    447.0,
+                    82.0
+                ],
+                [
+                    447.0,
+                    81.0
+                ],
+                [
+                    448.0,
+                    81.0
+                ],
+                [
+                    448.0,
+                    64.0
+                ],
+                [
+                    445.0,
+                    64.0
+                ],
+                [
+                    445.0,
+                    63.0
+                ],
+                [
+                    442.0,
+                    63.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

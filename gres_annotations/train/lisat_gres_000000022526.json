@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the light-colored, rectangular truck that is located in the center of the dirt ground.",
+        "Search for the truck that has a light color and rectangular shape, positioned centrally on the dirt surface.",
+        "Identify the centrally placed, light-colored truck with a rectangular form on the dirt area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022526.jpg",
+            "points": [
+                [
+                    462.0,
+                    233.0
+                ],
+                [
+                    462.0,
+                    234.0
+                ],
+                [
+                    456.0,
+                    234.0
+                ],
+                [
+                    456.0,
+                    235.0
+                ],
+                [
+                    454.0,
+                    235.0
+                ],
+                [
+                    454.0,
+                    236.0
+                ],
+                [
+                    453.0,
+                    236.0
+                ],
+                [
+                    453.0,
+                    241.0
+                ],
+                [
+                    454.0,
+                    241.0
+                ],
+                [
+                    454.0,
+                    242.0
+                ],
+                [
+                    460.0,
+                    242.0
+                ],
+                [
+                    460.0,
+                    243.0
+                ],
+                [
+                    470.0,
+                    243.0
+                ],
+                [
+                    470.0,
+                    242.0
+                ],
+                [
+                    474.0,
+                    242.0
+                ],
+                [
+                    474.0,
+                    241.0
+                ],
+                [
+                    475.0,
+                    241.0
+                ],
+                [
+                    475.0,
+                    238.0
+                ],
+                [
+                    476.0,
+                    238.0
+                ],
+                [
+                    476.0,
+                    236.0
+                ],
+                [
+                    475.0,
+                    236.0
+                ],
+                [
+                    475.0,
+                    235.0
+                ],
+                [
+                    473.0,
+                    235.0
+                ],
+                [
+                    473.0,
+                    234.0
+                ],
+                [
+                    464.0,
+                    234.0
+                ],
+                [
+                    464.0,
+                    233.0
+                ],
+                [
+                    462.0,
+                    233.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

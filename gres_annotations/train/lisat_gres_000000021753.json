@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Locate the bus situated in the lower-right section of the picture.",
+        "Find the bus located in the bottom-right part of the image.",
+        "Spot the bus positioned in the bottom right of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021753.jpg",
+            "points": [
+                [
+                    481,
+                    417
+                ],
+                [
+                    505,
+                    417
+                ],
+                [
+                    505,
+                    438
+                ],
+                [
+                    481,
+                    438
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

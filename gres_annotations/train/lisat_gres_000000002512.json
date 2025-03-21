@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck that has a unique green shade and a rounded cargo section.",
+        "Locate the vehicle that features a distinctive green hue and a curved cargo area.",
+        "Spot the truck exhibiting a particular green color with a rounded storage compartment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002512.jpg",
+            "points": [
+                [
+                    0.0,
+                    103.0
+                ],
+                [
+                    0.0,
+                    111.0
+                ],
+                [
+                    1.0,
+                    111.0
+                ],
+                [
+                    1.0,
+                    110.0
+                ],
+                [
+                    2.0,
+                    110.0
+                ],
+                [
+                    2.0,
+                    109.0
+                ],
+                [
+                    3.0,
+                    109.0
+                ],
+                [
+                    3.0,
+                    108.0
+                ],
+                [
+                    4.0,
+                    108.0
+                ],
+                [
+                    4.0,
+                    106.0
+                ],
+                [
+                    3.0,
+                    106.0
+                ],
+                [
+                    3.0,
+                    104.0
+                ],
+                [
+                    1.0,
+                    104.0
+                ],
+                [
+                    1.0,
+                    103.0
+                ],
+                [
+                    0.0,
+                    103.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

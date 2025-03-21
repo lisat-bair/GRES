@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the car that stands out due to its unique color, sharp contours, and distinctive shape against the backdrop.",
+        "Locate the passenger vehicle that has a different color, clear boundaries, and a shape that is unique compared to its surroundings.",
+        "Find the vehicle with a noticeable color, defined lines, and an unusual shape that contrasts with its environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002080.jpg",
+            "points": [
+                [
+                    254.0,
+                    47.0
+                ],
+                [
+                    254.0,
+                    48.0
+                ],
+                [
+                    253.0,
+                    48.0
+                ],
+                [
+                    253.0,
+                    55.0
+                ],
+                [
+                    254.0,
+                    55.0
+                ],
+                [
+                    254.0,
+                    56.0
+                ],
+                [
+                    258.0,
+                    56.0
+                ],
+                [
+                    258.0,
+                    55.0
+                ],
+                [
+                    259.0,
+                    55.0
+                ],
+                [
+                    259.0,
+                    50.0
+                ],
+                [
+                    258.0,
+                    50.0
+                ],
+                [
+                    258.0,
+                    48.0
+                ],
+                [
+                    257.0,
+                    48.0
+                ],
+                [
+                    257.0,
+                    47.0
+                ],
+                [
+                    254.0,
+                    47.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

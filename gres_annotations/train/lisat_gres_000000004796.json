@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the hut that has a triangular shape and a sharp peak constructed from dark canvas.",
+        "Find the shelter with a triangular framework and a pointed roof made out of dark canvas fabric.",
+        "Spot the hut featuring a triangular design and a peaked top crafted from dark canvas material."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004796.jpg",
+            "points": [
+                [
+                    53.0,
+                    505.0
+                ],
+                [
+                    53.0,
+                    506.0
+                ],
+                [
+                    49.0,
+                    506.0
+                ],
+                [
+                    49.0,
+                    507.0
+                ],
+                [
+                    46.0,
+                    507.0
+                ],
+                [
+                    46.0,
+                    508.0
+                ],
+                [
+                    45.0,
+                    508.0
+                ],
+                [
+                    45.0,
+                    510.0
+                ],
+                [
+                    44.0,
+                    510.0
+                ],
+                [
+                    44.0,
+                    512.0
+                ],
+                [
+                    62.0,
+                    512.0
+                ],
+                [
+                    62.0,
+                    510.0
+                ],
+                [
+                    61.0,
+                    510.0
+                ],
+                [
+                    61.0,
+                    509.0
+                ],
+                [
+                    60.0,
+                    509.0
+                ],
+                [
+                    60.0,
+                    508.0
+                ],
+                [
+                    58.0,
+                    508.0
+                ],
+                [
+                    58.0,
+                    507.0
+                ],
+                [
+                    56.0,
+                    507.0
+                ],
+                [
+                    56.0,
+                    506.0
+                ],
+                [
+                    54.0,
+                    506.0
+                ],
+                [
+                    54.0,
+                    505.0
+                ],
+                [
+                    53.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

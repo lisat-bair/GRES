@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the bus characterized by its big rectangular form, wheels, and windows, typically seen on roads.",
+        "Identify the vehicle with a large rectangular structure, wheels, and windows, often spotted on streets.",
+        "Spot the bus that features a sizable rectangular design, wheels, and windows, usually encountered on roadways."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025894.jpg",
+            "points": [
+                [
+                    237.0,
+                    459.0
+                ],
+                [
+                    237.0,
+                    460.0
+                ],
+                [
+                    235.0,
+                    460.0
+                ],
+                [
+                    235.0,
+                    461.0
+                ],
+                [
+                    234.0,
+                    461.0
+                ],
+                [
+                    234.0,
+                    462.0
+                ],
+                [
+                    232.0,
+                    462.0
+                ],
+                [
+                    232.0,
+                    463.0
+                ],
+                [
+                    231.0,
+                    463.0
+                ],
+                [
+                    231.0,
+                    464.0
+                ],
+                [
+                    230.0,
+                    464.0
+                ],
+                [
+                    230.0,
+                    469.0
+                ],
+                [
+                    235.0,
+                    469.0
+                ],
+                [
+                    235.0,
+                    468.0
+                ],
+                [
+                    237.0,
+                    468.0
+                ],
+                [
+                    237.0,
+                    467.0
+                ],
+                [
+                    238.0,
+                    467.0
+                ],
+                [
+                    238.0,
+                    466.0
+                ],
+                [
+                    239.0,
+                    466.0
+                ],
+                [
+                    239.0,
+                    465.0
+                ],
+                [
+                    241.0,
+                    465.0
+                ],
+                [
+                    241.0,
+                    464.0
+                ],
+                [
+                    242.0,
+                    464.0
+                ],
+                [
+                    242.0,
+                    463.0
+                ],
+                [
+                    243.0,
+                    463.0
+                ],
+                [
+                    243.0,
+                    461.0
+                ],
+                [
+                    242.0,
+                    461.0
+                ],
+                [
+                    242.0,
+                    460.0
+                ],
+                [
+                    241.0,
+                    460.0
+                ],
+                [
+                    241.0,
+                    459.0
+                ],
+                [
+                    237.0,
+                    459.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

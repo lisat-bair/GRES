@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the rectangular building that stands out due to its pinkish color against the backdrop of the surroundings.",
+        "Identify the structure with a rectangular design and a noticeable pink shade that contrasts with the area around it.",
+        "Spot the building that is rectangular in shape and has a unique pink hue, setting it apart from its environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032385.jpg",
+            "points": [
+                [
+                    164.0,
+                    202.0
+                ],
+                [
+                    164.0,
+                    203.0
+                ],
+                [
+                    163.0,
+                    203.0
+                ],
+                [
+                    163.0,
+                    213.0
+                ],
+                [
+                    164.0,
+                    213.0
+                ],
+                [
+                    164.0,
+                    214.0
+                ],
+                [
+                    166.0,
+                    214.0
+                ],
+                [
+                    166.0,
+                    215.0
+                ],
+                [
+                    171.0,
+                    215.0
+                ],
+                [
+                    171.0,
+                    216.0
+                ],
+                [
+                    180.0,
+                    216.0
+                ],
+                [
+                    180.0,
+                    217.0
+                ],
+                [
+                    198.0,
+                    217.0
+                ],
+                [
+                    198.0,
+                    216.0
+                ],
+                [
+                    199.0,
+                    216.0
+                ],
+                [
+                    199.0,
+                    215.0
+                ],
+                [
+                    200.0,
+                    215.0
+                ],
+                [
+                    200.0,
+                    209.0
+                ],
+                [
+                    199.0,
+                    209.0
+                ],
+                [
+                    199.0,
+                    208.0
+                ],
+                [
+                    198.0,
+                    208.0
+                ],
+                [
+                    198.0,
+                    207.0
+                ],
+                [
+                    196.0,
+                    207.0
+                ],
+                [
+                    196.0,
+                    206.0
+                ],
+                [
+                    195.0,
+                    206.0
+                ],
+                [
+                    195.0,
+                    205.0
+                ],
+                [
+                    193.0,
+                    205.0
+                ],
+                [
+                    193.0,
+                    204.0
+                ],
+                [
+                    192.0,
+                    204.0
+                ],
+                [
+                    192.0,
+                    203.0
+                ],
+                [
+                    187.0,
+                    203.0
+                ],
+                [
+                    187.0,
+                    202.0
+                ],
+                [
+                    164.0,
+                    202.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

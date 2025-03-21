@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the truck that has a rectangular form and unique dark windows in the picture.",
+        "Locate the vehicle with a box-like shape and noticeable dark windows in the photo.",
+        "Find the lorry featuring a rectangular design and prominent dark windows within the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012660.jpg",
+            "points": [
+                [
+                    204.0,
+                    109.0
+                ],
+                [
+                    204.0,
+                    110.0
+                ],
+                [
+                    203.0,
+                    110.0
+                ],
+                [
+                    203.0,
+                    111.0
+                ],
+                [
+                    202.0,
+                    111.0
+                ],
+                [
+                    202.0,
+                    116.0
+                ],
+                [
+                    203.0,
+                    116.0
+                ],
+                [
+                    203.0,
+                    118.0
+                ],
+                [
+                    204.0,
+                    118.0
+                ],
+                [
+                    204.0,
+                    119.0
+                ],
+                [
+                    205.0,
+                    119.0
+                ],
+                [
+                    205.0,
+                    121.0
+                ],
+                [
+                    206.0,
+                    121.0
+                ],
+                [
+                    206.0,
+                    122.0
+                ],
+                [
+                    212.0,
+                    122.0
+                ],
+                [
+                    212.0,
+                    121.0
+                ],
+                [
+                    213.0,
+                    121.0
+                ],
+                [
+                    213.0,
+                    117.0
+                ],
+                [
+                    212.0,
+                    117.0
+                ],
+                [
+                    212.0,
+                    115.0
+                ],
+                [
+                    211.0,
+                    115.0
+                ],
+                [
+                    211.0,
+                    113.0
+                ],
+                [
+                    210.0,
+                    113.0
+                ],
+                [
+                    210.0,
+                    111.0
+                ],
+                [
+                    209.0,
+                    111.0
+                ],
+                [
+                    209.0,
+                    110.0
+                ],
+                [
+                    208.0,
+                    110.0
+                ],
+                [
+                    208.0,
+                    109.0
+                ],
+                [
+                    204.0,
+                    109.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

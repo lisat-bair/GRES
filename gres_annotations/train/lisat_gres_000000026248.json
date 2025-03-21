@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the truck that has a mostly light-colored exterior with noticeable shadow designs on its side.",
+        "Locate the vehicle with a mainly pale body and unique shadow effects along its side.",
+        "Spot the truck featuring a largely light-hued exterior combined with distinctive shadow patterns."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026248.jpg",
+            "points": [
+                [
+                    363.0,
+                    55.0
+                ],
+                [
+                    363.0,
+                    56.0
+                ],
+                [
+                    362.0,
+                    56.0
+                ],
+                [
+                    362.0,
+                    57.0
+                ],
+                [
+                    361.0,
+                    57.0
+                ],
+                [
+                    361.0,
+                    59.0
+                ],
+                [
+                    360.0,
+                    59.0
+                ],
+                [
+                    360.0,
+                    61.0
+                ],
+                [
+                    359.0,
+                    61.0
+                ],
+                [
+                    359.0,
+                    62.0
+                ],
+                [
+                    358.0,
+                    62.0
+                ],
+                [
+                    358.0,
+                    64.0
+                ],
+                [
+                    357.0,
+                    64.0
+                ],
+                [
+                    357.0,
+                    69.0
+                ],
+                [
+                    358.0,
+                    69.0
+                ],
+                [
+                    358.0,
+                    70.0
+                ],
+                [
+                    360.0,
+                    70.0
+                ],
+                [
+                    360.0,
+                    71.0
+                ],
+                [
+                    364.0,
+                    71.0
+                ],
+                [
+                    364.0,
+                    70.0
+                ],
+                [
+                    365.0,
+                    70.0
+                ],
+                [
+                    365.0,
+                    69.0
+                ],
+                [
+                    366.0,
+                    69.0
+                ],
+                [
+                    366.0,
+                    67.0
+                ],
+                [
+                    367.0,
+                    67.0
+                ],
+                [
+                    367.0,
+                    65.0
+                ],
+                [
+                    368.0,
+                    65.0
+                ],
+                [
+                    368.0,
+                    63.0
+                ],
+                [
+                    369.0,
+                    63.0
+                ],
+                [
+                    369.0,
+                    59.0
+                ],
+                [
+                    370.0,
+                    59.0
+                ],
+                [
+                    370.0,
+                    56.0
+                ],
+                [
+                    369.0,
+                    56.0
+                ],
+                [
+                    369.0,
+                    55.0
+                ],
+                [
+                    363.0,
+                    55.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

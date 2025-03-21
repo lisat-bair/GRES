@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the structure that stands out with its unique orange color and textured facade, setting it apart from its surroundings.",
+        "Locate the edifice characterized by its striking orange tint and rough exterior, which differentiates it from nearby structures.",
+        "Find the building that is marked by a notable orange shade and a textured finish, making it contrast with the environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015654.jpg",
+            "points": [
+                [
+                    503.0,
+                    481.0
+                ],
+                [
+                    503.0,
+                    482.0
+                ],
+                [
+                    501.0,
+                    482.0
+                ],
+                [
+                    501.0,
+                    483.0
+                ],
+                [
+                    500.0,
+                    483.0
+                ],
+                [
+                    500.0,
+                    484.0
+                ],
+                [
+                    498.0,
+                    484.0
+                ],
+                [
+                    498.0,
+                    486.0
+                ],
+                [
+                    497.0,
+                    486.0
+                ],
+                [
+                    497.0,
+                    491.0
+                ],
+                [
+                    496.0,
+                    491.0
+                ],
+                [
+                    496.0,
+                    499.0
+                ],
+                [
+                    495.0,
+                    499.0
+                ],
+                [
+                    495.0,
+                    502.0
+                ],
+                [
+                    496.0,
+                    502.0
+                ],
+                [
+                    496.0,
+                    507.0
+                ],
+                [
+                    497.0,
+                    507.0
+                ],
+                [
+                    497.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    482.0
+                ],
+                [
+                    510.0,
+                    482.0
+                ],
+                [
+                    510.0,
+                    481.0
+                ],
+                [
+                    503.0,
+                    481.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

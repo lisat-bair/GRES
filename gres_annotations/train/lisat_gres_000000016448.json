@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the shed that has wooden siding and a pitched roof.",
+        "Find the structure with wood paneling and an angled roof.",
+        "Spot the shed featuring timber panels and a slanted roof."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016448.jpg",
+            "points": [
+                [
+                    240.0,
+                    147.0
+                ],
+                [
+                    240.0,
+                    148.0
+                ],
+                [
+                    232.0,
+                    148.0
+                ],
+                [
+                    232.0,
+                    149.0
+                ],
+                [
+                    231.0,
+                    149.0
+                ],
+                [
+                    231.0,
+                    152.0
+                ],
+                [
+                    232.0,
+                    152.0
+                ],
+                [
+                    232.0,
+                    154.0
+                ],
+                [
+                    233.0,
+                    154.0
+                ],
+                [
+                    233.0,
+                    155.0
+                ],
+                [
+                    237.0,
+                    155.0
+                ],
+                [
+                    237.0,
+                    156.0
+                ],
+                [
+                    248.0,
+                    156.0
+                ],
+                [
+                    248.0,
+                    155.0
+                ],
+                [
+                    249.0,
+                    155.0
+                ],
+                [
+                    249.0,
+                    152.0
+                ],
+                [
+                    250.0,
+                    152.0
+                ],
+                [
+                    250.0,
+                    149.0
+                ],
+                [
+                    249.0,
+                    149.0
+                ],
+                [
+                    249.0,
+                    148.0
+                ],
+                [
+                    248.0,
+                    148.0
+                ],
+                [
+                    248.0,
+                    147.0
+                ],
+                [
+                    240.0,
+                    147.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

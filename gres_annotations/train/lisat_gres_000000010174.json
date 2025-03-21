@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Locate the structure that features a beige exterior with horizontal paneling.",
+        "Find the edifice that has a beige front and horizontal panels.",
+        "Spot the building characterized by a beige surface and horizontal panel details."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010174.jpg",
+            "points": [
+                [
+                    48.0,
+                    317.0
+                ],
+                [
+                    48.0,
+                    318.0
+                ],
+                [
+                    45.0,
+                    318.0
+                ],
+                [
+                    45.0,
+                    319.0
+                ],
+                [
+                    43.0,
+                    319.0
+                ],
+                [
+                    43.0,
+                    328.0
+                ],
+                [
+                    42.0,
+                    328.0
+                ],
+                [
+                    42.0,
+                    331.0
+                ],
+                [
+                    43.0,
+                    331.0
+                ],
+                [
+                    43.0,
+                    333.0
+                ],
+                [
+                    44.0,
+                    333.0
+                ],
+                [
+                    44.0,
+                    336.0
+                ],
+                [
+                    45.0,
+                    336.0
+                ],
+                [
+                    45.0,
+                    337.0
+                ],
+                [
+                    46.0,
+                    337.0
+                ],
+                [
+                    46.0,
+                    338.0
+                ],
+                [
+                    48.0,
+                    338.0
+                ],
+                [
+                    48.0,
+                    339.0
+                ],
+                [
+                    53.0,
+                    339.0
+                ],
+                [
+                    53.0,
+                    340.0
+                ],
+                [
+                    56.0,
+                    340.0
+                ],
+                [
+                    56.0,
+                    339.0
+                ],
+                [
+                    72.0,
+                    339.0
+                ],
+                [
+                    72.0,
+                    338.0
+                ],
+                [
+                    73.0,
+                    338.0
+                ],
+                [
+                    73.0,
+                    337.0
+                ],
+                [
+                    74.0,
+                    337.0
+                ],
+                [
+                    74.0,
+                    319.0
+                ],
+                [
+                    73.0,
+                    319.0
+                ],
+                [
+                    73.0,
+                    318.0
+                ],
+                [
+                    71.0,
+                    318.0
+                ],
+                [
+                    71.0,
+                    317.0
+                ],
+                [
+                    48.0,
+                    317.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

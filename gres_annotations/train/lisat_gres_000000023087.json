@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the trailer positioned at the bottom-right of the image, characterized by its elongated rectangular form, noticeable wheels, and linked to a truck cab in the front.",
+        "Locate the trailer in the lower-right corner of the picture, which has a long, rectangular shape, visible wheels, and is hitched to a truck cab at the front.",
+        "Find the trailer situated in the bottom-right area of the image, distinguished by its long rectangular structure, prominent wheels, and attachment to a truck cab at the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023087.jpg",
+            "points": [
+                [
+                    348.0,
+                    501.0
+                ],
+                [
+                    348.0,
+                    502.0
+                ],
+                [
+                    347.0,
+                    502.0
+                ],
+                [
+                    347.0,
+                    505.0
+                ],
+                [
+                    346.0,
+                    505.0
+                ],
+                [
+                    346.0,
+                    507.0
+                ],
+                [
+                    345.0,
+                    507.0
+                ],
+                [
+                    345.0,
+                    508.0
+                ],
+                [
+                    344.0,
+                    508.0
+                ],
+                [
+                    344.0,
+                    509.0
+                ],
+                [
+                    343.0,
+                    509.0
+                ],
+                [
+                    343.0,
+                    512.0
+                ],
+                [
+                    369.0,
+                    512.0
+                ],
+                [
+                    369.0,
+                    511.0
+                ],
+                [
+                    368.0,
+                    511.0
+                ],
+                [
+                    368.0,
+                    510.0
+                ],
+                [
+                    367.0,
+                    510.0
+                ],
+                [
+                    367.0,
+                    509.0
+                ],
+                [
+                    366.0,
+                    509.0
+                ],
+                [
+                    366.0,
+                    508.0
+                ],
+                [
+                    363.0,
+                    508.0
+                ],
+                [
+                    363.0,
+                    507.0
+                ],
+                [
+                    361.0,
+                    507.0
+                ],
+                [
+                    361.0,
+                    506.0
+                ],
+                [
+                    359.0,
+                    506.0
+                ],
+                [
+                    359.0,
+                    505.0
+                ],
+                [
+                    357.0,
+                    505.0
+                ],
+                [
+                    357.0,
+                    504.0
+                ],
+                [
+                    354.0,
+                    504.0
+                ],
+                [
+                    354.0,
+                    503.0
+                ],
+                [
+                    352.0,
+                    503.0
+                ],
+                [
+                    352.0,
+                    502.0
+                ],
+                [
+                    351.0,
+                    502.0
+                ],
+                [
+                    351.0,
+                    501.0
+                ],
+                [
+                    348.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the structure that has a weather-beaten wooden door adorned with geometric designs and a metal latch, positioned against a roughly textured stone backdrop.",
+        "Find the edifice that boasts a worn wooden door with geometric engravings and a metal clasp, nestled against a stone wall with a textured appearance.",
+        "Seek out the building that features a rustic wooden panel door with geometric carvings and a metallic latch, set against a textured stone wall."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004686.jpg",
+            "points": [
+                [
+                    441.0,
+                    0.0
+                ],
+                [
+                    441.0,
+                    15.0
+                ],
+                [
+                    442.0,
+                    15.0
+                ],
+                [
+                    442.0,
+                    18.0
+                ],
+                [
+                    441.0,
+                    18.0
+                ],
+                [
+                    441.0,
+                    22.0
+                ],
+                [
+                    442.0,
+                    22.0
+                ],
+                [
+                    442.0,
+                    37.0
+                ],
+                [
+                    443.0,
+                    37.0
+                ],
+                [
+                    443.0,
+                    39.0
+                ],
+                [
+                    444.0,
+                    39.0
+                ],
+                [
+                    444.0,
+                    40.0
+                ],
+                [
+                    445.0,
+                    40.0
+                ],
+                [
+                    445.0,
+                    41.0
+                ],
+                [
+                    446.0,
+                    41.0
+                ],
+                [
+                    446.0,
+                    43.0
+                ],
+                [
+                    447.0,
+                    43.0
+                ],
+                [
+                    447.0,
+                    46.0
+                ],
+                [
+                    448.0,
+                    46.0
+                ],
+                [
+                    448.0,
+                    52.0
+                ],
+                [
+                    449.0,
+                    52.0
+                ],
+                [
+                    449.0,
+                    57.0
+                ],
+                [
+                    450.0,
+                    57.0
+                ],
+                [
+                    450.0,
+                    58.0
+                ],
+                [
+                    451.0,
+                    58.0
+                ],
+                [
+                    451.0,
+                    59.0
+                ],
+                [
+                    512.0,
+                    59.0
+                ],
+                [
+                    512.0,
+                    0.0
+                ],
+                [
+                    441.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

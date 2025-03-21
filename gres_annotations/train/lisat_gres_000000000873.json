@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the car that has a shiny exterior and unique reflective windows.",
+        "Locate the automobile featuring a large glossy surface and distinctive mirrored windows.",
+        "Find the vehicle with a polished surface and notable reflective windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000873.jpg",
+            "points": [
+                [
+                    501.0,
+                    443.0
+                ],
+                [
+                    501.0,
+                    444.0
+                ],
+                [
+                    499.0,
+                    444.0
+                ],
+                [
+                    499.0,
+                    445.0
+                ],
+                [
+                    497.0,
+                    445.0
+                ],
+                [
+                    497.0,
+                    446.0
+                ],
+                [
+                    495.0,
+                    446.0
+                ],
+                [
+                    495.0,
+                    449.0
+                ],
+                [
+                    498.0,
+                    449.0
+                ],
+                [
+                    498.0,
+                    450.0
+                ],
+                [
+                    501.0,
+                    450.0
+                ],
+                [
+                    501.0,
+                    451.0
+                ],
+                [
+                    506.0,
+                    451.0
+                ],
+                [
+                    506.0,
+                    450.0
+                ],
+                [
+                    507.0,
+                    450.0
+                ],
+                [
+                    507.0,
+                    449.0
+                ],
+                [
+                    509.0,
+                    449.0
+                ],
+                [
+                    509.0,
+                    448.0
+                ],
+                [
+                    510.0,
+                    448.0
+                ],
+                [
+                    510.0,
+                    445.0
+                ],
+                [
+                    509.0,
+                    445.0
+                ],
+                [
+                    509.0,
+                    444.0
+                ],
+                [
+                    507.0,
+                    444.0
+                ],
+                [
+                    507.0,
+                    443.0
+                ],
+                [
+                    501.0,
+                    443.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the big wheeled and windowed vehicle commonly employed for public transportation in the picture.",
+        "Search for the large transport vehicle featuring wheels and windows that is generally used for public transit within the image.",
+        "Identify the large vehicle with wheels and glass windows that serves public transport purposes in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030951.jpg",
+            "points": [
+                [
+                    79.0,
+                    483.0
+                ],
+                [
+                    79.0,
+                    484.0
+                ],
+                [
+                    76.0,
+                    484.0
+                ],
+                [
+                    76.0,
+                    485.0
+                ],
+                [
+                    75.0,
+                    485.0
+                ],
+                [
+                    75.0,
+                    488.0
+                ],
+                [
+                    76.0,
+                    488.0
+                ],
+                [
+                    76.0,
+                    492.0
+                ],
+                [
+                    77.0,
+                    492.0
+                ],
+                [
+                    77.0,
+                    496.0
+                ],
+                [
+                    78.0,
+                    496.0
+                ],
+                [
+                    78.0,
+                    499.0
+                ],
+                [
+                    79.0,
+                    499.0
+                ],
+                [
+                    79.0,
+                    500.0
+                ],
+                [
+                    80.0,
+                    500.0
+                ],
+                [
+                    80.0,
+                    501.0
+                ],
+                [
+                    81.0,
+                    501.0
+                ],
+                [
+                    81.0,
+                    502.0
+                ],
+                [
+                    84.0,
+                    502.0
+                ],
+                [
+                    84.0,
+                    501.0
+                ],
+                [
+                    85.0,
+                    501.0
+                ],
+                [
+                    85.0,
+                    500.0
+                ],
+                [
+                    86.0,
+                    500.0
+                ],
+                [
+                    86.0,
+                    495.0
+                ],
+                [
+                    85.0,
+                    495.0
+                ],
+                [
+                    85.0,
+                    492.0
+                ],
+                [
+                    84.0,
+                    492.0
+                ],
+                [
+                    84.0,
+                    487.0
+                ],
+                [
+                    83.0,
+                    487.0
+                ],
+                [
+                    83.0,
+                    484.0
+                ],
+                [
+                    82.0,
+                    484.0
+                ],
+                [
+                    82.0,
+                    483.0
+                ],
+                [
+                    79.0,
+                    483.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

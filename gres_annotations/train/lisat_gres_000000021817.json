@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the truck that stands out with its unique oval shape and metallic finish set against a dark backdrop.",
+        "Find the truck characterized by its unique oval form and metallic surface against a dark background.",
+        "Spot the truck distinguished by its oval design and metallic texture against the dark backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021817.jpg",
+            "points": [
+                [
+                    380.0,
+                    142.0
+                ],
+                [
+                    380.0,
+                    143.0
+                ],
+                [
+                    378.0,
+                    143.0
+                ],
+                [
+                    378.0,
+                    144.0
+                ],
+                [
+                    377.0,
+                    144.0
+                ],
+                [
+                    377.0,
+                    146.0
+                ],
+                [
+                    376.0,
+                    146.0
+                ],
+                [
+                    376.0,
+                    155.0
+                ],
+                [
+                    377.0,
+                    155.0
+                ],
+                [
+                    377.0,
+                    156.0
+                ],
+                [
+                    378.0,
+                    156.0
+                ],
+                [
+                    378.0,
+                    157.0
+                ],
+                [
+                    382.0,
+                    157.0
+                ],
+                [
+                    382.0,
+                    156.0
+                ],
+                [
+                    384.0,
+                    156.0
+                ],
+                [
+                    384.0,
+                    154.0
+                ],
+                [
+                    385.0,
+                    154.0
+                ],
+                [
+                    385.0,
+                    151.0
+                ],
+                [
+                    386.0,
+                    151.0
+                ],
+                [
+                    386.0,
+                    145.0
+                ],
+                [
+                    385.0,
+                    145.0
+                ],
+                [
+                    385.0,
+                    143.0
+                ],
+                [
+                    383.0,
+                    143.0
+                ],
+                [
+                    383.0,
+                    142.0
+                ],
+                [
+                    380.0,
+                    142.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

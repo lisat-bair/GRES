@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Detect the vehicle that has a sleek, metal exterior and is shiny enough to be distinct from its environment.",
+        "Spot the automobile featuring a polished, metallic finish that is noticeably more reflective than its surroundings.",
+        "Find the car with a glossy, metallic surface that visibly contrasts against the other textures nearby."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009857.jpg",
+            "points": [
+                [
+                    454.0,
+                    504.0
+                ],
+                [
+                    454.0,
+                    505.0
+                ],
+                [
+                    453.0,
+                    505.0
+                ],
+                [
+                    453.0,
+                    507.0
+                ],
+                [
+                    452.0,
+                    507.0
+                ],
+                [
+                    452.0,
+                    510.0
+                ],
+                [
+                    453.0,
+                    510.0
+                ],
+                [
+                    453.0,
+                    512.0
+                ],
+                [
+                    469.0,
+                    512.0
+                ],
+                [
+                    469.0,
+                    506.0
+                ],
+                [
+                    468.0,
+                    506.0
+                ],
+                [
+                    468.0,
+                    505.0
+                ],
+                [
+                    465.0,
+                    505.0
+                ],
+                [
+                    465.0,
+                    504.0
+                ],
+                [
+                    454.0,
+                    504.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

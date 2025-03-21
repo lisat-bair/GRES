@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the truck with a sizeable rectangular frame and noticeable wheels against the dim backdrop.",
+        "Spot the truck that has a big rectangular structure and stands out with its prominent wheels against the dark background.",
+        "Identify the truck featuring a large rectangular body and striking wheels, seen against a shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015132.jpg",
+            "points": [
+                [
+                    366.0,
+                    495.0
+                ],
+                [
+                    366.0,
+                    496.0
+                ],
+                [
+                    365.0,
+                    496.0
+                ],
+                [
+                    365.0,
+                    497.0
+                ],
+                [
+                    364.0,
+                    497.0
+                ],
+                [
+                    364.0,
+                    505.0
+                ],
+                [
+                    363.0,
+                    505.0
+                ],
+                [
+                    363.0,
+                    512.0
+                ],
+                [
+                    373.0,
+                    512.0
+                ],
+                [
+                    373.0,
+                    506.0
+                ],
+                [
+                    374.0,
+                    506.0
+                ],
+                [
+                    374.0,
+                    501.0
+                ],
+                [
+                    375.0,
+                    501.0
+                ],
+                [
+                    375.0,
+                    498.0
+                ],
+                [
+                    374.0,
+                    498.0
+                ],
+                [
+                    374.0,
+                    496.0
+                ],
+                [
+                    370.0,
+                    496.0
+                ],
+                [
+                    370.0,
+                    495.0
+                ],
+                [
+                    366.0,
+                    495.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

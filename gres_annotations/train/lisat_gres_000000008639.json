@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the truck that features unique rectangular headlights and a noticeable grille, set against a dark-colored body.",
+        "Spot the vehicle that showcases distinct square headlights and a standout grille, all framed by a contrasting dark exterior.",
+        "Find the truck distinguished by its rectangular headlights and striking grille, which is bordered by a dark-hued body."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008639.jpg",
+            "points": [
+                [
+                    466.0,
+                    435.0
+                ],
+                [
+                    466.0,
+                    436.0
+                ],
+                [
+                    465.0,
+                    436.0
+                ],
+                [
+                    465.0,
+                    437.0
+                ],
+                [
+                    464.0,
+                    437.0
+                ],
+                [
+                    464.0,
+                    441.0
+                ],
+                [
+                    463.0,
+                    441.0
+                ],
+                [
+                    463.0,
+                    449.0
+                ],
+                [
+                    464.0,
+                    449.0
+                ],
+                [
+                    464.0,
+                    450.0
+                ],
+                [
+                    465.0,
+                    450.0
+                ],
+                [
+                    465.0,
+                    451.0
+                ],
+                [
+                    471.0,
+                    451.0
+                ],
+                [
+                    471.0,
+                    450.0
+                ],
+                [
+                    472.0,
+                    450.0
+                ],
+                [
+                    472.0,
+                    449.0
+                ],
+                [
+                    473.0,
+                    449.0
+                ],
+                [
+                    473.0,
+                    444.0
+                ],
+                [
+                    474.0,
+                    444.0
+                ],
+                [
+                    474.0,
+                    441.0
+                ],
+                [
+                    473.0,
+                    441.0
+                ],
+                [
+                    473.0,
+                    437.0
+                ],
+                [
+                    472.0,
+                    437.0
+                ],
+                [
+                    472.0,
+                    436.0
+                ],
+                [
+                    470.0,
+                    436.0
+                ],
+                [
+                    470.0,
+                    435.0
+                ],
+                [
+                    466.0,
+                    435.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

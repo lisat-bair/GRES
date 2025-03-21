@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the trailer in the picture by looking for a lengthy rectangular form on wheels, featuring a clear divide between the cab and trailer section, usually in colors such as white, red, or blue.",
+        "Find the trailer in the image by searching for a long, rectangular shape with wheels, which is typically separated from the cab and often comes in colors like white, red, or blue.",
+        "Spot the trailer in the photo by identifying the elongated rectangular structure on wheels, distinctly detached from the cab, and commonly seen in hues such as white, red, or blue."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007366.jpg",
+            "points": [
+                [
+                    511.0,
+                    374.0
+                ],
+                [
+                    511.0,
+                    376.0
+                ],
+                [
+                    510.0,
+                    376.0
+                ],
+                [
+                    510.0,
+                    377.0
+                ],
+                [
+                    509.0,
+                    377.0
+                ],
+                [
+                    509.0,
+                    380.0
+                ],
+                [
+                    508.0,
+                    380.0
+                ],
+                [
+                    508.0,
+                    382.0
+                ],
+                [
+                    507.0,
+                    382.0
+                ],
+                [
+                    507.0,
+                    385.0
+                ],
+                [
+                    506.0,
+                    385.0
+                ],
+                [
+                    506.0,
+                    388.0
+                ],
+                [
+                    505.0,
+                    388.0
+                ],
+                [
+                    505.0,
+                    392.0
+                ],
+                [
+                    506.0,
+                    392.0
+                ],
+                [
+                    506.0,
+                    393.0
+                ],
+                [
+                    507.0,
+                    393.0
+                ],
+                [
+                    507.0,
+                    394.0
+                ],
+                [
+                    510.0,
+                    394.0
+                ],
+                [
+                    510.0,
+                    395.0
+                ],
+                [
+                    512.0,
+                    395.0
+                ],
+                [
+                    512.0,
+                    374.0
+                ],
+                [
+                    511.0,
+                    374.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

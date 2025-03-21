@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the long, subdued-colored object set against the dark background to identify the railway vehicle in the picture.",
+        "Find the railway vehicle in the photo by spotting the elongated object with muted tones contrasting with the dark backdrop.",
+        "Spot the muted-colored, elongated object against the dark background to determine the railway vehicle in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007884.jpg",
+            "points": [
+                [
+                    497.0,
+                    386.0
+                ],
+                [
+                    497.0,
+                    387.0
+                ],
+                [
+                    494.0,
+                    387.0
+                ],
+                [
+                    494.0,
+                    388.0
+                ],
+                [
+                    493.0,
+                    388.0
+                ],
+                [
+                    493.0,
+                    391.0
+                ],
+                [
+                    492.0,
+                    391.0
+                ],
+                [
+                    492.0,
+                    408.0
+                ],
+                [
+                    491.0,
+                    408.0
+                ],
+                [
+                    491.0,
+                    438.0
+                ],
+                [
+                    490.0,
+                    438.0
+                ],
+                [
+                    490.0,
+                    440.0
+                ],
+                [
+                    491.0,
+                    440.0
+                ],
+                [
+                    491.0,
+                    445.0
+                ],
+                [
+                    493.0,
+                    445.0
+                ],
+                [
+                    493.0,
+                    446.0
+                ],
+                [
+                    499.0,
+                    446.0
+                ],
+                [
+                    499.0,
+                    445.0
+                ],
+                [
+                    501.0,
+                    445.0
+                ],
+                [
+                    501.0,
+                    443.0
+                ],
+                [
+                    502.0,
+                    443.0
+                ],
+                [
+                    502.0,
+                    434.0
+                ],
+                [
+                    503.0,
+                    434.0
+                ],
+                [
+                    503.0,
+                    412.0
+                ],
+                [
+                    504.0,
+                    412.0
+                ],
+                [
+                    504.0,
+                    389.0
+                ],
+                [
+                    503.0,
+                    389.0
+                ],
+                [
+                    503.0,
+                    387.0
+                ],
+                [
+                    498.0,
+                    387.0
+                ],
+                [
+                    498.0,
+                    386.0
+                ],
+                [
+                    497.0,
+                    386.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

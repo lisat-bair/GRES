@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the car by observing its shiny finish, metallic accents, and the precise geometric designs that are characteristic of automobiles.",
+        "Recognize the vehicle by concentrating on its lustrous surface, metal highlights, and distinctive geometric forms common to cars.",
+        "Distinguish the automobile by noting its polished exterior, metallic gleam, and the sharp geometric features that are typical of vehicles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031979.jpg",
+            "points": [
+                [
+                    316.0,
+                    112.0
+                ],
+                [
+                    316.0,
+                    113.0
+                ],
+                [
+                    315.0,
+                    113.0
+                ],
+                [
+                    315.0,
+                    114.0
+                ],
+                [
+                    314.0,
+                    114.0
+                ],
+                [
+                    314.0,
+                    117.0
+                ],
+                [
+                    315.0,
+                    117.0
+                ],
+                [
+                    315.0,
+                    119.0
+                ],
+                [
+                    317.0,
+                    119.0
+                ],
+                [
+                    317.0,
+                    120.0
+                ],
+                [
+                    318.0,
+                    120.0
+                ],
+                [
+                    318.0,
+                    121.0
+                ],
+                [
+                    319.0,
+                    121.0
+                ],
+                [
+                    319.0,
+                    122.0
+                ],
+                [
+                    325.0,
+                    122.0
+                ],
+                [
+                    325.0,
+                    121.0
+                ],
+                [
+                    328.0,
+                    121.0
+                ],
+                [
+                    328.0,
+                    114.0
+                ],
+                [
+                    327.0,
+                    114.0
+                ],
+                [
+                    327.0,
+                    113.0
+                ],
+                [
+                    326.0,
+                    113.0
+                ],
+                [
+                    326.0,
+                    112.0
+                ],
+                [
+                    316.0,
+                    112.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

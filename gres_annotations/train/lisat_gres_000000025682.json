@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Identify the car by its unique shape and shiny metallic glints contrasting with the scenery.",
+        "Spot the vehicle by its distinct outline and reflective metallic sheen set against the backdrop.",
+        "Find the automobile by its characteristic silhouette and shimmering metallic highlights in the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025682.jpg",
+            "points": [
+                [
+                    15.0,
+                    445.0
+                ],
+                [
+                    15.0,
+                    446.0
+                ],
+                [
+                    14.0,
+                    446.0
+                ],
+                [
+                    14.0,
+                    449.0
+                ],
+                [
+                    15.0,
+                    449.0
+                ],
+                [
+                    15.0,
+                    450.0
+                ],
+                [
+                    16.0,
+                    450.0
+                ],
+                [
+                    16.0,
+                    452.0
+                ],
+                [
+                    17.0,
+                    452.0
+                ],
+                [
+                    17.0,
+                    453.0
+                ],
+                [
+                    18.0,
+                    453.0
+                ],
+                [
+                    18.0,
+                    454.0
+                ],
+                [
+                    20.0,
+                    454.0
+                ],
+                [
+                    20.0,
+                    455.0
+                ],
+                [
+                    23.0,
+                    455.0
+                ],
+                [
+                    23.0,
+                    453.0
+                ],
+                [
+                    24.0,
+                    453.0
+                ],
+                [
+                    24.0,
+                    449.0
+                ],
+                [
+                    23.0,
+                    449.0
+                ],
+                [
+                    23.0,
+                    448.0
+                ],
+                [
+                    22.0,
+                    448.0
+                ],
+                [
+                    22.0,
+                    447.0
+                ],
+                [
+                    20.0,
+                    447.0
+                ],
+                [
+                    20.0,
+                    446.0
+                ],
+                [
+                    19.0,
+                    446.0
+                ],
+                [
+                    19.0,
+                    445.0
+                ],
+                [
+                    15.0,
+                    445.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

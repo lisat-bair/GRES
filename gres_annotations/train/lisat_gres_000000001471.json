@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the vehicle with shiny surfaces and sharp lines, usually seen in streets or parking lots.",
+        "Locate the automobile featuring gleaming reflections and distinct contours, commonly present on roads or in parking spaces.",
+        "Find the car that has bright metallic glints and pronounced edges, often found on highways or in car parks."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001471.jpg",
+            "points": [
+                [
+                    337.0,
+                    505.0
+                ],
+                [
+                    337.0,
+                    506.0
+                ],
+                [
+                    335.0,
+                    506.0
+                ],
+                [
+                    335.0,
+                    507.0
+                ],
+                [
+                    334.0,
+                    507.0
+                ],
+                [
+                    334.0,
+                    512.0
+                ],
+                [
+                    347.0,
+                    512.0
+                ],
+                [
+                    347.0,
+                    510.0
+                ],
+                [
+                    346.0,
+                    510.0
+                ],
+                [
+                    346.0,
+                    509.0
+                ],
+                [
+                    345.0,
+                    509.0
+                ],
+                [
+                    345.0,
+                    507.0
+                ],
+                [
+                    344.0,
+                    507.0
+                ],
+                [
+                    344.0,
+                    506.0
+                ],
+                [
+                    343.0,
+                    506.0
+                ],
+                [
+                    343.0,
+                    505.0
+                ],
+                [
+                    337.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

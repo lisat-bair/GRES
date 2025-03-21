@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the truck by its unique hue and its larger dimensions relative to nearby cars.",
+        "Find the truck by noticing its standout color and its size, which is bigger than the vehicles around it.",
+        "Recognize the truck due to its distinctive shade and greater size compared to the other vehicles nearby."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030961.jpg",
+            "points": [
+                [
+                    489.0,
+                    442.0
+                ],
+                [
+                    489.0,
+                    447.0
+                ],
+                [
+                    488.0,
+                    447.0
+                ],
+                [
+                    488.0,
+                    456.0
+                ],
+                [
+                    489.0,
+                    456.0
+                ],
+                [
+                    489.0,
+                    457.0
+                ],
+                [
+                    490.0,
+                    457.0
+                ],
+                [
+                    490.0,
+                    458.0
+                ],
+                [
+                    495.0,
+                    458.0
+                ],
+                [
+                    495.0,
+                    457.0
+                ],
+                [
+                    496.0,
+                    457.0
+                ],
+                [
+                    496.0,
+                    454.0
+                ],
+                [
+                    497.0,
+                    454.0
+                ],
+                [
+                    497.0,
+                    450.0
+                ],
+                [
+                    498.0,
+                    450.0
+                ],
+                [
+                    498.0,
+                    443.0
+                ],
+                [
+                    497.0,
+                    443.0
+                ],
+                [
+                    497.0,
+                    442.0
+                ],
+                [
+                    489.0,
+                    442.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

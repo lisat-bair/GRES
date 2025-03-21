@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Even though the image is too dark and lacks visible features, identify the car.",
+        "Despite the image's darkness and the absence of visible features, determine the car.",
+        "Recognize the car despite the insufficient lighting and missing visible details in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002100.jpg",
+            "points": [
+                [
+                    272.0,
+                    249.0
+                ],
+                [
+                    272.0,
+                    250.0
+                ],
+                [
+                    271.0,
+                    250.0
+                ],
+                [
+                    271.0,
+                    251.0
+                ],
+                [
+                    270.0,
+                    251.0
+                ],
+                [
+                    270.0,
+                    252.0
+                ],
+                [
+                    269.0,
+                    252.0
+                ],
+                [
+                    269.0,
+                    255.0
+                ],
+                [
+                    268.0,
+                    255.0
+                ],
+                [
+                    268.0,
+                    260.0
+                ],
+                [
+                    267.0,
+                    260.0
+                ],
+                [
+                    267.0,
+                    268.0
+                ],
+                [
+                    270.0,
+                    268.0
+                ],
+                [
+                    270.0,
+                    269.0
+                ],
+                [
+                    272.0,
+                    269.0
+                ],
+                [
+                    272.0,
+                    268.0
+                ],
+                [
+                    274.0,
+                    268.0
+                ],
+                [
+                    274.0,
+                    265.0
+                ],
+                [
+                    275.0,
+                    265.0
+                ],
+                [
+                    275.0,
+                    260.0
+                ],
+                [
+                    276.0,
+                    260.0
+                ],
+                [
+                    276.0,
+                    254.0
+                ],
+                [
+                    277.0,
+                    254.0
+                ],
+                [
+                    277.0,
+                    250.0
+                ],
+                [
+                    275.0,
+                    250.0
+                ],
+                [
+                    275.0,
+                    249.0
+                ],
+                [
+                    272.0,
+                    249.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the automobile that has a shiny exterior, unique wheel designs, and an identifiable silhouette.",
+        "Look for the vehicle that features a polished finish, distinctive wheel forms, and a recognizable shape.",
+        "Search for the car characterized by a lustrous surface, special wheel patterns, and a familiar profile."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020652.jpg",
+            "points": [
+                [
+                    8.0,
+                    194.0
+                ],
+                [
+                    8.0,
+                    195.0
+                ],
+                [
+                    3.0,
+                    195.0
+                ],
+                [
+                    3.0,
+                    196.0
+                ],
+                [
+                    2.0,
+                    196.0
+                ],
+                [
+                    2.0,
+                    200.0
+                ],
+                [
+                    4.0,
+                    200.0
+                ],
+                [
+                    4.0,
+                    201.0
+                ],
+                [
+                    6.0,
+                    201.0
+                ],
+                [
+                    6.0,
+                    202.0
+                ],
+                [
+                    9.0,
+                    202.0
+                ],
+                [
+                    9.0,
+                    203.0
+                ],
+                [
+                    14.0,
+                    203.0
+                ],
+                [
+                    14.0,
+                    202.0
+                ],
+                [
+                    15.0,
+                    202.0
+                ],
+                [
+                    15.0,
+                    200.0
+                ],
+                [
+                    16.0,
+                    200.0
+                ],
+                [
+                    16.0,
+                    198.0
+                ],
+                [
+                    15.0,
+                    198.0
+                ],
+                [
+                    15.0,
+                    196.0
+                ],
+                [
+                    13.0,
+                    196.0
+                ],
+                [
+                    13.0,
+                    195.0
+                ],
+                [
+                    9.0,
+                    195.0
+                ],
+                [
+                    9.0,
+                    194.0
+                ],
+                [
+                    8.0,
+                    194.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

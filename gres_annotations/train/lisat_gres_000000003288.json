@@ -1,0 +1,177 @@
+{
+    "text": [
+        "Locate the aircraft featuring a sleek body, wings that extend horizontally, and an upright tail fin, commonly seen flying or parked on an airstrip.",
+        "Find the airplane with an aerodynamic body, flat wings, and a vertical tail, generally observed in flight or on a tarmac.",
+        "Spot the jet with a smooth fuselage, level wings, and a standing tail fin, often noted in the air or on a runway."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003288.jpg",
+            "points": [
+                [
+                    503.0,
+                    493.0
+                ],
+                [
+                    503.0,
+                    496.0
+                ],
+                [
+                    504.0,
+                    496.0
+                ],
+                [
+                    504.0,
+                    493.0
+                ],
+                [
+                    503.0,
+                    493.0
+                ],
+                [
+                    510.0,
+                    492.0
+                ],
+                [
+                    510.0,
+                    493.0
+                ],
+                [
+                    506.0,
+                    493.0
+                ],
+                [
+                    506.0,
+                    496.0
+                ],
+                [
+                    507.0,
+                    496.0
+                ],
+                [
+                    507.0,
+                    499.0
+                ],
+                [
+                    506.0,
+                    499.0
+                ],
+                [
+                    506.0,
+                    500.0
+                ],
+                [
+                    503.0,
+                    500.0
+                ],
+                [
+                    503.0,
+                    503.0
+                ],
+                [
+                    504.0,
+                    503.0
+                ],
+                [
+                    504.0,
+                    502.0
+                ],
+                [
+                    506.0,
+                    502.0
+                ],
+                [
+                    506.0,
+                    506.0
+                ],
+                [
+                    507.0,
+                    506.0
+                ],
+                [
+                    507.0,
+                    508.0
+                ],
+                [
+                    508.0,
+                    508.0
+                ],
+                [
+                    508.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    498.0
+                ],
+                [
+                    510.0,
+                    498.0
+                ],
+                [
+                    510.0,
+                    497.0
+                ],
+                [
+                    509.0,
+                    497.0
+                ],
+                [
+                    509.0,
+                    496.0
+                ],
+                [
+                    508.0,
+                    496.0
+                ],
+                [
+                    508.0,
+                    494.0
+                ],
+                [
+                    510.0,
+                    494.0
+                ],
+                [
+                    510.0,
+                    495.0
+                ],
+                [
+                    511.0,
+                    495.0
+                ],
+                [
+                    511.0,
+                    496.0
+                ],
+                [
+                    512.0,
+                    496.0
+                ],
+                [
+                    512.0,
+                    492.0
+                ],
+                [
+                    510.0,
+                    492.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

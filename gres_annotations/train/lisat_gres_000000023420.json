@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the truck that has a rectangular shape with noticeable dark color designs on the sides, contrasting a lighter backdrop.",
+        "Identify the truck characterized by its square form and unique dark patterns along the sides, which stand out against a pale background.",
+        "Spot the truck with a cubic structure and prominent dark side markings, positioned against a lighter setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023420.jpg",
+            "points": [
+                [
+                    48.0,
+                    50.0
+                ],
+                [
+                    48.0,
+                    51.0
+                ],
+                [
+                    46.0,
+                    51.0
+                ],
+                [
+                    46.0,
+                    52.0
+                ],
+                [
+                    45.0,
+                    52.0
+                ],
+                [
+                    45.0,
+                    54.0
+                ],
+                [
+                    44.0,
+                    54.0
+                ],
+                [
+                    44.0,
+                    59.0
+                ],
+                [
+                    45.0,
+                    59.0
+                ],
+                [
+                    45.0,
+                    63.0
+                ],
+                [
+                    46.0,
+                    63.0
+                ],
+                [
+                    46.0,
+                    64.0
+                ],
+                [
+                    51.0,
+                    64.0
+                ],
+                [
+                    51.0,
+                    62.0
+                ],
+                [
+                    52.0,
+                    62.0
+                ],
+                [
+                    52.0,
+                    60.0
+                ],
+                [
+                    53.0,
+                    60.0
+                ],
+                [
+                    53.0,
+                    57.0
+                ],
+                [
+                    54.0,
+                    57.0
+                ],
+                [
+                    54.0,
+                    56.0
+                ],
+                [
+                    53.0,
+                    56.0
+                ],
+                [
+                    53.0,
+                    51.0
+                ],
+                [
+                    52.0,
+                    51.0
+                ],
+                [
+                    52.0,
+                    50.0
+                ],
+                [
+                    48.0,
+                    50.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the bus that features several rows of windows and vibrant colors in the picture.",
+        "Identify the bus with numerous windows and vivid colors in the photo.",
+        "Search for the bus in the image that has many rows of windows and striking colors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019539.jpg",
+            "points": [
+                [
+                    259.0,
+                    257.0
+                ],
+                [
+                    259.0,
+                    258.0
+                ],
+                [
+                    258.0,
+                    258.0
+                ],
+                [
+                    258.0,
+                    259.0
+                ],
+                [
+                    257.0,
+                    259.0
+                ],
+                [
+                    257.0,
+                    263.0
+                ],
+                [
+                    258.0,
+                    263.0
+                ],
+                [
+                    258.0,
+                    264.0
+                ],
+                [
+                    260.0,
+                    264.0
+                ],
+                [
+                    260.0,
+                    265.0
+                ],
+                [
+                    266.0,
+                    265.0
+                ],
+                [
+                    266.0,
+                    266.0
+                ],
+                [
+                    279.0,
+                    266.0
+                ],
+                [
+                    279.0,
+                    265.0
+                ],
+                [
+                    280.0,
+                    265.0
+                ],
+                [
+                    280.0,
+                    264.0
+                ],
+                [
+                    281.0,
+                    264.0
+                ],
+                [
+                    281.0,
+                    260.0
+                ],
+                [
+                    280.0,
+                    260.0
+                ],
+                [
+                    280.0,
+                    258.0
+                ],
+                [
+                    279.0,
+                    258.0
+                ],
+                [
+                    279.0,
+                    257.0
+                ],
+                [
+                    259.0,
+                    257.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

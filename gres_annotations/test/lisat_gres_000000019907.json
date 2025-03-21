@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Identify the truck with a distinct silhouette, prominent wheels, and a consistent color across its body, contrasting with the surrounding environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019907.jpg",
+            "points": [
+                [
+                    511.0,
+                    200.0
+                ],
+                [
+                    511.0,
+                    201.0
+                ],
+                [
+                    508.0,
+                    201.0
+                ],
+                [
+                    508.0,
+                    202.0
+                ],
+                [
+                    507.0,
+                    202.0
+                ],
+                [
+                    507.0,
+                    203.0
+                ],
+                [
+                    506.0,
+                    203.0
+                ],
+                [
+                    506.0,
+                    209.0
+                ],
+                [
+                    507.0,
+                    209.0
+                ],
+                [
+                    507.0,
+                    210.0
+                ],
+                [
+                    508.0,
+                    210.0
+                ],
+                [
+                    508.0,
+                    211.0
+                ],
+                [
+                    509.0,
+                    211.0
+                ],
+                [
+                    509.0,
+                    212.0
+                ],
+                [
+                    510.0,
+                    212.0
+                ],
+                [
+                    510.0,
+                    213.0
+                ],
+                [
+                    511.0,
+                    213.0
+                ],
+                [
+                    511.0,
+                    214.0
+                ],
+                [
+                    512.0,
+                    214.0
+                ],
+                [
+                    512.0,
+                    200.0
+                ],
+                [
+                    511.0,
+                    200.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

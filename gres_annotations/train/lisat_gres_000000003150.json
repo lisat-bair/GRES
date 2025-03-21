@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the plane with a long, metallic frame and tinted windows set against the brown backdrop.",
+        "Look for the aircraft featuring a stretched metal body and darkened windows amidst the brown scenery.",
+        "Identify the airplane that has an extended metallic structure and dark windows against the brown background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003150.jpg",
+            "points": [
+                [
+                    0.0,
+                    32.0
+                ],
+                [
+                    0.0,
+                    52.0
+                ],
+                [
+                    1.0,
+                    52.0
+                ],
+                [
+                    1.0,
+                    51.0
+                ],
+                [
+                    2.0,
+                    51.0
+                ],
+                [
+                    2.0,
+                    49.0
+                ],
+                [
+                    3.0,
+                    49.0
+                ],
+                [
+                    3.0,
+                    48.0
+                ],
+                [
+                    5.0,
+                    48.0
+                ],
+                [
+                    5.0,
+                    47.0
+                ],
+                [
+                    6.0,
+                    47.0
+                ],
+                [
+                    6.0,
+                    46.0
+                ],
+                [
+                    7.0,
+                    46.0
+                ],
+                [
+                    7.0,
+                    45.0
+                ],
+                [
+                    8.0,
+                    45.0
+                ],
+                [
+                    8.0,
+                    43.0
+                ],
+                [
+                    9.0,
+                    43.0
+                ],
+                [
+                    9.0,
+                    42.0
+                ],
+                [
+                    10.0,
+                    42.0
+                ],
+                [
+                    10.0,
+                    37.0
+                ],
+                [
+                    9.0,
+                    37.0
+                ],
+                [
+                    9.0,
+                    35.0
+                ],
+                [
+                    8.0,
+                    35.0
+                ],
+                [
+                    8.0,
+                    34.0
+                ],
+                [
+                    7.0,
+                    34.0
+                ],
+                [
+                    7.0,
+                    33.0
+                ],
+                [
+                    5.0,
+                    33.0
+                ],
+                [
+                    5.0,
+                    32.0
+                ],
+                [
+                    0.0,
+                    32.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

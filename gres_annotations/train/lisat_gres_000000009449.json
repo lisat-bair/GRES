@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the truck that has a big, dark metallic form with sharp angles and a shiny finish.",
+        "Find the truck characterized by a substantial dark metal construction with noticeable angular corners and a glossy exterior.",
+        "Spot the truck with a prominent, dark metallic build that displays distinct angular shapes and a reflective surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009449.jpg",
+            "points": [
+                [
+                    506.0,
+                    315.0
+                ],
+                [
+                    506.0,
+                    316.0
+                ],
+                [
+                    505.0,
+                    316.0
+                ],
+                [
+                    505.0,
+                    317.0
+                ],
+                [
+                    504.0,
+                    317.0
+                ],
+                [
+                    504.0,
+                    318.0
+                ],
+                [
+                    503.0,
+                    318.0
+                ],
+                [
+                    503.0,
+                    321.0
+                ],
+                [
+                    502.0,
+                    321.0
+                ],
+                [
+                    502.0,
+                    327.0
+                ],
+                [
+                    501.0,
+                    327.0
+                ],
+                [
+                    501.0,
+                    338.0
+                ],
+                [
+                    508.0,
+                    338.0
+                ],
+                [
+                    508.0,
+                    340.0
+                ],
+                [
+                    512.0,
+                    340.0
+                ],
+                [
+                    512.0,
+                    315.0
+                ],
+                [
+                    506.0,
+                    315.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

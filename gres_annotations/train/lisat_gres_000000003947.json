@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Look for the bus with unique windows and wheels, usually vibrant in color or uniquely labeled.",
+        "Spot the bus that has special windows and wheels, often adorned with bright colors or signs.",
+        "Find the bus featuring unusual windows and wheels, typically marked with vivid hues or signage."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003947.jpg",
+            "points": [
+                [
+                    0.0,
+                    239.0
+                ],
+                [
+                    0.0,
+                    250.0
+                ],
+                [
+                    3.0,
+                    250.0
+                ],
+                [
+                    3.0,
+                    249.0
+                ],
+                [
+                    4.0,
+                    249.0
+                ],
+                [
+                    4.0,
+                    246.0
+                ],
+                [
+                    5.0,
+                    246.0
+                ],
+                [
+                    5.0,
+                    243.0
+                ],
+                [
+                    4.0,
+                    243.0
+                ],
+                [
+                    4.0,
+                    241.0
+                ],
+                [
+                    3.0,
+                    241.0
+                ],
+                [
+                    3.0,
+                    239.0
+                ],
+                [
+                    0.0,
+                    239.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

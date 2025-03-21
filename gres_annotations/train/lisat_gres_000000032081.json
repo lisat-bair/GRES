@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the vehicle in the picture that has a sleek, shiny exterior and a noticeable metallic gloss.",
+        "Locate the automobile in the photo that boasts a polished, mirror-like finish and a distinct metallic luster.",
+        "Spot the car in the image that features a glossy, reflective surface with a significant metallic shine."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032081.jpg",
+            "points": [
+                [
+                    193.0,
+                    294.0
+                ],
+                [
+                    193.0,
+                    295.0
+                ],
+                [
+                    192.0,
+                    295.0
+                ],
+                [
+                    192.0,
+                    300.0
+                ],
+                [
+                    193.0,
+                    300.0
+                ],
+                [
+                    193.0,
+                    305.0
+                ],
+                [
+                    194.0,
+                    305.0
+                ],
+                [
+                    194.0,
+                    307.0
+                ],
+                [
+                    195.0,
+                    307.0
+                ],
+                [
+                    195.0,
+                    308.0
+                ],
+                [
+                    196.0,
+                    308.0
+                ],
+                [
+                    196.0,
+                    309.0
+                ],
+                [
+                    200.0,
+                    309.0
+                ],
+                [
+                    200.0,
+                    308.0
+                ],
+                [
+                    201.0,
+                    308.0
+                ],
+                [
+                    201.0,
+                    307.0
+                ],
+                [
+                    202.0,
+                    307.0
+                ],
+                [
+                    202.0,
+                    306.0
+                ],
+                [
+                    203.0,
+                    306.0
+                ],
+                [
+                    203.0,
+                    299.0
+                ],
+                [
+                    202.0,
+                    299.0
+                ],
+                [
+                    202.0,
+                    296.0
+                ],
+                [
+                    201.0,
+                    296.0
+                ],
+                [
+                    201.0,
+                    295.0
+                ],
+                [
+                    200.0,
+                    295.0
+                ],
+                [
+                    200.0,
+                    294.0
+                ],
+                [
+                    193.0,
+                    294.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

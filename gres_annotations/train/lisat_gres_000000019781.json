@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the vehicle that features luminous headlights and a shiny grille contrasting the dim backdrop.",
+        "Locate the automobile that has glowing headlights and a reflective grill set against a dark background.",
+        "Find the car with radiant headlights and a mirrored grille standing out against the shadowy setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019781.jpg",
+            "points": [
+                [
+                    443.0,
+                    287.0
+                ],
+                [
+                    443.0,
+                    288.0
+                ],
+                [
+                    442.0,
+                    288.0
+                ],
+                [
+                    442.0,
+                    289.0
+                ],
+                [
+                    441.0,
+                    289.0
+                ],
+                [
+                    441.0,
+                    294.0
+                ],
+                [
+                    442.0,
+                    294.0
+                ],
+                [
+                    442.0,
+                    295.0
+                ],
+                [
+                    444.0,
+                    295.0
+                ],
+                [
+                    444.0,
+                    296.0
+                ],
+                [
+                    447.0,
+                    296.0
+                ],
+                [
+                    447.0,
+                    297.0
+                ],
+                [
+                    449.0,
+                    297.0
+                ],
+                [
+                    449.0,
+                    298.0
+                ],
+                [
+                    456.0,
+                    298.0
+                ],
+                [
+                    456.0,
+                    297.0
+                ],
+                [
+                    461.0,
+                    297.0
+                ],
+                [
+                    461.0,
+                    296.0
+                ],
+                [
+                    463.0,
+                    296.0
+                ],
+                [
+                    463.0,
+                    295.0
+                ],
+                [
+                    464.0,
+                    295.0
+                ],
+                [
+                    464.0,
+                    290.0
+                ],
+                [
+                    463.0,
+                    290.0
+                ],
+                [
+                    463.0,
+                    289.0
+                ],
+                [
+                    461.0,
+                    289.0
+                ],
+                [
+                    461.0,
+                    288.0
+                ],
+                [
+                    452.0,
+                    288.0
+                ],
+                [
+                    452.0,
+                    287.0
+                ],
+                [
+                    443.0,
+                    287.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the vehicle by spotting the white rectangle with sharp corners.",
+        "Locate the automobile by identifying the white, well-defined rectangular shape.",
+        "Spot the car by looking for the white shape with distinct edges."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032822.jpg",
+            "points": [
+                [
+                    236.0,
+                    175.0
+                ],
+                [
+                    236.0,
+                    176.0
+                ],
+                [
+                    228.0,
+                    176.0
+                ],
+                [
+                    228.0,
+                    177.0
+                ],
+                [
+                    226.0,
+                    177.0
+                ],
+                [
+                    226.0,
+                    179.0
+                ],
+                [
+                    225.0,
+                    179.0
+                ],
+                [
+                    225.0,
+                    182.0
+                ],
+                [
+                    226.0,
+                    182.0
+                ],
+                [
+                    226.0,
+                    184.0
+                ],
+                [
+                    228.0,
+                    184.0
+                ],
+                [
+                    228.0,
+                    185.0
+                ],
+                [
+                    229.0,
+                    185.0
+                ],
+                [
+                    229.0,
+                    184.0
+                ],
+                [
+                    237.0,
+                    184.0
+                ],
+                [
+                    237.0,
+                    183.0
+                ],
+                [
+                    238.0,
+                    183.0
+                ],
+                [
+                    238.0,
+                    182.0
+                ],
+                [
+                    239.0,
+                    182.0
+                ],
+                [
+                    239.0,
+                    180.0
+                ],
+                [
+                    240.0,
+                    180.0
+                ],
+                [
+                    240.0,
+                    177.0
+                ],
+                [
+                    239.0,
+                    177.0
+                ],
+                [
+                    239.0,
+                    176.0
+                ],
+                [
+                    237.0,
+                    176.0
+                ],
+                [
+                    237.0,
+                    175.0
+                ],
+                [
+                    236.0,
+                    175.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

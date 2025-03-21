@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the hut in the picture that has inclined roofs and hues that mimic wood or canvas.",
+        "Spot the structure with angled rooftops and earthy tones similar to wood or canvas in the photograph.",
+        "Find the building in the image that features sloped roofs and natural shades resembling wood or canvas."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022727.jpg",
+            "points": [
+                [
+                    137.0,
+                    240.0
+                ],
+                [
+                    137.0,
+                    241.0
+                ],
+                [
+                    136.0,
+                    241.0
+                ],
+                [
+                    136.0,
+                    244.0
+                ],
+                [
+                    135.0,
+                    244.0
+                ],
+                [
+                    135.0,
+                    248.0
+                ],
+                [
+                    134.0,
+                    248.0
+                ],
+                [
+                    134.0,
+                    250.0
+                ],
+                [
+                    133.0,
+                    250.0
+                ],
+                [
+                    133.0,
+                    255.0
+                ],
+                [
+                    135.0,
+                    255.0
+                ],
+                [
+                    135.0,
+                    256.0
+                ],
+                [
+                    145.0,
+                    256.0
+                ],
+                [
+                    145.0,
+                    257.0
+                ],
+                [
+                    148.0,
+                    257.0
+                ],
+                [
+                    148.0,
+                    256.0
+                ],
+                [
+                    151.0,
+                    256.0
+                ],
+                [
+                    151.0,
+                    252.0
+                ],
+                [
+                    152.0,
+                    252.0
+                ],
+                [
+                    152.0,
+                    241.0
+                ],
+                [
+                    147.0,
+                    241.0
+                ],
+                [
+                    147.0,
+                    240.0
+                ],
+                [
+                    137.0,
+                    240.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

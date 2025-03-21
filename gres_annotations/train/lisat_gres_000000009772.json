@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the automobile that features a glossy, metallic exterior with characteristic lines and curves typical of a car's structure.",
+        "Find the vehicle that possesses a reflective, metal-finished surface along with unique lines and curves typical of its design.",
+        "Spot the car that showcases a sleek, metallic sheen and distinctive lines and curves typical of its form."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009772.jpg",
+            "points": [
+                [
+                    146.0,
+                    118.0
+                ],
+                [
+                    146.0,
+                    119.0
+                ],
+                [
+                    145.0,
+                    119.0
+                ],
+                [
+                    145.0,
+                    120.0
+                ],
+                [
+                    144.0,
+                    120.0
+                ],
+                [
+                    144.0,
+                    121.0
+                ],
+                [
+                    143.0,
+                    121.0
+                ],
+                [
+                    143.0,
+                    129.0
+                ],
+                [
+                    144.0,
+                    129.0
+                ],
+                [
+                    144.0,
+                    130.0
+                ],
+                [
+                    147.0,
+                    130.0
+                ],
+                [
+                    147.0,
+                    131.0
+                ],
+                [
+                    149.0,
+                    131.0
+                ],
+                [
+                    149.0,
+                    130.0
+                ],
+                [
+                    150.0,
+                    130.0
+                ],
+                [
+                    150.0,
+                    129.0
+                ],
+                [
+                    151.0,
+                    129.0
+                ],
+                [
+                    151.0,
+                    122.0
+                ],
+                [
+                    152.0,
+                    122.0
+                ],
+                [
+                    152.0,
+                    119.0
+                ],
+                [
+                    151.0,
+                    119.0
+                ],
+                [
+                    151.0,
+                    118.0
+                ],
+                [
+                    146.0,
+                    118.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

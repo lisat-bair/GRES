@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Look for the train by its unique rectangular form, its horizontal alignment, and its color that stands out from the surroundings.",
+        "Spot the railcar by its characteristic box-like shape, its lateral position, and the way its hue contrasts with the backdrop.",
+        "Recognize the train carriage by its distinctive rectangular design, its side-to-side orientation, and the way its color differs from the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000459.jpg",
+            "points": [
+                [
+                    0.0,
+                    121.0
+                ],
+                [
+                    0.0,
+                    136.0
+                ],
+                [
+                    20.0,
+                    136.0
+                ],
+                [
+                    20.0,
+                    135.0
+                ],
+                [
+                    22.0,
+                    135.0
+                ],
+                [
+                    22.0,
+                    134.0
+                ],
+                [
+                    23.0,
+                    134.0
+                ],
+                [
+                    23.0,
+                    133.0
+                ],
+                [
+                    24.0,
+                    133.0
+                ],
+                [
+                    24.0,
+                    122.0
+                ],
+                [
+                    4.0,
+                    122.0
+                ],
+                [
+                    4.0,
+                    121.0
+                ],
+                [
+                    0.0,
+                    121.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

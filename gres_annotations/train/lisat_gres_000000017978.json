@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the bus positioned at the bottom-right corner of the image, recognized by its substantial, rectangular form featuring windows and wheels, often painted in vivid colors such as yellow or red.",
+        "Find the bus situated in the bottom-right section of the picture, identifiable by its sizable, rectangular structure with windows and wheels, usually in bright hues like yellow or red.",
+        "Spot the bus located at the bottom-right of the image, distinguished by its large, rectangular shape complete with windows and wheels, typically seen in vibrant shades such as yellow or red."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017978.jpg",
+            "points": [
+                [
+                    445.0,
+                    491.0
+                ],
+                [
+                    445.0,
+                    492.0
+                ],
+                [
+                    444.0,
+                    492.0
+                ],
+                [
+                    444.0,
+                    500.0
+                ],
+                [
+                    445.0,
+                    500.0
+                ],
+                [
+                    445.0,
+                    506.0
+                ],
+                [
+                    446.0,
+                    506.0
+                ],
+                [
+                    446.0,
+                    509.0
+                ],
+                [
+                    447.0,
+                    509.0
+                ],
+                [
+                    447.0,
+                    510.0
+                ],
+                [
+                    448.0,
+                    510.0
+                ],
+                [
+                    448.0,
+                    511.0
+                ],
+                [
+                    452.0,
+                    511.0
+                ],
+                [
+                    452.0,
+                    510.0
+                ],
+                [
+                    453.0,
+                    510.0
+                ],
+                [
+                    453.0,
+                    509.0
+                ],
+                [
+                    454.0,
+                    509.0
+                ],
+                [
+                    454.0,
+                    505.0
+                ],
+                [
+                    453.0,
+                    505.0
+                ],
+                [
+                    453.0,
+                    499.0
+                ],
+                [
+                    452.0,
+                    499.0
+                ],
+                [
+                    452.0,
+                    494.0
+                ],
+                [
+                    451.0,
+                    494.0
+                ],
+                [
+                    451.0,
+                    492.0
+                ],
+                [
+                    449.0,
+                    492.0
+                ],
+                [
+                    449.0,
+                    491.0
+                ],
+                [
+                    445.0,
+                    491.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

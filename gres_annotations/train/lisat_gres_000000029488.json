@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the vehicle that has a glossy white exterior, a small form, and noticeable headlights set against a darker backdrop.",
+        "Identify the automobile that features a bright white finish, a compact design, and striking headlights against the dimmer background.",
+        "Search for the car with a sleek white surface, a petite build, and bold headlights contrasting with the dark surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029488.jpg",
+            "points": [
+                [
+                    492.0,
+                    132.0
+                ],
+                [
+                    492.0,
+                    133.0
+                ],
+                [
+                    491.0,
+                    133.0
+                ],
+                [
+                    491.0,
+                    134.0
+                ],
+                [
+                    490.0,
+                    134.0
+                ],
+                [
+                    490.0,
+                    136.0
+                ],
+                [
+                    489.0,
+                    136.0
+                ],
+                [
+                    489.0,
+                    144.0
+                ],
+                [
+                    490.0,
+                    144.0
+                ],
+                [
+                    490.0,
+                    145.0
+                ],
+                [
+                    496.0,
+                    145.0
+                ],
+                [
+                    496.0,
+                    144.0
+                ],
+                [
+                    497.0,
+                    144.0
+                ],
+                [
+                    497.0,
+                    143.0
+                ],
+                [
+                    498.0,
+                    143.0
+                ],
+                [
+                    498.0,
+                    140.0
+                ],
+                [
+                    499.0,
+                    140.0
+                ],
+                [
+                    499.0,
+                    135.0
+                ],
+                [
+                    498.0,
+                    135.0
+                ],
+                [
+                    498.0,
+                    133.0
+                ],
+                [
+                    496.0,
+                    133.0
+                ],
+                [
+                    496.0,
+                    132.0
+                ],
+                [
+                    492.0,
+                    132.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

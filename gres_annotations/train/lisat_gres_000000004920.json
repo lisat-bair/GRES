@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the car that has a white exterior and sharp contours.",
+        "Locate the automobile featuring a white paint and noticeable angles.",
+        "Spot the vehicle with a white color and pronounced lines."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004920.jpg",
+            "points": [
+                [
+                    507.0,
+                    469.0
+                ],
+                [
+                    507.0,
+                    470.0
+                ],
+                [
+                    506.0,
+                    470.0
+                ],
+                [
+                    506.0,
+                    472.0
+                ],
+                [
+                    507.0,
+                    472.0
+                ],
+                [
+                    507.0,
+                    475.0
+                ],
+                [
+                    506.0,
+                    475.0
+                ],
+                [
+                    506.0,
+                    476.0
+                ],
+                [
+                    505.0,
+                    476.0
+                ],
+                [
+                    505.0,
+                    479.0
+                ],
+                [
+                    504.0,
+                    479.0
+                ],
+                [
+                    504.0,
+                    484.0
+                ],
+                [
+                    505.0,
+                    484.0
+                ],
+                [
+                    505.0,
+                    487.0
+                ],
+                [
+                    506.0,
+                    487.0
+                ],
+                [
+                    506.0,
+                    488.0
+                ],
+                [
+                    510.0,
+                    488.0
+                ],
+                [
+                    510.0,
+                    489.0
+                ],
+                [
+                    512.0,
+                    489.0
+                ],
+                [
+                    512.0,
+                    469.0
+                ],
+                [
+                    507.0,
+                    469.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

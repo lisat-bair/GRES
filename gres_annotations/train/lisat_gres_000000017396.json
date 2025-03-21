@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the truck that has a big, light-colored rectangular area at the back contrasting with its darker body.",
+        "Locate the truck featuring a large, light-hued rectangular segment at the rear, set against the darker body of the vehicle.",
+        "Find the truck with a prominent rectangular, light-colored patch at the back, distinct from the darker body of the vehicle."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017396.jpg",
+            "points": [
+                [
+                    93.0,
+                    213.0
+                ],
+                [
+                    93.0,
+                    214.0
+                ],
+                [
+                    91.0,
+                    214.0
+                ],
+                [
+                    91.0,
+                    215.0
+                ],
+                [
+                    90.0,
+                    215.0
+                ],
+                [
+                    90.0,
+                    216.0
+                ],
+                [
+                    89.0,
+                    216.0
+                ],
+                [
+                    89.0,
+                    225.0
+                ],
+                [
+                    88.0,
+                    225.0
+                ],
+                [
+                    88.0,
+                    230.0
+                ],
+                [
+                    89.0,
+                    230.0
+                ],
+                [
+                    89.0,
+                    235.0
+                ],
+                [
+                    91.0,
+                    235.0
+                ],
+                [
+                    91.0,
+                    236.0
+                ],
+                [
+                    99.0,
+                    236.0
+                ],
+                [
+                    99.0,
+                    235.0
+                ],
+                [
+                    100.0,
+                    235.0
+                ],
+                [
+                    100.0,
+                    232.0
+                ],
+                [
+                    101.0,
+                    232.0
+                ],
+                [
+                    101.0,
+                    215.0
+                ],
+                [
+                    100.0,
+                    215.0
+                ],
+                [
+                    100.0,
+                    214.0
+                ],
+                [
+                    98.0,
+                    214.0
+                ],
+                [
+                    98.0,
+                    213.0
+                ],
+                [
+                    93.0,
+                    213.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the vehicle that has a large, mainly yellow, box-shaped open container and big wheels.",
+        "Find the truck sporting a sizeable, mostly yellow, open container with a box shape and huge tires.",
+        "Spot the truck featuring a large, predominantly yellow, open box-like container and enormous wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023256.jpg",
+            "points": [
+                [
+                    56.0,
+                    172.0
+                ],
+                [
+                    56.0,
+                    173.0
+                ],
+                [
+                    55.0,
+                    173.0
+                ],
+                [
+                    55.0,
+                    174.0
+                ],
+                [
+                    54.0,
+                    174.0
+                ],
+                [
+                    54.0,
+                    184.0
+                ],
+                [
+                    55.0,
+                    184.0
+                ],
+                [
+                    55.0,
+                    186.0
+                ],
+                [
+                    61.0,
+                    186.0
+                ],
+                [
+                    61.0,
+                    184.0
+                ],
+                [
+                    62.0,
+                    184.0
+                ],
+                [
+                    62.0,
+                    180.0
+                ],
+                [
+                    61.0,
+                    180.0
+                ],
+                [
+                    61.0,
+                    174.0
+                ],
+                [
+                    60.0,
+                    174.0
+                ],
+                [
+                    60.0,
+                    173.0
+                ],
+                [
+                    59.0,
+                    173.0
+                ],
+                [
+                    59.0,
+                    172.0
+                ],
+                [
+                    56.0,
+                    172.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

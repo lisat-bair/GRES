@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the pylon situated in the upper-left section of the picture.",
+        "Spot the pylon positioned at the top-left area of the image.",
+        "Identify the pylon located in the top-left corner of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032038.jpg",
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    15.0
+                ],
+                [
+                    36.0,
+                    15.0
+                ],
+                [
+                    36.0,
+                    16.0
+                ],
+                [
+                    55.0,
+                    16.0
+                ],
+                [
+                    55.0,
+                    17.0
+                ],
+                [
+                    57.0,
+                    17.0
+                ],
+                [
+                    57.0,
+                    18.0
+                ],
+                [
+                    62.0,
+                    18.0
+                ],
+                [
+                    62.0,
+                    17.0
+                ],
+                [
+                    64.0,
+                    17.0
+                ],
+                [
+                    64.0,
+                    15.0
+                ],
+                [
+                    65.0,
+                    15.0
+                ],
+                [
+                    65.0,
+                    14.0
+                ],
+                [
+                    64.0,
+                    14.0
+                ],
+                [
+                    64.0,
+                    3.0
+                ],
+                [
+                    63.0,
+                    3.0
+                ],
+                [
+                    63.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the structure that is rectangular in form and features a prominent dark entryway in the middle, encircled by lighter-hued materials.",
+        "Find the edifice that has a rectangular design and a noteworthy dark entrance situated centrally, bordered by materials of a lighter shade.",
+        "Spot the building characterized by its rectangular shape, with a central dark doorway, enveloped by lighter-colored surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017507.jpg",
+            "points": [
+                [
+                    9.0,
+                    0.0
+                ],
+                [
+                    9.0,
+                    1.0
+                ],
+                [
+                    8.0,
+                    1.0
+                ],
+                [
+                    8.0,
+                    4.0
+                ],
+                [
+                    9.0,
+                    4.0
+                ],
+                [
+                    9.0,
+                    14.0
+                ],
+                [
+                    10.0,
+                    14.0
+                ],
+                [
+                    10.0,
+                    15.0
+                ],
+                [
+                    26.0,
+                    15.0
+                ],
+                [
+                    26.0,
+                    14.0
+                ],
+                [
+                    55.0,
+                    14.0
+                ],
+                [
+                    55.0,
+                    13.0
+                ],
+                [
+                    58.0,
+                    13.0
+                ],
+                [
+                    58.0,
+                    12.0
+                ],
+                [
+                    60.0,
+                    12.0
+                ],
+                [
+                    60.0,
+                    11.0
+                ],
+                [
+                    61.0,
+                    11.0
+                ],
+                [
+                    61.0,
+                    8.0
+                ],
+                [
+                    62.0,
+                    8.0
+                ],
+                [
+                    62.0,
+                    4.0
+                ],
+                [
+                    61.0,
+                    4.0
+                ],
+                [
+                    61.0,
+                    0.0
+                ],
+                [
+                    9.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

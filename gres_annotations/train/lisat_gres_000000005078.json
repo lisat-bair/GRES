@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Spot the edifice featuring a unique triangular roof and a white facade, nestled among higher buildings.",
+        "Locate the structure that boasts a remarkable triangular roof and a white exterior, situated amidst taller constructions.",
+        "Find the building that stands out with its triangular roof and white surface, located between taller edifices."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005078.jpg",
+            "points": [
+                [
+                    426.0,
+                    249.0
+                ],
+                [
+                    426.0,
+                    250.0
+                ],
+                [
+                    425.0,
+                    250.0
+                ],
+                [
+                    425.0,
+                    261.0
+                ],
+                [
+                    426.0,
+                    261.0
+                ],
+                [
+                    426.0,
+                    262.0
+                ],
+                [
+                    432.0,
+                    262.0
+                ],
+                [
+                    432.0,
+                    260.0
+                ],
+                [
+                    433.0,
+                    260.0
+                ],
+                [
+                    433.0,
+                    256.0
+                ],
+                [
+                    434.0,
+                    256.0
+                ],
+                [
+                    434.0,
+                    251.0
+                ],
+                [
+                    433.0,
+                    251.0
+                ],
+                [
+                    433.0,
+                    250.0
+                ],
+                [
+                    432.0,
+                    250.0
+                ],
+                [
+                    432.0,
+                    249.0
+                ],
+                [
+                    426.0,
+                    249.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Locate the car with a boxy design, shiny metal surface, and sharp corners.",
+        "Find the vehicle that features a rectangular form, gleaming metallic finish, and prominent edges.",
+        "Spot the automobile characterized by its rectangular shape, reflective metal exterior, and defined angles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014168.jpg",
+            "points": [
+                [
+                    415.0,
+                    414.0
+                ],
+                [
+                    415.0,
+                    415.0
+                ],
+                [
+                    414.0,
+                    415.0
+                ],
+                [
+                    414.0,
+                    417.0
+                ],
+                [
+                    413.0,
+                    417.0
+                ],
+                [
+                    413.0,
+                    419.0
+                ],
+                [
+                    412.0,
+                    419.0
+                ],
+                [
+                    412.0,
+                    422.0
+                ],
+                [
+                    411.0,
+                    422.0
+                ],
+                [
+                    411.0,
+                    425.0
+                ],
+                [
+                    413.0,
+                    425.0
+                ],
+                [
+                    413.0,
+                    427.0
+                ],
+                [
+                    415.0,
+                    427.0
+                ],
+                [
+                    415.0,
+                    426.0
+                ],
+                [
+                    416.0,
+                    426.0
+                ],
+                [
+                    416.0,
+                    425.0
+                ],
+                [
+                    417.0,
+                    425.0
+                ],
+                [
+                    417.0,
+                    424.0
+                ],
+                [
+                    418.0,
+                    424.0
+                ],
+                [
+                    418.0,
+                    422.0
+                ],
+                [
+                    419.0,
+                    422.0
+                ],
+                [
+                    419.0,
+                    420.0
+                ],
+                [
+                    420.0,
+                    420.0
+                ],
+                [
+                    420.0,
+                    419.0
+                ],
+                [
+                    421.0,
+                    419.0
+                ],
+                [
+                    421.0,
+                    417.0
+                ],
+                [
+                    420.0,
+                    417.0
+                ],
+                [
+                    420.0,
+                    416.0
+                ],
+                [
+                    419.0,
+                    416.0
+                ],
+                [
+                    419.0,
+                    415.0
+                ],
+                [
+                    418.0,
+                    415.0
+                ],
+                [
+                    418.0,
+                    414.0
+                ],
+                [
+                    415.0,
+                    414.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the bulldozer located in the lower-right corner of the picture, characterized by its precise and compact design.",
+        "Locate the dozer positioned in the bottom-right section of the image, noted for its compact and precise attributes.",
+        "Find the bulldozer in the bottom-right of the picture, distinguished by its compact and precise features."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031812.jpg",
+            "points": [
+                [
+                    384.0,
+                    475.0
+                ],
+                [
+                    384.0,
+                    476.0
+                ],
+                [
+                    383.0,
+                    476.0
+                ],
+                [
+                    383.0,
+                    477.0
+                ],
+                [
+                    381.0,
+                    477.0
+                ],
+                [
+                    381.0,
+                    478.0
+                ],
+                [
+                    380.0,
+                    478.0
+                ],
+                [
+                    380.0,
+                    484.0
+                ],
+                [
+                    381.0,
+                    484.0
+                ],
+                [
+                    381.0,
+                    485.0
+                ],
+                [
+                    383.0,
+                    485.0
+                ],
+                [
+                    383.0,
+                    486.0
+                ],
+                [
+                    385.0,
+                    486.0
+                ],
+                [
+                    385.0,
+                    487.0
+                ],
+                [
+                    391.0,
+                    487.0
+                ],
+                [
+                    391.0,
+                    486.0
+                ],
+                [
+                    398.0,
+                    486.0
+                ],
+                [
+                    398.0,
+                    485.0
+                ],
+                [
+                    401.0,
+                    485.0
+                ],
+                [
+                    401.0,
+                    480.0
+                ],
+                [
+                    400.0,
+                    480.0
+                ],
+                [
+                    400.0,
+                    479.0
+                ],
+                [
+                    399.0,
+                    479.0
+                ],
+                [
+                    399.0,
+                    478.0
+                ],
+                [
+                    398.0,
+                    478.0
+                ],
+                [
+                    398.0,
+                    477.0
+                ],
+                [
+                    397.0,
+                    477.0
+                ],
+                [
+                    397.0,
+                    476.0
+                ],
+                [
+                    395.0,
+                    476.0
+                ],
+                [
+                    395.0,
+                    475.0
+                ],
+                [
+                    384.0,
+                    475.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

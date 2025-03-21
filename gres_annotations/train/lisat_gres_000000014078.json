@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the car with four tires, a metal exterior, and transparent glass, set against the natural landscape.",
+        "Identify the automobile that has a quartet of wheels, a solid metallic frame, and see-through windows, standing out from the backdrop of the earth.",
+        "Spot the four-wheeled passenger vehicle with a metal body and clear panes, contrasting against the earthy scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014078.jpg",
+            "points": [
+                [
+                    317.0,
+                    466.0
+                ],
+                [
+                    317.0,
+                    467.0
+                ],
+                [
+                    316.0,
+                    467.0
+                ],
+                [
+                    316.0,
+                    468.0
+                ],
+                [
+                    315.0,
+                    468.0
+                ],
+                [
+                    315.0,
+                    475.0
+                ],
+                [
+                    316.0,
+                    475.0
+                ],
+                [
+                    316.0,
+                    481.0
+                ],
+                [
+                    317.0,
+                    481.0
+                ],
+                [
+                    317.0,
+                    485.0
+                ],
+                [
+                    318.0,
+                    485.0
+                ],
+                [
+                    318.0,
+                    487.0
+                ],
+                [
+                    319.0,
+                    487.0
+                ],
+                [
+                    319.0,
+                    488.0
+                ],
+                [
+                    321.0,
+                    488.0
+                ],
+                [
+                    321.0,
+                    489.0
+                ],
+                [
+                    324.0,
+                    489.0
+                ],
+                [
+                    324.0,
+                    488.0
+                ],
+                [
+                    328.0,
+                    488.0
+                ],
+                [
+                    328.0,
+                    479.0
+                ],
+                [
+                    327.0,
+                    479.0
+                ],
+                [
+                    327.0,
+                    476.0
+                ],
+                [
+                    326.0,
+                    476.0
+                ],
+                [
+                    326.0,
+                    474.0
+                ],
+                [
+                    325.0,
+                    474.0
+                ],
+                [
+                    325.0,
+                    472.0
+                ],
+                [
+                    324.0,
+                    472.0
+                ],
+                [
+                    324.0,
+                    470.0
+                ],
+                [
+                    323.0,
+                    470.0
+                ],
+                [
+                    323.0,
+                    468.0
+                ],
+                [
+                    322.0,
+                    468.0
+                ],
+                [
+                    322.0,
+                    467.0
+                ],
+                [
+                    321.0,
+                    467.0
+                ],
+                [
+                    321.0,
+                    466.0
+                ],
+                [
+                    317.0,
+                    466.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the stylish vehicle featuring an aerodynamic design, glossy dark paint, and shiny windows.",
+        "Look for the elegant automobile with a streamlined silhouette, a deep-colored finish, and glistening glass surfaces.",
+        "Find the sophisticated car characterized by its sleek curves, dark bodywork, and mirrored windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021919.jpg",
+            "points": [
+                [
+                    114.0,
+                    310.0
+                ],
+                [
+                    114.0,
+                    311.0
+                ],
+                [
+                    110.0,
+                    311.0
+                ],
+                [
+                    110.0,
+                    312.0
+                ],
+                [
+                    108.0,
+                    312.0
+                ],
+                [
+                    108.0,
+                    313.0
+                ],
+                [
+                    106.0,
+                    313.0
+                ],
+                [
+                    106.0,
+                    314.0
+                ],
+                [
+                    105.0,
+                    314.0
+                ],
+                [
+                    105.0,
+                    318.0
+                ],
+                [
+                    106.0,
+                    318.0
+                ],
+                [
+                    106.0,
+                    319.0
+                ],
+                [
+                    107.0,
+                    319.0
+                ],
+                [
+                    107.0,
+                    320.0
+                ],
+                [
+                    110.0,
+                    320.0
+                ],
+                [
+                    110.0,
+                    321.0
+                ],
+                [
+                    111.0,
+                    321.0
+                ],
+                [
+                    111.0,
+                    320.0
+                ],
+                [
+                    116.0,
+                    320.0
+                ],
+                [
+                    116.0,
+                    319.0
+                ],
+                [
+                    119.0,
+                    319.0
+                ],
+                [
+                    119.0,
+                    318.0
+                ],
+                [
+                    121.0,
+                    318.0
+                ],
+                [
+                    121.0,
+                    317.0
+                ],
+                [
+                    122.0,
+                    317.0
+                ],
+                [
+                    122.0,
+                    316.0
+                ],
+                [
+                    123.0,
+                    316.0
+                ],
+                [
+                    123.0,
+                    312.0
+                ],
+                [
+                    122.0,
+                    312.0
+                ],
+                [
+                    122.0,
+                    311.0
+                ],
+                [
+                    121.0,
+                    311.0
+                ],
+                [
+                    121.0,
+                    310.0
+                ],
+                [
+                    114.0,
+                    310.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

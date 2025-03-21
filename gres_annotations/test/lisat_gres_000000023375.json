@@ -1,0 +1,99 @@
+{
+    "text": [
+        "Locate the hut in the image by identifying a compact, enclosed form with slanted or peaked roofing, using materials like fabric or wood, distinguishable by its distinct shape and size compared to natural elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023375.jpg",
+            "points": [
+                [
+                    0.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    42.0
+                ],
+                [
+                    11.0,
+                    42.0
+                ],
+                [
+                    11.0,
+                    43.0
+                ],
+                [
+                    17.0,
+                    43.0
+                ],
+                [
+                    17.0,
+                    44.0
+                ],
+                [
+                    22.0,
+                    44.0
+                ],
+                [
+                    22.0,
+                    45.0
+                ],
+                [
+                    26.0,
+                    45.0
+                ],
+                [
+                    26.0,
+                    46.0
+                ],
+                [
+                    31.0,
+                    46.0
+                ],
+                [
+                    31.0,
+                    47.0
+                ],
+                [
+                    37.0,
+                    47.0
+                ],
+                [
+                    37.0,
+                    46.0
+                ],
+                [
+                    38.0,
+                    46.0
+                ],
+                [
+                    38.0,
+                    32.0
+                ],
+                [
+                    39.0,
+                    32.0
+                ],
+                [
+                    39.0,
+                    0.0
+                ],
+                [
+                    0.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

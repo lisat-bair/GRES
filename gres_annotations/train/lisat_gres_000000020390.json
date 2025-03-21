@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for the shed that is uniquely red and rectangular, making it noticeable in its surroundings.",
+        "Spot the shed by its striking red hue and rectangular form, setting it apart from the environment around it.",
+        "Notice the shed's vivid red color and rectangular shape, which distinguish it from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020390.jpg",
+            "points": [
+                [
+                    44.0,
+                    411.0
+                ],
+                [
+                    44.0,
+                    412.0
+                ],
+                [
+                    42.0,
+                    412.0
+                ],
+                [
+                    42.0,
+                    413.0
+                ],
+                [
+                    41.0,
+                    413.0
+                ],
+                [
+                    41.0,
+                    416.0
+                ],
+                [
+                    40.0,
+                    416.0
+                ],
+                [
+                    40.0,
+                    420.0
+                ],
+                [
+                    39.0,
+                    420.0
+                ],
+                [
+                    39.0,
+                    423.0
+                ],
+                [
+                    38.0,
+                    423.0
+                ],
+                [
+                    38.0,
+                    430.0
+                ],
+                [
+                    40.0,
+                    430.0
+                ],
+                [
+                    40.0,
+                    431.0
+                ],
+                [
+                    43.0,
+                    431.0
+                ],
+                [
+                    43.0,
+                    432.0
+                ],
+                [
+                    47.0,
+                    432.0
+                ],
+                [
+                    47.0,
+                    433.0
+                ],
+                [
+                    56.0,
+                    433.0
+                ],
+                [
+                    56.0,
+                    432.0
+                ],
+                [
+                    57.0,
+                    432.0
+                ],
+                [
+                    57.0,
+                    431.0
+                ],
+                [
+                    58.0,
+                    431.0
+                ],
+                [
+                    58.0,
+                    428.0
+                ],
+                [
+                    59.0,
+                    428.0
+                ],
+                [
+                    59.0,
+                    423.0
+                ],
+                [
+                    60.0,
+                    423.0
+                ],
+                [
+                    60.0,
+                    414.0
+                ],
+                [
+                    59.0,
+                    414.0
+                ],
+                [
+                    59.0,
+                    413.0
+                ],
+                [
+                    58.0,
+                    413.0
+                ],
+                [
+                    58.0,
+                    412.0
+                ],
+                [
+                    50.0,
+                    412.0
+                ],
+                [
+                    50.0,
+                    411.0
+                ],
+                [
+                    44.0,
+                    411.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

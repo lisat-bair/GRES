@@ -1,0 +1,117 @@
+{
+    "text": [
+        "The car is a long white object featuring a round front and clearly visible windows.",
+        "This vehicle can be described as a white extended form with a rounded front end and noticeable windows.",
+        "The automobile appears as a white, stretched structure with a rounded front and prominent windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001769.jpg",
+            "points": [
+                [
+                    329.0,
+                    64.0
+                ],
+                [
+                    329.0,
+                    65.0
+                ],
+                [
+                    328.0,
+                    65.0
+                ],
+                [
+                    328.0,
+                    66.0
+                ],
+                [
+                    327.0,
+                    66.0
+                ],
+                [
+                    327.0,
+                    73.0
+                ],
+                [
+                    328.0,
+                    73.0
+                ],
+                [
+                    328.0,
+                    79.0
+                ],
+                [
+                    329.0,
+                    79.0
+                ],
+                [
+                    329.0,
+                    80.0
+                ],
+                [
+                    331.0,
+                    80.0
+                ],
+                [
+                    331.0,
+                    81.0
+                ],
+                [
+                    333.0,
+                    81.0
+                ],
+                [
+                    333.0,
+                    80.0
+                ],
+                [
+                    335.0,
+                    80.0
+                ],
+                [
+                    335.0,
+                    79.0
+                ],
+                [
+                    336.0,
+                    79.0
+                ],
+                [
+                    336.0,
+                    67.0
+                ],
+                [
+                    335.0,
+                    67.0
+                ],
+                [
+                    335.0,
+                    65.0
+                ],
+                [
+                    334.0,
+                    65.0
+                ],
+                [
+                    334.0,
+                    64.0
+                ],
+                [
+                    329.0,
+                    64.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

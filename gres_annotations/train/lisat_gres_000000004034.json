@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the tank that is long and cylindrical with shiny metallic surfaces, usually found on wheels behind the truck's cab.",
+        "Find the elongated cylindrical tank with gleaming metal surfaces, typically mounted on wheels and situated behind the truck cabin.",
+        "Search for the tank that has a stretched cylindrical form and reflective metal surfaces, generally positioned on wheels behind the truck's cabin."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004034.jpg",
+            "points": [
+                [
+                    168.0,
+                    38.0
+                ],
+                [
+                    168.0,
+                    39.0
+                ],
+                [
+                    164.0,
+                    39.0
+                ],
+                [
+                    164.0,
+                    40.0
+                ],
+                [
+                    162.0,
+                    40.0
+                ],
+                [
+                    162.0,
+                    41.0
+                ],
+                [
+                    161.0,
+                    41.0
+                ],
+                [
+                    161.0,
+                    43.0
+                ],
+                [
+                    160.0,
+                    43.0
+                ],
+                [
+                    160.0,
+                    45.0
+                ],
+                [
+                    161.0,
+                    45.0
+                ],
+                [
+                    161.0,
+                    47.0
+                ],
+                [
+                    170.0,
+                    47.0
+                ],
+                [
+                    170.0,
+                    48.0
+                ],
+                [
+                    172.0,
+                    48.0
+                ],
+                [
+                    172.0,
+                    47.0
+                ],
+                [
+                    176.0,
+                    47.0
+                ],
+                [
+                    176.0,
+                    48.0
+                ],
+                [
+                    178.0,
+                    48.0
+                ],
+                [
+                    178.0,
+                    47.0
+                ],
+                [
+                    187.0,
+                    47.0
+                ],
+                [
+                    187.0,
+                    48.0
+                ],
+                [
+                    194.0,
+                    48.0
+                ],
+                [
+                    194.0,
+                    47.0
+                ],
+                [
+                    196.0,
+                    47.0
+                ],
+                [
+                    196.0,
+                    39.0
+                ],
+                [
+                    195.0,
+                    39.0
+                ],
+                [
+                    195.0,
+                    38.0
+                ],
+                [
+                    168.0,
+                    38.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the yellow machine characterized by its significant construction elements, including oversized tires and a long arm or crane-like apparatus.",
+        "Locate the yellow vehicle distinguished by its notable construction traits, such as big wheels and a protruding arm or crane-like feature.",
+        "Find the yellow vehicle with remarkable construction attributes, like large wheels and an elongated arm or crane-like structure."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014619.jpg",
+            "points": [
+                [
+                    237.0,
+                    501.0
+                ],
+                [
+                    237.0,
+                    502.0
+                ],
+                [
+                    235.0,
+                    502.0
+                ],
+                [
+                    235.0,
+                    503.0
+                ],
+                [
+                    233.0,
+                    503.0
+                ],
+                [
+                    233.0,
+                    504.0
+                ],
+                [
+                    231.0,
+                    504.0
+                ],
+                [
+                    231.0,
+                    505.0
+                ],
+                [
+                    229.0,
+                    505.0
+                ],
+                [
+                    229.0,
+                    506.0
+                ],
+                [
+                    227.0,
+                    506.0
+                ],
+                [
+                    227.0,
+                    507.0
+                ],
+                [
+                    225.0,
+                    507.0
+                ],
+                [
+                    225.0,
+                    508.0
+                ],
+                [
+                    224.0,
+                    508.0
+                ],
+                [
+                    224.0,
+                    509.0
+                ],
+                [
+                    223.0,
+                    509.0
+                ],
+                [
+                    223.0,
+                    510.0
+                ],
+                [
+                    222.0,
+                    510.0
+                ],
+                [
+                    222.0,
+                    511.0
+                ],
+                [
+                    221.0,
+                    511.0
+                ],
+                [
+                    221.0,
+                    512.0
+                ],
+                [
+                    243.0,
+                    512.0
+                ],
+                [
+                    243.0,
+                    511.0
+                ],
+                [
+                    244.0,
+                    511.0
+                ],
+                [
+                    244.0,
+                    508.0
+                ],
+                [
+                    245.0,
+                    508.0
+                ],
+                [
+                    245.0,
+                    506.0
+                ],
+                [
+                    246.0,
+                    506.0
+                ],
+                [
+                    246.0,
+                    505.0
+                ],
+                [
+                    245.0,
+                    505.0
+                ],
+                [
+                    245.0,
+                    503.0
+                ],
+                [
+                    244.0,
+                    503.0
+                ],
+                [
+                    244.0,
+                    502.0
+                ],
+                [
+                    242.0,
+                    502.0
+                ],
+                [
+                    242.0,
+                    501.0
+                ],
+                [
+                    237.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

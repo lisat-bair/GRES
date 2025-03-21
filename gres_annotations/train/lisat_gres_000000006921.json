@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the vehicle by spotting the rectangular form with shiny windows and unique metal borders.",
+        "Identify the automobile by looking for the rectangle shape with glossy panes and prominent metal edges.",
+        "Spot the car by looking for the rectangular silhouette with reflective glass and noticeable metallic trims."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000006921.jpg",
+            "points": [
+                [
+                    123.0,
+                    332.0
+                ],
+                [
+                    123.0,
+                    333.0
+                ],
+                [
+                    122.0,
+                    333.0
+                ],
+                [
+                    122.0,
+                    334.0
+                ],
+                [
+                    121.0,
+                    334.0
+                ],
+                [
+                    121.0,
+                    335.0
+                ],
+                [
+                    120.0,
+                    335.0
+                ],
+                [
+                    120.0,
+                    336.0
+                ],
+                [
+                    118.0,
+                    336.0
+                ],
+                [
+                    118.0,
+                    340.0
+                ],
+                [
+                    120.0,
+                    340.0
+                ],
+                [
+                    120.0,
+                    341.0
+                ],
+                [
+                    122.0,
+                    341.0
+                ],
+                [
+                    122.0,
+                    340.0
+                ],
+                [
+                    125.0,
+                    340.0
+                ],
+                [
+                    125.0,
+                    339.0
+                ],
+                [
+                    127.0,
+                    339.0
+                ],
+                [
+                    127.0,
+                    338.0
+                ],
+                [
+                    128.0,
+                    338.0
+                ],
+                [
+                    128.0,
+                    336.0
+                ],
+                [
+                    129.0,
+                    336.0
+                ],
+                [
+                    129.0,
+                    333.0
+                ],
+                [
+                    128.0,
+                    333.0
+                ],
+                [
+                    128.0,
+                    332.0
+                ],
+                [
+                    123.0,
+                    332.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the structure in the picture that is too tiny and indistinct to recognize or categorize.",
+        "Spot the edifice in the photo that is too minuscule and featureless to be identified or separated.",
+        "Identify the construction in the image that is too diminutive and vague to be discerned or segmented."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004468.jpg",
+            "points": [
+                [
+                    505.0,
+                    68.0
+                ],
+                [
+                    505.0,
+                    76.0
+                ],
+                [
+                    506.0,
+                    76.0
+                ],
+                [
+                    506.0,
+                    81.0
+                ],
+                [
+                    507.0,
+                    81.0
+                ],
+                [
+                    507.0,
+                    84.0
+                ],
+                [
+                    508.0,
+                    84.0
+                ],
+                [
+                    508.0,
+                    86.0
+                ],
+                [
+                    509.0,
+                    86.0
+                ],
+                [
+                    509.0,
+                    87.0
+                ],
+                [
+                    510.0,
+                    87.0
+                ],
+                [
+                    510.0,
+                    89.0
+                ],
+                [
+                    512.0,
+                    89.0
+                ],
+                [
+                    512.0,
+                    68.0
+                ],
+                [
+                    505.0,
+                    68.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

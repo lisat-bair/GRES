@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Locate the rectangular hut that stands out with its subtle, earth-colored hues against the backdrop.",
+        "Spot the hut that has a unique rectangular form and is highlighted by its soft, natural colors contrasting with the surroundings.",
+        "Find the hut distinguished by its rectangular shape and muted, earthy tones that provide a contrast to the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023399.jpg",
+            "points": [
+                [
+                    481.0,
+                    0.0
+                ],
+                [
+                    481.0,
+                    10.0
+                ],
+                [
+                    482.0,
+                    10.0
+                ],
+                [
+                    482.0,
+                    36.0
+                ],
+                [
+                    481.0,
+                    36.0
+                ],
+                [
+                    481.0,
+                    41.0
+                ],
+                [
+                    483.0,
+                    41.0
+                ],
+                [
+                    483.0,
+                    42.0
+                ],
+                [
+                    489.0,
+                    42.0
+                ],
+                [
+                    489.0,
+                    41.0
+                ],
+                [
+                    491.0,
+                    41.0
+                ],
+                [
+                    491.0,
+                    42.0
+                ],
+                [
+                    512.0,
+                    42.0
+                ],
+                [
+                    512.0,
+                    0.0
+                ],
+                [
+                    481.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

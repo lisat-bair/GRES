@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Identify the passenger vehicle with a consistent outline and reflective surface that contrasts with the surrounding environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022936.jpg",
+            "points": [
+                [
+                    128.0,
+                    104.0
+                ],
+                [
+                    128.0,
+                    105.0
+                ],
+                [
+                    127.0,
+                    105.0
+                ],
+                [
+                    127.0,
+                    110.0
+                ],
+                [
+                    128.0,
+                    110.0
+                ],
+                [
+                    128.0,
+                    112.0
+                ],
+                [
+                    132.0,
+                    112.0
+                ],
+                [
+                    132.0,
+                    111.0
+                ],
+                [
+                    134.0,
+                    111.0
+                ],
+                [
+                    134.0,
+                    107.0
+                ],
+                [
+                    133.0,
+                    107.0
+                ],
+                [
+                    133.0,
+                    106.0
+                ],
+                [
+                    132.0,
+                    106.0
+                ],
+                [
+                    132.0,
+                    105.0
+                ],
+                [
+                    130.0,
+                    105.0
+                ],
+                [
+                    130.0,
+                    104.0
+                ],
+                [
+                    128.0,
+                    104.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

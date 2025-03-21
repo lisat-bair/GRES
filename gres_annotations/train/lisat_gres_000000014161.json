@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the vehicle that features a sizable, pale form with smooth, curving edges that stand out against the dark backdrop.",
+        "Find the automobile with a big, light-hued shape that has gentle, rounded borders contrasting with the darker background.",
+        "Spot the car that displays an extensive, light-colored figure with smooth, curved edges in contrast to the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014161.jpg",
+            "points": [
+                [
+                    379.0,
+                    255.0
+                ],
+                [
+                    379.0,
+                    256.0
+                ],
+                [
+                    378.0,
+                    256.0
+                ],
+                [
+                    378.0,
+                    257.0
+                ],
+                [
+                    377.0,
+                    257.0
+                ],
+                [
+                    377.0,
+                    261.0
+                ],
+                [
+                    378.0,
+                    261.0
+                ],
+                [
+                    378.0,
+                    263.0
+                ],
+                [
+                    381.0,
+                    263.0
+                ],
+                [
+                    381.0,
+                    264.0
+                ],
+                [
+                    389.0,
+                    264.0
+                ],
+                [
+                    389.0,
+                    263.0
+                ],
+                [
+                    392.0,
+                    263.0
+                ],
+                [
+                    392.0,
+                    262.0
+                ],
+                [
+                    393.0,
+                    262.0
+                ],
+                [
+                    393.0,
+                    256.0
+                ],
+                [
+                    392.0,
+                    256.0
+                ],
+                [
+                    392.0,
+                    255.0
+                ],
+                [
+                    379.0,
+                    255.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the bus that is large, rectangular, and has numerous windows, standing out on the street or in the parking lot.",
+        "Look for the sizable, rectangular bus with many windows that is prominently positioned on the road or in the parking space.",
+        "Identify the large, rectangular-shaped bus with several windows, clearly visible either on the road or within the parking area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003949.jpg",
+            "points": [
+                [
+                    505.0,
+                    314.0
+                ],
+                [
+                    505.0,
+                    315.0
+                ],
+                [
+                    495.0,
+                    315.0
+                ],
+                [
+                    495.0,
+                    316.0
+                ],
+                [
+                    492.0,
+                    316.0
+                ],
+                [
+                    492.0,
+                    317.0
+                ],
+                [
+                    490.0,
+                    317.0
+                ],
+                [
+                    490.0,
+                    318.0
+                ],
+                [
+                    489.0,
+                    318.0
+                ],
+                [
+                    489.0,
+                    319.0
+                ],
+                [
+                    488.0,
+                    319.0
+                ],
+                [
+                    488.0,
+                    320.0
+                ],
+                [
+                    489.0,
+                    320.0
+                ],
+                [
+                    489.0,
+                    322.0
+                ],
+                [
+                    490.0,
+                    322.0
+                ],
+                [
+                    490.0,
+                    323.0
+                ],
+                [
+                    494.0,
+                    323.0
+                ],
+                [
+                    494.0,
+                    322.0
+                ],
+                [
+                    501.0,
+                    322.0
+                ],
+                [
+                    501.0,
+                    321.0
+                ],
+                [
+                    510.0,
+                    321.0
+                ],
+                [
+                    510.0,
+                    320.0
+                ],
+                [
+                    512.0,
+                    320.0
+                ],
+                [
+                    512.0,
+                    314.0
+                ],
+                [
+                    505.0,
+                    314.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

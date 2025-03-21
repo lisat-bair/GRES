@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the car that has a unique, long silhouette and a shiny exterior that stands out against the dark background.",
+        "Search for the vehicle with an unusual, stretched form and a glossy finish that is highlighted against the darker setting.",
+        "Identify the passenger car featuring an elongated design and a gleaming surface that contrasts with the shadowy surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007397.jpg",
+            "points": [
+                [
+                    340.0,
+                    144.0
+                ],
+                [
+                    340.0,
+                    148.0
+                ],
+                [
+                    342.0,
+                    148.0
+                ],
+                [
+                    342.0,
+                    149.0
+                ],
+                [
+                    343.0,
+                    149.0
+                ],
+                [
+                    343.0,
+                    150.0
+                ],
+                [
+                    345.0,
+                    150.0
+                ],
+                [
+                    345.0,
+                    151.0
+                ],
+                [
+                    348.0,
+                    151.0
+                ],
+                [
+                    348.0,
+                    152.0
+                ],
+                [
+                    352.0,
+                    152.0
+                ],
+                [
+                    352.0,
+                    151.0
+                ],
+                [
+                    353.0,
+                    151.0
+                ],
+                [
+                    353.0,
+                    150.0
+                ],
+                [
+                    354.0,
+                    150.0
+                ],
+                [
+                    354.0,
+                    148.0
+                ],
+                [
+                    353.0,
+                    148.0
+                ],
+                [
+                    353.0,
+                    146.0
+                ],
+                [
+                    350.0,
+                    146.0
+                ],
+                [
+                    350.0,
+                    145.0
+                ],
+                [
+                    346.0,
+                    145.0
+                ],
+                [
+                    346.0,
+                    144.0
+                ],
+                [
+                    340.0,
+                    144.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

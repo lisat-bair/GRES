@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the truck that is bigger, has a darker hue, a rectangular form, and noticeable side mirrors.",
+        "Spot the larger truck with a darker shade, a rectangular configuration, and distinct side mirrors.",
+        "Find the truck that is more sizable and darker in color, characterized by a rectangular shape and large side mirrors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033591.jpg",
+            "points": [
+                [
+                    434.0,
+                    137.0
+                ],
+                [
+                    434.0,
+                    138.0
+                ],
+                [
+                    433.0,
+                    138.0
+                ],
+                [
+                    433.0,
+                    144.0
+                ],
+                [
+                    434.0,
+                    144.0
+                ],
+                [
+                    434.0,
+                    146.0
+                ],
+                [
+                    435.0,
+                    146.0
+                ],
+                [
+                    435.0,
+                    148.0
+                ],
+                [
+                    436.0,
+                    148.0
+                ],
+                [
+                    436.0,
+                    149.0
+                ],
+                [
+                    437.0,
+                    149.0
+                ],
+                [
+                    437.0,
+                    150.0
+                ],
+                [
+                    440.0,
+                    150.0
+                ],
+                [
+                    440.0,
+                    151.0
+                ],
+                [
+                    442.0,
+                    151.0
+                ],
+                [
+                    442.0,
+                    150.0
+                ],
+                [
+                    443.0,
+                    150.0
+                ],
+                [
+                    443.0,
+                    146.0
+                ],
+                [
+                    442.0,
+                    146.0
+                ],
+                [
+                    442.0,
+                    143.0
+                ],
+                [
+                    441.0,
+                    143.0
+                ],
+                [
+                    441.0,
+                    141.0
+                ],
+                [
+                    440.0,
+                    141.0
+                ],
+                [
+                    440.0,
+                    138.0
+                ],
+                [
+                    439.0,
+                    138.0
+                ],
+                [
+                    439.0,
+                    137.0
+                ],
+                [
+                    434.0,
+                    137.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

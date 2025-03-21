@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the haul truck situated in the image's top-right corner.",
+        "Find the haul truck positioned at the upper right of the picture.",
+        "Spot the haul truck located in the right-hand corner at the top of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034714.jpg",
+            "points": [
+                [
+                    474.0,
+                    0.0
+                ],
+                [
+                    474.0,
+                    2.0
+                ],
+                [
+                    475.0,
+                    2.0
+                ],
+                [
+                    475.0,
+                    3.0
+                ],
+                [
+                    476.0,
+                    3.0
+                ],
+                [
+                    476.0,
+                    4.0
+                ],
+                [
+                    481.0,
+                    4.0
+                ],
+                [
+                    481.0,
+                    5.0
+                ],
+                [
+                    486.0,
+                    5.0
+                ],
+                [
+                    486.0,
+                    6.0
+                ],
+                [
+                    492.0,
+                    6.0
+                ],
+                [
+                    492.0,
+                    7.0
+                ],
+                [
+                    503.0,
+                    7.0
+                ],
+                [
+                    503.0,
+                    6.0
+                ],
+                [
+                    504.0,
+                    6.0
+                ],
+                [
+                    504.0,
+                    0.0
+                ],
+                [
+                    474.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the vehicle that stands out with its unique red hue and squared design, setting it apart from its environment.",
+        "Spot the automobile that is characterized by a striking red color and angular form, making it distinct from its surroundings.",
+        "Find the car that is noticeable due to its bright red shade and rectangular shape, contrasting with everything around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001777.jpg",
+            "points": [
+                [
+                    279.0,
+                    323.0
+                ],
+                [
+                    279.0,
+                    324.0
+                ],
+                [
+                    277.0,
+                    324.0
+                ],
+                [
+                    277.0,
+                    325.0
+                ],
+                [
+                    276.0,
+                    325.0
+                ],
+                [
+                    276.0,
+                    327.0
+                ],
+                [
+                    275.0,
+                    327.0
+                ],
+                [
+                    275.0,
+                    336.0
+                ],
+                [
+                    278.0,
+                    336.0
+                ],
+                [
+                    278.0,
+                    337.0
+                ],
+                [
+                    280.0,
+                    337.0
+                ],
+                [
+                    280.0,
+                    336.0
+                ],
+                [
+                    281.0,
+                    336.0
+                ],
+                [
+                    281.0,
+                    333.0
+                ],
+                [
+                    282.0,
+                    333.0
+                ],
+                [
+                    282.0,
+                    331.0
+                ],
+                [
+                    283.0,
+                    331.0
+                ],
+                [
+                    283.0,
+                    326.0
+                ],
+                [
+                    282.0,
+                    326.0
+                ],
+                [
+                    282.0,
+                    324.0
+                ],
+                [
+                    281.0,
+                    324.0
+                ],
+                [
+                    281.0,
+                    323.0
+                ],
+                [
+                    279.0,
+                    323.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the trailer bed that features a long design with wheels and a unique cabin at the front, usually metallic in appearance.",
+        "Identify the trailer bed that is notable for its extended frame with wheels and a special front cabin, often appearing metallic.",
+        "Seek out the trailer bed distinguished by its lengthy form with wheels and a prominent front cabin, typically metallic in color."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025721.jpg",
+            "points": [
+                [
+                    456.0,
+                    136.0
+                ],
+                [
+                    456.0,
+                    137.0
+                ],
+                [
+                    455.0,
+                    137.0
+                ],
+                [
+                    455.0,
+                    138.0
+                ],
+                [
+                    454.0,
+                    138.0
+                ],
+                [
+                    454.0,
+                    139.0
+                ],
+                [
+                    455.0,
+                    139.0
+                ],
+                [
+                    455.0,
+                    142.0
+                ],
+                [
+                    456.0,
+                    142.0
+                ],
+                [
+                    456.0,
+                    146.0
+                ],
+                [
+                    457.0,
+                    146.0
+                ],
+                [
+                    457.0,
+                    149.0
+                ],
+                [
+                    458.0,
+                    149.0
+                ],
+                [
+                    458.0,
+                    152.0
+                ],
+                [
+                    459.0,
+                    152.0
+                ],
+                [
+                    459.0,
+                    153.0
+                ],
+                [
+                    464.0,
+                    153.0
+                ],
+                [
+                    464.0,
+                    152.0
+                ],
+                [
+                    465.0,
+                    152.0
+                ],
+                [
+                    465.0,
+                    148.0
+                ],
+                [
+                    464.0,
+                    148.0
+                ],
+                [
+                    464.0,
+                    144.0
+                ],
+                [
+                    463.0,
+                    144.0
+                ],
+                [
+                    463.0,
+                    141.0
+                ],
+                [
+                    462.0,
+                    141.0
+                ],
+                [
+                    462.0,
+                    139.0
+                ],
+                [
+                    461.0,
+                    139.0
+                ],
+                [
+                    461.0,
+                    137.0
+                ],
+                [
+                    460.0,
+                    137.0
+                ],
+                [
+                    460.0,
+                    136.0
+                ],
+                [
+                    456.0,
+                    136.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

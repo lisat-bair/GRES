@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the compact vehicle situated in the lower-right section of the picture.",
+        "Identify the tiny automobile positioned at the bottom-right edge of the photo.",
+        "Spot the little car located in the bottom-right corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023414.jpg",
+            "points": [
+                [
+                    509.0,
+                    154.0
+                ],
+                [
+                    509.0,
+                    155.0
+                ],
+                [
+                    508.0,
+                    155.0
+                ],
+                [
+                    508.0,
+                    161.0
+                ],
+                [
+                    507.0,
+                    161.0
+                ],
+                [
+                    507.0,
+                    163.0
+                ],
+                [
+                    509.0,
+                    163.0
+                ],
+                [
+                    509.0,
+                    164.0
+                ],
+                [
+                    510.0,
+                    164.0
+                ],
+                [
+                    510.0,
+                    165.0
+                ],
+                [
+                    511.0,
+                    165.0
+                ],
+                [
+                    511.0,
+                    167.0
+                ],
+                [
+                    512.0,
+                    167.0
+                ],
+                [
+                    512.0,
+                    154.0
+                ],
+                [
+                    509.0,
+                    154.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

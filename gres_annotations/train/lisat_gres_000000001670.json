@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the cone-shaped structure with earthy colors that stands out from its environment, suggesting it is a hut or tent.",
+        "Notice the conical form with natural hues that contrasts with its surroundings, implying it's a hut or tent.",
+        "Observe the earthy-toned, cone-shaped structure that differs from the natural setting, indicating it may be a hut or tent."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001670.jpg",
+            "points": [
+                [
+                    13.0,
+                    469.0
+                ],
+                [
+                    13.0,
+                    470.0
+                ],
+                [
+                    11.0,
+                    470.0
+                ],
+                [
+                    11.0,
+                    471.0
+                ],
+                [
+                    9.0,
+                    471.0
+                ],
+                [
+                    9.0,
+                    472.0
+                ],
+                [
+                    8.0,
+                    472.0
+                ],
+                [
+                    8.0,
+                    473.0
+                ],
+                [
+                    7.0,
+                    473.0
+                ],
+                [
+                    7.0,
+                    479.0
+                ],
+                [
+                    8.0,
+                    479.0
+                ],
+                [
+                    8.0,
+                    481.0
+                ],
+                [
+                    10.0,
+                    481.0
+                ],
+                [
+                    10.0,
+                    482.0
+                ],
+                [
+                    15.0,
+                    482.0
+                ],
+                [
+                    15.0,
+                    481.0
+                ],
+                [
+                    21.0,
+                    481.0
+                ],
+                [
+                    21.0,
+                    479.0
+                ],
+                [
+                    22.0,
+                    479.0
+                ],
+                [
+                    22.0,
+                    475.0
+                ],
+                [
+                    21.0,
+                    475.0
+                ],
+                [
+                    21.0,
+                    471.0
+                ],
+                [
+                    20.0,
+                    471.0
+                ],
+                [
+                    20.0,
+                    470.0
+                ],
+                [
+                    18.0,
+                    470.0
+                ],
+                [
+                    18.0,
+                    469.0
+                ],
+                [
+                    13.0,
+                    469.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

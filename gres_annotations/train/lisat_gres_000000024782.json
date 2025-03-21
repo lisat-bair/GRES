@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the truck in the picture even in the dark by examining its trailer bed details.",
+        "Even in low light, recognize the truck in the image by concentrating on the characteristics of its trailer bed.",
+        "Find the truck within the image despite the darkness by paying attention to the features of its trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024782.jpg",
+            "points": [
+                [
+                    69.0,
+                    500.0
+                ],
+                [
+                    69.0,
+                    501.0
+                ],
+                [
+                    67.0,
+                    501.0
+                ],
+                [
+                    67.0,
+                    502.0
+                ],
+                [
+                    66.0,
+                    502.0
+                ],
+                [
+                    66.0,
+                    503.0
+                ],
+                [
+                    64.0,
+                    503.0
+                ],
+                [
+                    64.0,
+                    504.0
+                ],
+                [
+                    63.0,
+                    504.0
+                ],
+                [
+                    63.0,
+                    505.0
+                ],
+                [
+                    62.0,
+                    505.0
+                ],
+                [
+                    62.0,
+                    506.0
+                ],
+                [
+                    61.0,
+                    506.0
+                ],
+                [
+                    61.0,
+                    507.0
+                ],
+                [
+                    60.0,
+                    507.0
+                ],
+                [
+                    60.0,
+                    508.0
+                ],
+                [
+                    59.0,
+                    508.0
+                ],
+                [
+                    59.0,
+                    510.0
+                ],
+                [
+                    58.0,
+                    510.0
+                ],
+                [
+                    58.0,
+                    511.0
+                ],
+                [
+                    57.0,
+                    511.0
+                ],
+                [
+                    57.0,
+                    512.0
+                ],
+                [
+                    87.0,
+                    512.0
+                ],
+                [
+                    87.0,
+                    511.0
+                ],
+                [
+                    88.0,
+                    511.0
+                ],
+                [
+                    88.0,
+                    501.0
+                ],
+                [
+                    83.0,
+                    501.0
+                ],
+                [
+                    83.0,
+                    502.0
+                ],
+                [
+                    73.0,
+                    502.0
+                ],
+                [
+                    73.0,
+                    501.0
+                ],
+                [
+                    72.0,
+                    501.0
+                ],
+                [
+                    72.0,
+                    500.0
+                ],
+                [
+                    69.0,
+                    500.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the big, boxy vehicle adorned with windows and vibrant hues that's commonly linked to buses.",
+        "Recognize the sizable, rectangular conveyance with windows and vivid shades that are usually related to buses.",
+        "Find the large, rectangular transport with windows and eye-catching colors that are often associated with buses."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009782.jpg",
+            "points": [
+                [
+                    22.0,
+                    153.0
+                ],
+                [
+                    22.0,
+                    154.0
+                ],
+                [
+                    21.0,
+                    154.0
+                ],
+                [
+                    21.0,
+                    157.0
+                ],
+                [
+                    22.0,
+                    157.0
+                ],
+                [
+                    22.0,
+                    158.0
+                ],
+                [
+                    25.0,
+                    158.0
+                ],
+                [
+                    25.0,
+                    159.0
+                ],
+                [
+                    34.0,
+                    159.0
+                ],
+                [
+                    34.0,
+                    158.0
+                ],
+                [
+                    35.0,
+                    158.0
+                ],
+                [
+                    35.0,
+                    154.0
+                ],
+                [
+                    32.0,
+                    154.0
+                ],
+                [
+                    32.0,
+                    153.0
+                ],
+                [
+                    22.0,
+                    153.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

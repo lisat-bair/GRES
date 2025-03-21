@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the tent that is triangular or cone-shaped, usually in natural colors, standing out from its environment.",
+        "Find the conical or triangular-shaped tent, often in earthy tones, that stands apart from its surroundings.",
+        "Spot the tent with a cone or triangle shape, typically in muted earth colors, distinctive from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023506.jpg",
+            "points": [
+                [
+                    507.0,
+                    154.0
+                ],
+                [
+                    507.0,
+                    155.0
+                ],
+                [
+                    506.0,
+                    155.0
+                ],
+                [
+                    506.0,
+                    156.0
+                ],
+                [
+                    505.0,
+                    156.0
+                ],
+                [
+                    505.0,
+                    157.0
+                ],
+                [
+                    504.0,
+                    157.0
+                ],
+                [
+                    504.0,
+                    160.0
+                ],
+                [
+                    503.0,
+                    160.0
+                ],
+                [
+                    503.0,
+                    163.0
+                ],
+                [
+                    502.0,
+                    163.0
+                ],
+                [
+                    502.0,
+                    167.0
+                ],
+                [
+                    501.0,
+                    167.0
+                ],
+                [
+                    501.0,
+                    170.0
+                ],
+                [
+                    502.0,
+                    170.0
+                ],
+                [
+                    502.0,
+                    171.0
+                ],
+                [
+                    503.0,
+                    171.0
+                ],
+                [
+                    503.0,
+                    172.0
+                ],
+                [
+                    504.0,
+                    172.0
+                ],
+                [
+                    504.0,
+                    173.0
+                ],
+                [
+                    505.0,
+                    173.0
+                ],
+                [
+                    505.0,
+                    174.0
+                ],
+                [
+                    506.0,
+                    174.0
+                ],
+                [
+                    506.0,
+                    175.0
+                ],
+                [
+                    508.0,
+                    175.0
+                ],
+                [
+                    508.0,
+                    176.0
+                ],
+                [
+                    512.0,
+                    176.0
+                ],
+                [
+                    512.0,
+                    154.0
+                ],
+                [
+                    507.0,
+                    154.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

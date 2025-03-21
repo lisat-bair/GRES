@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Look for the vehicle that has a unique metallic exterior, sleek contours, and shiny surfaces standing out against the darker backdrop.",
+        "Spot the automobile featuring a one-of-a-kind metal frame, gentle curves, and glossy surfaces that contrast with the dark background.",
+        "Find the car with a special metallic shell, smooth curves, and reflective surfaces that stand out against the dim background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023500.jpg",
+            "points": [
+                [
+                    489.0,
+                    264.0
+                ],
+                [
+                    489.0,
+                    266.0
+                ],
+                [
+                    488.0,
+                    266.0
+                ],
+                [
+                    488.0,
+                    269.0
+                ],
+                [
+                    489.0,
+                    269.0
+                ],
+                [
+                    489.0,
+                    270.0
+                ],
+                [
+                    491.0,
+                    270.0
+                ],
+                [
+                    491.0,
+                    271.0
+                ],
+                [
+                    503.0,
+                    271.0
+                ],
+                [
+                    503.0,
+                    270.0
+                ],
+                [
+                    504.0,
+                    270.0
+                ],
+                [
+                    504.0,
+                    265.0
+                ],
+                [
+                    503.0,
+                    265.0
+                ],
+                [
+                    503.0,
+                    264.0
+                ],
+                [
+                    489.0,
+                    264.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

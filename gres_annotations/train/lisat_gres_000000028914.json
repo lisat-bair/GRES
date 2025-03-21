@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the vehicle characterized by its unique geometric design, rounded edges, and shiny surfaces that stand out against the backdrop.",
+        "Find the automobile that features an unusual geometric form, sleek edges, and glossy surfaces contrasting with the surroundings.",
+        "Look for the car distinguished by its peculiar geometric shape, smooth contours, and reflective surfaces set against the scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028914.jpg",
+            "points": [
+                [
+                    42.0,
+                    148.0
+                ],
+                [
+                    42.0,
+                    149.0
+                ],
+                [
+                    41.0,
+                    149.0
+                ],
+                [
+                    41.0,
+                    150.0
+                ],
+                [
+                    40.0,
+                    150.0
+                ],
+                [
+                    40.0,
+                    153.0
+                ],
+                [
+                    39.0,
+                    153.0
+                ],
+                [
+                    39.0,
+                    160.0
+                ],
+                [
+                    45.0,
+                    160.0
+                ],
+                [
+                    45.0,
+                    159.0
+                ],
+                [
+                    46.0,
+                    159.0
+                ],
+                [
+                    46.0,
+                    157.0
+                ],
+                [
+                    47.0,
+                    157.0
+                ],
+                [
+                    47.0,
+                    150.0
+                ],
+                [
+                    46.0,
+                    150.0
+                ],
+                [
+                    46.0,
+                    149.0
+                ],
+                [
+                    45.0,
+                    149.0
+                ],
+                [
+                    45.0,
+                    148.0
+                ],
+                [
+                    42.0,
+                    148.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

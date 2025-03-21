@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the truck as the big, yellow vehicle with unique angular outlines against the darker backdrop.",
+        "Look for the large, yellow truck that stands out with its sharp angles against the darker surroundings.",
+        "Recognize the truck by its size and yellow color, with distinct angular features set against the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021539.jpg",
+            "points": [
+                [
+                    29.0,
+                    253.0
+                ],
+                [
+                    29.0,
+                    255.0
+                ],
+                [
+                    28.0,
+                    255.0
+                ],
+                [
+                    28.0,
+                    256.0
+                ],
+                [
+                    27.0,
+                    256.0
+                ],
+                [
+                    27.0,
+                    259.0
+                ],
+                [
+                    28.0,
+                    259.0
+                ],
+                [
+                    28.0,
+                    260.0
+                ],
+                [
+                    29.0,
+                    260.0
+                ],
+                [
+                    29.0,
+                    261.0
+                ],
+                [
+                    30.0,
+                    261.0
+                ],
+                [
+                    30.0,
+                    262.0
+                ],
+                [
+                    32.0,
+                    262.0
+                ],
+                [
+                    32.0,
+                    263.0
+                ],
+                [
+                    34.0,
+                    263.0
+                ],
+                [
+                    34.0,
+                    264.0
+                ],
+                [
+                    40.0,
+                    264.0
+                ],
+                [
+                    40.0,
+                    263.0
+                ],
+                [
+                    41.0,
+                    263.0
+                ],
+                [
+                    41.0,
+                    260.0
+                ],
+                [
+                    42.0,
+                    260.0
+                ],
+                [
+                    42.0,
+                    259.0
+                ],
+                [
+                    41.0,
+                    259.0
+                ],
+                [
+                    41.0,
+                    257.0
+                ],
+                [
+                    40.0,
+                    257.0
+                ],
+                [
+                    40.0,
+                    256.0
+                ],
+                [
+                    38.0,
+                    256.0
+                ],
+                [
+                    38.0,
+                    255.0
+                ],
+                [
+                    36.0,
+                    255.0
+                ],
+                [
+                    36.0,
+                    254.0
+                ],
+                [
+                    34.0,
+                    254.0
+                ],
+                [
+                    34.0,
+                    253.0
+                ],
+                [
+                    29.0,
+                    253.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

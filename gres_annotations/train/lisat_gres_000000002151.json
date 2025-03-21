@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Look for the uniquely rectangular shed that stands out with its dark brown hue against the green environment.",
+        "Spot the shed that is distinctly rectangular and dark brown, making it a contrast to the lush greenery around it.",
+        "Find the shed characterized by its rectangular form and dark brown color, which contrasts with the surrounding green landscape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002151.jpg",
+            "points": [
+                [
+                    328.0,
+                    376.0
+                ],
+                [
+                    328.0,
+                    377.0
+                ],
+                [
+                    327.0,
+                    377.0
+                ],
+                [
+                    327.0,
+                    378.0
+                ],
+                [
+                    326.0,
+                    378.0
+                ],
+                [
+                    326.0,
+                    383.0
+                ],
+                [
+                    325.0,
+                    383.0
+                ],
+                [
+                    325.0,
+                    391.0
+                ],
+                [
+                    326.0,
+                    391.0
+                ],
+                [
+                    326.0,
+                    392.0
+                ],
+                [
+                    336.0,
+                    392.0
+                ],
+                [
+                    336.0,
+                    390.0
+                ],
+                [
+                    337.0,
+                    390.0
+                ],
+                [
+                    337.0,
+                    387.0
+                ],
+                [
+                    338.0,
+                    387.0
+                ],
+                [
+                    338.0,
+                    381.0
+                ],
+                [
+                    337.0,
+                    381.0
+                ],
+                [
+                    337.0,
+                    379.0
+                ],
+                [
+                    336.0,
+                    379.0
+                ],
+                [
+                    336.0,
+                    378.0
+                ],
+                [
+                    335.0,
+                    378.0
+                ],
+                [
+                    335.0,
+                    377.0
+                ],
+                [
+                    333.0,
+                    377.0
+                ],
+                [
+                    333.0,
+                    376.0
+                ],
+                [
+                    328.0,
+                    376.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

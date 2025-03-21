@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Look for the truck based on its unique color, bigger dimensions, and distinct form compared to nearby objects.",
+        "Spot the truck by recognizing its distinctive hue, larger size, and one-of-a-kind design relative to surrounding items.",
+        "Determine which truck it is by observing its special color, increased size, and unique silhouette in relation to other objects around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009455.jpg",
+            "points": [
+                [
+                    0.0,
+                    318.0
+                ],
+                [
+                    0.0,
+                    339.0
+                ],
+                [
+                    1.0,
+                    339.0
+                ],
+                [
+                    1.0,
+                    338.0
+                ],
+                [
+                    2.0,
+                    338.0
+                ],
+                [
+                    2.0,
+                    337.0
+                ],
+                [
+                    3.0,
+                    337.0
+                ],
+                [
+                    3.0,
+                    335.0
+                ],
+                [
+                    4.0,
+                    335.0
+                ],
+                [
+                    4.0,
+                    331.0
+                ],
+                [
+                    5.0,
+                    331.0
+                ],
+                [
+                    5.0,
+                    329.0
+                ],
+                [
+                    6.0,
+                    329.0
+                ],
+                [
+                    6.0,
+                    328.0
+                ],
+                [
+                    7.0,
+                    328.0
+                ],
+                [
+                    7.0,
+                    324.0
+                ],
+                [
+                    8.0,
+                    324.0
+                ],
+                [
+                    8.0,
+                    320.0
+                ],
+                [
+                    7.0,
+                    320.0
+                ],
+                [
+                    7.0,
+                    318.0
+                ],
+                [
+                    0.0,
+                    318.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

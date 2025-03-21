@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the slender, white object featuring a pointed front and a prominent mast set against the dark waters.",
+        "Locate the long white object with a sharp front and a noticeable mast standing out against the backdrop of dark water.",
+        "Find the white, stretched-out object with a pointed tip and a visible mast contrasting with the dark water background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014650.jpg",
+            "points": [
+                [
+                    360.0,
+                    269.0
+                ],
+                [
+                    360.0,
+                    270.0
+                ],
+                [
+                    356.0,
+                    270.0
+                ],
+                [
+                    356.0,
+                    271.0
+                ],
+                [
+                    355.0,
+                    271.0
+                ],
+                [
+                    355.0,
+                    272.0
+                ],
+                [
+                    354.0,
+                    272.0
+                ],
+                [
+                    354.0,
+                    273.0
+                ],
+                [
+                    355.0,
+                    273.0
+                ],
+                [
+                    355.0,
+                    275.0
+                ],
+                [
+                    356.0,
+                    275.0
+                ],
+                [
+                    356.0,
+                    278.0
+                ],
+                [
+                    357.0,
+                    278.0
+                ],
+                [
+                    357.0,
+                    282.0
+                ],
+                [
+                    358.0,
+                    282.0
+                ],
+                [
+                    358.0,
+                    287.0
+                ],
+                [
+                    359.0,
+                    287.0
+                ],
+                [
+                    359.0,
+                    288.0
+                ],
+                [
+                    360.0,
+                    288.0
+                ],
+                [
+                    360.0,
+                    290.0
+                ],
+                [
+                    361.0,
+                    290.0
+                ],
+                [
+                    361.0,
+                    291.0
+                ],
+                [
+                    362.0,
+                    291.0
+                ],
+                [
+                    362.0,
+                    292.0
+                ],
+                [
+                    368.0,
+                    292.0
+                ],
+                [
+                    368.0,
+                    284.0
+                ],
+                [
+                    367.0,
+                    284.0
+                ],
+                [
+                    367.0,
+                    280.0
+                ],
+                [
+                    366.0,
+                    280.0
+                ],
+                [
+                    366.0,
+                    277.0
+                ],
+                [
+                    365.0,
+                    277.0
+                ],
+                [
+                    365.0,
+                    274.0
+                ],
+                [
+                    364.0,
+                    274.0
+                ],
+                [
+                    364.0,
+                    271.0
+                ],
+                [
+                    363.0,
+                    271.0
+                ],
+                [
+                    363.0,
+                    269.0
+                ],
+                [
+                    360.0,
+                    269.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Look for the bus characterized by its long, extended form and vibrant hues such as yellow or red, with windows adorning its sides.",
+        "Spot the bus by its large, stretched shape and vivid colors like yellow or red, complete with windows along the sides.",
+        "Recognize the bus by its expansive, elongated structure and bright colors, typically yellow or red, with windows on its sides."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010061.jpg",
+            "points": [
+                [
+                    413.0,
+                    455.0
+                ],
+                [
+                    413.0,
+                    456.0
+                ],
+                [
+                    409.0,
+                    456.0
+                ],
+                [
+                    409.0,
+                    457.0
+                ],
+                [
+                    406.0,
+                    457.0
+                ],
+                [
+                    406.0,
+                    458.0
+                ],
+                [
+                    404.0,
+                    458.0
+                ],
+                [
+                    404.0,
+                    459.0
+                ],
+                [
+                    403.0,
+                    459.0
+                ],
+                [
+                    403.0,
+                    464.0
+                ],
+                [
+                    409.0,
+                    464.0
+                ],
+                [
+                    409.0,
+                    463.0
+                ],
+                [
+                    414.0,
+                    463.0
+                ],
+                [
+                    414.0,
+                    462.0
+                ],
+                [
+                    416.0,
+                    462.0
+                ],
+                [
+                    416.0,
+                    457.0
+                ],
+                [
+                    415.0,
+                    457.0
+                ],
+                [
+                    415.0,
+                    456.0
+                ],
+                [
+                    414.0,
+                    456.0
+                ],
+                [
+                    414.0,
+                    455.0
+                ],
+                [
+                    413.0,
+                    455.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

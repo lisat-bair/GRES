@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the truck that has a bright cabin and a shadowy trailer.",
+        "Locate the vehicle with a pale cabin and a trailer in a dark hue.",
+        "Spot the truck whose cabin is light in color, while its trailer is dark."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008442.jpg",
+            "points": [
+                [
+                    497.0,
+                    419.0
+                ],
+                [
+                    497.0,
+                    420.0
+                ],
+                [
+                    494.0,
+                    420.0
+                ],
+                [
+                    494.0,
+                    421.0
+                ],
+                [
+                    493.0,
+                    421.0
+                ],
+                [
+                    493.0,
+                    422.0
+                ],
+                [
+                    492.0,
+                    422.0
+                ],
+                [
+                    492.0,
+                    424.0
+                ],
+                [
+                    493.0,
+                    424.0
+                ],
+                [
+                    493.0,
+                    426.0
+                ],
+                [
+                    494.0,
+                    426.0
+                ],
+                [
+                    494.0,
+                    427.0
+                ],
+                [
+                    500.0,
+                    427.0
+                ],
+                [
+                    500.0,
+                    426.0
+                ],
+                [
+                    506.0,
+                    426.0
+                ],
+                [
+                    506.0,
+                    425.0
+                ],
+                [
+                    507.0,
+                    425.0
+                ],
+                [
+                    507.0,
+                    422.0
+                ],
+                [
+                    506.0,
+                    422.0
+                ],
+                [
+                    506.0,
+                    421.0
+                ],
+                [
+                    505.0,
+                    421.0
+                ],
+                [
+                    505.0,
+                    420.0
+                ],
+                [
+                    498.0,
+                    420.0
+                ],
+                [
+                    498.0,
+                    419.0
+                ],
+                [
+                    497.0,
+                    419.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

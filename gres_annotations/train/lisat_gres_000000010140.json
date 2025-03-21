@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the compromised structure by searching for signs like fallen walls, visible rebar, and debris strewn around.",
+        "Spot the affected building by observing structural anomalies, including broken walls, rebar that is exposed, and debris scattered on the ground.",
+        "Find the damaged edifice by identifying structural inconsistencies such as walls that have collapsed, rebar that is visible, and debris scattered about."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010140.jpg",
+            "points": [
+                [
+                    508.0,
+                    65.0
+                ],
+                [
+                    508.0,
+                    66.0
+                ],
+                [
+                    504.0,
+                    66.0
+                ],
+                [
+                    504.0,
+                    67.0
+                ],
+                [
+                    503.0,
+                    67.0
+                ],
+                [
+                    503.0,
+                    72.0
+                ],
+                [
+                    502.0,
+                    72.0
+                ],
+                [
+                    502.0,
+                    80.0
+                ],
+                [
+                    503.0,
+                    80.0
+                ],
+                [
+                    503.0,
+                    81.0
+                ],
+                [
+                    511.0,
+                    81.0
+                ],
+                [
+                    511.0,
+                    82.0
+                ],
+                [
+                    512.0,
+                    82.0
+                ],
+                [
+                    512.0,
+                    66.0
+                ],
+                [
+                    510.0,
+                    66.0
+                ],
+                [
+                    510.0,
+                    65.0
+                ],
+                [
+                    508.0,
+                    65.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

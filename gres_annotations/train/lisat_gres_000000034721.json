@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Locate the hefty yellow loader equipped with a scoop or blade in the earthy-colored surroundings.",
+        "Spot the big yellow loader featuring a scoop or blade amidst the earth-toned scenery.",
+        "Find the large yellow loader with a scoop or blade within the landscape of earth hues."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034721.jpg",
+            "points": [
+                [
+                    433.0,
+                    122.0
+                ],
+                [
+                    433.0,
+                    123.0
+                ],
+                [
+                    432.0,
+                    123.0
+                ],
+                [
+                    432.0,
+                    125.0
+                ],
+                [
+                    431.0,
+                    125.0
+                ],
+                [
+                    431.0,
+                    129.0
+                ],
+                [
+                    432.0,
+                    129.0
+                ],
+                [
+                    432.0,
+                    130.0
+                ],
+                [
+                    433.0,
+                    130.0
+                ],
+                [
+                    433.0,
+                    131.0
+                ],
+                [
+                    436.0,
+                    131.0
+                ],
+                [
+                    436.0,
+                    132.0
+                ],
+                [
+                    438.0,
+                    132.0
+                ],
+                [
+                    438.0,
+                    133.0
+                ],
+                [
+                    440.0,
+                    133.0
+                ],
+                [
+                    440.0,
+                    134.0
+                ],
+                [
+                    443.0,
+                    134.0
+                ],
+                [
+                    443.0,
+                    135.0
+                ],
+                [
+                    446.0,
+                    135.0
+                ],
+                [
+                    446.0,
+                    134.0
+                ],
+                [
+                    448.0,
+                    134.0
+                ],
+                [
+                    448.0,
+                    132.0
+                ],
+                [
+                    449.0,
+                    132.0
+                ],
+                [
+                    449.0,
+                    127.0
+                ],
+                [
+                    448.0,
+                    127.0
+                ],
+                [
+                    448.0,
+                    126.0
+                ],
+                [
+                    446.0,
+                    126.0
+                ],
+                [
+                    446.0,
+                    125.0
+                ],
+                [
+                    443.0,
+                    125.0
+                ],
+                [
+                    443.0,
+                    124.0
+                ],
+                [
+                    441.0,
+                    124.0
+                ],
+                [
+                    441.0,
+                    123.0
+                ],
+                [
+                    437.0,
+                    123.0
+                ],
+                [
+                    437.0,
+                    122.0
+                ],
+                [
+                    433.0,
+                    122.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

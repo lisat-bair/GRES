@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the small, rectangular-shaped truck with unique wheels located in the top-left corner of the image.",
+        "Find the truck in the upper-left area of the picture, which is characterized by its compact rectangular form and noticeable wheels.",
+        "Locate the diminutive truck with a distinct wheel design and a rectangular shape near the top-left of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007869.jpg",
+            "points": [
+                [
+                    144.0,
+                    97.0
+                ],
+                [
+                    144.0,
+                    98.0
+                ],
+                [
+                    141.0,
+                    98.0
+                ],
+                [
+                    141.0,
+                    99.0
+                ],
+                [
+                    140.0,
+                    99.0
+                ],
+                [
+                    140.0,
+                    100.0
+                ],
+                [
+                    139.0,
+                    100.0
+                ],
+                [
+                    139.0,
+                    102.0
+                ],
+                [
+                    138.0,
+                    102.0
+                ],
+                [
+                    138.0,
+                    104.0
+                ],
+                [
+                    139.0,
+                    104.0
+                ],
+                [
+                    139.0,
+                    105.0
+                ],
+                [
+                    146.0,
+                    105.0
+                ],
+                [
+                    146.0,
+                    104.0
+                ],
+                [
+                    149.0,
+                    104.0
+                ],
+                [
+                    149.0,
+                    103.0
+                ],
+                [
+                    153.0,
+                    103.0
+                ],
+                [
+                    153.0,
+                    102.0
+                ],
+                [
+                    155.0,
+                    102.0
+                ],
+                [
+                    155.0,
+                    98.0
+                ],
+                [
+                    154.0,
+                    98.0
+                ],
+                [
+                    154.0,
+                    97.0
+                ],
+                [
+                    144.0,
+                    97.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

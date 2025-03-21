@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the wheeled trailer bed that has a notable gap between the driver's cab and the extended trailer portion.",
+        "Spot the trailer bed on wheels that features a clear division between the cab and the long trailer section.",
+        "Find the wheeled trailer bed where there is an obvious separation between the cab and the lengthy trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005508.jpg",
+            "points": [
+                [
+                    64.0,
+                    0.0
+                ],
+                [
+                    64.0,
+                    1.0
+                ],
+                [
+                    63.0,
+                    1.0
+                ],
+                [
+                    63.0,
+                    6.0
+                ],
+                [
+                    62.0,
+                    6.0
+                ],
+                [
+                    62.0,
+                    12.0
+                ],
+                [
+                    63.0,
+                    12.0
+                ],
+                [
+                    63.0,
+                    13.0
+                ],
+                [
+                    64.0,
+                    13.0
+                ],
+                [
+                    64.0,
+                    14.0
+                ],
+                [
+                    66.0,
+                    14.0
+                ],
+                [
+                    66.0,
+                    15.0
+                ],
+                [
+                    72.0,
+                    15.0
+                ],
+                [
+                    72.0,
+                    14.0
+                ],
+                [
+                    73.0,
+                    14.0
+                ],
+                [
+                    73.0,
+                    13.0
+                ],
+                [
+                    74.0,
+                    13.0
+                ],
+                [
+                    74.0,
+                    8.0
+                ],
+                [
+                    75.0,
+                    8.0
+                ],
+                [
+                    75.0,
+                    4.0
+                ],
+                [
+                    76.0,
+                    4.0
+                ],
+                [
+                    76.0,
+                    0.0
+                ],
+                [
+                    64.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

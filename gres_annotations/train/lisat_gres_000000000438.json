@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the car with a unique curved design and a shiny surface set against a dark backdrop.",
+        "Identify the automobile that features a noticeable curved form and a glossy exterior against a dim background.",
+        "Spot the vehicle that has a distinctive curved appearance and a reflective finish amidst a shadowy setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000438.jpg",
+            "points": [
+                [
+                    367.0,
+                    116.0
+                ],
+                [
+                    367.0,
+                    126.0
+                ],
+                [
+                    368.0,
+                    126.0
+                ],
+                [
+                    368.0,
+                    127.0
+                ],
+                [
+                    375.0,
+                    127.0
+                ],
+                [
+                    375.0,
+                    123.0
+                ],
+                [
+                    376.0,
+                    123.0
+                ],
+                [
+                    376.0,
+                    120.0
+                ],
+                [
+                    375.0,
+                    120.0
+                ],
+                [
+                    375.0,
+                    119.0
+                ],
+                [
+                    374.0,
+                    119.0
+                ],
+                [
+                    374.0,
+                    118.0
+                ],
+                [
+                    372.0,
+                    118.0
+                ],
+                [
+                    372.0,
+                    117.0
+                ],
+                [
+                    369.0,
+                    117.0
+                ],
+                [
+                    369.0,
+                    116.0
+                ],
+                [
+                    367.0,
+                    116.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

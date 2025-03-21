@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the shed that has a rectangular shape and a roof that stands out in color from its environment.",
+        "Find the rectangular shed whose roof has a unique color that contrasts with the area around it.",
+        "Spot the shed featuring a rectangular design with a roof color that differs from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028232.jpg",
+            "points": [
+                [
+                    509.0,
+                    14.0
+                ],
+                [
+                    509.0,
+                    15.0
+                ],
+                [
+                    508.0,
+                    15.0
+                ],
+                [
+                    508.0,
+                    16.0
+                ],
+                [
+                    506.0,
+                    16.0
+                ],
+                [
+                    506.0,
+                    17.0
+                ],
+                [
+                    505.0,
+                    17.0
+                ],
+                [
+                    505.0,
+                    23.0
+                ],
+                [
+                    506.0,
+                    23.0
+                ],
+                [
+                    506.0,
+                    24.0
+                ],
+                [
+                    507.0,
+                    24.0
+                ],
+                [
+                    507.0,
+                    25.0
+                ],
+                [
+                    509.0,
+                    25.0
+                ],
+                [
+                    509.0,
+                    26.0
+                ],
+                [
+                    512.0,
+                    26.0
+                ],
+                [
+                    512.0,
+                    14.0
+                ],
+                [
+                    509.0,
+                    14.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

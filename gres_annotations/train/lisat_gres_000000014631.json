@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the structure that features a unique red brick exterior, several rectangular windows, and a flat roof set against a lush green backdrop.",
+        "Find the edifice characterized by its notable red brick fa\u00e7ade, numerous rectangular windows, and a flat rooftop amidst a green setting.",
+        "Spot the building that stands out with its red brick front, many rectangular windows, and flat roof positioned against a backdrop of greenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014631.jpg",
+            "points": [
+                [
+                    431.0,
+                    499.0
+                ],
+                [
+                    431.0,
+                    501.0
+                ],
+                [
+                    430.0,
+                    501.0
+                ],
+                [
+                    430.0,
+                    508.0
+                ],
+                [
+                    429.0,
+                    508.0
+                ],
+                [
+                    429.0,
+                    512.0
+                ],
+                [
+                    441.0,
+                    512.0
+                ],
+                [
+                    441.0,
+                    504.0
+                ],
+                [
+                    440.0,
+                    504.0
+                ],
+                [
+                    440.0,
+                    503.0
+                ],
+                [
+                    439.0,
+                    503.0
+                ],
+                [
+                    439.0,
+                    502.0
+                ],
+                [
+                    438.0,
+                    502.0
+                ],
+                [
+                    438.0,
+                    501.0
+                ],
+                [
+                    437.0,
+                    501.0
+                ],
+                [
+                    437.0,
+                    500.0
+                ],
+                [
+                    435.0,
+                    500.0
+                ],
+                [
+                    435.0,
+                    499.0
+                ],
+                [
+                    431.0,
+                    499.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

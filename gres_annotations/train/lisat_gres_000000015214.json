@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Look for the structure that stands out with its unique white exterior and geometric window designs, which contrasts with the darker environment around it.",
+        "Spot the building characterized by its distinct white front and geometric window shapes, creating a stark contrast with the surrounding darker area.",
+        "Find the edifice with a notable white fa\u00e7ade and patterned windows, which contrasts sharply against the darker surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015214.jpg",
+            "points": [
+                [
+                    229.0,
+                    0.0
+                ],
+                [
+                    229.0,
+                    5.0
+                ],
+                [
+                    228.0,
+                    5.0
+                ],
+                [
+                    228.0,
+                    11.0
+                ],
+                [
+                    229.0,
+                    11.0
+                ],
+                [
+                    229.0,
+                    12.0
+                ],
+                [
+                    235.0,
+                    12.0
+                ],
+                [
+                    235.0,
+                    11.0
+                ],
+                [
+                    237.0,
+                    11.0
+                ],
+                [
+                    237.0,
+                    10.0
+                ],
+                [
+                    238.0,
+                    10.0
+                ],
+                [
+                    238.0,
+                    9.0
+                ],
+                [
+                    240.0,
+                    9.0
+                ],
+                [
+                    240.0,
+                    8.0
+                ],
+                [
+                    241.0,
+                    8.0
+                ],
+                [
+                    241.0,
+                    7.0
+                ],
+                [
+                    243.0,
+                    7.0
+                ],
+                [
+                    243.0,
+                    6.0
+                ],
+                [
+                    244.0,
+                    6.0
+                ],
+                [
+                    244.0,
+                    5.0
+                ],
+                [
+                    245.0,
+                    5.0
+                ],
+                [
+                    245.0,
+                    4.0
+                ],
+                [
+                    246.0,
+                    4.0
+                ],
+                [
+                    246.0,
+                    3.0
+                ],
+                [
+                    247.0,
+                    3.0
+                ],
+                [
+                    247.0,
+                    2.0
+                ],
+                [
+                    248.0,
+                    2.0
+                ],
+                [
+                    248.0,
+                    0.0
+                ],
+                [
+                    229.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

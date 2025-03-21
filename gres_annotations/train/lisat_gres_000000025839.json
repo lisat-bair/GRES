@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Look for the truck that has a big vehicle with a rectangular trailer bed, usually metal or brightly colored, connected at the rear.",
+        "Find the truck that features a large vehicle with a rectangular trailer bed, often made of metal or painted in vibrant colors, attached to its back.",
+        "Spot the truck that includes a sizable vehicle with a rectangular trailer bed, typically metallic or vividly colored, linked to the back."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025839.jpg",
+            "points": [
+                [
+                    507.0,
+                    260.0
+                ],
+                [
+                    507.0,
+                    261.0
+                ],
+                [
+                    506.0,
+                    261.0
+                ],
+                [
+                    506.0,
+                    262.0
+                ],
+                [
+                    505.0,
+                    262.0
+                ],
+                [
+                    505.0,
+                    265.0
+                ],
+                [
+                    504.0,
+                    265.0
+                ],
+                [
+                    504.0,
+                    266.0
+                ],
+                [
+                    505.0,
+                    266.0
+                ],
+                [
+                    505.0,
+                    276.0
+                ],
+                [
+                    506.0,
+                    276.0
+                ],
+                [
+                    506.0,
+                    279.0
+                ],
+                [
+                    507.0,
+                    279.0
+                ],
+                [
+                    507.0,
+                    284.0
+                ],
+                [
+                    508.0,
+                    284.0
+                ],
+                [
+                    508.0,
+                    289.0
+                ],
+                [
+                    509.0,
+                    289.0
+                ],
+                [
+                    509.0,
+                    297.0
+                ],
+                [
+                    510.0,
+                    297.0
+                ],
+                [
+                    510.0,
+                    300.0
+                ],
+                [
+                    511.0,
+                    300.0
+                ],
+                [
+                    511.0,
+                    302.0
+                ],
+                [
+                    512.0,
+                    302.0
+                ],
+                [
+                    512.0,
+                    261.0
+                ],
+                [
+                    510.0,
+                    261.0
+                ],
+                [
+                    510.0,
+                    260.0
+                ],
+                [
+                    507.0,
+                    260.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

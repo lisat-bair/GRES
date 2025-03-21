@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the white vehicle that has a shiny exterior and a noticeable shadow on the street.",
+        "Identify the white automobile that features a glossy surface and a prominent shadow on the pavement.",
+        "Spot the white car with a reflective body and a clear shadow cast on the road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021981.jpg",
+            "points": [
+                [
+                    337.0,
+                    58.0
+                ],
+                [
+                    337.0,
+                    59.0
+                ],
+                [
+                    335.0,
+                    59.0
+                ],
+                [
+                    335.0,
+                    61.0
+                ],
+                [
+                    334.0,
+                    61.0
+                ],
+                [
+                    334.0,
+                    65.0
+                ],
+                [
+                    333.0,
+                    65.0
+                ],
+                [
+                    333.0,
+                    70.0
+                ],
+                [
+                    334.0,
+                    70.0
+                ],
+                [
+                    334.0,
+                    71.0
+                ],
+                [
+                    336.0,
+                    71.0
+                ],
+                [
+                    336.0,
+                    72.0
+                ],
+                [
+                    340.0,
+                    72.0
+                ],
+                [
+                    340.0,
+                    71.0
+                ],
+                [
+                    342.0,
+                    71.0
+                ],
+                [
+                    342.0,
+                    70.0
+                ],
+                [
+                    343.0,
+                    70.0
+                ],
+                [
+                    343.0,
+                    68.0
+                ],
+                [
+                    344.0,
+                    68.0
+                ],
+                [
+                    344.0,
+                    60.0
+                ],
+                [
+                    343.0,
+                    60.0
+                ],
+                [
+                    343.0,
+                    59.0
+                ],
+                [
+                    342.0,
+                    59.0
+                ],
+                [
+                    342.0,
+                    58.0
+                ],
+                [
+                    337.0,
+                    58.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

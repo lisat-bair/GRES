@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the truck that has a trailer bed characterized by a large rectangular form with distinct edges and wheels, typically seen in industrial environments.",
+        "Find the truck that comes with a trailer bed designed as a large rectangular structure with sharp edges and wheels, often spotted in industrial areas.",
+        "Spot the truck featuring a trailer bed with a big rectangular shape, clear edges, and wheels, usually present in industrial sites."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019316.jpg",
+            "points": [
+                [
+                    438.0,
+                    505.0
+                ],
+                [
+                    438.0,
+                    506.0
+                ],
+                [
+                    434.0,
+                    506.0
+                ],
+                [
+                    434.0,
+                    507.0
+                ],
+                [
+                    433.0,
+                    507.0
+                ],
+                [
+                    433.0,
+                    508.0
+                ],
+                [
+                    432.0,
+                    508.0
+                ],
+                [
+                    432.0,
+                    510.0
+                ],
+                [
+                    431.0,
+                    510.0
+                ],
+                [
+                    431.0,
+                    512.0
+                ],
+                [
+                    448.0,
+                    512.0
+                ],
+                [
+                    448.0,
+                    509.0
+                ],
+                [
+                    447.0,
+                    509.0
+                ],
+                [
+                    447.0,
+                    508.0
+                ],
+                [
+                    445.0,
+                    508.0
+                ],
+                [
+                    445.0,
+                    507.0
+                ],
+                [
+                    444.0,
+                    507.0
+                ],
+                [
+                    444.0,
+                    506.0
+                ],
+                [
+                    442.0,
+                    506.0
+                ],
+                [
+                    442.0,
+                    505.0
+                ],
+                [
+                    438.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

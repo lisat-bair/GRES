@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the truck that features a tall wheelbase and a unique open-top bed for carrying heavy items.",
+        "Locate the vehicle with an elevated wheelbase and an open-top cargo section meant for hauling substantial loads.",
+        "Find the truck with a higher wheelbase and an open-top area specifically crafted for transporting hefty cargo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022952.jpg",
+            "points": [
+                [
+                    370.0,
+                    354.0
+                ],
+                [
+                    370.0,
+                    355.0
+                ],
+                [
+                    369.0,
+                    355.0
+                ],
+                [
+                    369.0,
+                    356.0
+                ],
+                [
+                    368.0,
+                    356.0
+                ],
+                [
+                    368.0,
+                    358.0
+                ],
+                [
+                    367.0,
+                    358.0
+                ],
+                [
+                    367.0,
+                    370.0
+                ],
+                [
+                    368.0,
+                    370.0
+                ],
+                [
+                    368.0,
+                    371.0
+                ],
+                [
+                    369.0,
+                    371.0
+                ],
+                [
+                    369.0,
+                    372.0
+                ],
+                [
+                    372.0,
+                    372.0
+                ],
+                [
+                    372.0,
+                    371.0
+                ],
+                [
+                    375.0,
+                    371.0
+                ],
+                [
+                    375.0,
+                    370.0
+                ],
+                [
+                    376.0,
+                    370.0
+                ],
+                [
+                    376.0,
+                    369.0
+                ],
+                [
+                    377.0,
+                    369.0
+                ],
+                [
+                    377.0,
+                    356.0
+                ],
+                [
+                    376.0,
+                    356.0
+                ],
+                [
+                    376.0,
+                    355.0
+                ],
+                [
+                    374.0,
+                    355.0
+                ],
+                [
+                    374.0,
+                    354.0
+                ],
+                [
+                    370.0,
+                    354.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the tiny aircraft situated in the lower-right section of the picture.",
+        "Find the little airplane positioned at the bottom-right of the photo.",
+        "Spot the small plane located in the bottom-right area of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023756.jpg",
+            "points": [
+                [
+                    511.0,
+                    404.0
+                ],
+                [
+                    511.0,
+                    405.0
+                ],
+                [
+                    510.0,
+                    405.0
+                ],
+                [
+                    510.0,
+                    410.0
+                ],
+                [
+                    509.0,
+                    410.0
+                ],
+                [
+                    509.0,
+                    412.0
+                ],
+                [
+                    508.0,
+                    412.0
+                ],
+                [
+                    508.0,
+                    413.0
+                ],
+                [
+                    507.0,
+                    413.0
+                ],
+                [
+                    507.0,
+                    416.0
+                ],
+                [
+                    506.0,
+                    416.0
+                ],
+                [
+                    506.0,
+                    419.0
+                ],
+                [
+                    505.0,
+                    419.0
+                ],
+                [
+                    505.0,
+                    421.0
+                ],
+                [
+                    504.0,
+                    421.0
+                ],
+                [
+                    504.0,
+                    424.0
+                ],
+                [
+                    503.0,
+                    424.0
+                ],
+                [
+                    503.0,
+                    427.0
+                ],
+                [
+                    504.0,
+                    427.0
+                ],
+                [
+                    504.0,
+                    426.0
+                ],
+                [
+                    506.0,
+                    426.0
+                ],
+                [
+                    506.0,
+                    425.0
+                ],
+                [
+                    508.0,
+                    425.0
+                ],
+                [
+                    508.0,
+                    426.0
+                ],
+                [
+                    512.0,
+                    426.0
+                ],
+                [
+                    512.0,
+                    404.0
+                ],
+                [
+                    511.0,
+                    404.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

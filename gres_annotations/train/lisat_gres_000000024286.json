@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the truck with a stretched dark outline set against a paler backdrop, marked by a prominent cabin and an extended flatbed design.",
+        "Look for the truck that has a long, dark silhouette contrasting a lighter background, characterized by a distinct cabin and a lengthy flatbed form.",
+        "Find the truck with an elongated shadowy profile against a brighter setting, distinguished by a noticeable cabin and a protracted flatbed shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024286.jpg",
+            "points": [
+                [
+                    14.0,
+                    40.0
+                ],
+                [
+                    14.0,
+                    41.0
+                ],
+                [
+                    13.0,
+                    41.0
+                ],
+                [
+                    13.0,
+                    42.0
+                ],
+                [
+                    12.0,
+                    42.0
+                ],
+                [
+                    12.0,
+                    44.0
+                ],
+                [
+                    11.0,
+                    44.0
+                ],
+                [
+                    11.0,
+                    46.0
+                ],
+                [
+                    10.0,
+                    46.0
+                ],
+                [
+                    10.0,
+                    47.0
+                ],
+                [
+                    9.0,
+                    47.0
+                ],
+                [
+                    9.0,
+                    49.0
+                ],
+                [
+                    8.0,
+                    49.0
+                ],
+                [
+                    8.0,
+                    53.0
+                ],
+                [
+                    9.0,
+                    53.0
+                ],
+                [
+                    9.0,
+                    54.0
+                ],
+                [
+                    14.0,
+                    54.0
+                ],
+                [
+                    14.0,
+                    53.0
+                ],
+                [
+                    15.0,
+                    53.0
+                ],
+                [
+                    15.0,
+                    51.0
+                ],
+                [
+                    16.0,
+                    51.0
+                ],
+                [
+                    16.0,
+                    49.0
+                ],
+                [
+                    17.0,
+                    49.0
+                ],
+                [
+                    17.0,
+                    47.0
+                ],
+                [
+                    18.0,
+                    47.0
+                ],
+                [
+                    18.0,
+                    46.0
+                ],
+                [
+                    19.0,
+                    46.0
+                ],
+                [
+                    19.0,
+                    44.0
+                ],
+                [
+                    20.0,
+                    44.0
+                ],
+                [
+                    20.0,
+                    42.0
+                ],
+                [
+                    19.0,
+                    42.0
+                ],
+                [
+                    19.0,
+                    41.0
+                ],
+                [
+                    18.0,
+                    41.0
+                ],
+                [
+                    18.0,
+                    40.0
+                ],
+                [
+                    14.0,
+                    40.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

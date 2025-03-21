@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Identify the big, rectangular vehicle commonly seen on streets, which is yellow with black detailing and features horizontal stripes on its sides.",
+        "Find the sizable, windowed, rectangular vehicle, usually seen on roads, that is painted yellow with black highlights and has horizontal lines along its sides.",
+        "Spot the large, box-shaped vehicle, often found on roadways, characterized by its yellow color with black trimmings and horizontal markings on its sides."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005920.jpg",
+            "points": [
+                [
+                    459.0,
+                    128.0
+                ],
+                [
+                    459.0,
+                    129.0
+                ],
+                [
+                    458.0,
+                    129.0
+                ],
+                [
+                    458.0,
+                    130.0
+                ],
+                [
+                    457.0,
+                    130.0
+                ],
+                [
+                    457.0,
+                    133.0
+                ],
+                [
+                    458.0,
+                    133.0
+                ],
+                [
+                    458.0,
+                    134.0
+                ],
+                [
+                    459.0,
+                    134.0
+                ],
+                [
+                    459.0,
+                    135.0
+                ],
+                [
+                    461.0,
+                    135.0
+                ],
+                [
+                    461.0,
+                    136.0
+                ],
+                [
+                    464.0,
+                    136.0
+                ],
+                [
+                    464.0,
+                    137.0
+                ],
+                [
+                    469.0,
+                    137.0
+                ],
+                [
+                    469.0,
+                    136.0
+                ],
+                [
+                    471.0,
+                    136.0
+                ],
+                [
+                    471.0,
+                    133.0
+                ],
+                [
+                    470.0,
+                    133.0
+                ],
+                [
+                    470.0,
+                    132.0
+                ],
+                [
+                    469.0,
+                    132.0
+                ],
+                [
+                    469.0,
+                    131.0
+                ],
+                [
+                    467.0,
+                    131.0
+                ],
+                [
+                    467.0,
+                    130.0
+                ],
+                [
+                    465.0,
+                    130.0
+                ],
+                [
+                    465.0,
+                    129.0
+                ],
+                [
+                    462.0,
+                    129.0
+                ],
+                [
+                    462.0,
+                    128.0
+                ],
+                [
+                    459.0,
+                    128.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Look for the truck that is big and rectangular, with a noticeable red hue and shiny surfaces.",
+        "Spot the truck that has a prominent rectangular form, characterized by a bright red color and reflective panels.",
+        "Find the truck with a large rectangular build, distinguished by its vivid red color and glossy exteriors."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022949.jpg",
+            "points": [
+                [
+                    440.0,
+                    80.0
+                ],
+                [
+                    440.0,
+                    81.0
+                ],
+                [
+                    439.0,
+                    81.0
+                ],
+                [
+                    439.0,
+                    92.0
+                ],
+                [
+                    440.0,
+                    92.0
+                ],
+                [
+                    440.0,
+                    96.0
+                ],
+                [
+                    447.0,
+                    96.0
+                ],
+                [
+                    447.0,
+                    95.0
+                ],
+                [
+                    448.0,
+                    95.0
+                ],
+                [
+                    448.0,
+                    91.0
+                ],
+                [
+                    449.0,
+                    91.0
+                ],
+                [
+                    449.0,
+                    87.0
+                ],
+                [
+                    448.0,
+                    87.0
+                ],
+                [
+                    448.0,
+                    81.0
+                ],
+                [
+                    447.0,
+                    81.0
+                ],
+                [
+                    447.0,
+                    80.0
+                ],
+                [
+                    440.0,
+                    80.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

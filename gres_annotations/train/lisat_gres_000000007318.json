@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Look for the bus that features a large, rectangular design and vivid colors, with windows running along its sides.",
+        "Spot the bus characterized by its sizable, box-like form and striking colors, with windows situated along its lateral sides.",
+        "Find the bus with a big, cuboid shape and vibrant colors, distinguished by windows placed along its side panels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007318.jpg",
+            "points": [
+                [
+                    227.0,
+                    507.0
+                ],
+                [
+                    227.0,
+                    508.0
+                ],
+                [
+                    224.0,
+                    508.0
+                ],
+                [
+                    224.0,
+                    509.0
+                ],
+                [
+                    225.0,
+                    509.0
+                ],
+                [
+                    225.0,
+                    510.0
+                ],
+                [
+                    226.0,
+                    510.0
+                ],
+                [
+                    226.0,
+                    511.0
+                ],
+                [
+                    227.0,
+                    511.0
+                ],
+                [
+                    227.0,
+                    512.0
+                ],
+                [
+                    243.0,
+                    512.0
+                ],
+                [
+                    243.0,
+                    511.0
+                ],
+                [
+                    241.0,
+                    511.0
+                ],
+                [
+                    241.0,
+                    510.0
+                ],
+                [
+                    237.0,
+                    510.0
+                ],
+                [
+                    237.0,
+                    509.0
+                ],
+                [
+                    233.0,
+                    509.0
+                ],
+                [
+                    233.0,
+                    508.0
+                ],
+                [
+                    229.0,
+                    508.0
+                ],
+                [
+                    229.0,
+                    507.0
+                ],
+                [
+                    227.0,
+                    507.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

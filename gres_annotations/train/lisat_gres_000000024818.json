@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the car in the picture that has a unique glossy exterior and metallic shine.",
+        "Find the vehicle in the image featuring a standout glossy finish and metallic reflections.",
+        "Locate the automobile with a special glossy surface and metallic highlights in the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024818.jpg",
+            "points": [
+                [
+                    170.0,
+                    144.0
+                ],
+                [
+                    170.0,
+                    145.0
+                ],
+                [
+                    168.0,
+                    145.0
+                ],
+                [
+                    168.0,
+                    157.0
+                ],
+                [
+                    169.0,
+                    157.0
+                ],
+                [
+                    169.0,
+                    159.0
+                ],
+                [
+                    174.0,
+                    159.0
+                ],
+                [
+                    174.0,
+                    158.0
+                ],
+                [
+                    175.0,
+                    158.0
+                ],
+                [
+                    175.0,
+                    157.0
+                ],
+                [
+                    176.0,
+                    157.0
+                ],
+                [
+                    176.0,
+                    151.0
+                ],
+                [
+                    175.0,
+                    151.0
+                ],
+                [
+                    175.0,
+                    147.0
+                ],
+                [
+                    174.0,
+                    147.0
+                ],
+                [
+                    174.0,
+                    145.0
+                ],
+                [
+                    173.0,
+                    145.0
+                ],
+                [
+                    173.0,
+                    144.0
+                ],
+                [
+                    170.0,
+                    144.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

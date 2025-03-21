@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the truck in the picture that stands out with clear lines and a rectangular form against the fuzzy, brown backdrop.",
+        "Identify the vehicle in the photo with sharp edges and a boxy appearance that contrasts with the blurred, brown scenery.",
+        "Spot the truck in the image that features distinct outlines and a box-shaped form, set against the unclear, brown background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023257.jpg",
+            "points": [
+                [
+                    140.0,
+                    415.0
+                ],
+                [
+                    140.0,
+                    416.0
+                ],
+                [
+                    137.0,
+                    416.0
+                ],
+                [
+                    137.0,
+                    417.0
+                ],
+                [
+                    136.0,
+                    417.0
+                ],
+                [
+                    136.0,
+                    420.0
+                ],
+                [
+                    137.0,
+                    420.0
+                ],
+                [
+                    137.0,
+                    422.0
+                ],
+                [
+                    138.0,
+                    422.0
+                ],
+                [
+                    138.0,
+                    423.0
+                ],
+                [
+                    146.0,
+                    423.0
+                ],
+                [
+                    146.0,
+                    424.0
+                ],
+                [
+                    149.0,
+                    424.0
+                ],
+                [
+                    149.0,
+                    423.0
+                ],
+                [
+                    151.0,
+                    423.0
+                ],
+                [
+                    151.0,
+                    420.0
+                ],
+                [
+                    152.0,
+                    420.0
+                ],
+                [
+                    152.0,
+                    418.0
+                ],
+                [
+                    151.0,
+                    418.0
+                ],
+                [
+                    151.0,
+                    416.0
+                ],
+                [
+                    142.0,
+                    416.0
+                ],
+                [
+                    142.0,
+                    415.0
+                ],
+                [
+                    140.0,
+                    415.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

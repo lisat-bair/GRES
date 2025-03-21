@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for the passenger vehicle that features a medium metallic hue and has noticeable smooth curves.",
+        "Find the passenger car that has a medium metallic color and is characterized by its unique rounded edges.",
+        "Seek out the passenger automobile with a medium-toned metallic finish and distinctive round contours."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012438.jpg",
+            "points": [
+                [
+                    395.0,
+                    456.0
+                ],
+                [
+                    395.0,
+                    458.0
+                ],
+                [
+                    394.0,
+                    458.0
+                ],
+                [
+                    394.0,
+                    460.0
+                ],
+                [
+                    393.0,
+                    460.0
+                ],
+                [
+                    393.0,
+                    463.0
+                ],
+                [
+                    394.0,
+                    463.0
+                ],
+                [
+                    394.0,
+                    464.0
+                ],
+                [
+                    396.0,
+                    464.0
+                ],
+                [
+                    396.0,
+                    465.0
+                ],
+                [
+                    399.0,
+                    465.0
+                ],
+                [
+                    399.0,
+                    466.0
+                ],
+                [
+                    401.0,
+                    466.0
+                ],
+                [
+                    401.0,
+                    467.0
+                ],
+                [
+                    405.0,
+                    467.0
+                ],
+                [
+                    405.0,
+                    468.0
+                ],
+                [
+                    409.0,
+                    468.0
+                ],
+                [
+                    409.0,
+                    467.0
+                ],
+                [
+                    410.0,
+                    467.0
+                ],
+                [
+                    410.0,
+                    466.0
+                ],
+                [
+                    411.0,
+                    466.0
+                ],
+                [
+                    411.0,
+                    464.0
+                ],
+                [
+                    412.0,
+                    464.0
+                ],
+                [
+                    412.0,
+                    462.0
+                ],
+                [
+                    411.0,
+                    462.0
+                ],
+                [
+                    411.0,
+                    461.0
+                ],
+                [
+                    410.0,
+                    461.0
+                ],
+                [
+                    410.0,
+                    460.0
+                ],
+                [
+                    409.0,
+                    460.0
+                ],
+                [
+                    409.0,
+                    459.0
+                ],
+                [
+                    408.0,
+                    459.0
+                ],
+                [
+                    408.0,
+                    458.0
+                ],
+                [
+                    405.0,
+                    458.0
+                ],
+                [
+                    405.0,
+                    457.0
+                ],
+                [
+                    402.0,
+                    457.0
+                ],
+                [
+                    402.0,
+                    456.0
+                ],
+                [
+                    395.0,
+                    456.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

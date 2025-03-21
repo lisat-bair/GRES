@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the truck that has a white cab and a rectangular load space, situated a bit to the right in the picture.",
+        "Identify the vehicle with a white cabin and a box-shaped cargo section, located slightly to the right in the photo.",
+        "Spot the truck featuring a white cabin and a rectangular storage area, placed just to the right within the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012791.jpg",
+            "points": [
+                [
+                    89.0,
+                    0.0
+                ],
+                [
+                    89.0,
+                    8.0
+                ],
+                [
+                    92.0,
+                    8.0
+                ],
+                [
+                    92.0,
+                    9.0
+                ],
+                [
+                    97.0,
+                    9.0
+                ],
+                [
+                    97.0,
+                    8.0
+                ],
+                [
+                    104.0,
+                    8.0
+                ],
+                [
+                    104.0,
+                    7.0
+                ],
+                [
+                    105.0,
+                    7.0
+                ],
+                [
+                    105.0,
+                    4.0
+                ],
+                [
+                    106.0,
+                    4.0
+                ],
+                [
+                    106.0,
+                    3.0
+                ],
+                [
+                    105.0,
+                    3.0
+                ],
+                [
+                    105.0,
+                    0.0
+                ],
+                [
+                    89.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

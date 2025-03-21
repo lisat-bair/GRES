@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Recognize the vehicle in the photo even though it's blurry.",
+        "Spot the car in the picture regardless of the blurriness.",
+        "Determine the type of car shown in the image despite the lack of clarity."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010978.jpg",
+            "points": [
+                [
+                    77.0,
+                    3.0
+                ],
+                [
+                    77.0,
+                    4.0
+                ],
+                [
+                    76.0,
+                    4.0
+                ],
+                [
+                    76.0,
+                    5.0
+                ],
+                [
+                    75.0,
+                    5.0
+                ],
+                [
+                    75.0,
+                    9.0
+                ],
+                [
+                    74.0,
+                    9.0
+                ],
+                [
+                    74.0,
+                    13.0
+                ],
+                [
+                    75.0,
+                    13.0
+                ],
+                [
+                    75.0,
+                    15.0
+                ],
+                [
+                    76.0,
+                    15.0
+                ],
+                [
+                    76.0,
+                    16.0
+                ],
+                [
+                    77.0,
+                    16.0
+                ],
+                [
+                    77.0,
+                    17.0
+                ],
+                [
+                    83.0,
+                    17.0
+                ],
+                [
+                    83.0,
+                    16.0
+                ],
+                [
+                    84.0,
+                    16.0
+                ],
+                [
+                    84.0,
+                    6.0
+                ],
+                [
+                    83.0,
+                    6.0
+                ],
+                [
+                    83.0,
+                    4.0
+                ],
+                [
+                    81.0,
+                    4.0
+                ],
+                [
+                    81.0,
+                    3.0
+                ],
+                [
+                    77.0,
+                    3.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

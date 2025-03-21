@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the big metal rectangle with a shiny finish and vertical stripes in the picture.",
+        "In the image, identify the large metallic structure that has a reflective surface and vertical lines.",
+        "Spot the sizable rectangular metal object with a glossy surface and vertical markings visible in the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004818.jpg",
+            "points": [
+                [
+                    60.0,
+                    83.0
+                ],
+                [
+                    60.0,
+                    84.0
+                ],
+                [
+                    59.0,
+                    84.0
+                ],
+                [
+                    59.0,
+                    88.0
+                ],
+                [
+                    58.0,
+                    88.0
+                ],
+                [
+                    58.0,
+                    99.0
+                ],
+                [
+                    59.0,
+                    99.0
+                ],
+                [
+                    59.0,
+                    100.0
+                ],
+                [
+                    63.0,
+                    100.0
+                ],
+                [
+                    63.0,
+                    101.0
+                ],
+                [
+                    70.0,
+                    101.0
+                ],
+                [
+                    70.0,
+                    100.0
+                ],
+                [
+                    71.0,
+                    100.0
+                ],
+                [
+                    71.0,
+                    99.0
+                ],
+                [
+                    72.0,
+                    99.0
+                ],
+                [
+                    72.0,
+                    95.0
+                ],
+                [
+                    73.0,
+                    95.0
+                ],
+                [
+                    73.0,
+                    84.0
+                ],
+                [
+                    70.0,
+                    84.0
+                ],
+                [
+                    70.0,
+                    83.0
+                ],
+                [
+                    60.0,
+                    83.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the dump located in the lower-right corner of the picture.",
+        "Look for the dump situated in the bottom-right section of the image.",
+        "Identify the dump positioned in the lower-right area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036106.jpg",
+            "points": [
+                [
+                    115.0,
+                    503.0
+                ],
+                [
+                    115.0,
+                    504.0
+                ],
+                [
+                    113.0,
+                    504.0
+                ],
+                [
+                    113.0,
+                    507.0
+                ],
+                [
+                    112.0,
+                    507.0
+                ],
+                [
+                    112.0,
+                    512.0
+                ],
+                [
+                    135.0,
+                    512.0
+                ],
+                [
+                    135.0,
+                    509.0
+                ],
+                [
+                    134.0,
+                    509.0
+                ],
+                [
+                    134.0,
+                    507.0
+                ],
+                [
+                    133.0,
+                    507.0
+                ],
+                [
+                    133.0,
+                    506.0
+                ],
+                [
+                    131.0,
+                    506.0
+                ],
+                [
+                    131.0,
+                    505.0
+                ],
+                [
+                    128.0,
+                    505.0
+                ],
+                [
+                    128.0,
+                    504.0
+                ],
+                [
+                    120.0,
+                    504.0
+                ],
+                [
+                    120.0,
+                    503.0
+                ],
+                [
+                    115.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

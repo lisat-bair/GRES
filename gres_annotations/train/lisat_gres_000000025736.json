@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Find the building that has a rectangular shape and prominent edges, standing out with a lighter appearance from its environment.",
+        "Identify the structure that is rectangular, featuring noticeable edges and a lighter hue than the area around it.",
+        "Spot the building characterized by its rectangular form and distinct borders, which looks lighter compared to its neighboring structures."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025736.jpg",
+            "points": [
+                [
+                    253.0,
+                    30.0
+                ],
+                [
+                    253.0,
+                    31.0
+                ],
+                [
+                    248.0,
+                    31.0
+                ],
+                [
+                    248.0,
+                    32.0
+                ],
+                [
+                    242.0,
+                    32.0
+                ],
+                [
+                    242.0,
+                    33.0
+                ],
+                [
+                    241.0,
+                    33.0
+                ],
+                [
+                    241.0,
+                    36.0
+                ],
+                [
+                    242.0,
+                    36.0
+                ],
+                [
+                    242.0,
+                    39.0
+                ],
+                [
+                    243.0,
+                    39.0
+                ],
+                [
+                    243.0,
+                    41.0
+                ],
+                [
+                    244.0,
+                    41.0
+                ],
+                [
+                    244.0,
+                    43.0
+                ],
+                [
+                    245.0,
+                    43.0
+                ],
+                [
+                    245.0,
+                    45.0
+                ],
+                [
+                    246.0,
+                    45.0
+                ],
+                [
+                    246.0,
+                    46.0
+                ],
+                [
+                    255.0,
+                    46.0
+                ],
+                [
+                    255.0,
+                    45.0
+                ],
+                [
+                    261.0,
+                    45.0
+                ],
+                [
+                    261.0,
+                    44.0
+                ],
+                [
+                    263.0,
+                    44.0
+                ],
+                [
+                    263.0,
+                    40.0
+                ],
+                [
+                    262.0,
+                    40.0
+                ],
+                [
+                    262.0,
+                    38.0
+                ],
+                [
+                    261.0,
+                    38.0
+                ],
+                [
+                    261.0,
+                    35.0
+                ],
+                [
+                    260.0,
+                    35.0
+                ],
+                [
+                    260.0,
+                    32.0
+                ],
+                [
+                    259.0,
+                    32.0
+                ],
+                [
+                    259.0,
+                    31.0
+                ],
+                [
+                    258.0,
+                    31.0
+                ],
+                [
+                    258.0,
+                    30.0
+                ],
+                [
+                    253.0,
+                    30.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

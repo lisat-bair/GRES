@@ -1,0 +1,61 @@
+{
+    "text": [
+        "Find the truck that has noticeable yellow accents and a rectangular form.",
+        "Look for the vehicle that features striking yellow highlights and has a square shape.",
+        "Identify the truck with distinct yellow markings and a cuboid design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021706.jpg",
+            "points": [
+                [
+                    219.0,
+                    185.0
+                ],
+                [
+                    219.0,
+                    186.0
+                ],
+                [
+                    218.0,
+                    186.0
+                ],
+                [
+                    218.0,
+                    188.0
+                ],
+                [
+                    219.0,
+                    188.0
+                ],
+                [
+                    219.0,
+                    189.0
+                ],
+                [
+                    226.0,
+                    189.0
+                ],
+                [
+                    226.0,
+                    185.0
+                ],
+                [
+                    219.0,
+                    185.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Point out the tower located in the bottom-right part of the picture.",
+        "Locate the tower construction found in the lower-right section of the image.",
+        "Highlight the tower formation situated in the bottom-right corner of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026090.jpg",
+            "points": [
+                [
+                    498.0,
+                    460.0
+                ],
+                [
+                    498.0,
+                    461.0
+                ],
+                [
+                    497.0,
+                    461.0
+                ],
+                [
+                    497.0,
+                    466.0
+                ],
+                [
+                    496.0,
+                    466.0
+                ],
+                [
+                    496.0,
+                    469.0
+                ],
+                [
+                    497.0,
+                    469.0
+                ],
+                [
+                    497.0,
+                    470.0
+                ],
+                [
+                    498.0,
+                    470.0
+                ],
+                [
+                    498.0,
+                    471.0
+                ],
+                [
+                    499.0,
+                    471.0
+                ],
+                [
+                    499.0,
+                    472.0
+                ],
+                [
+                    502.0,
+                    472.0
+                ],
+                [
+                    502.0,
+                    473.0
+                ],
+                [
+                    509.0,
+                    473.0
+                ],
+                [
+                    509.0,
+                    474.0
+                ],
+                [
+                    512.0,
+                    474.0
+                ],
+                [
+                    512.0,
+                    464.0
+                ],
+                [
+                    511.0,
+                    464.0
+                ],
+                [
+                    511.0,
+                    463.0
+                ],
+                [
+                    510.0,
+                    463.0
+                ],
+                [
+                    510.0,
+                    462.0
+                ],
+                [
+                    508.0,
+                    462.0
+                ],
+                [
+                    508.0,
+                    461.0
+                ],
+                [
+                    506.0,
+                    461.0
+                ],
+                [
+                    506.0,
+                    460.0
+                ],
+                [
+                    498.0,
+                    460.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

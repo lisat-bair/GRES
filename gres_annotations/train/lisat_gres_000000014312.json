@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the structure characterized by unique brown hues and upright lines that stand out against its environment.",
+        "Identify the edifice that features prominent brown shades and vertical stripes, which set it apart from the area around it.",
+        "Spot the construction with notable brown colors and straight lines that differ from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014312.jpg",
+            "points": [
+                [
+                    0.0,
+                    143.0
+                ],
+                [
+                    0.0,
+                    154.0
+                ],
+                [
+                    2.0,
+                    154.0
+                ],
+                [
+                    2.0,
+                    153.0
+                ],
+                [
+                    3.0,
+                    153.0
+                ],
+                [
+                    3.0,
+                    151.0
+                ],
+                [
+                    4.0,
+                    151.0
+                ],
+                [
+                    4.0,
+                    150.0
+                ],
+                [
+                    5.0,
+                    150.0
+                ],
+                [
+                    5.0,
+                    147.0
+                ],
+                [
+                    4.0,
+                    147.0
+                ],
+                [
+                    4.0,
+                    146.0
+                ],
+                [
+                    3.0,
+                    146.0
+                ],
+                [
+                    3.0,
+                    145.0
+                ],
+                [
+                    2.0,
+                    145.0
+                ],
+                [
+                    2.0,
+                    144.0
+                ],
+                [
+                    1.0,
+                    144.0
+                ],
+                [
+                    1.0,
+                    143.0
+                ],
+                [
+                    0.0,
+                    143.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

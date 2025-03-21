@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the automobile that has a metallic finish and sharp, distinctive lines characteristic of a car.",
+        "Identify the car that features a metallic surface and pronounced angular shapes typical of a vehicle.",
+        "Look for the vehicle that exhibits a shiny metallic appearance and notable angular contours indicative of a car."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005287.jpg",
+            "points": [
+                [
+                    249.0,
+                    112.0
+                ],
+                [
+                    249.0,
+                    113.0
+                ],
+                [
+                    248.0,
+                    113.0
+                ],
+                [
+                    248.0,
+                    115.0
+                ],
+                [
+                    247.0,
+                    115.0
+                ],
+                [
+                    247.0,
+                    117.0
+                ],
+                [
+                    246.0,
+                    117.0
+                ],
+                [
+                    246.0,
+                    121.0
+                ],
+                [
+                    247.0,
+                    121.0
+                ],
+                [
+                    247.0,
+                    122.0
+                ],
+                [
+                    252.0,
+                    122.0
+                ],
+                [
+                    252.0,
+                    121.0
+                ],
+                [
+                    253.0,
+                    121.0
+                ],
+                [
+                    253.0,
+                    120.0
+                ],
+                [
+                    254.0,
+                    120.0
+                ],
+                [
+                    254.0,
+                    118.0
+                ],
+                [
+                    255.0,
+                    118.0
+                ],
+                [
+                    255.0,
+                    113.0
+                ],
+                [
+                    254.0,
+                    113.0
+                ],
+                [
+                    254.0,
+                    112.0
+                ],
+                [
+                    249.0,
+                    112.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

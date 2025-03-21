@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for the truck that has a noticeable dark body and a unique rectangular design, with a light-colored front part that stands out.",
+        "Find the truck characterized by its sizable dark body and distinct rectangular form, highlighted by a prominently lighter front area.",
+        "Spot the truck with a large, dark exterior and a unique rectangular shape, marked by a visibly lighter section at the front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009980.jpg",
+            "points": [
+                [
+                    439.0,
+                    237.0
+                ],
+                [
+                    439.0,
+                    238.0
+                ],
+                [
+                    437.0,
+                    238.0
+                ],
+                [
+                    437.0,
+                    239.0
+                ],
+                [
+                    436.0,
+                    239.0
+                ],
+                [
+                    436.0,
+                    240.0
+                ],
+                [
+                    435.0,
+                    240.0
+                ],
+                [
+                    435.0,
+                    241.0
+                ],
+                [
+                    434.0,
+                    241.0
+                ],
+                [
+                    434.0,
+                    243.0
+                ],
+                [
+                    433.0,
+                    243.0
+                ],
+                [
+                    433.0,
+                    249.0
+                ],
+                [
+                    434.0,
+                    249.0
+                ],
+                [
+                    434.0,
+                    250.0
+                ],
+                [
+                    435.0,
+                    250.0
+                ],
+                [
+                    435.0,
+                    251.0
+                ],
+                [
+                    437.0,
+                    251.0
+                ],
+                [
+                    437.0,
+                    250.0
+                ],
+                [
+                    439.0,
+                    250.0
+                ],
+                [
+                    439.0,
+                    249.0
+                ],
+                [
+                    441.0,
+                    249.0
+                ],
+                [
+                    441.0,
+                    248.0
+                ],
+                [
+                    443.0,
+                    248.0
+                ],
+                [
+                    443.0,
+                    247.0
+                ],
+                [
+                    445.0,
+                    247.0
+                ],
+                [
+                    445.0,
+                    246.0
+                ],
+                [
+                    446.0,
+                    246.0
+                ],
+                [
+                    446.0,
+                    245.0
+                ],
+                [
+                    447.0,
+                    245.0
+                ],
+                [
+                    447.0,
+                    244.0
+                ],
+                [
+                    448.0,
+                    244.0
+                ],
+                [
+                    448.0,
+                    239.0
+                ],
+                [
+                    447.0,
+                    239.0
+                ],
+                [
+                    447.0,
+                    238.0
+                ],
+                [
+                    446.0,
+                    238.0
+                ],
+                [
+                    446.0,
+                    237.0
+                ],
+                [
+                    439.0,
+                    237.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

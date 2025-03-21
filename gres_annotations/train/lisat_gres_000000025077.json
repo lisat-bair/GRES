@@ -1,0 +1,41 @@
+{
+    "text": [
+        "Find the structure that is rectangular and has a lighter shade of brown, which stands out from the darker brown designs around it.",
+        "Search for the rectangular edifice that is a slightly paler brown, differing from the darker brown motifs encircling it.",
+        "Identify the rectangle-shaped building with a somewhat lighter brown tint, setting it apart from the darker brown surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025077.jpg",
+            "points": [
+                [
+                    291,
+                    466
+                ],
+                [
+                    444,
+                    466
+                ],
+                [
+                    444,
+                    512
+                ],
+                [
+                    291,
+                    512
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the truck that has a unique boxy appearance and is bigger than the other vehicles in the picture.",
+        "Find the vehicle with a noticeable rectangular form and larger dimensions than the others in the image.",
+        "Locate the truck that stands out with its box-shaped design and greater size compared to the rest of the vehicles shown."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024940.jpg",
+            "points": [
+                [
+                    368.0,
+                    319.0
+                ],
+                [
+                    368.0,
+                    320.0
+                ],
+                [
+                    367.0,
+                    320.0
+                ],
+                [
+                    367.0,
+                    324.0
+                ],
+                [
+                    368.0,
+                    324.0
+                ],
+                [
+                    368.0,
+                    328.0
+                ],
+                [
+                    379.0,
+                    328.0
+                ],
+                [
+                    379.0,
+                    329.0
+                ],
+                [
+                    382.0,
+                    329.0
+                ],
+                [
+                    382.0,
+                    331.0
+                ],
+                [
+                    385.0,
+                    331.0
+                ],
+                [
+                    385.0,
+                    330.0
+                ],
+                [
+                    386.0,
+                    330.0
+                ],
+                [
+                    386.0,
+                    329.0
+                ],
+                [
+                    387.0,
+                    329.0
+                ],
+                [
+                    387.0,
+                    328.0
+                ],
+                [
+                    386.0,
+                    328.0
+                ],
+                [
+                    386.0,
+                    324.0
+                ],
+                [
+                    384.0,
+                    324.0
+                ],
+                [
+                    384.0,
+                    322.0
+                ],
+                [
+                    382.0,
+                    322.0
+                ],
+                [
+                    382.0,
+                    321.0
+                ],
+                [
+                    381.0,
+                    321.0
+                ],
+                [
+                    381.0,
+                    322.0
+                ],
+                [
+                    379.0,
+                    322.0
+                ],
+                [
+                    379.0,
+                    321.0
+                ],
+                [
+                    376.0,
+                    321.0
+                ],
+                [
+                    376.0,
+                    320.0
+                ],
+                [
+                    373.0,
+                    320.0
+                ],
+                [
+                    373.0,
+                    319.0
+                ],
+                [
+                    368.0,
+                    319.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

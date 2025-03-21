@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for a long, rectangular light brown vehicle set against a darker backdrop to find the truck featuring a trailer bed.",
+        "To locate the truck with the trailer bed, seek a vehicle that is light brown and elongated in shape against a darker setting.",
+        "Spot the truck with a trailer bed by identifying the light brown, elongated rectangular vehicle on a darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005459.jpg",
+            "points": [
+                [
+                    477.0,
+                    56.0
+                ],
+                [
+                    477.0,
+                    59.0
+                ],
+                [
+                    476.0,
+                    59.0
+                ],
+                [
+                    476.0,
+                    65.0
+                ],
+                [
+                    478.0,
+                    65.0
+                ],
+                [
+                    478.0,
+                    66.0
+                ],
+                [
+                    483.0,
+                    66.0
+                ],
+                [
+                    483.0,
+                    67.0
+                ],
+                [
+                    486.0,
+                    67.0
+                ],
+                [
+                    486.0,
+                    68.0
+                ],
+                [
+                    490.0,
+                    68.0
+                ],
+                [
+                    490.0,
+                    69.0
+                ],
+                [
+                    494.0,
+                    69.0
+                ],
+                [
+                    494.0,
+                    70.0
+                ],
+                [
+                    497.0,
+                    70.0
+                ],
+                [
+                    497.0,
+                    71.0
+                ],
+                [
+                    502.0,
+                    71.0
+                ],
+                [
+                    502.0,
+                    72.0
+                ],
+                [
+                    506.0,
+                    72.0
+                ],
+                [
+                    506.0,
+                    73.0
+                ],
+                [
+                    511.0,
+                    73.0
+                ],
+                [
+                    511.0,
+                    74.0
+                ],
+                [
+                    512.0,
+                    74.0
+                ],
+                [
+                    512.0,
+                    62.0
+                ],
+                [
+                    509.0,
+                    62.0
+                ],
+                [
+                    509.0,
+                    61.0
+                ],
+                [
+                    504.0,
+                    61.0
+                ],
+                [
+                    504.0,
+                    60.0
+                ],
+                [
+                    500.0,
+                    60.0
+                ],
+                [
+                    500.0,
+                    59.0
+                ],
+                [
+                    495.0,
+                    59.0
+                ],
+                [
+                    495.0,
+                    58.0
+                ],
+                [
+                    490.0,
+                    58.0
+                ],
+                [
+                    490.0,
+                    57.0
+                ],
+                [
+                    484.0,
+                    57.0
+                ],
+                [
+                    484.0,
+                    56.0
+                ],
+                [
+                    477.0,
+                    56.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

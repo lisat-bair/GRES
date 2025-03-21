@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Identify the truck by looking for the smaller, darker vehicle placed to the right of the bigger white trucks.",
+        "Find the truck by spotting the darker, smaller vehicle located on the right side of the larger white trucks.",
+        "Search for the truck by locating the smaller, darker vehicle that is situated to the right of the bigger white trucks."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035769.jpg",
+            "points": [
+                [
+                    464.0,
+                    321.0
+                ],
+                [
+                    464.0,
+                    323.0
+                ],
+                [
+                    463.0,
+                    323.0
+                ],
+                [
+                    463.0,
+                    329.0
+                ],
+                [
+                    464.0,
+                    329.0
+                ],
+                [
+                    464.0,
+                    330.0
+                ],
+                [
+                    474.0,
+                    330.0
+                ],
+                [
+                    474.0,
+                    329.0
+                ],
+                [
+                    479.0,
+                    329.0
+                ],
+                [
+                    479.0,
+                    328.0
+                ],
+                [
+                    480.0,
+                    328.0
+                ],
+                [
+                    480.0,
+                    325.0
+                ],
+                [
+                    476.0,
+                    325.0
+                ],
+                [
+                    476.0,
+                    324.0
+                ],
+                [
+                    475.0,
+                    324.0
+                ],
+                [
+                    475.0,
+                    322.0
+                ],
+                [
+                    472.0,
+                    322.0
+                ],
+                [
+                    472.0,
+                    321.0
+                ],
+                [
+                    464.0,
+                    321.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the bus that features several windows and noticeable horizontal stripes, often painted in vivid hues such as yellow or red.",
+        "Look for the bus that has many windows and clear horizontal patterns, usually displayed in bright colors like yellow or red.",
+        "Identify the bus with numerous windows and prominent horizontal lines, commonly seen in striking shades like yellow or red."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036040.jpg",
+            "points": [
+                [
+                    146.0,
+                    72.0
+                ],
+                [
+                    146.0,
+                    73.0
+                ],
+                [
+                    145.0,
+                    73.0
+                ],
+                [
+                    145.0,
+                    74.0
+                ],
+                [
+                    144.0,
+                    74.0
+                ],
+                [
+                    144.0,
+                    79.0
+                ],
+                [
+                    145.0,
+                    79.0
+                ],
+                [
+                    145.0,
+                    80.0
+                ],
+                [
+                    146.0,
+                    80.0
+                ],
+                [
+                    146.0,
+                    81.0
+                ],
+                [
+                    175.0,
+                    81.0
+                ],
+                [
+                    175.0,
+                    74.0
+                ],
+                [
+                    174.0,
+                    74.0
+                ],
+                [
+                    174.0,
+                    73.0
+                ],
+                [
+                    160.0,
+                    73.0
+                ],
+                [
+                    160.0,
+                    72.0
+                ],
+                [
+                    146.0,
+                    72.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

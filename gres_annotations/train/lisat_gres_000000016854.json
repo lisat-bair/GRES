@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Determine the type of vehicle in the photo, even though the dark backdrop renders it unseen.",
+        "Spot the automobile in the picture, despite it blending into the black background.",
+        "Recognize the car in the image, although the black background conceals it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016854.jpg",
+            "points": [
+                [
+                    67.0,
+                    508.0
+                ],
+                [
+                    67.0,
+                    509.0
+                ],
+                [
+                    61.0,
+                    509.0
+                ],
+                [
+                    61.0,
+                    510.0
+                ],
+                [
+                    60.0,
+                    510.0
+                ],
+                [
+                    60.0,
+                    511.0
+                ],
+                [
+                    58.0,
+                    511.0
+                ],
+                [
+                    58.0,
+                    512.0
+                ],
+                [
+                    76.0,
+                    512.0
+                ],
+                [
+                    76.0,
+                    510.0
+                ],
+                [
+                    75.0,
+                    510.0
+                ],
+                [
+                    75.0,
+                    509.0
+                ],
+                [
+                    69.0,
+                    509.0
+                ],
+                [
+                    69.0,
+                    508.0
+                ],
+                [
+                    67.0,
+                    508.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

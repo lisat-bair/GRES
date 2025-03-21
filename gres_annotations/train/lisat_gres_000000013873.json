@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the vehicle situated in the lower-left corner of the picture, characterized by a small rectangular form.",
+        "Identify the car located in the bottom-left section of the image, distinguished by its small rectangular shape.",
+        "Spot the automobile in the bottom-left part of the photo, which has a small rectangular appearance."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013873.jpg",
+            "points": [
+                [
+                    115.0,
+                    485.0
+                ],
+                [
+                    115.0,
+                    486.0
+                ],
+                [
+                    114.0,
+                    486.0
+                ],
+                [
+                    114.0,
+                    487.0
+                ],
+                [
+                    113.0,
+                    487.0
+                ],
+                [
+                    113.0,
+                    494.0
+                ],
+                [
+                    114.0,
+                    494.0
+                ],
+                [
+                    114.0,
+                    498.0
+                ],
+                [
+                    115.0,
+                    498.0
+                ],
+                [
+                    115.0,
+                    499.0
+                ],
+                [
+                    116.0,
+                    499.0
+                ],
+                [
+                    116.0,
+                    500.0
+                ],
+                [
+                    121.0,
+                    500.0
+                ],
+                [
+                    121.0,
+                    499.0
+                ],
+                [
+                    122.0,
+                    499.0
+                ],
+                [
+                    122.0,
+                    498.0
+                ],
+                [
+                    123.0,
+                    498.0
+                ],
+                [
+                    123.0,
+                    496.0
+                ],
+                [
+                    124.0,
+                    496.0
+                ],
+                [
+                    124.0,
+                    489.0
+                ],
+                [
+                    123.0,
+                    489.0
+                ],
+                [
+                    123.0,
+                    488.0
+                ],
+                [
+                    122.0,
+                    488.0
+                ],
+                [
+                    122.0,
+                    487.0
+                ],
+                [
+                    121.0,
+                    487.0
+                ],
+                [
+                    121.0,
+                    486.0
+                ],
+                [
+                    120.0,
+                    486.0
+                ],
+                [
+                    120.0,
+                    485.0
+                ],
+                [
+                    115.0,
+                    485.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

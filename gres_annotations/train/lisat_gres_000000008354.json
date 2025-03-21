@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the vehicle with a polished metallic exterior and unique curves that catch the light against the shadowy backdrop.",
+        "Spot the automobile whose sleek metal surface and pronounced shapes shine with highlights set against a dim background.",
+        "Find the car with a glistening metallic finish and defined outlines that reflect the light against a darkened backdrop."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008354.jpg",
+            "points": [
+                [
+                    99.0,
+                    39.0
+                ],
+                [
+                    99.0,
+                    40.0
+                ],
+                [
+                    98.0,
+                    40.0
+                ],
+                [
+                    98.0,
+                    41.0
+                ],
+                [
+                    97.0,
+                    41.0
+                ],
+                [
+                    97.0,
+                    45.0
+                ],
+                [
+                    98.0,
+                    45.0
+                ],
+                [
+                    98.0,
+                    46.0
+                ],
+                [
+                    99.0,
+                    46.0
+                ],
+                [
+                    99.0,
+                    47.0
+                ],
+                [
+                    102.0,
+                    47.0
+                ],
+                [
+                    102.0,
+                    48.0
+                ],
+                [
+                    104.0,
+                    48.0
+                ],
+                [
+                    104.0,
+                    49.0
+                ],
+                [
+                    107.0,
+                    49.0
+                ],
+                [
+                    107.0,
+                    48.0
+                ],
+                [
+                    108.0,
+                    48.0
+                ],
+                [
+                    108.0,
+                    47.0
+                ],
+                [
+                    109.0,
+                    47.0
+                ],
+                [
+                    109.0,
+                    42.0
+                ],
+                [
+                    107.0,
+                    42.0
+                ],
+                [
+                    107.0,
+                    41.0
+                ],
+                [
+                    104.0,
+                    41.0
+                ],
+                [
+                    104.0,
+                    40.0
+                ],
+                [
+                    102.0,
+                    40.0
+                ],
+                [
+                    102.0,
+                    39.0
+                ],
+                [
+                    99.0,
+                    39.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Divide the big rectangular vehicle with several side windows, generally seen on roads and able to transport numerous passengers.",
+        "Section off the large rectangular transport with numerous windows along the side, usually found on roads and designed to carry a large number of passengers.",
+        "Partition the sizable rectangular vehicle that has many windows on its sides, commonly encountered on roads and capable of holding many passengers."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026684.jpg",
+            "points": [
+                [
+                    160.0,
+                    99.0
+                ],
+                [
+                    160.0,
+                    100.0
+                ],
+                [
+                    154.0,
+                    100.0
+                ],
+                [
+                    154.0,
+                    101.0
+                ],
+                [
+                    153.0,
+                    101.0
+                ],
+                [
+                    153.0,
+                    102.0
+                ],
+                [
+                    152.0,
+                    102.0
+                ],
+                [
+                    152.0,
+                    104.0
+                ],
+                [
+                    151.0,
+                    104.0
+                ],
+                [
+                    151.0,
+                    107.0
+                ],
+                [
+                    153.0,
+                    107.0
+                ],
+                [
+                    153.0,
+                    108.0
+                ],
+                [
+                    159.0,
+                    108.0
+                ],
+                [
+                    159.0,
+                    109.0
+                ],
+                [
+                    172.0,
+                    109.0
+                ],
+                [
+                    172.0,
+                    110.0
+                ],
+                [
+                    180.0,
+                    110.0
+                ],
+                [
+                    180.0,
+                    111.0
+                ],
+                [
+                    194.0,
+                    111.0
+                ],
+                [
+                    194.0,
+                    110.0
+                ],
+                [
+                    195.0,
+                    110.0
+                ],
+                [
+                    195.0,
+                    109.0
+                ],
+                [
+                    196.0,
+                    109.0
+                ],
+                [
+                    196.0,
+                    108.0
+                ],
+                [
+                    197.0,
+                    108.0
+                ],
+                [
+                    197.0,
+                    103.0
+                ],
+                [
+                    196.0,
+                    103.0
+                ],
+                [
+                    196.0,
+                    102.0
+                ],
+                [
+                    191.0,
+                    102.0
+                ],
+                [
+                    191.0,
+                    101.0
+                ],
+                [
+                    183.0,
+                    101.0
+                ],
+                [
+                    183.0,
+                    100.0
+                ],
+                [
+                    161.0,
+                    100.0
+                ],
+                [
+                    161.0,
+                    99.0
+                ],
+                [
+                    160.0,
+                    99.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the rectangular shed with a unique roof and a structure that stands out against the darker backdrop.",
+        "Look for the rectangular-shaped shed, distinguished by its roofline, which contrasts with the darker background.",
+        "Identify the shed with a rectangular form, notable roof design, and a structure that contrasts against the darker setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009292.jpg",
+            "points": [
+                [
+                    505.0,
+                    497.0
+                ],
+                [
+                    505.0,
+                    498.0
+                ],
+                [
+                    503.0,
+                    498.0
+                ],
+                [
+                    503.0,
+                    499.0
+                ],
+                [
+                    499.0,
+                    499.0
+                ],
+                [
+                    499.0,
+                    500.0
+                ],
+                [
+                    498.0,
+                    500.0
+                ],
+                [
+                    498.0,
+                    501.0
+                ],
+                [
+                    497.0,
+                    501.0
+                ],
+                [
+                    497.0,
+                    502.0
+                ],
+                [
+                    498.0,
+                    502.0
+                ],
+                [
+                    498.0,
+                    505.0
+                ],
+                [
+                    499.0,
+                    505.0
+                ],
+                [
+                    499.0,
+                    507.0
+                ],
+                [
+                    500.0,
+                    507.0
+                ],
+                [
+                    500.0,
+                    511.0
+                ],
+                [
+                    501.0,
+                    511.0
+                ],
+                [
+                    501.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    498.0
+                ],
+                [
+                    510.0,
+                    498.0
+                ],
+                [
+                    510.0,
+                    497.0
+                ],
+                [
+                    505.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

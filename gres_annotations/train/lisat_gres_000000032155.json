@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the trailer that has a long rectangular form and noticeable color differences between the cab and the trailer.",
+        "Identify the trailer that features an extended rectangular design and distinct color variations from the cab.",
+        "Spot the trailer with a stretched rectangular appearance and clear color contrasts compared to the cab."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032155.jpg",
+            "points": [
+                [
+                    510.0,
+                    445.0
+                ],
+                [
+                    510.0,
+                    446.0
+                ],
+                [
+                    507.0,
+                    446.0
+                ],
+                [
+                    507.0,
+                    447.0
+                ],
+                [
+                    506.0,
+                    447.0
+                ],
+                [
+                    506.0,
+                    448.0
+                ],
+                [
+                    504.0,
+                    448.0
+                ],
+                [
+                    504.0,
+                    449.0
+                ],
+                [
+                    503.0,
+                    449.0
+                ],
+                [
+                    503.0,
+                    451.0
+                ],
+                [
+                    502.0,
+                    451.0
+                ],
+                [
+                    502.0,
+                    456.0
+                ],
+                [
+                    503.0,
+                    456.0
+                ],
+                [
+                    503.0,
+                    457.0
+                ],
+                [
+                    504.0,
+                    457.0
+                ],
+                [
+                    504.0,
+                    460.0
+                ],
+                [
+                    503.0,
+                    460.0
+                ],
+                [
+                    503.0,
+                    462.0
+                ],
+                [
+                    502.0,
+                    462.0
+                ],
+                [
+                    502.0,
+                    463.0
+                ],
+                [
+                    503.0,
+                    463.0
+                ],
+                [
+                    503.0,
+                    466.0
+                ],
+                [
+                    504.0,
+                    466.0
+                ],
+                [
+                    504.0,
+                    468.0
+                ],
+                [
+                    505.0,
+                    468.0
+                ],
+                [
+                    505.0,
+                    469.0
+                ],
+                [
+                    512.0,
+                    469.0
+                ],
+                [
+                    512.0,
+                    445.0
+                ],
+                [
+                    510.0,
+                    445.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the yellow construction machine featuring a big arm and scoop set against a dirt backdrop.",
+        "Spot the yellow construction equipment with a sizable arm and bucket in front of a dirt background.",
+        "Identify the yellow construction vehicle with a large arm and bucket situated against a dirt background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000128.jpg",
+            "points": [
+                [
+                    367.0,
+                    187.0
+                ],
+                [
+                    367.0,
+                    188.0
+                ],
+                [
+                    366.0,
+                    188.0
+                ],
+                [
+                    366.0,
+                    189.0
+                ],
+                [
+                    365.0,
+                    189.0
+                ],
+                [
+                    365.0,
+                    195.0
+                ],
+                [
+                    366.0,
+                    195.0
+                ],
+                [
+                    366.0,
+                    196.0
+                ],
+                [
+                    369.0,
+                    196.0
+                ],
+                [
+                    369.0,
+                    197.0
+                ],
+                [
+                    371.0,
+                    197.0
+                ],
+                [
+                    371.0,
+                    198.0
+                ],
+                [
+                    372.0,
+                    198.0
+                ],
+                [
+                    372.0,
+                    199.0
+                ],
+                [
+                    382.0,
+                    199.0
+                ],
+                [
+                    382.0,
+                    198.0
+                ],
+                [
+                    383.0,
+                    198.0
+                ],
+                [
+                    383.0,
+                    197.0
+                ],
+                [
+                    384.0,
+                    197.0
+                ],
+                [
+                    384.0,
+                    192.0
+                ],
+                [
+                    383.0,
+                    192.0
+                ],
+                [
+                    383.0,
+                    190.0
+                ],
+                [
+                    382.0,
+                    190.0
+                ],
+                [
+                    382.0,
+                    189.0
+                ],
+                [
+                    379.0,
+                    189.0
+                ],
+                [
+                    379.0,
+                    188.0
+                ],
+                [
+                    375.0,
+                    188.0
+                ],
+                [
+                    375.0,
+                    187.0
+                ],
+                [
+                    367.0,
+                    187.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

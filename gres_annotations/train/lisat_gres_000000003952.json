@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Spot the truck with a trailer bed by its long form, noticeable gap between the cab and trailer, and its hefty wheels, often featuring a metallic or brightly colored finish.",
+        "Recognize the trailer bed truck by its extended frame, clear distinction between the cab and trailer, and large wheels that usually display a metallic or vibrant color.",
+        "You can identify a truck with a trailer bed by its lengthened structure, the clear division between the cab and trailer, and its large wheels, which often have a metallic or bright hue."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003952.jpg",
+            "points": [
+                [
+                    507.0,
+                    225.0
+                ],
+                [
+                    507.0,
+                    227.0
+                ],
+                [
+                    506.0,
+                    227.0
+                ],
+                [
+                    506.0,
+                    241.0
+                ],
+                [
+                    507.0,
+                    241.0
+                ],
+                [
+                    507.0,
+                    242.0
+                ],
+                [
+                    509.0,
+                    242.0
+                ],
+                [
+                    509.0,
+                    243.0
+                ],
+                [
+                    512.0,
+                    243.0
+                ],
+                [
+                    512.0,
+                    225.0
+                ],
+                [
+                    507.0,
+                    225.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

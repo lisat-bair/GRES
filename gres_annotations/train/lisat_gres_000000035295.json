@@ -1,0 +1,169 @@
+{
+    "text": [
+        "Spot the compromised structure with uneven, serrated outlines and visible framework, encircled by rubble and toppled objects.",
+        "Locate the impaired edifice featuring asymmetrical, rough borders and revealed infrastructure, surrounded by wreckage and dislodged items.",
+        "Find the broken building characterized by irregular, sharp edges and exposed construction parts, amidst debris and fallen pieces."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035295.jpg",
+            "points": [
+                [
+                    288.0,
+                    505.0
+                ],
+                [
+                    288.0,
+                    506.0
+                ],
+                [
+                    290.0,
+                    506.0
+                ],
+                [
+                    290.0,
+                    505.0
+                ],
+                [
+                    288.0,
+                    505.0
+                ],
+                [
+                    265.0,
+                    501.0
+                ],
+                [
+                    265.0,
+                    502.0
+                ],
+                [
+                    261.0,
+                    502.0
+                ],
+                [
+                    261.0,
+                    503.0
+                ],
+                [
+                    258.0,
+                    503.0
+                ],
+                [
+                    258.0,
+                    504.0
+                ],
+                [
+                    257.0,
+                    504.0
+                ],
+                [
+                    257.0,
+                    512.0
+                ],
+                [
+                    293.0,
+                    512.0
+                ],
+                [
+                    293.0,
+                    508.0
+                ],
+                [
+                    292.0,
+                    508.0
+                ],
+                [
+                    292.0,
+                    507.0
+                ],
+                [
+                    291.0,
+                    507.0
+                ],
+                [
+                    291.0,
+                    506.0
+                ],
+                [
+                    290.0,
+                    506.0
+                ],
+                [
+                    290.0,
+                    508.0
+                ],
+                [
+                    288.0,
+                    508.0
+                ],
+                [
+                    288.0,
+                    507.0
+                ],
+                [
+                    286.0,
+                    507.0
+                ],
+                [
+                    286.0,
+                    505.0
+                ],
+                [
+                    282.0,
+                    505.0
+                ],
+                [
+                    282.0,
+                    506.0
+                ],
+                [
+                    281.0,
+                    506.0
+                ],
+                [
+                    281.0,
+                    505.0
+                ],
+                [
+                    280.0,
+                    505.0
+                ],
+                [
+                    280.0,
+                    504.0
+                ],
+                [
+                    275.0,
+                    504.0
+                ],
+                [
+                    275.0,
+                    503.0
+                ],
+                [
+                    274.0,
+                    503.0
+                ],
+                [
+                    274.0,
+                    501.0
+                ],
+                [
+                    265.0,
+                    501.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the ship positioned at the upper center of the picture.",
+        "Find the boat situated at the top middle of the photograph.",
+        "Spot the vessel placed at the center top of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011807.jpg",
+            "points": [
+                [
+                    223.0,
+                    0.0
+                ],
+                [
+                    223.0,
+                    3.0
+                ],
+                [
+                    224.0,
+                    3.0
+                ],
+                [
+                    224.0,
+                    6.0
+                ],
+                [
+                    225.0,
+                    6.0
+                ],
+                [
+                    225.0,
+                    7.0
+                ],
+                [
+                    228.0,
+                    7.0
+                ],
+                [
+                    228.0,
+                    8.0
+                ],
+                [
+                    237.0,
+                    8.0
+                ],
+                [
+                    237.0,
+                    7.0
+                ],
+                [
+                    243.0,
+                    7.0
+                ],
+                [
+                    243.0,
+                    6.0
+                ],
+                [
+                    247.0,
+                    6.0
+                ],
+                [
+                    247.0,
+                    5.0
+                ],
+                [
+                    250.0,
+                    5.0
+                ],
+                [
+                    250.0,
+                    4.0
+                ],
+                [
+                    252.0,
+                    4.0
+                ],
+                [
+                    252.0,
+                    3.0
+                ],
+                [
+                    255.0,
+                    3.0
+                ],
+                [
+                    255.0,
+                    2.0
+                ],
+                [
+                    256.0,
+                    2.0
+                ],
+                [
+                    256.0,
+                    1.0
+                ],
+                [
+                    257.0,
+                    1.0
+                ],
+                [
+                    257.0,
+                    0.0
+                ],
+                [
+                    223.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

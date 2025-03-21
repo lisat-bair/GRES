@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Spot the big box-shaped vehicle with wheels and windows that usually travels on roads in the picture.",
+        "Locate the sizable rectangular automobile featuring windows and wheels, which is commonly seen on roads, within the image.",
+        "Find the large, windowed, and wheel-equipped rectangular vehicle that typically appears on roads in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021452.jpg",
+            "points": [
+                [
+                    24.0,
+                    143.0
+                ],
+                [
+                    24.0,
+                    144.0
+                ],
+                [
+                    22.0,
+                    144.0
+                ],
+                [
+                    22.0,
+                    148.0
+                ],
+                [
+                    21.0,
+                    148.0
+                ],
+                [
+                    21.0,
+                    151.0
+                ],
+                [
+                    22.0,
+                    151.0
+                ],
+                [
+                    22.0,
+                    152.0
+                ],
+                [
+                    29.0,
+                    152.0
+                ],
+                [
+                    29.0,
+                    153.0
+                ],
+                [
+                    36.0,
+                    153.0
+                ],
+                [
+                    36.0,
+                    154.0
+                ],
+                [
+                    46.0,
+                    154.0
+                ],
+                [
+                    46.0,
+                    153.0
+                ],
+                [
+                    47.0,
+                    153.0
+                ],
+                [
+                    47.0,
+                    147.0
+                ],
+                [
+                    45.0,
+                    147.0
+                ],
+                [
+                    45.0,
+                    146.0
+                ],
+                [
+                    41.0,
+                    146.0
+                ],
+                [
+                    41.0,
+                    145.0
+                ],
+                [
+                    32.0,
+                    145.0
+                ],
+                [
+                    32.0,
+                    144.0
+                ],
+                [
+                    27.0,
+                    144.0
+                ],
+                [
+                    27.0,
+                    143.0
+                ],
+                [
+                    24.0,
+                    143.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

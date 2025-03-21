@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for a bus that is large, rectangular, and has windows and wheels, usually in bright colors such as yellow or red, and typically found on a roadway.",
+        "Search for the bus characterized by its large, rectangular form with wheels, featuring windows and usually painted in bright shades like yellow or red, often seen on a street.",
+        "Spot the bus with its distinctive large rectangular shape, equipped with windows and wheels, typically in vivid colors like yellow or red, and commonly located on a road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028533.jpg",
+            "points": [
+                [
+                    151.0,
+                    260.0
+                ],
+                [
+                    151.0,
+                    261.0
+                ],
+                [
+                    149.0,
+                    261.0
+                ],
+                [
+                    149.0,
+                    262.0
+                ],
+                [
+                    148.0,
+                    262.0
+                ],
+                [
+                    148.0,
+                    263.0
+                ],
+                [
+                    146.0,
+                    263.0
+                ],
+                [
+                    146.0,
+                    264.0
+                ],
+                [
+                    145.0,
+                    264.0
+                ],
+                [
+                    145.0,
+                    265.0
+                ],
+                [
+                    144.0,
+                    265.0
+                ],
+                [
+                    144.0,
+                    266.0
+                ],
+                [
+                    143.0,
+                    266.0
+                ],
+                [
+                    143.0,
+                    269.0
+                ],
+                [
+                    144.0,
+                    269.0
+                ],
+                [
+                    144.0,
+                    270.0
+                ],
+                [
+                    145.0,
+                    270.0
+                ],
+                [
+                    145.0,
+                    271.0
+                ],
+                [
+                    149.0,
+                    271.0
+                ],
+                [
+                    149.0,
+                    270.0
+                ],
+                [
+                    150.0,
+                    270.0
+                ],
+                [
+                    150.0,
+                    268.0
+                ],
+                [
+                    152.0,
+                    268.0
+                ],
+                [
+                    152.0,
+                    267.0
+                ],
+                [
+                    153.0,
+                    267.0
+                ],
+                [
+                    153.0,
+                    266.0
+                ],
+                [
+                    154.0,
+                    266.0
+                ],
+                [
+                    154.0,
+                    265.0
+                ],
+                [
+                    155.0,
+                    265.0
+                ],
+                [
+                    155.0,
+                    264.0
+                ],
+                [
+                    156.0,
+                    264.0
+                ],
+                [
+                    156.0,
+                    261.0
+                ],
+                [
+                    155.0,
+                    261.0
+                ],
+                [
+                    155.0,
+                    260.0
+                ],
+                [
+                    151.0,
+                    260.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

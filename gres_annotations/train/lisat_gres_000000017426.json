@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the big, yellow construction machine characterized by its sturdy build and noticeable tracks or wheels.",
+        "Find the large, yellow construction vehicle known for its solid frame and distinct tracks or wheels.",
+        "Locate the sizable, yellow construction apparatus, recognized by its strong structure and prominent tracks or wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017426.jpg",
+            "points": [
+                [
+                    498.0,
+                    424.0
+                ],
+                [
+                    498.0,
+                    425.0
+                ],
+                [
+                    492.0,
+                    425.0
+                ],
+                [
+                    492.0,
+                    426.0
+                ],
+                [
+                    483.0,
+                    426.0
+                ],
+                [
+                    483.0,
+                    427.0
+                ],
+                [
+                    482.0,
+                    427.0
+                ],
+                [
+                    482.0,
+                    428.0
+                ],
+                [
+                    481.0,
+                    428.0
+                ],
+                [
+                    481.0,
+                    435.0
+                ],
+                [
+                    482.0,
+                    435.0
+                ],
+                [
+                    482.0,
+                    437.0
+                ],
+                [
+                    483.0,
+                    437.0
+                ],
+                [
+                    483.0,
+                    438.0
+                ],
+                [
+                    485.0,
+                    438.0
+                ],
+                [
+                    485.0,
+                    437.0
+                ],
+                [
+                    493.0,
+                    437.0
+                ],
+                [
+                    493.0,
+                    438.0
+                ],
+                [
+                    501.0,
+                    438.0
+                ],
+                [
+                    501.0,
+                    437.0
+                ],
+                [
+                    504.0,
+                    437.0
+                ],
+                [
+                    504.0,
+                    436.0
+                ],
+                [
+                    507.0,
+                    436.0
+                ],
+                [
+                    507.0,
+                    435.0
+                ],
+                [
+                    508.0,
+                    435.0
+                ],
+                [
+                    508.0,
+                    428.0
+                ],
+                [
+                    507.0,
+                    428.0
+                ],
+                [
+                    507.0,
+                    427.0
+                ],
+                [
+                    506.0,
+                    427.0
+                ],
+                [
+                    506.0,
+                    426.0
+                ],
+                [
+                    505.0,
+                    426.0
+                ],
+                [
+                    505.0,
+                    425.0
+                ],
+                [
+                    502.0,
+                    425.0
+                ],
+                [
+                    502.0,
+                    424.0
+                ],
+                [
+                    498.0,
+                    424.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

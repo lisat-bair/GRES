@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Divide the truck that has a trailer bed, known for its elongated, large form with a noticeable rectangular shape and prominent wheels.",
+        "Separate the truck featuring a trailer bed, marked by its large, extended vehicle shape, rectangular form, and distinct wheels.",
+        "Classify the truck equipped with a trailer bed, which is identified by its long, large frame and rectangular shape, along with distinctive wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023130.jpg",
+            "points": [
+                [
+                    144.0,
+                    84.0
+                ],
+                [
+                    144.0,
+                    85.0
+                ],
+                [
+                    143.0,
+                    85.0
+                ],
+                [
+                    143.0,
+                    86.0
+                ],
+                [
+                    142.0,
+                    86.0
+                ],
+                [
+                    142.0,
+                    89.0
+                ],
+                [
+                    141.0,
+                    89.0
+                ],
+                [
+                    141.0,
+                    96.0
+                ],
+                [
+                    140.0,
+                    96.0
+                ],
+                [
+                    140.0,
+                    103.0
+                ],
+                [
+                    142.0,
+                    103.0
+                ],
+                [
+                    142.0,
+                    104.0
+                ],
+                [
+                    147.0,
+                    104.0
+                ],
+                [
+                    147.0,
+                    103.0
+                ],
+                [
+                    148.0,
+                    103.0
+                ],
+                [
+                    148.0,
+                    102.0
+                ],
+                [
+                    149.0,
+                    102.0
+                ],
+                [
+                    149.0,
+                    100.0
+                ],
+                [
+                    150.0,
+                    100.0
+                ],
+                [
+                    150.0,
+                    97.0
+                ],
+                [
+                    151.0,
+                    97.0
+                ],
+                [
+                    151.0,
+                    85.0
+                ],
+                [
+                    148.0,
+                    85.0
+                ],
+                [
+                    148.0,
+                    84.0
+                ],
+                [
+                    144.0,
+                    84.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

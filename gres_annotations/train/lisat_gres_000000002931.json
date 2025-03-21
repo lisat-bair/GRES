@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Look for the truck, which stands out due to its unique rectangular form and lighter hue in contrast to the environment.",
+        "Spot the truck by its characteristic rectangular silhouette and paler shade relative to its backdrop.",
+        "Recognize the truck by its noticeable rectangular design and lighter color against the surrounding area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002931.jpg",
+            "points": [
+                [
+                    394.0,
+                    0.0
+                ],
+                [
+                    394.0,
+                    1.0
+                ],
+                [
+                    393.0,
+                    1.0
+                ],
+                [
+                    393.0,
+                    2.0
+                ],
+                [
+                    392.0,
+                    2.0
+                ],
+                [
+                    392.0,
+                    5.0
+                ],
+                [
+                    393.0,
+                    5.0
+                ],
+                [
+                    393.0,
+                    7.0
+                ],
+                [
+                    394.0,
+                    7.0
+                ],
+                [
+                    394.0,
+                    8.0
+                ],
+                [
+                    396.0,
+                    8.0
+                ],
+                [
+                    396.0,
+                    9.0
+                ],
+                [
+                    398.0,
+                    9.0
+                ],
+                [
+                    398.0,
+                    10.0
+                ],
+                [
+                    401.0,
+                    10.0
+                ],
+                [
+                    401.0,
+                    11.0
+                ],
+                [
+                    403.0,
+                    11.0
+                ],
+                [
+                    403.0,
+                    12.0
+                ],
+                [
+                    413.0,
+                    12.0
+                ],
+                [
+                    413.0,
+                    11.0
+                ],
+                [
+                    414.0,
+                    11.0
+                ],
+                [
+                    414.0,
+                    10.0
+                ],
+                [
+                    415.0,
+                    10.0
+                ],
+                [
+                    415.0,
+                    6.0
+                ],
+                [
+                    414.0,
+                    6.0
+                ],
+                [
+                    414.0,
+                    5.0
+                ],
+                [
+                    413.0,
+                    5.0
+                ],
+                [
+                    413.0,
+                    4.0
+                ],
+                [
+                    412.0,
+                    4.0
+                ],
+                [
+                    412.0,
+                    3.0
+                ],
+                [
+                    411.0,
+                    3.0
+                ],
+                [
+                    411.0,
+                    2.0
+                ],
+                [
+                    409.0,
+                    2.0
+                ],
+                [
+                    409.0,
+                    1.0
+                ],
+                [
+                    407.0,
+                    1.0
+                ],
+                [
+                    407.0,
+                    0.0
+                ],
+                [
+                    394.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

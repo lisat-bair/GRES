@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the truck by its unique rectangular form and bright white color, contrasted with the dimmer surroundings.",
+        "Notice the truck's standout white hue and rectangular design set against the darker backdrop.",
+        "Locate the truck with its prominent white appearance and rectangular silhouette amidst the darker background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036043.jpg",
+            "points": [
+                [
+                    38.0,
+                    364.0
+                ],
+                [
+                    38.0,
+                    366.0
+                ],
+                [
+                    37.0,
+                    366.0
+                ],
+                [
+                    37.0,
+                    369.0
+                ],
+                [
+                    38.0,
+                    369.0
+                ],
+                [
+                    38.0,
+                    370.0
+                ],
+                [
+                    39.0,
+                    370.0
+                ],
+                [
+                    39.0,
+                    371.0
+                ],
+                [
+                    51.0,
+                    371.0
+                ],
+                [
+                    51.0,
+                    370.0
+                ],
+                [
+                    53.0,
+                    370.0
+                ],
+                [
+                    53.0,
+                    368.0
+                ],
+                [
+                    54.0,
+                    368.0
+                ],
+                [
+                    54.0,
+                    366.0
+                ],
+                [
+                    53.0,
+                    366.0
+                ],
+                [
+                    53.0,
+                    365.0
+                ],
+                [
+                    52.0,
+                    365.0
+                ],
+                [
+                    52.0,
+                    364.0
+                ],
+                [
+                    38.0,
+                    364.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

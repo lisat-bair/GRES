@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the vehicle that stands out with its glossy metallic finish and defined geometric contours, strikingly different from its surroundings.",
+        "Find the automobile that features a unique lustrous metal exterior and sharp geometric lines, setting it apart from the nearby area.",
+        "Locate the car characterized by its bright metallic sheen and precise geometric form, creating a sharp contrast with the environment around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000031275.jpg",
+            "points": [
+                [
+                    35.0,
+                    84.0
+                ],
+                [
+                    35.0,
+                    85.0
+                ],
+                [
+                    34.0,
+                    85.0
+                ],
+                [
+                    34.0,
+                    88.0
+                ],
+                [
+                    33.0,
+                    88.0
+                ],
+                [
+                    33.0,
+                    100.0
+                ],
+                [
+                    36.0,
+                    100.0
+                ],
+                [
+                    36.0,
+                    101.0
+                ],
+                [
+                    40.0,
+                    101.0
+                ],
+                [
+                    40.0,
+                    100.0
+                ],
+                [
+                    42.0,
+                    100.0
+                ],
+                [
+                    42.0,
+                    97.0
+                ],
+                [
+                    43.0,
+                    97.0
+                ],
+                [
+                    43.0,
+                    91.0
+                ],
+                [
+                    44.0,
+                    91.0
+                ],
+                [
+                    44.0,
+                    90.0
+                ],
+                [
+                    43.0,
+                    90.0
+                ],
+                [
+                    43.0,
+                    87.0
+                ],
+                [
+                    42.0,
+                    87.0
+                ],
+                [
+                    42.0,
+                    85.0
+                ],
+                [
+                    40.0,
+                    85.0
+                ],
+                [
+                    40.0,
+                    84.0
+                ],
+                [
+                    35.0,
+                    84.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

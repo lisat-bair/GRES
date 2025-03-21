@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the bus symbolized by a white owl sitting in a natural environment.",
+        "Locate the bus that is depicted by a white owl resting in a natural scene.",
+        "Spot the bus illustrated by a white owl positioned in a natural habitat."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016821.jpg",
+            "points": [
+                [
+                    368.0,
+                    199.0
+                ],
+                [
+                    368.0,
+                    200.0
+                ],
+                [
+                    367.0,
+                    200.0
+                ],
+                [
+                    367.0,
+                    202.0
+                ],
+                [
+                    366.0,
+                    202.0
+                ],
+                [
+                    366.0,
+                    216.0
+                ],
+                [
+                    368.0,
+                    216.0
+                ],
+                [
+                    368.0,
+                    217.0
+                ],
+                [
+                    374.0,
+                    217.0
+                ],
+                [
+                    374.0,
+                    216.0
+                ],
+                [
+                    375.0,
+                    216.0
+                ],
+                [
+                    375.0,
+                    203.0
+                ],
+                [
+                    374.0,
+                    203.0
+                ],
+                [
+                    374.0,
+                    200.0
+                ],
+                [
+                    373.0,
+                    200.0
+                ],
+                [
+                    373.0,
+                    199.0
+                ],
+                [
+                    368.0,
+                    199.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Identify the vehicle in the picture, paying close attention to sections where details might be unclear because of blurriness.",
+        "Spot the automobile in the photo, concentrating on regions where features may be vague due to a lack of clarity.",
+        "Find the car within the image, especially focusing on parts where the details seem indistinct as a result of blurriness."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004734.jpg",
+            "points": [
+                [
+                    118.0,
+                    422.0
+                ],
+                [
+                    118.0,
+                    423.0
+                ],
+                [
+                    117.0,
+                    423.0
+                ],
+                [
+                    117.0,
+                    424.0
+                ],
+                [
+                    116.0,
+                    424.0
+                ],
+                [
+                    116.0,
+                    425.0
+                ],
+                [
+                    115.0,
+                    425.0
+                ],
+                [
+                    115.0,
+                    427.0
+                ],
+                [
+                    114.0,
+                    427.0
+                ],
+                [
+                    114.0,
+                    430.0
+                ],
+                [
+                    113.0,
+                    430.0
+                ],
+                [
+                    113.0,
+                    432.0
+                ],
+                [
+                    112.0,
+                    432.0
+                ],
+                [
+                    112.0,
+                    434.0
+                ],
+                [
+                    111.0,
+                    434.0
+                ],
+                [
+                    111.0,
+                    437.0
+                ],
+                [
+                    112.0,
+                    437.0
+                ],
+                [
+                    112.0,
+                    438.0
+                ],
+                [
+                    114.0,
+                    438.0
+                ],
+                [
+                    114.0,
+                    439.0
+                ],
+                [
+                    119.0,
+                    439.0
+                ],
+                [
+                    119.0,
+                    438.0
+                ],
+                [
+                    120.0,
+                    438.0
+                ],
+                [
+                    120.0,
+                    436.0
+                ],
+                [
+                    121.0,
+                    436.0
+                ],
+                [
+                    121.0,
+                    434.0
+                ],
+                [
+                    122.0,
+                    434.0
+                ],
+                [
+                    122.0,
+                    432.0
+                ],
+                [
+                    123.0,
+                    432.0
+                ],
+                [
+                    123.0,
+                    429.0
+                ],
+                [
+                    124.0,
+                    429.0
+                ],
+                [
+                    124.0,
+                    424.0
+                ],
+                [
+                    123.0,
+                    424.0
+                ],
+                [
+                    123.0,
+                    423.0
+                ],
+                [
+                    121.0,
+                    423.0
+                ],
+                [
+                    121.0,
+                    422.0
+                ],
+                [
+                    118.0,
+                    422.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

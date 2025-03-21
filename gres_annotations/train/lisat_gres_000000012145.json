@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the bus situated in the lower-right section of the picture.",
+        "Spot the bus positioned in the bottom-right area of the image.",
+        "Identify the bus located in the corner at the bottom-right of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012145.jpg",
+            "points": [
+                [
+                    266.0,
+                    437.0
+                ],
+                [
+                    266.0,
+                    438.0
+                ],
+                [
+                    265.0,
+                    438.0
+                ],
+                [
+                    265.0,
+                    443.0
+                ],
+                [
+                    266.0,
+                    443.0
+                ],
+                [
+                    266.0,
+                    444.0
+                ],
+                [
+                    268.0,
+                    444.0
+                ],
+                [
+                    268.0,
+                    445.0
+                ],
+                [
+                    281.0,
+                    445.0
+                ],
+                [
+                    281.0,
+                    444.0
+                ],
+                [
+                    282.0,
+                    444.0
+                ],
+                [
+                    282.0,
+                    439.0
+                ],
+                [
+                    281.0,
+                    439.0
+                ],
+                [
+                    281.0,
+                    438.0
+                ],
+                [
+                    278.0,
+                    438.0
+                ],
+                [
+                    278.0,
+                    437.0
+                ],
+                [
+                    266.0,
+                    437.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

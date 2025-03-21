@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the long, stretched-out vehicle that features noticeable windows and prominent horizontal stripes.",
+        "Locate the lengthy, extended vehicle characterized by visible windows and clear horizontal markings.",
+        "Find the big, elongated vehicle distinguished by its visible windows and distinct horizontal patterns."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000478.jpg",
+            "points": [
+                [
+                    185.0,
+                    233.0
+                ],
+                [
+                    185.0,
+                    234.0
+                ],
+                [
+                    179.0,
+                    234.0
+                ],
+                [
+                    179.0,
+                    235.0
+                ],
+                [
+                    175.0,
+                    235.0
+                ],
+                [
+                    175.0,
+                    236.0
+                ],
+                [
+                    172.0,
+                    236.0
+                ],
+                [
+                    172.0,
+                    238.0
+                ],
+                [
+                    171.0,
+                    238.0
+                ],
+                [
+                    171.0,
+                    244.0
+                ],
+                [
+                    173.0,
+                    244.0
+                ],
+                [
+                    173.0,
+                    245.0
+                ],
+                [
+                    176.0,
+                    245.0
+                ],
+                [
+                    176.0,
+                    244.0
+                ],
+                [
+                    182.0,
+                    244.0
+                ],
+                [
+                    182.0,
+                    243.0
+                ],
+                [
+                    188.0,
+                    243.0
+                ],
+                [
+                    188.0,
+                    242.0
+                ],
+                [
+                    194.0,
+                    242.0
+                ],
+                [
+                    194.0,
+                    241.0
+                ],
+                [
+                    198.0,
+                    241.0
+                ],
+                [
+                    198.0,
+                    240.0
+                ],
+                [
+                    199.0,
+                    240.0
+                ],
+                [
+                    199.0,
+                    239.0
+                ],
+                [
+                    200.0,
+                    239.0
+                ],
+                [
+                    200.0,
+                    235.0
+                ],
+                [
+                    199.0,
+                    235.0
+                ],
+                [
+                    199.0,
+                    234.0
+                ],
+                [
+                    198.0,
+                    234.0
+                ],
+                [
+                    198.0,
+                    233.0
+                ],
+                [
+                    185.0,
+                    233.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

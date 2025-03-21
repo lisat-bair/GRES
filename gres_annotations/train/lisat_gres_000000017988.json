@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Look for the item that has a long rectangular form, featuring a metallic or white exterior, usually laid out horizontally on a truck, signifying the trailer bed.",
+        "Find the object that is characterized by a large, elongated rectangular shape with a metallic or white finish, generally placed horizontally on a truck, denoting the trailer bed.",
+        "Seek out the item with a broad, extended rectangular silhouette, covered in a metallic or white surface, typically mounted horizontally on a truck, representing the trailer bed."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017988.jpg",
+            "points": [
+                [
+                    312.0,
+                    495.0
+                ],
+                [
+                    312.0,
+                    496.0
+                ],
+                [
+                    305.0,
+                    496.0
+                ],
+                [
+                    305.0,
+                    497.0
+                ],
+                [
+                    301.0,
+                    497.0
+                ],
+                [
+                    301.0,
+                    498.0
+                ],
+                [
+                    299.0,
+                    498.0
+                ],
+                [
+                    299.0,
+                    505.0
+                ],
+                [
+                    300.0,
+                    505.0
+                ],
+                [
+                    300.0,
+                    506.0
+                ],
+                [
+                    301.0,
+                    506.0
+                ],
+                [
+                    301.0,
+                    507.0
+                ],
+                [
+                    309.0,
+                    507.0
+                ],
+                [
+                    309.0,
+                    506.0
+                ],
+                [
+                    315.0,
+                    506.0
+                ],
+                [
+                    315.0,
+                    505.0
+                ],
+                [
+                    319.0,
+                    505.0
+                ],
+                [
+                    319.0,
+                    504.0
+                ],
+                [
+                    321.0,
+                    504.0
+                ],
+                [
+                    321.0,
+                    499.0
+                ],
+                [
+                    320.0,
+                    499.0
+                ],
+                [
+                    320.0,
+                    496.0
+                ],
+                [
+                    319.0,
+                    496.0
+                ],
+                [
+                    319.0,
+                    495.0
+                ],
+                [
+                    312.0,
+                    495.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

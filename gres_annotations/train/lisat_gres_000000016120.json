@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the big vehicle with a unique rectangular back and large wheels, usually painted in yellow or orange, that is typical of a dump truck.",
+        "Identify the sizable truck with a notable rectangular cargo area and huge tires, often seen in yellow or orange, which is a common feature of dump trucks.",
+        "Spot the enormous vehicle featuring a rectangular loading section and giant wheels, generally found in yellow or orange, synonymous with dump trucks."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016120.jpg",
+            "points": [
+                [
+                    489.0,
+                    25.0
+                ],
+                [
+                    489.0,
+                    26.0
+                ],
+                [
+                    488.0,
+                    26.0
+                ],
+                [
+                    488.0,
+                    32.0
+                ],
+                [
+                    487.0,
+                    32.0
+                ],
+                [
+                    487.0,
+                    41.0
+                ],
+                [
+                    488.0,
+                    41.0
+                ],
+                [
+                    488.0,
+                    43.0
+                ],
+                [
+                    489.0,
+                    43.0
+                ],
+                [
+                    489.0,
+                    45.0
+                ],
+                [
+                    490.0,
+                    45.0
+                ],
+                [
+                    490.0,
+                    46.0
+                ],
+                [
+                    495.0,
+                    46.0
+                ],
+                [
+                    495.0,
+                    43.0
+                ],
+                [
+                    496.0,
+                    43.0
+                ],
+                [
+                    496.0,
+                    42.0
+                ],
+                [
+                    497.0,
+                    42.0
+                ],
+                [
+                    497.0,
+                    41.0
+                ],
+                [
+                    498.0,
+                    41.0
+                ],
+                [
+                    498.0,
+                    31.0
+                ],
+                [
+                    499.0,
+                    31.0
+                ],
+                [
+                    499.0,
+                    27.0
+                ],
+                [
+                    498.0,
+                    27.0
+                ],
+                [
+                    498.0,
+                    26.0
+                ],
+                [
+                    492.0,
+                    26.0
+                ],
+                [
+                    492.0,
+                    25.0
+                ],
+                [
+                    489.0,
+                    25.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

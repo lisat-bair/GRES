@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Locate the car with a metallic surface, rounded contours, and distinct wheel structures, often reflecting light differently than the surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023040.jpg",
+            "points": [
+                [
+                    126.0,
+                    235.0
+                ],
+                [
+                    126.0,
+                    239.0
+                ],
+                [
+                    127.0,
+                    239.0
+                ],
+                [
+                    127.0,
+                    240.0
+                ],
+                [
+                    131.0,
+                    240.0
+                ],
+                [
+                    131.0,
+                    239.0
+                ],
+                [
+                    132.0,
+                    239.0
+                ],
+                [
+                    132.0,
+                    238.0
+                ],
+                [
+                    134.0,
+                    238.0
+                ],
+                [
+                    134.0,
+                    236.0
+                ],
+                [
+                    132.0,
+                    236.0
+                ],
+                [
+                    132.0,
+                    235.0
+                ],
+                [
+                    126.0,
+                    235.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the truck by spotting the white vehicle that has a noticeable black lower section.",
+        "Identify the truck by looking for the white vehicle with a distinct black bottom part.",
+        "Spot the truck by recognizing the white vehicle featuring a striking black section at the bottom."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021890.jpg",
+            "points": [
+                [
+                    446.0,
+                    45.0
+                ],
+                [
+                    446.0,
+                    46.0
+                ],
+                [
+                    445.0,
+                    46.0
+                ],
+                [
+                    445.0,
+                    48.0
+                ],
+                [
+                    444.0,
+                    48.0
+                ],
+                [
+                    444.0,
+                    50.0
+                ],
+                [
+                    443.0,
+                    50.0
+                ],
+                [
+                    443.0,
+                    57.0
+                ],
+                [
+                    445.0,
+                    57.0
+                ],
+                [
+                    445.0,
+                    58.0
+                ],
+                [
+                    447.0,
+                    58.0
+                ],
+                [
+                    447.0,
+                    59.0
+                ],
+                [
+                    451.0,
+                    59.0
+                ],
+                [
+                    451.0,
+                    58.0
+                ],
+                [
+                    453.0,
+                    58.0
+                ],
+                [
+                    453.0,
+                    56.0
+                ],
+                [
+                    454.0,
+                    56.0
+                ],
+                [
+                    454.0,
+                    54.0
+                ],
+                [
+                    455.0,
+                    54.0
+                ],
+                [
+                    455.0,
+                    50.0
+                ],
+                [
+                    454.0,
+                    50.0
+                ],
+                [
+                    454.0,
+                    47.0
+                ],
+                [
+                    453.0,
+                    47.0
+                ],
+                [
+                    453.0,
+                    46.0
+                ],
+                [
+                    451.0,
+                    46.0
+                ],
+                [
+                    451.0,
+                    45.0
+                ],
+                [
+                    446.0,
+                    45.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Recognize the shed as a rectangular building with a notable roof, commonly constructed from wood or metal, standing out against the natural surroundings.",
+        "Describe the shed as a rectangular edifice featuring a distinctive roof, frequently composed of wood or metal, and differing from the natural backdrop.",
+        "View the shed as a rectangular form with a prominent roof, typically crafted from wood or metal, contrasting with the natural setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000020639.jpg",
+            "points": [
+                [
+                    57.0,
+                    254.0
+                ],
+                [
+                    57.0,
+                    255.0
+                ],
+                [
+                    56.0,
+                    255.0
+                ],
+                [
+                    56.0,
+                    256.0
+                ],
+                [
+                    55.0,
+                    256.0
+                ],
+                [
+                    55.0,
+                    258.0
+                ],
+                [
+                    54.0,
+                    258.0
+                ],
+                [
+                    54.0,
+                    267.0
+                ],
+                [
+                    55.0,
+                    267.0
+                ],
+                [
+                    55.0,
+                    268.0
+                ],
+                [
+                    57.0,
+                    268.0
+                ],
+                [
+                    57.0,
+                    269.0
+                ],
+                [
+                    60.0,
+                    269.0
+                ],
+                [
+                    60.0,
+                    270.0
+                ],
+                [
+                    62.0,
+                    270.0
+                ],
+                [
+                    62.0,
+                    271.0
+                ],
+                [
+                    68.0,
+                    271.0
+                ],
+                [
+                    68.0,
+                    270.0
+                ],
+                [
+                    69.0,
+                    270.0
+                ],
+                [
+                    69.0,
+                    269.0
+                ],
+                [
+                    70.0,
+                    269.0
+                ],
+                [
+                    70.0,
+                    267.0
+                ],
+                [
+                    71.0,
+                    267.0
+                ],
+                [
+                    71.0,
+                    256.0
+                ],
+                [
+                    70.0,
+                    256.0
+                ],
+                [
+                    70.0,
+                    255.0
+                ],
+                [
+                    68.0,
+                    255.0
+                ],
+                [
+                    68.0,
+                    254.0
+                ],
+                [
+                    57.0,
+                    254.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the vertical metal construction featuring a lattice pattern set against a dark backdrop.",
+        "Locate the upright metallic framework that has a lattice design on a dark background.",
+        "Find the tall metal structure with a lattice design standing out against the dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017115.jpg",
+            "points": [
+                [
+                    15.0,
+                    504.0
+                ],
+                [
+                    15.0,
+                    505.0
+                ],
+                [
+                    11.0,
+                    505.0
+                ],
+                [
+                    11.0,
+                    506.0
+                ],
+                [
+                    6.0,
+                    506.0
+                ],
+                [
+                    6.0,
+                    507.0
+                ],
+                [
+                    4.0,
+                    507.0
+                ],
+                [
+                    4.0,
+                    508.0
+                ],
+                [
+                    1.0,
+                    508.0
+                ],
+                [
+                    1.0,
+                    509.0
+                ],
+                [
+                    0.0,
+                    509.0
+                ],
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    21.0,
+                    512.0
+                ],
+                [
+                    21.0,
+                    510.0
+                ],
+                [
+                    20.0,
+                    510.0
+                ],
+                [
+                    20.0,
+                    507.0
+                ],
+                [
+                    19.0,
+                    507.0
+                ],
+                [
+                    19.0,
+                    505.0
+                ],
+                [
+                    16.0,
+                    505.0
+                ],
+                [
+                    16.0,
+                    504.0
+                ],
+                [
+                    15.0,
+                    504.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

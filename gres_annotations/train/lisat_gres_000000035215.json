@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the passenger car that is rectangular and features a unique white and red color scheme in the photo.",
+        "Spot the vehicle meant for passengers that has a rectangular form and a noticeable white and red design in the picture.",
+        "Find the rectangular-shaped passenger automobile with a prominent white and red color pattern depicted in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035215.jpg",
+            "points": [
+                [
+                    367.0,
+                    408.0
+                ],
+                [
+                    367.0,
+                    409.0
+                ],
+                [
+                    366.0,
+                    409.0
+                ],
+                [
+                    366.0,
+                    415.0
+                ],
+                [
+                    365.0,
+                    415.0
+                ],
+                [
+                    365.0,
+                    418.0
+                ],
+                [
+                    364.0,
+                    418.0
+                ],
+                [
+                    364.0,
+                    422.0
+                ],
+                [
+                    365.0,
+                    422.0
+                ],
+                [
+                    365.0,
+                    423.0
+                ],
+                [
+                    367.0,
+                    423.0
+                ],
+                [
+                    367.0,
+                    424.0
+                ],
+                [
+                    370.0,
+                    424.0
+                ],
+                [
+                    370.0,
+                    423.0
+                ],
+                [
+                    371.0,
+                    423.0
+                ],
+                [
+                    371.0,
+                    422.0
+                ],
+                [
+                    372.0,
+                    422.0
+                ],
+                [
+                    372.0,
+                    418.0
+                ],
+                [
+                    373.0,
+                    418.0
+                ],
+                [
+                    373.0,
+                    415.0
+                ],
+                [
+                    374.0,
+                    415.0
+                ],
+                [
+                    374.0,
+                    409.0
+                ],
+                [
+                    372.0,
+                    409.0
+                ],
+                [
+                    372.0,
+                    408.0
+                ],
+                [
+                    367.0,
+                    408.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

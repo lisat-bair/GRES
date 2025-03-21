@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the vehicle positioned at the upper-left corner of the picture.",
+        "Locate the automobile found in the top left area of the image.",
+        "Find the car placed at the top-left section of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019529.jpg",
+            "points": [
+                [
+                    0.0,
+                    111.0
+                ],
+                [
+                    0.0,
+                    130.0
+                ],
+                [
+                    2.0,
+                    130.0
+                ],
+                [
+                    2.0,
+                    129.0
+                ],
+                [
+                    4.0,
+                    129.0
+                ],
+                [
+                    4.0,
+                    128.0
+                ],
+                [
+                    6.0,
+                    128.0
+                ],
+                [
+                    6.0,
+                    127.0
+                ],
+                [
+                    8.0,
+                    127.0
+                ],
+                [
+                    8.0,
+                    126.0
+                ],
+                [
+                    9.0,
+                    126.0
+                ],
+                [
+                    9.0,
+                    120.0
+                ],
+                [
+                    8.0,
+                    120.0
+                ],
+                [
+                    8.0,
+                    116.0
+                ],
+                [
+                    7.0,
+                    116.0
+                ],
+                [
+                    7.0,
+                    114.0
+                ],
+                [
+                    6.0,
+                    114.0
+                ],
+                [
+                    6.0,
+                    113.0
+                ],
+                [
+                    5.0,
+                    113.0
+                ],
+                [
+                    5.0,
+                    112.0
+                ],
+                [
+                    1.0,
+                    112.0
+                ],
+                [
+                    1.0,
+                    111.0
+                ],
+                [
+                    0.0,
+                    111.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

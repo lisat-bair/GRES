@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Pinpoint the engineering machine that features a sizable, vibrant yellow framework and unique mechanical elements with an industrial aesthetic.",
+        "Spot the engineering vehicle characterized by its large, luminous yellow construction and notable mechanical parts along with an industrial design.",
+        "Locate the engineering equipment that is distinguished by a big, bright yellow structure and specific mechanical components in an industrial style."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015382.jpg",
+            "points": [
+                [
+                    463.0,
+                    204.0
+                ],
+                [
+                    463.0,
+                    205.0
+                ],
+                [
+                    462.0,
+                    205.0
+                ],
+                [
+                    462.0,
+                    206.0
+                ],
+                [
+                    461.0,
+                    206.0
+                ],
+                [
+                    461.0,
+                    207.0
+                ],
+                [
+                    460.0,
+                    207.0
+                ],
+                [
+                    460.0,
+                    209.0
+                ],
+                [
+                    459.0,
+                    209.0
+                ],
+                [
+                    459.0,
+                    212.0
+                ],
+                [
+                    458.0,
+                    212.0
+                ],
+                [
+                    458.0,
+                    217.0
+                ],
+                [
+                    460.0,
+                    217.0
+                ],
+                [
+                    460.0,
+                    218.0
+                ],
+                [
+                    462.0,
+                    218.0
+                ],
+                [
+                    462.0,
+                    217.0
+                ],
+                [
+                    464.0,
+                    217.0
+                ],
+                [
+                    464.0,
+                    216.0
+                ],
+                [
+                    465.0,
+                    216.0
+                ],
+                [
+                    465.0,
+                    215.0
+                ],
+                [
+                    466.0,
+                    215.0
+                ],
+                [
+                    466.0,
+                    214.0
+                ],
+                [
+                    467.0,
+                    214.0
+                ],
+                [
+                    467.0,
+                    213.0
+                ],
+                [
+                    468.0,
+                    213.0
+                ],
+                [
+                    468.0,
+                    211.0
+                ],
+                [
+                    469.0,
+                    211.0
+                ],
+                [
+                    469.0,
+                    207.0
+                ],
+                [
+                    468.0,
+                    207.0
+                ],
+                [
+                    468.0,
+                    206.0
+                ],
+                [
+                    467.0,
+                    206.0
+                ],
+                [
+                    467.0,
+                    205.0
+                ],
+                [
+                    465.0,
+                    205.0
+                ],
+                [
+                    465.0,
+                    204.0
+                ],
+                [
+                    463.0,
+                    204.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

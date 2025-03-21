@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Locate the green rectangle outlined with white lines, similar to a sports field.",
+        "Find the green rectangular space surrounded by white boundaries, akin to a sports field.",
+        "Spot the green area in a rectangular shape, marked by white lines, like a sports field."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012436.jpg",
+            "points": [
+                [
+                    470.0,
+                    449.0
+                ],
+                [
+                    470.0,
+                    450.0
+                ],
+                [
+                    468.0,
+                    450.0
+                ],
+                [
+                    468.0,
+                    451.0
+                ],
+                [
+                    467.0,
+                    451.0
+                ],
+                [
+                    467.0,
+                    461.0
+                ],
+                [
+                    468.0,
+                    461.0
+                ],
+                [
+                    468.0,
+                    497.0
+                ],
+                [
+                    467.0,
+                    497.0
+                ],
+                [
+                    467.0,
+                    510.0
+                ],
+                [
+                    468.0,
+                    510.0
+                ],
+                [
+                    468.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    449.0
+                ],
+                [
+                    470.0,
+                    449.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

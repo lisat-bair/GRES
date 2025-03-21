@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Determine which structure is located in the upper-left corner of the picture.",
+        "Can you point out the building situated at the top left section of the image?",
+        "Locate the edifice that appears in the top-left quadrant of the visual."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018924.jpg",
+            "points": [
+                [
+                    0.0,
+                    95.0
+                ],
+                [
+                    0.0,
+                    109.0
+                ],
+                [
+                    2.0,
+                    109.0
+                ],
+                [
+                    2.0,
+                    108.0
+                ],
+                [
+                    3.0,
+                    108.0
+                ],
+                [
+                    3.0,
+                    107.0
+                ],
+                [
+                    4.0,
+                    107.0
+                ],
+                [
+                    4.0,
+                    104.0
+                ],
+                [
+                    5.0,
+                    104.0
+                ],
+                [
+                    5.0,
+                    100.0
+                ],
+                [
+                    4.0,
+                    100.0
+                ],
+                [
+                    4.0,
+                    97.0
+                ],
+                [
+                    3.0,
+                    97.0
+                ],
+                [
+                    3.0,
+                    96.0
+                ],
+                [
+                    2.0,
+                    96.0
+                ],
+                [
+                    2.0,
+                    95.0
+                ],
+                [
+                    0.0,
+                    95.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

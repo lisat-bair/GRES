@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the truck that is uniquely rectangular and has big wheels, making it noticeable against its surroundings.",
+        "Spot the truck characterized by its prominent rectangular form and sizeable wheels, which makes it stand out from the backdrop.",
+        "Identify the truck with a unique rectangular design and large wheels, distinguishing it from its environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024845.jpg",
+            "points": [
+                [
+                    129.0,
+                    263.0
+                ],
+                [
+                    129.0,
+                    264.0
+                ],
+                [
+                    128.0,
+                    264.0
+                ],
+                [
+                    128.0,
+                    265.0
+                ],
+                [
+                    127.0,
+                    265.0
+                ],
+                [
+                    127.0,
+                    271.0
+                ],
+                [
+                    128.0,
+                    271.0
+                ],
+                [
+                    128.0,
+                    277.0
+                ],
+                [
+                    129.0,
+                    277.0
+                ],
+                [
+                    129.0,
+                    279.0
+                ],
+                [
+                    133.0,
+                    279.0
+                ],
+                [
+                    133.0,
+                    278.0
+                ],
+                [
+                    135.0,
+                    278.0
+                ],
+                [
+                    135.0,
+                    273.0
+                ],
+                [
+                    136.0,
+                    273.0
+                ],
+                [
+                    136.0,
+                    265.0
+                ],
+                [
+                    135.0,
+                    265.0
+                ],
+                [
+                    135.0,
+                    263.0
+                ],
+                [
+                    129.0,
+                    263.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

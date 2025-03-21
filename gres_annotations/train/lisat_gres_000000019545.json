@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the trailer positioned in the bottom-right corner of the image, characterized by its unique wheels and rectangular form, attached to a truck cab.",
+        "Identify the trailer located at the bottom-right of the picture, noted for its distinctive wheels and rectangular shape, connected to the truck cab.",
+        "Spot the trailer that is situated in the lower right section of the image, recognized by its specific wheels and rectangular design, linked to a truck cab."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019545.jpg",
+            "points": [
+                [
+                    505.0,
+                    363.0
+                ],
+                [
+                    505.0,
+                    364.0
+                ],
+                [
+                    490.0,
+                    364.0
+                ],
+                [
+                    490.0,
+                    365.0
+                ],
+                [
+                    477.0,
+                    365.0
+                ],
+                [
+                    477.0,
+                    366.0
+                ],
+                [
+                    474.0,
+                    366.0
+                ],
+                [
+                    474.0,
+                    372.0
+                ],
+                [
+                    475.0,
+                    372.0
+                ],
+                [
+                    475.0,
+                    374.0
+                ],
+                [
+                    476.0,
+                    374.0
+                ],
+                [
+                    476.0,
+                    375.0
+                ],
+                [
+                    490.0,
+                    375.0
+                ],
+                [
+                    490.0,
+                    374.0
+                ],
+                [
+                    507.0,
+                    374.0
+                ],
+                [
+                    507.0,
+                    373.0
+                ],
+                [
+                    512.0,
+                    373.0
+                ],
+                [
+                    512.0,
+                    363.0
+                ],
+                [
+                    505.0,
+                    363.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

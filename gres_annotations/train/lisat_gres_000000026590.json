@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the big yellow vehicle that has several windows and a boxy design.",
+        "Locate the rectangular-shaped yellow vehicle with many windows.",
+        "Spot the yellow vehicle that features multiple windows and a rectangular form."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026590.jpg",
+            "points": [
+                [
+                    473.0,
+                    237.0
+                ],
+                [
+                    473.0,
+                    238.0
+                ],
+                [
+                    471.0,
+                    238.0
+                ],
+                [
+                    471.0,
+                    240.0
+                ],
+                [
+                    470.0,
+                    240.0
+                ],
+                [
+                    470.0,
+                    247.0
+                ],
+                [
+                    471.0,
+                    247.0
+                ],
+                [
+                    471.0,
+                    248.0
+                ],
+                [
+                    473.0,
+                    248.0
+                ],
+                [
+                    473.0,
+                    249.0
+                ],
+                [
+                    487.0,
+                    249.0
+                ],
+                [
+                    487.0,
+                    248.0
+                ],
+                [
+                    493.0,
+                    248.0
+                ],
+                [
+                    493.0,
+                    247.0
+                ],
+                [
+                    494.0,
+                    247.0
+                ],
+                [
+                    494.0,
+                    245.0
+                ],
+                [
+                    495.0,
+                    245.0
+                ],
+                [
+                    495.0,
+                    244.0
+                ],
+                [
+                    494.0,
+                    244.0
+                ],
+                [
+                    494.0,
+                    241.0
+                ],
+                [
+                    493.0,
+                    241.0
+                ],
+                [
+                    493.0,
+                    240.0
+                ],
+                [
+                    491.0,
+                    240.0
+                ],
+                [
+                    491.0,
+                    239.0
+                ],
+                [
+                    488.0,
+                    239.0
+                ],
+                [
+                    488.0,
+                    238.0
+                ],
+                [
+                    483.0,
+                    238.0
+                ],
+                [
+                    483.0,
+                    237.0
+                ],
+                [
+                    473.0,
+                    237.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

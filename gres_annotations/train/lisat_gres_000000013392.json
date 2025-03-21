@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Look for the uniquely shaped truck, which may feature certain logos or designs on its sides, boast contrasting colors, and appear larger than nearby objects.",
+        "Find the truck that stands out with its distinctive shape, possibly adorned with specific logos or designs, featuring contrasting colors, and being noticeably larger than other objects around it.",
+        "Spot the truck with a unique form, potentially bearing particular logos or designs on its sides, vibrant colors, and a larger size compared to its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013392.jpg",
+            "points": [
+                [
+                    427.0,
+                    417.0
+                ],
+                [
+                    427.0,
+                    418.0
+                ],
+                [
+                    426.0,
+                    418.0
+                ],
+                [
+                    426.0,
+                    419.0
+                ],
+                [
+                    425.0,
+                    419.0
+                ],
+                [
+                    425.0,
+                    427.0
+                ],
+                [
+                    426.0,
+                    427.0
+                ],
+                [
+                    426.0,
+                    428.0
+                ],
+                [
+                    430.0,
+                    428.0
+                ],
+                [
+                    430.0,
+                    427.0
+                ],
+                [
+                    431.0,
+                    427.0
+                ],
+                [
+                    431.0,
+                    419.0
+                ],
+                [
+                    430.0,
+                    419.0
+                ],
+                [
+                    430.0,
+                    417.0
+                ],
+                [
+                    427.0,
+                    417.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

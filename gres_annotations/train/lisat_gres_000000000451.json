@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the truck with a unique form and clear outlines that contrasts against the dim backdrop.",
+        "Find the truck that features a unique silhouette and sharp contours, making it prominent against the shadowy background.",
+        "Locate the truck whose distinct shape and well-defined edges make it noticeable against the dark scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000451.jpg",
+            "points": [
+                [
+                    108.0,
+                    409.0
+                ],
+                [
+                    108.0,
+                    410.0
+                ],
+                [
+                    107.0,
+                    410.0
+                ],
+                [
+                    107.0,
+                    420.0
+                ],
+                [
+                    108.0,
+                    420.0
+                ],
+                [
+                    108.0,
+                    424.0
+                ],
+                [
+                    109.0,
+                    424.0
+                ],
+                [
+                    109.0,
+                    425.0
+                ],
+                [
+                    110.0,
+                    425.0
+                ],
+                [
+                    110.0,
+                    427.0
+                ],
+                [
+                    112.0,
+                    427.0
+                ],
+                [
+                    112.0,
+                    428.0
+                ],
+                [
+                    116.0,
+                    428.0
+                ],
+                [
+                    116.0,
+                    427.0
+                ],
+                [
+                    117.0,
+                    427.0
+                ],
+                [
+                    117.0,
+                    424.0
+                ],
+                [
+                    118.0,
+                    424.0
+                ],
+                [
+                    118.0,
+                    423.0
+                ],
+                [
+                    117.0,
+                    423.0
+                ],
+                [
+                    117.0,
+                    413.0
+                ],
+                [
+                    116.0,
+                    413.0
+                ],
+                [
+                    116.0,
+                    411.0
+                ],
+                [
+                    115.0,
+                    411.0
+                ],
+                [
+                    115.0,
+                    410.0
+                ],
+                [
+                    114.0,
+                    410.0
+                ],
+                [
+                    114.0,
+                    409.0
+                ],
+                [
+                    108.0,
+                    409.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

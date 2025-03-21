@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Spot the automobile that features a unique, long silhouette and shiny metallic surfaces that catch the eye against its surroundings.",
+        "Find the vehicle that has a singular, stretched form and gleaming metal surfaces that are noticeable against the backdrop.",
+        "Look for the car with an unusual, extended design and reflective metal surfaces that stand out from the environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007595.jpg",
+            "points": [
+                [
+                    407.0,
+                    155.0
+                ],
+                [
+                    407.0,
+                    156.0
+                ],
+                [
+                    406.0,
+                    156.0
+                ],
+                [
+                    406.0,
+                    159.0
+                ],
+                [
+                    405.0,
+                    159.0
+                ],
+                [
+                    405.0,
+                    166.0
+                ],
+                [
+                    406.0,
+                    166.0
+                ],
+                [
+                    406.0,
+                    167.0
+                ],
+                [
+                    411.0,
+                    167.0
+                ],
+                [
+                    411.0,
+                    166.0
+                ],
+                [
+                    412.0,
+                    166.0
+                ],
+                [
+                    412.0,
+                    164.0
+                ],
+                [
+                    413.0,
+                    164.0
+                ],
+                [
+                    413.0,
+                    160.0
+                ],
+                [
+                    412.0,
+                    160.0
+                ],
+                [
+                    412.0,
+                    158.0
+                ],
+                [
+                    411.0,
+                    158.0
+                ],
+                [
+                    411.0,
+                    155.0
+                ],
+                [
+                    407.0,
+                    155.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

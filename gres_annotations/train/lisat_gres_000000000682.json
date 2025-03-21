@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the car that has a unique metallic luster, rounded body design, and shiny surfaces typical of automobiles.",
+        "Look for the vehicle featuring a noticeable metallic gleam, curved bodywork, and reflective areas that are common in cars.",
+        "Find the automobile distinguished by its metallic shine, smooth body shape, and mirrored surfaces characteristic of a car."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000682.jpg",
+            "points": [
+                [
+                    476.0,
+                    71.0
+                ],
+                [
+                    476.0,
+                    72.0
+                ],
+                [
+                    468.0,
+                    72.0
+                ],
+                [
+                    468.0,
+                    73.0
+                ],
+                [
+                    467.0,
+                    73.0
+                ],
+                [
+                    467.0,
+                    74.0
+                ],
+                [
+                    466.0,
+                    74.0
+                ],
+                [
+                    466.0,
+                    77.0
+                ],
+                [
+                    467.0,
+                    77.0
+                ],
+                [
+                    467.0,
+                    79.0
+                ],
+                [
+                    480.0,
+                    79.0
+                ],
+                [
+                    480.0,
+                    78.0
+                ],
+                [
+                    481.0,
+                    78.0
+                ],
+                [
+                    481.0,
+                    77.0
+                ],
+                [
+                    482.0,
+                    77.0
+                ],
+                [
+                    482.0,
+                    73.0
+                ],
+                [
+                    481.0,
+                    73.0
+                ],
+                [
+                    481.0,
+                    72.0
+                ],
+                [
+                    480.0,
+                    72.0
+                ],
+                [
+                    480.0,
+                    71.0
+                ],
+                [
+                    476.0,
+                    71.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

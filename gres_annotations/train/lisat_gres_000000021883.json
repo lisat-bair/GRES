@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Determine what the building in the picture is, despite it being entirely dark and difficult to distinguish.",
+        "Recognize the structure in the photo, even though it is fully obscured by darkness and hard to differentiate.",
+        "Figure out the identity of the building shown in the image, although it is completely concealed in darkness and challenging to separate."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021883.jpg",
+            "points": [
+                [
+                    510.0,
+                    380.0
+                ],
+                [
+                    510.0,
+                    381.0
+                ],
+                [
+                    509.0,
+                    381.0
+                ],
+                [
+                    509.0,
+                    391.0
+                ],
+                [
+                    510.0,
+                    391.0
+                ],
+                [
+                    510.0,
+                    393.0
+                ],
+                [
+                    511.0,
+                    393.0
+                ],
+                [
+                    511.0,
+                    396.0
+                ],
+                [
+                    512.0,
+                    396.0
+                ],
+                [
+                    512.0,
+                    380.0
+                ],
+                [
+                    510.0,
+                    380.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

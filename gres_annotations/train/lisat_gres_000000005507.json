@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the truck positioned in the bottom-right corner, characterized by its large, rectangular form with sharp edges and a clear division between the cab and its lengthy trailer, typically seen in metallic or neutral shades, on a road.",
+        "Spot the truck in the lower-right section, distinguished by its sizable, rectangular design with pronounced edges and a noticeable gap between the cab and the extended trailer, often found in metallic or neutral hues, on a roadway.",
+        "Find the truck situated at the bottom-right, marked by its big, rectangular structure with well-defined edges and a distinct separation between the cab and its long trailer, usually appearing in metallic or neutral tones, on a road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005507.jpg",
+            "points": [
+                [
+                    71.0,
+                    497.0
+                ],
+                [
+                    71.0,
+                    498.0
+                ],
+                [
+                    70.0,
+                    498.0
+                ],
+                [
+                    70.0,
+                    499.0
+                ],
+                [
+                    69.0,
+                    499.0
+                ],
+                [
+                    69.0,
+                    501.0
+                ],
+                [
+                    68.0,
+                    501.0
+                ],
+                [
+                    68.0,
+                    505.0
+                ],
+                [
+                    67.0,
+                    505.0
+                ],
+                [
+                    67.0,
+                    508.0
+                ],
+                [
+                    66.0,
+                    508.0
+                ],
+                [
+                    66.0,
+                    512.0
+                ],
+                [
+                    77.0,
+                    512.0
+                ],
+                [
+                    77.0,
+                    511.0
+                ],
+                [
+                    78.0,
+                    511.0
+                ],
+                [
+                    78.0,
+                    508.0
+                ],
+                [
+                    79.0,
+                    508.0
+                ],
+                [
+                    79.0,
+                    503.0
+                ],
+                [
+                    80.0,
+                    503.0
+                ],
+                [
+                    80.0,
+                    502.0
+                ],
+                [
+                    79.0,
+                    502.0
+                ],
+                [
+                    79.0,
+                    500.0
+                ],
+                [
+                    78.0,
+                    500.0
+                ],
+                [
+                    78.0,
+                    499.0
+                ],
+                [
+                    76.0,
+                    499.0
+                ],
+                [
+                    76.0,
+                    498.0
+                ],
+                [
+                    74.0,
+                    498.0
+                ],
+                [
+                    74.0,
+                    497.0
+                ],
+                [
+                    71.0,
+                    497.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

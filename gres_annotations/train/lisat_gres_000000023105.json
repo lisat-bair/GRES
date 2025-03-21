@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Locate the vehicle that has a sleek, rounded design and a shiny metallic finish.",
+        "Find the automobile that features a smooth, curved outline and a metallic look.",
+        "Spot the car that possesses a streamlined shape and a metallic sheen."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023105.jpg",
+            "points": [
+                [
+                    32.0,
+                    424.0
+                ],
+                [
+                    32.0,
+                    425.0
+                ],
+                [
+                    29.0,
+                    425.0
+                ],
+                [
+                    29.0,
+                    426.0
+                ],
+                [
+                    28.0,
+                    426.0
+                ],
+                [
+                    28.0,
+                    427.0
+                ],
+                [
+                    27.0,
+                    427.0
+                ],
+                [
+                    27.0,
+                    433.0
+                ],
+                [
+                    28.0,
+                    433.0
+                ],
+                [
+                    28.0,
+                    434.0
+                ],
+                [
+                    31.0,
+                    434.0
+                ],
+                [
+                    31.0,
+                    435.0
+                ],
+                [
+                    44.0,
+                    435.0
+                ],
+                [
+                    44.0,
+                    434.0
+                ],
+                [
+                    45.0,
+                    434.0
+                ],
+                [
+                    45.0,
+                    433.0
+                ],
+                [
+                    46.0,
+                    433.0
+                ],
+                [
+                    46.0,
+                    429.0
+                ],
+                [
+                    45.0,
+                    429.0
+                ],
+                [
+                    45.0,
+                    428.0
+                ],
+                [
+                    44.0,
+                    428.0
+                ],
+                [
+                    44.0,
+                    427.0
+                ],
+                [
+                    43.0,
+                    427.0
+                ],
+                [
+                    43.0,
+                    426.0
+                ],
+                [
+                    42.0,
+                    426.0
+                ],
+                [
+                    42.0,
+                    425.0
+                ],
+                [
+                    38.0,
+                    425.0
+                ],
+                [
+                    38.0,
+                    424.0
+                ],
+                [
+                    32.0,
+                    424.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

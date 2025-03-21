@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Look for the truck featuring a sizable white cargo section that stands out against its darker cab.",
+        "Spot the truck characterized by a large, white cargo area, which is in contrast with its darker cab.",
+        "Find the truck that has a big, white cargo compartment contrasting with a dark-colored cab."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017996.jpg",
+            "points": [
+                [
+                    71.0,
+                    295.0
+                ],
+                [
+                    71.0,
+                    296.0
+                ],
+                [
+                    69.0,
+                    296.0
+                ],
+                [
+                    69.0,
+                    297.0
+                ],
+                [
+                    68.0,
+                    297.0
+                ],
+                [
+                    68.0,
+                    298.0
+                ],
+                [
+                    66.0,
+                    298.0
+                ],
+                [
+                    66.0,
+                    299.0
+                ],
+                [
+                    64.0,
+                    299.0
+                ],
+                [
+                    64.0,
+                    300.0
+                ],
+                [
+                    63.0,
+                    300.0
+                ],
+                [
+                    63.0,
+                    303.0
+                ],
+                [
+                    64.0,
+                    303.0
+                ],
+                [
+                    64.0,
+                    305.0
+                ],
+                [
+                    66.0,
+                    305.0
+                ],
+                [
+                    66.0,
+                    306.0
+                ],
+                [
+                    67.0,
+                    306.0
+                ],
+                [
+                    67.0,
+                    305.0
+                ],
+                [
+                    71.0,
+                    305.0
+                ],
+                [
+                    71.0,
+                    304.0
+                ],
+                [
+                    74.0,
+                    304.0
+                ],
+                [
+                    74.0,
+                    303.0
+                ],
+                [
+                    75.0,
+                    303.0
+                ],
+                [
+                    75.0,
+                    302.0
+                ],
+                [
+                    76.0,
+                    302.0
+                ],
+                [
+                    76.0,
+                    297.0
+                ],
+                [
+                    75.0,
+                    297.0
+                ],
+                [
+                    75.0,
+                    296.0
+                ],
+                [
+                    74.0,
+                    296.0
+                ],
+                [
+                    74.0,
+                    295.0
+                ],
+                [
+                    71.0,
+                    295.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the white vehicle against the dark backdrop.",
+        "Spot the white automobile set against a shadowy background.",
+        "Identify the white car encircled by a dim setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005404.jpg",
+            "points": [
+                [
+                    111.0,
+                    51.0
+                ],
+                [
+                    111.0,
+                    52.0
+                ],
+                [
+                    110.0,
+                    52.0
+                ],
+                [
+                    110.0,
+                    53.0
+                ],
+                [
+                    109.0,
+                    53.0
+                ],
+                [
+                    109.0,
+                    60.0
+                ],
+                [
+                    110.0,
+                    60.0
+                ],
+                [
+                    110.0,
+                    63.0
+                ],
+                [
+                    111.0,
+                    63.0
+                ],
+                [
+                    111.0,
+                    65.0
+                ],
+                [
+                    113.0,
+                    65.0
+                ],
+                [
+                    113.0,
+                    66.0
+                ],
+                [
+                    117.0,
+                    66.0
+                ],
+                [
+                    117.0,
+                    65.0
+                ],
+                [
+                    119.0,
+                    65.0
+                ],
+                [
+                    119.0,
+                    64.0
+                ],
+                [
+                    120.0,
+                    64.0
+                ],
+                [
+                    120.0,
+                    56.0
+                ],
+                [
+                    119.0,
+                    56.0
+                ],
+                [
+                    119.0,
+                    53.0
+                ],
+                [
+                    118.0,
+                    53.0
+                ],
+                [
+                    118.0,
+                    52.0
+                ],
+                [
+                    117.0,
+                    52.0
+                ],
+                [
+                    117.0,
+                    51.0
+                ],
+                [
+                    111.0,
+                    51.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

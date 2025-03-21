@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the structure that stands out with its unique geometric design amidst the uneven natural landscape; it might exhibit a more consistent texture or hue.",
+        "Find the edifice that features a striking geometric form, setting it apart from the irregular natural surroundings; it could have a more uniform surface or color.",
+        "Spot the construction characterized by its distinctive geometric shape, which contrasts with the varied natural formations around it; it may display a more consistent texture or color."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022298.jpg",
+            "points": [
+                [
+                    318.0,
+                    182.0
+                ],
+                [
+                    318.0,
+                    183.0
+                ],
+                [
+                    317.0,
+                    183.0
+                ],
+                [
+                    317.0,
+                    184.0
+                ],
+                [
+                    315.0,
+                    184.0
+                ],
+                [
+                    315.0,
+                    185.0
+                ],
+                [
+                    313.0,
+                    185.0
+                ],
+                [
+                    313.0,
+                    189.0
+                ],
+                [
+                    314.0,
+                    189.0
+                ],
+                [
+                    314.0,
+                    190.0
+                ],
+                [
+                    315.0,
+                    190.0
+                ],
+                [
+                    315.0,
+                    191.0
+                ],
+                [
+                    319.0,
+                    191.0
+                ],
+                [
+                    319.0,
+                    190.0
+                ],
+                [
+                    322.0,
+                    190.0
+                ],
+                [
+                    322.0,
+                    189.0
+                ],
+                [
+                    324.0,
+                    189.0
+                ],
+                [
+                    324.0,
+                    187.0
+                ],
+                [
+                    325.0,
+                    187.0
+                ],
+                [
+                    325.0,
+                    184.0
+                ],
+                [
+                    324.0,
+                    184.0
+                ],
+                [
+                    324.0,
+                    183.0
+                ],
+                [
+                    323.0,
+                    183.0
+                ],
+                [
+                    323.0,
+                    182.0
+                ],
+                [
+                    318.0,
+                    182.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

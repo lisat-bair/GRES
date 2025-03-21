@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the truck characterized by its unique rectangular form, spacious cargo section, and noticeable dark wheels.",
+        "Locate the truck that stands out with its rectangular design, generous cargo space, and striking dark wheels.",
+        "Find the truck with a distinct rectangular shape, ample cargo capacity, and prominent dark-colored wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001435.jpg",
+            "points": [
+                [
+                    161.0,
+                    53.0
+                ],
+                [
+                    161.0,
+                    54.0
+                ],
+                [
+                    160.0,
+                    54.0
+                ],
+                [
+                    160.0,
+                    55.0
+                ],
+                [
+                    159.0,
+                    55.0
+                ],
+                [
+                    159.0,
+                    60.0
+                ],
+                [
+                    160.0,
+                    60.0
+                ],
+                [
+                    160.0,
+                    62.0
+                ],
+                [
+                    164.0,
+                    62.0
+                ],
+                [
+                    164.0,
+                    63.0
+                ],
+                [
+                    174.0,
+                    63.0
+                ],
+                [
+                    174.0,
+                    62.0
+                ],
+                [
+                    175.0,
+                    62.0
+                ],
+                [
+                    175.0,
+                    57.0
+                ],
+                [
+                    174.0,
+                    57.0
+                ],
+                [
+                    174.0,
+                    56.0
+                ],
+                [
+                    173.0,
+                    56.0
+                ],
+                [
+                    173.0,
+                    55.0
+                ],
+                [
+                    170.0,
+                    55.0
+                ],
+                [
+                    170.0,
+                    54.0
+                ],
+                [
+                    166.0,
+                    54.0
+                ],
+                [
+                    166.0,
+                    53.0
+                ],
+                [
+                    161.0,
+                    53.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

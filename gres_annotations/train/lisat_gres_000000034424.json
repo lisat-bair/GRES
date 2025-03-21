@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the excavator with its unique bright yellow hue and sizable arm featuring a bucket, contrasted with the dark backdrop.",
+        "Locate the excavator, recognizable by its vivid yellow shade and long arm equipped with a bucket, set against the dim background.",
+        "Find the excavator distinguished by its striking yellow color and extended arm with a bucket, set against the shadowy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034424.jpg",
+            "points": [
+                [
+                    418.0,
+                    207.0
+                ],
+                [
+                    418.0,
+                    208.0
+                ],
+                [
+                    415.0,
+                    208.0
+                ],
+                [
+                    415.0,
+                    211.0
+                ],
+                [
+                    414.0,
+                    211.0
+                ],
+                [
+                    414.0,
+                    212.0
+                ],
+                [
+                    415.0,
+                    212.0
+                ],
+                [
+                    415.0,
+                    218.0
+                ],
+                [
+                    416.0,
+                    218.0
+                ],
+                [
+                    416.0,
+                    221.0
+                ],
+                [
+                    417.0,
+                    221.0
+                ],
+                [
+                    417.0,
+                    228.0
+                ],
+                [
+                    418.0,
+                    228.0
+                ],
+                [
+                    418.0,
+                    233.0
+                ],
+                [
+                    419.0,
+                    233.0
+                ],
+                [
+                    419.0,
+                    235.0
+                ],
+                [
+                    420.0,
+                    235.0
+                ],
+                [
+                    420.0,
+                    237.0
+                ],
+                [
+                    424.0,
+                    237.0
+                ],
+                [
+                    424.0,
+                    228.0
+                ],
+                [
+                    423.0,
+                    228.0
+                ],
+                [
+                    423.0,
+                    226.0
+                ],
+                [
+                    424.0,
+                    226.0
+                ],
+                [
+                    424.0,
+                    225.0
+                ],
+                [
+                    423.0,
+                    225.0
+                ],
+                [
+                    423.0,
+                    221.0
+                ],
+                [
+                    424.0,
+                    221.0
+                ],
+                [
+                    424.0,
+                    219.0
+                ],
+                [
+                    425.0,
+                    219.0
+                ],
+                [
+                    425.0,
+                    209.0
+                ],
+                [
+                    424.0,
+                    209.0
+                ],
+                [
+                    424.0,
+                    208.0
+                ],
+                [
+                    422.0,
+                    208.0
+                ],
+                [
+                    422.0,
+                    207.0
+                ],
+                [
+                    418.0,
+                    207.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Locate the bus in the bottom-right of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025601.jpg",
+            "points": [
+                [
+                    144.0,
+                    505.0
+                ],
+                [
+                    144.0,
+                    507.0
+                ],
+                [
+                    143.0,
+                    507.0
+                ],
+                [
+                    143.0,
+                    509.0
+                ],
+                [
+                    142.0,
+                    509.0
+                ],
+                [
+                    142.0,
+                    512.0
+                ],
+                [
+                    150.0,
+                    512.0
+                ],
+                [
+                    150.0,
+                    509.0
+                ],
+                [
+                    149.0,
+                    509.0
+                ],
+                [
+                    149.0,
+                    506.0
+                ],
+                [
+                    148.0,
+                    506.0
+                ],
+                [
+                    148.0,
+                    505.0
+                ],
+                [
+                    144.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

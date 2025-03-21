@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Look for the truck that features a big rectangular cargo area and large tires, frequently painted in vivid colors for better visibility.",
+        "Spot the truck with a spacious rectangular bed and oversized wheels, usually adorned with bright colors to stand out.",
+        "Find the truck characterized by its large rectangular loading area and big tires, often decorated in bright hues to enhance visibility."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000028818.jpg",
+            "points": [
+                [
+                    511.0,
+                    281.0
+                ],
+                [
+                    511.0,
+                    283.0
+                ],
+                [
+                    510.0,
+                    283.0
+                ],
+                [
+                    510.0,
+                    284.0
+                ],
+                [
+                    509.0,
+                    284.0
+                ],
+                [
+                    509.0,
+                    286.0
+                ],
+                [
+                    508.0,
+                    286.0
+                ],
+                [
+                    508.0,
+                    294.0
+                ],
+                [
+                    509.0,
+                    294.0
+                ],
+                [
+                    509.0,
+                    296.0
+                ],
+                [
+                    511.0,
+                    296.0
+                ],
+                [
+                    511.0,
+                    297.0
+                ],
+                [
+                    512.0,
+                    297.0
+                ],
+                [
+                    512.0,
+                    281.0
+                ],
+                [
+                    511.0,
+                    281.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

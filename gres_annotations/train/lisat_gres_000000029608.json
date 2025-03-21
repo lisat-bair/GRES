@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the white vehicle positioned at the bottom right corner of the image, characterized by its round form and metallic surface.",
+        "Spot the white automobile in the lower-right section of the picture, distinguished by its circular design and metallic sheen.",
+        "Identify the white car located in the bottom right of the photo, noted for its circular shape and metallic appearance."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029608.jpg",
+            "points": [
+                [
+                    494.0,
+                    253.0
+                ],
+                [
+                    494.0,
+                    254.0
+                ],
+                [
+                    491.0,
+                    254.0
+                ],
+                [
+                    491.0,
+                    255.0
+                ],
+                [
+                    490.0,
+                    255.0
+                ],
+                [
+                    490.0,
+                    256.0
+                ],
+                [
+                    489.0,
+                    256.0
+                ],
+                [
+                    489.0,
+                    257.0
+                ],
+                [
+                    488.0,
+                    257.0
+                ],
+                [
+                    488.0,
+                    259.0
+                ],
+                [
+                    489.0,
+                    259.0
+                ],
+                [
+                    489.0,
+                    260.0
+                ],
+                [
+                    492.0,
+                    260.0
+                ],
+                [
+                    492.0,
+                    261.0
+                ],
+                [
+                    494.0,
+                    261.0
+                ],
+                [
+                    494.0,
+                    260.0
+                ],
+                [
+                    499.0,
+                    260.0
+                ],
+                [
+                    499.0,
+                    259.0
+                ],
+                [
+                    500.0,
+                    259.0
+                ],
+                [
+                    500.0,
+                    255.0
+                ],
+                [
+                    499.0,
+                    255.0
+                ],
+                [
+                    499.0,
+                    254.0
+                ],
+                [
+                    497.0,
+                    254.0
+                ],
+                [
+                    497.0,
+                    253.0
+                ],
+                [
+                    494.0,
+                    253.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

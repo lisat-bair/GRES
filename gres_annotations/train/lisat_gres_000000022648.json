@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the vehicle that features a shiny exterior, unique tires, and a noticeable rectangular form in the environment.",
+        "Locate the automobile that has a metallic finish, distinctive wheels, and an easily identifiable rectangular silhouette in the area.",
+        "Find the car that stands out with its metal surface, different wheels, and a clearly defined rectangular shape within the scene."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022648.jpg",
+            "points": [
+                [
+                    90.0,
+                    10.0
+                ],
+                [
+                    90.0,
+                    11.0
+                ],
+                [
+                    89.0,
+                    11.0
+                ],
+                [
+                    89.0,
+                    12.0
+                ],
+                [
+                    88.0,
+                    12.0
+                ],
+                [
+                    88.0,
+                    18.0
+                ],
+                [
+                    89.0,
+                    18.0
+                ],
+                [
+                    89.0,
+                    19.0
+                ],
+                [
+                    90.0,
+                    19.0
+                ],
+                [
+                    90.0,
+                    20.0
+                ],
+                [
+                    93.0,
+                    20.0
+                ],
+                [
+                    93.0,
+                    21.0
+                ],
+                [
+                    95.0,
+                    21.0
+                ],
+                [
+                    95.0,
+                    20.0
+                ],
+                [
+                    105.0,
+                    20.0
+                ],
+                [
+                    105.0,
+                    21.0
+                ],
+                [
+                    107.0,
+                    21.0
+                ],
+                [
+                    107.0,
+                    20.0
+                ],
+                [
+                    109.0,
+                    20.0
+                ],
+                [
+                    109.0,
+                    14.0
+                ],
+                [
+                    108.0,
+                    14.0
+                ],
+                [
+                    108.0,
+                    12.0
+                ],
+                [
+                    98.0,
+                    12.0
+                ],
+                [
+                    98.0,
+                    11.0
+                ],
+                [
+                    95.0,
+                    11.0
+                ],
+                [
+                    95.0,
+                    10.0
+                ],
+                [
+                    90.0,
+                    10.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

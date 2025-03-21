@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Recognize the vehicle even though the picture is too dim to see its details.",
+        "Determine the type of car although the image is too dark to make out its characteristics.",
+        "Identify the automobile despite the photo being too shadowy to detect its features."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019823.jpg",
+            "points": [
+                [
+                    52.0,
+                    507.0
+                ],
+                [
+                    52.0,
+                    508.0
+                ],
+                [
+                    42.0,
+                    508.0
+                ],
+                [
+                    42.0,
+                    509.0
+                ],
+                [
+                    40.0,
+                    509.0
+                ],
+                [
+                    40.0,
+                    508.0
+                ],
+                [
+                    39.0,
+                    508.0
+                ],
+                [
+                    39.0,
+                    509.0
+                ],
+                [
+                    38.0,
+                    509.0
+                ],
+                [
+                    38.0,
+                    512.0
+                ],
+                [
+                    71.0,
+                    512.0
+                ],
+                [
+                    71.0,
+                    510.0
+                ],
+                [
+                    69.0,
+                    510.0
+                ],
+                [
+                    69.0,
+                    509.0
+                ],
+                [
+                    68.0,
+                    509.0
+                ],
+                [
+                    68.0,
+                    508.0
+                ],
+                [
+                    54.0,
+                    508.0
+                ],
+                [
+                    54.0,
+                    507.0
+                ],
+                [
+                    52.0,
+                    507.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

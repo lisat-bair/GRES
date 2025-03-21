@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the vehicle that has a shiny metallic finish, a unique rectangular design, and round tires.",
+        "Find the automobile characterized by a metallic gloss, a distinct boxy shape, and circular wheels.",
+        "Locate the car that features a metallic luster, a notable rectangular form, and round wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030457.jpg",
+            "points": [
+                [
+                    231.0,
+                    278.0
+                ],
+                [
+                    231.0,
+                    279.0
+                ],
+                [
+                    228.0,
+                    279.0
+                ],
+                [
+                    228.0,
+                    280.0
+                ],
+                [
+                    226.0,
+                    280.0
+                ],
+                [
+                    226.0,
+                    281.0
+                ],
+                [
+                    225.0,
+                    281.0
+                ],
+                [
+                    225.0,
+                    284.0
+                ],
+                [
+                    226.0,
+                    284.0
+                ],
+                [
+                    226.0,
+                    286.0
+                ],
+                [
+                    228.0,
+                    286.0
+                ],
+                [
+                    228.0,
+                    287.0
+                ],
+                [
+                    234.0,
+                    287.0
+                ],
+                [
+                    234.0,
+                    286.0
+                ],
+                [
+                    238.0,
+                    286.0
+                ],
+                [
+                    238.0,
+                    285.0
+                ],
+                [
+                    239.0,
+                    285.0
+                ],
+                [
+                    239.0,
+                    281.0
+                ],
+                [
+                    238.0,
+                    281.0
+                ],
+                [
+                    238.0,
+                    279.0
+                ],
+                [
+                    237.0,
+                    279.0
+                ],
+                [
+                    237.0,
+                    278.0
+                ],
+                [
+                    231.0,
+                    278.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

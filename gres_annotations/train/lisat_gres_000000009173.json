@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the vehicle that has a rectangular design, sleek exterior, and shiny metal finish next to the straight road.",
+        "Search for the automobile featuring a rectangular form, polished surface, and metallic sheen situated by the straight path.",
+        "Identify the car with a boxy shape, smooth body, and reflective metallic finish located beside the linear road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009173.jpg",
+            "points": [
+                [
+                    142.0,
+                    441.0
+                ],
+                [
+                    142.0,
+                    442.0
+                ],
+                [
+                    141.0,
+                    442.0
+                ],
+                [
+                    141.0,
+                    443.0
+                ],
+                [
+                    140.0,
+                    443.0
+                ],
+                [
+                    140.0,
+                    445.0
+                ],
+                [
+                    139.0,
+                    445.0
+                ],
+                [
+                    139.0,
+                    446.0
+                ],
+                [
+                    138.0,
+                    446.0
+                ],
+                [
+                    138.0,
+                    447.0
+                ],
+                [
+                    137.0,
+                    447.0
+                ],
+                [
+                    137.0,
+                    448.0
+                ],
+                [
+                    136.0,
+                    448.0
+                ],
+                [
+                    136.0,
+                    449.0
+                ],
+                [
+                    135.0,
+                    449.0
+                ],
+                [
+                    135.0,
+                    450.0
+                ],
+                [
+                    134.0,
+                    450.0
+                ],
+                [
+                    134.0,
+                    454.0
+                ],
+                [
+                    135.0,
+                    454.0
+                ],
+                [
+                    135.0,
+                    456.0
+                ],
+                [
+                    139.0,
+                    456.0
+                ],
+                [
+                    139.0,
+                    455.0
+                ],
+                [
+                    141.0,
+                    455.0
+                ],
+                [
+                    141.0,
+                    454.0
+                ],
+                [
+                    142.0,
+                    454.0
+                ],
+                [
+                    142.0,
+                    453.0
+                ],
+                [
+                    143.0,
+                    453.0
+                ],
+                [
+                    143.0,
+                    451.0
+                ],
+                [
+                    144.0,
+                    451.0
+                ],
+                [
+                    144.0,
+                    449.0
+                ],
+                [
+                    145.0,
+                    449.0
+                ],
+                [
+                    145.0,
+                    447.0
+                ],
+                [
+                    146.0,
+                    447.0
+                ],
+                [
+                    146.0,
+                    442.0
+                ],
+                [
+                    145.0,
+                    442.0
+                ],
+                [
+                    145.0,
+                    441.0
+                ],
+                [
+                    142.0,
+                    441.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the trailer bed that features unique horizontal stripes and a shiny metallic area close to the big round wheels.",
+        "Spot the trailer bed with unique horizontal markings and a glossy metal finish adjacent to large circular wheels.",
+        "Find the trailer bed marked by distinct horizontal patterns and a reflective metal surface near the big circular wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004825.jpg",
+            "points": [
+                [
+                    376.0,
+                    503.0
+                ],
+                [
+                    376.0,
+                    504.0
+                ],
+                [
+                    374.0,
+                    504.0
+                ],
+                [
+                    374.0,
+                    505.0
+                ],
+                [
+                    373.0,
+                    505.0
+                ],
+                [
+                    373.0,
+                    506.0
+                ],
+                [
+                    372.0,
+                    506.0
+                ],
+                [
+                    372.0,
+                    508.0
+                ],
+                [
+                    371.0,
+                    508.0
+                ],
+                [
+                    371.0,
+                    510.0
+                ],
+                [
+                    372.0,
+                    510.0
+                ],
+                [
+                    372.0,
+                    512.0
+                ],
+                [
+                    387.0,
+                    512.0
+                ],
+                [
+                    387.0,
+                    508.0
+                ],
+                [
+                    386.0,
+                    508.0
+                ],
+                [
+                    386.0,
+                    506.0
+                ],
+                [
+                    385.0,
+                    506.0
+                ],
+                [
+                    385.0,
+                    505.0
+                ],
+                [
+                    384.0,
+                    505.0
+                ],
+                [
+                    384.0,
+                    504.0
+                ],
+                [
+                    382.0,
+                    504.0
+                ],
+                [
+                    382.0,
+                    503.0
+                ],
+                [
+                    376.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

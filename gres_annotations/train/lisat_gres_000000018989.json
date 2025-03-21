@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the automobile that features a shiny, metal-like exterior with a unique mirrored look similar to that of a car's body.",
+        "Locate the vehicle that boasts a smooth, metallic sheen and a reflective appearance akin to a car's surface.",
+        "Spot the car displaying a polished, metallic finish and a distinct reflective quality that mirrors a car's exterior."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018989.jpg",
+            "points": [
+                [
+                    221.0,
+                    503.0
+                ],
+                [
+                    221.0,
+                    504.0
+                ],
+                [
+                    220.0,
+                    504.0
+                ],
+                [
+                    220.0,
+                    505.0
+                ],
+                [
+                    219.0,
+                    505.0
+                ],
+                [
+                    219.0,
+                    507.0
+                ],
+                [
+                    218.0,
+                    507.0
+                ],
+                [
+                    218.0,
+                    512.0
+                ],
+                [
+                    239.0,
+                    512.0
+                ],
+                [
+                    239.0,
+                    508.0
+                ],
+                [
+                    238.0,
+                    508.0
+                ],
+                [
+                    238.0,
+                    507.0
+                ],
+                [
+                    236.0,
+                    507.0
+                ],
+                [
+                    236.0,
+                    506.0
+                ],
+                [
+                    234.0,
+                    506.0
+                ],
+                [
+                    234.0,
+                    505.0
+                ],
+                [
+                    230.0,
+                    505.0
+                ],
+                [
+                    230.0,
+                    504.0
+                ],
+                [
+                    226.0,
+                    504.0
+                ],
+                [
+                    226.0,
+                    503.0
+                ],
+                [
+                    221.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

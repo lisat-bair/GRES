@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Locate the vehicle that has a white rectangular section for cargo and a cab that is a darker color.",
+        "Find the truck featuring a white rectangular cargo area paired with a cab in a darker shade.",
+        "Spot the truck that possesses a rectangular white cargo section and a cab of a darker hue."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034708.jpg",
+            "points": [
+                [
+                    44.0,
+                    217.0
+                ],
+                [
+                    44.0,
+                    218.0
+                ],
+                [
+                    43.0,
+                    218.0
+                ],
+                [
+                    43.0,
+                    219.0
+                ],
+                [
+                    42.0,
+                    219.0
+                ],
+                [
+                    42.0,
+                    222.0
+                ],
+                [
+                    43.0,
+                    222.0
+                ],
+                [
+                    43.0,
+                    226.0
+                ],
+                [
+                    44.0,
+                    226.0
+                ],
+                [
+                    44.0,
+                    228.0
+                ],
+                [
+                    45.0,
+                    228.0
+                ],
+                [
+                    45.0,
+                    229.0
+                ],
+                [
+                    46.0,
+                    229.0
+                ],
+                [
+                    46.0,
+                    230.0
+                ],
+                [
+                    47.0,
+                    230.0
+                ],
+                [
+                    47.0,
+                    231.0
+                ],
+                [
+                    49.0,
+                    231.0
+                ],
+                [
+                    49.0,
+                    232.0
+                ],
+                [
+                    54.0,
+                    232.0
+                ],
+                [
+                    54.0,
+                    231.0
+                ],
+                [
+                    55.0,
+                    231.0
+                ],
+                [
+                    55.0,
+                    225.0
+                ],
+                [
+                    54.0,
+                    225.0
+                ],
+                [
+                    54.0,
+                    224.0
+                ],
+                [
+                    53.0,
+                    224.0
+                ],
+                [
+                    53.0,
+                    222.0
+                ],
+                [
+                    52.0,
+                    222.0
+                ],
+                [
+                    52.0,
+                    221.0
+                ],
+                [
+                    51.0,
+                    221.0
+                ],
+                [
+                    51.0,
+                    220.0
+                ],
+                [
+                    49.0,
+                    220.0
+                ],
+                [
+                    49.0,
+                    219.0
+                ],
+                [
+                    48.0,
+                    219.0
+                ],
+                [
+                    48.0,
+                    218.0
+                ],
+                [
+                    47.0,
+                    218.0
+                ],
+                [
+                    47.0,
+                    217.0
+                ],
+                [
+                    44.0,
+                    217.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

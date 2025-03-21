@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the truck in the upper-left corner of the picture, characterized by a long rectangular body and noticeable wheels, often metallic or painted, attached to a cab at the front.",
+        "Locate the truck positioned at the top-left of the image, featuring a long rectangular form and distinct wheels, usually metallic or painted, linked to a front cab.",
+        "Find the truck located in the upper-left section of the image, distinguished by its long rectangular shape and prominent wheels, typically metallic or painted, connected to a front truck cab."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000959.jpg",
+            "points": [
+                [
+                    0.0,
+                    319.0
+                ],
+                [
+                    0.0,
+                    336.0
+                ],
+                [
+                    6.0,
+                    336.0
+                ],
+                [
+                    6.0,
+                    335.0
+                ],
+                [
+                    8.0,
+                    335.0
+                ],
+                [
+                    8.0,
+                    334.0
+                ],
+                [
+                    9.0,
+                    334.0
+                ],
+                [
+                    9.0,
+                    324.0
+                ],
+                [
+                    8.0,
+                    324.0
+                ],
+                [
+                    8.0,
+                    322.0
+                ],
+                [
+                    7.0,
+                    322.0
+                ],
+                [
+                    7.0,
+                    320.0
+                ],
+                [
+                    5.0,
+                    320.0
+                ],
+                [
+                    5.0,
+                    319.0
+                ],
+                [
+                    0.0,
+                    319.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

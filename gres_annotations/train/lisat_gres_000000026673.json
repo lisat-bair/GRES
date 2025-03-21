@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the truck that is mostly dark in color and has a significant, box-like form with noticeable rectangular details.",
+        "Identify the vehicle that is largely dark, with a big, boxy appearance and distinctive rectangular characteristics.",
+        "Search for the truck characterized by a dark hue, a substantial boxy shape, and prominent rectangular features."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026673.jpg",
+            "points": [
+                [
+                    184.0,
+                    491.0
+                ],
+                [
+                    184.0,
+                    492.0
+                ],
+                [
+                    182.0,
+                    492.0
+                ],
+                [
+                    182.0,
+                    494.0
+                ],
+                [
+                    181.0,
+                    494.0
+                ],
+                [
+                    181.0,
+                    496.0
+                ],
+                [
+                    180.0,
+                    496.0
+                ],
+                [
+                    180.0,
+                    497.0
+                ],
+                [
+                    179.0,
+                    497.0
+                ],
+                [
+                    179.0,
+                    498.0
+                ],
+                [
+                    178.0,
+                    498.0
+                ],
+                [
+                    178.0,
+                    500.0
+                ],
+                [
+                    177.0,
+                    500.0
+                ],
+                [
+                    177.0,
+                    505.0
+                ],
+                [
+                    176.0,
+                    505.0
+                ],
+                [
+                    176.0,
+                    512.0
+                ],
+                [
+                    191.0,
+                    512.0
+                ],
+                [
+                    191.0,
+                    511.0
+                ],
+                [
+                    192.0,
+                    511.0
+                ],
+                [
+                    192.0,
+                    492.0
+                ],
+                [
+                    190.0,
+                    492.0
+                ],
+                [
+                    190.0,
+                    491.0
+                ],
+                [
+                    184.0,
+                    491.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

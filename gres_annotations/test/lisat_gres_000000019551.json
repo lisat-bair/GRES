@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the truck in the image with an elongated rectangular shape, distinct wheels, and a clear separation between the cab and the trailer bed, featuring reflective surfaces and lights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019551.jpg",
+            "points": [
+                [
+                    404.0,
+                    393.0
+                ],
+                [
+                    404.0,
+                    394.0
+                ],
+                [
+                    403.0,
+                    394.0
+                ],
+                [
+                    403.0,
+                    400.0
+                ],
+                [
+                    408.0,
+                    400.0
+                ],
+                [
+                    408.0,
+                    401.0
+                ],
+                [
+                    416.0,
+                    401.0
+                ],
+                [
+                    416.0,
+                    402.0
+                ],
+                [
+                    443.0,
+                    402.0
+                ],
+                [
+                    443.0,
+                    401.0
+                ],
+                [
+                    445.0,
+                    401.0
+                ],
+                [
+                    445.0,
+                    394.0
+                ],
+                [
+                    443.0,
+                    394.0
+                ],
+                [
+                    443.0,
+                    393.0
+                ],
+                [
+                    404.0,
+                    393.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Look for the shed by finding the rectangular building with a dark, aged surface that stands out against the lighter surroundings.",
+        "Spot the shed by identifying the rectangular shape, characterized by its dark, weathered exterior in contrast to the brighter backdrop.",
+        "Locate the shed by recognizing the rectangular form with a dark, worn texture that contrasts sharply with the lighter area around it."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014673.jpg",
+            "points": [
+                [
+                    155.0,
+                    0.0
+                ],
+                [
+                    155.0,
+                    5.0
+                ],
+                [
+                    154.0,
+                    5.0
+                ],
+                [
+                    154.0,
+                    13.0
+                ],
+                [
+                    155.0,
+                    13.0
+                ],
+                [
+                    155.0,
+                    15.0
+                ],
+                [
+                    156.0,
+                    15.0
+                ],
+                [
+                    156.0,
+                    16.0
+                ],
+                [
+                    166.0,
+                    16.0
+                ],
+                [
+                    166.0,
+                    15.0
+                ],
+                [
+                    167.0,
+                    15.0
+                ],
+                [
+                    167.0,
+                    13.0
+                ],
+                [
+                    168.0,
+                    13.0
+                ],
+                [
+                    168.0,
+                    6.0
+                ],
+                [
+                    169.0,
+                    6.0
+                ],
+                [
+                    169.0,
+                    0.0
+                ],
+                [
+                    155.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

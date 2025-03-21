@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the vehicle that stands out with its rectangular form and uniform color against a different backdrop.",
+        "Locate the automobile that has a unique rectangular design and a solid hue set against a contrasting background.",
+        "Spot the car characterized by its distinctive rectangular shape and single color in front of a contrasting setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012792.jpg",
+            "points": [
+                [
+                    28.0,
+                    83.0
+                ],
+                [
+                    28.0,
+                    84.0
+                ],
+                [
+                    27.0,
+                    84.0
+                ],
+                [
+                    27.0,
+                    87.0
+                ],
+                [
+                    26.0,
+                    87.0
+                ],
+                [
+                    26.0,
+                    90.0
+                ],
+                [
+                    27.0,
+                    90.0
+                ],
+                [
+                    27.0,
+                    102.0
+                ],
+                [
+                    28.0,
+                    102.0
+                ],
+                [
+                    28.0,
+                    103.0
+                ],
+                [
+                    37.0,
+                    103.0
+                ],
+                [
+                    37.0,
+                    101.0
+                ],
+                [
+                    38.0,
+                    101.0
+                ],
+                [
+                    38.0,
+                    90.0
+                ],
+                [
+                    37.0,
+                    90.0
+                ],
+                [
+                    37.0,
+                    86.0
+                ],
+                [
+                    36.0,
+                    86.0
+                ],
+                [
+                    36.0,
+                    84.0
+                ],
+                [
+                    35.0,
+                    84.0
+                ],
+                [
+                    35.0,
+                    83.0
+                ],
+                [
+                    28.0,
+                    83.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

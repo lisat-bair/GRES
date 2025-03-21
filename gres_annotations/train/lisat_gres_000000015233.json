@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Separate the bus into a sizeable, rectangular yellow form featuring windows and wheels, generally taking up road space.",
+        "Divide the bus with a big, rectangular, yellow figure that includes windows and wheels, usually occupying the road area.",
+        "Partition the bus into a large yellow rectangular shape with wheels and windows, often taking up space on the road."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015233.jpg",
+            "points": [
+                [
+                    102.0,
+                    206.0
+                ],
+                [
+                    102.0,
+                    207.0
+                ],
+                [
+                    101.0,
+                    207.0
+                ],
+                [
+                    101.0,
+                    214.0
+                ],
+                [
+                    100.0,
+                    214.0
+                ],
+                [
+                    100.0,
+                    218.0
+                ],
+                [
+                    101.0,
+                    218.0
+                ],
+                [
+                    101.0,
+                    219.0
+                ],
+                [
+                    102.0,
+                    219.0
+                ],
+                [
+                    102.0,
+                    220.0
+                ],
+                [
+                    106.0,
+                    220.0
+                ],
+                [
+                    106.0,
+                    219.0
+                ],
+                [
+                    107.0,
+                    219.0
+                ],
+                [
+                    107.0,
+                    218.0
+                ],
+                [
+                    108.0,
+                    218.0
+                ],
+                [
+                    108.0,
+                    207.0
+                ],
+                [
+                    106.0,
+                    207.0
+                ],
+                [
+                    106.0,
+                    206.0
+                ],
+                [
+                    102.0,
+                    206.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

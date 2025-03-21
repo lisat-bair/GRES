@@ -1,0 +1,91 @@
+{
+    "text": [
+        "Identify the truck in the bottom-right corner of the image with a long rectangular shape and distinct wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005480.jpg",
+            "points": [
+                [
+                    507.0,
+                    302.0
+                ],
+                [
+                    507.0,
+                    303.0
+                ],
+                [
+                    505.0,
+                    303.0
+                ],
+                [
+                    505.0,
+                    304.0
+                ],
+                [
+                    504.0,
+                    304.0
+                ],
+                [
+                    504.0,
+                    305.0
+                ],
+                [
+                    503.0,
+                    305.0
+                ],
+                [
+                    503.0,
+                    309.0
+                ],
+                [
+                    504.0,
+                    309.0
+                ],
+                [
+                    504.0,
+                    323.0
+                ],
+                [
+                    505.0,
+                    323.0
+                ],
+                [
+                    505.0,
+                    324.0
+                ],
+                [
+                    507.0,
+                    324.0
+                ],
+                [
+                    507.0,
+                    325.0
+                ],
+                [
+                    512.0,
+                    325.0
+                ],
+                [
+                    512.0,
+                    302.0
+                ],
+                [
+                    507.0,
+                    302.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

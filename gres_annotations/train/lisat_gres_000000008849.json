@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Spot the engineering vehicle that features large, earth-colored parts and unique industrial fittings, standing out from its environment.",
+        "Locate the engineering vehicle characterized by its sizable, earthy components and notable industrial accessories, which contrast with the surrounding area.",
+        "Find the engineering vehicle with prominent, earth-toned pieces and distinctive industrial attachments that stand out against the environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008849.jpg",
+            "points": [
+                [
+                    0.0,
+                    218.0
+                ],
+                [
+                    0.0,
+                    240.0
+                ],
+                [
+                    4.0,
+                    240.0
+                ],
+                [
+                    4.0,
+                    239.0
+                ],
+                [
+                    6.0,
+                    239.0
+                ],
+                [
+                    6.0,
+                    238.0
+                ],
+                [
+                    7.0,
+                    238.0
+                ],
+                [
+                    7.0,
+                    236.0
+                ],
+                [
+                    8.0,
+                    236.0
+                ],
+                [
+                    8.0,
+                    235.0
+                ],
+                [
+                    9.0,
+                    235.0
+                ],
+                [
+                    9.0,
+                    234.0
+                ],
+                [
+                    10.0,
+                    234.0
+                ],
+                [
+                    10.0,
+                    233.0
+                ],
+                [
+                    11.0,
+                    233.0
+                ],
+                [
+                    11.0,
+                    232.0
+                ],
+                [
+                    12.0,
+                    232.0
+                ],
+                [
+                    12.0,
+                    231.0
+                ],
+                [
+                    13.0,
+                    231.0
+                ],
+                [
+                    13.0,
+                    226.0
+                ],
+                [
+                    12.0,
+                    226.0
+                ],
+                [
+                    12.0,
+                    224.0
+                ],
+                [
+                    11.0,
+                    224.0
+                ],
+                [
+                    11.0,
+                    223.0
+                ],
+                [
+                    10.0,
+                    223.0
+                ],
+                [
+                    10.0,
+                    222.0
+                ],
+                [
+                    8.0,
+                    222.0
+                ],
+                [
+                    8.0,
+                    221.0
+                ],
+                [
+                    6.0,
+                    221.0
+                ],
+                [
+                    6.0,
+                    220.0
+                ],
+                [
+                    5.0,
+                    220.0
+                ],
+                [
+                    5.0,
+                    219.0
+                ],
+                [
+                    3.0,
+                    219.0
+                ],
+                [
+                    3.0,
+                    218.0
+                ],
+                [
+                    0.0,
+                    218.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

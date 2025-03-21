@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Locate the truck that stands out with its deep hue and angular form against the indistinct backdrop.",
+        "Spot the vehicle that is characterized by its unique dark shade and boxy contours against the hazy surroundings.",
+        "Find the truck that has a notable dark color and a rectangular design amidst the fuzzy background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004524.jpg",
+            "points": [
+                [
+                    445.0,
+                    439.0
+                ],
+                [
+                    445.0,
+                    441.0
+                ],
+                [
+                    444.0,
+                    441.0
+                ],
+                [
+                    444.0,
+                    449.0
+                ],
+                [
+                    443.0,
+                    449.0
+                ],
+                [
+                    443.0,
+                    451.0
+                ],
+                [
+                    444.0,
+                    451.0
+                ],
+                [
+                    444.0,
+                    455.0
+                ],
+                [
+                    445.0,
+                    455.0
+                ],
+                [
+                    445.0,
+                    457.0
+                ],
+                [
+                    446.0,
+                    457.0
+                ],
+                [
+                    446.0,
+                    458.0
+                ],
+                [
+                    454.0,
+                    458.0
+                ],
+                [
+                    454.0,
+                    457.0
+                ],
+                [
+                    455.0,
+                    457.0
+                ],
+                [
+                    455.0,
+                    451.0
+                ],
+                [
+                    454.0,
+                    451.0
+                ],
+                [
+                    454.0,
+                    443.0
+                ],
+                [
+                    453.0,
+                    443.0
+                ],
+                [
+                    453.0,
+                    439.0
+                ],
+                [
+                    445.0,
+                    439.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

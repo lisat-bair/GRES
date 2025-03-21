@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the excavator by its bright yellow hue, its sizable articulated arm, and the bucket-like shape set against the brown soil backdrop.",
+        "Notice the excavator with its characteristic yellow color, large movable arm, and bucket form against the earthy brown background.",
+        "Recognize the excavator through its unique yellow color, expansive articulated arm, and bucket design amid the brown earth scenery."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000026994.jpg",
+            "points": [
+                [
+                    197.0,
+                    465.0
+                ],
+                [
+                    197.0,
+                    466.0
+                ],
+                [
+                    196.0,
+                    466.0
+                ],
+                [
+                    196.0,
+                    475.0
+                ],
+                [
+                    197.0,
+                    475.0
+                ],
+                [
+                    197.0,
+                    478.0
+                ],
+                [
+                    198.0,
+                    478.0
+                ],
+                [
+                    198.0,
+                    489.0
+                ],
+                [
+                    199.0,
+                    489.0
+                ],
+                [
+                    199.0,
+                    495.0
+                ],
+                [
+                    200.0,
+                    495.0
+                ],
+                [
+                    200.0,
+                    496.0
+                ],
+                [
+                    204.0,
+                    496.0
+                ],
+                [
+                    204.0,
+                    486.0
+                ],
+                [
+                    203.0,
+                    486.0
+                ],
+                [
+                    203.0,
+                    480.0
+                ],
+                [
+                    204.0,
+                    480.0
+                ],
+                [
+                    204.0,
+                    479.0
+                ],
+                [
+                    205.0,
+                    479.0
+                ],
+                [
+                    205.0,
+                    478.0
+                ],
+                [
+                    206.0,
+                    478.0
+                ],
+                [
+                    206.0,
+                    476.0
+                ],
+                [
+                    207.0,
+                    476.0
+                ],
+                [
+                    207.0,
+                    468.0
+                ],
+                [
+                    206.0,
+                    468.0
+                ],
+                [
+                    206.0,
+                    467.0
+                ],
+                [
+                    205.0,
+                    467.0
+                ],
+                [
+                    205.0,
+                    466.0
+                ],
+                [
+                    204.0,
+                    466.0
+                ],
+                [
+                    204.0,
+                    465.0
+                ],
+                [
+                    197.0,
+                    465.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

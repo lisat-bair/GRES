@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Find the bus situated in the upper-left corner of the picture.",
+        "Look for the bus positioned at the top-left section of the image.",
+        "Identify the bus located in the top-left area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000030653.jpg",
+            "points": [
+                [
+                    0.0,
+                    4.0
+                ],
+                [
+                    0.0,
+                    13.0
+                ],
+                [
+                    2.0,
+                    13.0
+                ],
+                [
+                    2.0,
+                    12.0
+                ],
+                [
+                    4.0,
+                    12.0
+                ],
+                [
+                    4.0,
+                    11.0
+                ],
+                [
+                    6.0,
+                    11.0
+                ],
+                [
+                    6.0,
+                    10.0
+                ],
+                [
+                    7.0,
+                    10.0
+                ],
+                [
+                    7.0,
+                    5.0
+                ],
+                [
+                    6.0,
+                    5.0
+                ],
+                [
+                    6.0,
+                    4.0
+                ],
+                [
+                    0.0,
+                    4.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

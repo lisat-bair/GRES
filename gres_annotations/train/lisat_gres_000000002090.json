@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the vehicle that has a shiny exterior and is equipped with four wheels, showcasing a unique rectangular design.",
+        "Seek out the automobile with a metal finish and four wheels, characterized by its notable rectangular form.",
+        "Identify the car that possesses a metallic appearance and four wheels, distinguished by its rectangular shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002090.jpg",
+            "points": [
+                [
+                    468.0,
+                    140.0
+                ],
+                [
+                    468.0,
+                    142.0
+                ],
+                [
+                    467.0,
+                    142.0
+                ],
+                [
+                    467.0,
+                    147.0
+                ],
+                [
+                    468.0,
+                    147.0
+                ],
+                [
+                    468.0,
+                    148.0
+                ],
+                [
+                    470.0,
+                    148.0
+                ],
+                [
+                    470.0,
+                    149.0
+                ],
+                [
+                    476.0,
+                    149.0
+                ],
+                [
+                    476.0,
+                    150.0
+                ],
+                [
+                    483.0,
+                    150.0
+                ],
+                [
+                    483.0,
+                    148.0
+                ],
+                [
+                    484.0,
+                    148.0
+                ],
+                [
+                    484.0,
+                    146.0
+                ],
+                [
+                    483.0,
+                    146.0
+                ],
+                [
+                    483.0,
+                    144.0
+                ],
+                [
+                    482.0,
+                    144.0
+                ],
+                [
+                    482.0,
+                    143.0
+                ],
+                [
+                    481.0,
+                    143.0
+                ],
+                [
+                    481.0,
+                    142.0
+                ],
+                [
+                    480.0,
+                    142.0
+                ],
+                [
+                    480.0,
+                    141.0
+                ],
+                [
+                    478.0,
+                    141.0
+                ],
+                [
+                    478.0,
+                    140.0
+                ],
+                [
+                    468.0,
+                    140.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

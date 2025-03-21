@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the yellow equipment featuring large wheels and metal parts, typically seen at construction locations.",
+        "Locate the yellow machines equipped with noticeable wheels and metallic structures, commonly present at building sites.",
+        "Find the yellow apparatus with significant wheels and metal elements, frequently observed at construction areas."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005277.jpg",
+            "points": [
+                [
+                    358.0,
+                    68.0
+                ],
+                [
+                    358.0,
+                    69.0
+                ],
+                [
+                    357.0,
+                    69.0
+                ],
+                [
+                    357.0,
+                    70.0
+                ],
+                [
+                    356.0,
+                    70.0
+                ],
+                [
+                    356.0,
+                    71.0
+                ],
+                [
+                    355.0,
+                    71.0
+                ],
+                [
+                    355.0,
+                    72.0
+                ],
+                [
+                    354.0,
+                    72.0
+                ],
+                [
+                    354.0,
+                    81.0
+                ],
+                [
+                    357.0,
+                    81.0
+                ],
+                [
+                    357.0,
+                    82.0
+                ],
+                [
+                    358.0,
+                    82.0
+                ],
+                [
+                    358.0,
+                    81.0
+                ],
+                [
+                    361.0,
+                    81.0
+                ],
+                [
+                    361.0,
+                    80.0
+                ],
+                [
+                    363.0,
+                    80.0
+                ],
+                [
+                    363.0,
+                    79.0
+                ],
+                [
+                    364.0,
+                    79.0
+                ],
+                [
+                    364.0,
+                    76.0
+                ],
+                [
+                    365.0,
+                    76.0
+                ],
+                [
+                    365.0,
+                    74.0
+                ],
+                [
+                    364.0,
+                    74.0
+                ],
+                [
+                    364.0,
+                    72.0
+                ],
+                [
+                    363.0,
+                    72.0
+                ],
+                [
+                    363.0,
+                    71.0
+                ],
+                [
+                    361.0,
+                    71.0
+                ],
+                [
+                    361.0,
+                    70.0
+                ],
+                [
+                    360.0,
+                    70.0
+                ],
+                [
+                    360.0,
+                    69.0
+                ],
+                [
+                    359.0,
+                    69.0
+                ],
+                [
+                    359.0,
+                    68.0
+                ],
+                [
+                    358.0,
+                    68.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

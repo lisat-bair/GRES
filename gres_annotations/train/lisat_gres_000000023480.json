@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the small, square-shaped car that is a single color and is distinct from the items around it.",
+        "Identify the little, rectangular automobile that is one solid hue and contrasts with its surroundings.",
+        "Spot the tiny, cuboid vehicle with a consistent color that differentiates itself from nearby objects."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023480.jpg",
+            "points": [
+                [
+                    255.0,
+                    145.0
+                ],
+                [
+                    255.0,
+                    146.0
+                ],
+                [
+                    250.0,
+                    146.0
+                ],
+                [
+                    250.0,
+                    147.0
+                ],
+                [
+                    247.0,
+                    147.0
+                ],
+                [
+                    247.0,
+                    148.0
+                ],
+                [
+                    245.0,
+                    148.0
+                ],
+                [
+                    245.0,
+                    149.0
+                ],
+                [
+                    243.0,
+                    149.0
+                ],
+                [
+                    243.0,
+                    153.0
+                ],
+                [
+                    244.0,
+                    153.0
+                ],
+                [
+                    244.0,
+                    154.0
+                ],
+                [
+                    245.0,
+                    154.0
+                ],
+                [
+                    245.0,
+                    155.0
+                ],
+                [
+                    252.0,
+                    155.0
+                ],
+                [
+                    252.0,
+                    154.0
+                ],
+                [
+                    259.0,
+                    154.0
+                ],
+                [
+                    259.0,
+                    153.0
+                ],
+                [
+                    262.0,
+                    153.0
+                ],
+                [
+                    262.0,
+                    152.0
+                ],
+                [
+                    263.0,
+                    152.0
+                ],
+                [
+                    263.0,
+                    146.0
+                ],
+                [
+                    262.0,
+                    146.0
+                ],
+                [
+                    262.0,
+                    145.0
+                ],
+                [
+                    255.0,
+                    145.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

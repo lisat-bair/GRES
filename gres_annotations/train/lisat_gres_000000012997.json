@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Locate the vehicle that features a shiny exterior, unique wheel designs, and a noticeable car outline.",
+        "Find the automobile characterized by a lustrous finish, distinctive wheel patterns, and an identifiable silhouette.",
+        "Spot the car with a polished surface, unusual wheel formations, and an easily recognized shape."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000012997.jpg",
+            "points": [
+                [
+                    36.0,
+                    27.0
+                ],
+                [
+                    36.0,
+                    28.0
+                ],
+                [
+                    35.0,
+                    28.0
+                ],
+                [
+                    35.0,
+                    29.0
+                ],
+                [
+                    34.0,
+                    29.0
+                ],
+                [
+                    34.0,
+                    43.0
+                ],
+                [
+                    35.0,
+                    43.0
+                ],
+                [
+                    35.0,
+                    44.0
+                ],
+                [
+                    37.0,
+                    44.0
+                ],
+                [
+                    37.0,
+                    45.0
+                ],
+                [
+                    40.0,
+                    45.0
+                ],
+                [
+                    40.0,
+                    44.0
+                ],
+                [
+                    42.0,
+                    44.0
+                ],
+                [
+                    42.0,
+                    42.0
+                ],
+                [
+                    43.0,
+                    42.0
+                ],
+                [
+                    43.0,
+                    34.0
+                ],
+                [
+                    42.0,
+                    34.0
+                ],
+                [
+                    42.0,
+                    32.0
+                ],
+                [
+                    41.0,
+                    32.0
+                ],
+                [
+                    41.0,
+                    29.0
+                ],
+                [
+                    40.0,
+                    29.0
+                ],
+                [
+                    40.0,
+                    28.0
+                ],
+                [
+                    39.0,
+                    28.0
+                ],
+                [
+                    39.0,
+                    27.0
+                ],
+                [
+                    36.0,
+                    27.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

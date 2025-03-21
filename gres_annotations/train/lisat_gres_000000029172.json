@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Find the vehicle that features unique shiny surfaces, a standard rectangular form, and wheels at the bottom.",
+        "Locate the automobile characterized by its notable reflective surfaces, usual box-like shape, and wheels beneath.",
+        "Spot the car that has particular gleaming surfaces, a conventional rectangular design, and wheels underneath."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029172.jpg",
+            "points": [
+                [
+                    484.0,
+                    0.0
+                ],
+                [
+                    484.0,
+                    1.0
+                ],
+                [
+                    485.0,
+                    1.0
+                ],
+                [
+                    485.0,
+                    2.0
+                ],
+                [
+                    486.0,
+                    2.0
+                ],
+                [
+                    486.0,
+                    4.0
+                ],
+                [
+                    487.0,
+                    4.0
+                ],
+                [
+                    487.0,
+                    5.0
+                ],
+                [
+                    489.0,
+                    5.0
+                ],
+                [
+                    489.0,
+                    6.0
+                ],
+                [
+                    495.0,
+                    6.0
+                ],
+                [
+                    495.0,
+                    5.0
+                ],
+                [
+                    497.0,
+                    5.0
+                ],
+                [
+                    497.0,
+                    4.0
+                ],
+                [
+                    498.0,
+                    4.0
+                ],
+                [
+                    498.0,
+                    2.0
+                ],
+                [
+                    497.0,
+                    2.0
+                ],
+                [
+                    497.0,
+                    0.0
+                ],
+                [
+                    484.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the truck that features a notable dark exterior and a striking white line running through its center.",
+        "Look for the vehicle with a unique dark color and a bold white stripe down its middle.",
+        "Find the truck characterized by its dark body and a noticeable white band across its center."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000015224.jpg",
+            "points": [
+                [
+                    298.0,
+                    271.0
+                ],
+                [
+                    298.0,
+                    272.0
+                ],
+                [
+                    297.0,
+                    272.0
+                ],
+                [
+                    297.0,
+                    278.0
+                ],
+                [
+                    298.0,
+                    278.0
+                ],
+                [
+                    298.0,
+                    282.0
+                ],
+                [
+                    299.0,
+                    282.0
+                ],
+                [
+                    299.0,
+                    284.0
+                ],
+                [
+                    306.0,
+                    284.0
+                ],
+                [
+                    306.0,
+                    283.0
+                ],
+                [
+                    307.0,
+                    283.0
+                ],
+                [
+                    307.0,
+                    279.0
+                ],
+                [
+                    306.0,
+                    279.0
+                ],
+                [
+                    306.0,
+                    276.0
+                ],
+                [
+                    305.0,
+                    276.0
+                ],
+                [
+                    305.0,
+                    273.0
+                ],
+                [
+                    304.0,
+                    273.0
+                ],
+                [
+                    304.0,
+                    272.0
+                ],
+                [
+                    303.0,
+                    272.0
+                ],
+                [
+                    303.0,
+                    271.0
+                ],
+                [
+                    298.0,
+                    271.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

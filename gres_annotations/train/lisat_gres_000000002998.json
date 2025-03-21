@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the automobile by spotting the shiny surfaces and unique geometric patterns that define the headlights and the grille against the dark backdrop.",
+        "Identify the vehicle by looking for reflective surfaces and the characteristic geometric shapes of the headlights and the grille against a dark background.",
+        "Spot the car by recognizing the reflective elements and the distinct geometric forms of the headlights and grille set against a dark background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002998.jpg",
+            "points": [
+                [
+                    409.0,
+                    46.0
+                ],
+                [
+                    409.0,
+                    47.0
+                ],
+                [
+                    408.0,
+                    47.0
+                ],
+                [
+                    408.0,
+                    51.0
+                ],
+                [
+                    409.0,
+                    51.0
+                ],
+                [
+                    409.0,
+                    54.0
+                ],
+                [
+                    410.0,
+                    54.0
+                ],
+                [
+                    410.0,
+                    55.0
+                ],
+                [
+                    411.0,
+                    55.0
+                ],
+                [
+                    411.0,
+                    56.0
+                ],
+                [
+                    412.0,
+                    56.0
+                ],
+                [
+                    412.0,
+                    57.0
+                ],
+                [
+                    417.0,
+                    57.0
+                ],
+                [
+                    417.0,
+                    56.0
+                ],
+                [
+                    418.0,
+                    56.0
+                ],
+                [
+                    418.0,
+                    55.0
+                ],
+                [
+                    419.0,
+                    55.0
+                ],
+                [
+                    419.0,
+                    50.0
+                ],
+                [
+                    418.0,
+                    50.0
+                ],
+                [
+                    418.0,
+                    49.0
+                ],
+                [
+                    417.0,
+                    49.0
+                ],
+                [
+                    417.0,
+                    48.0
+                ],
+                [
+                    416.0,
+                    48.0
+                ],
+                [
+                    416.0,
+                    47.0
+                ],
+                [
+                    415.0,
+                    47.0
+                ],
+                [
+                    415.0,
+                    46.0
+                ],
+                [
+                    409.0,
+                    46.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

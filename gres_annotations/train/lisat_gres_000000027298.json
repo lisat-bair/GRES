@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Find the bus characterized by a long, rectangular form, noticeable windows, and wheels, usually painted in vibrant colors such as yellow or red.",
+        "Identify the bus that has a large, stretched-out rectangular design, clear windows, and wheels, often seen in bold hues like yellow or red.",
+        "Search for the bus with a spacious, elongated rectangular shape, distinct windows, and wheels, typically painted in striking colors like yellow or red."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000027298.jpg",
+            "points": [
+                [
+                    496.0,
+                    417.0
+                ],
+                [
+                    496.0,
+                    418.0
+                ],
+                [
+                    495.0,
+                    418.0
+                ],
+                [
+                    495.0,
+                    419.0
+                ],
+                [
+                    494.0,
+                    419.0
+                ],
+                [
+                    494.0,
+                    420.0
+                ],
+                [
+                    493.0,
+                    420.0
+                ],
+                [
+                    493.0,
+                    422.0
+                ],
+                [
+                    492.0,
+                    422.0
+                ],
+                [
+                    492.0,
+                    426.0
+                ],
+                [
+                    493.0,
+                    426.0
+                ],
+                [
+                    493.0,
+                    427.0
+                ],
+                [
+                    495.0,
+                    427.0
+                ],
+                [
+                    495.0,
+                    428.0
+                ],
+                [
+                    498.0,
+                    428.0
+                ],
+                [
+                    498.0,
+                    429.0
+                ],
+                [
+                    501.0,
+                    429.0
+                ],
+                [
+                    501.0,
+                    430.0
+                ],
+                [
+                    503.0,
+                    430.0
+                ],
+                [
+                    503.0,
+                    431.0
+                ],
+                [
+                    507.0,
+                    431.0
+                ],
+                [
+                    507.0,
+                    432.0
+                ],
+                [
+                    510.0,
+                    432.0
+                ],
+                [
+                    510.0,
+                    433.0
+                ],
+                [
+                    512.0,
+                    433.0
+                ],
+                [
+                    512.0,
+                    422.0
+                ],
+                [
+                    511.0,
+                    422.0
+                ],
+                [
+                    511.0,
+                    421.0
+                ],
+                [
+                    508.0,
+                    421.0
+                ],
+                [
+                    508.0,
+                    420.0
+                ],
+                [
+                    506.0,
+                    420.0
+                ],
+                [
+                    506.0,
+                    419.0
+                ],
+                [
+                    504.0,
+                    419.0
+                ],
+                [
+                    504.0,
+                    418.0
+                ],
+                [
+                    502.0,
+                    418.0
+                ],
+                [
+                    502.0,
+                    417.0
+                ],
+                [
+                    496.0,
+                    417.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

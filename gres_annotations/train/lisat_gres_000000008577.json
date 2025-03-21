@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Locate the building characterized by a sizable rectangular shape, equipped with a green grass field marked by white lines and encircled by a red athletics track.",
+        "Find the location with a prominent rectangular form, which includes a green turf expanse outlined in white and enclosed by a red running path.",
+        "Spot the site distinguished by a large rectangle, featuring a green playing field bordered with white lines and surrounded by a red track."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008577.jpg",
+            "points": [
+                [
+                    188.0,
+                    0.0
+                ],
+                [
+                    188.0,
+                    9.0
+                ],
+                [
+                    187.0,
+                    9.0
+                ],
+                [
+                    187.0,
+                    11.0
+                ],
+                [
+                    188.0,
+                    11.0
+                ],
+                [
+                    188.0,
+                    13.0
+                ],
+                [
+                    189.0,
+                    13.0
+                ],
+                [
+                    189.0,
+                    14.0
+                ],
+                [
+                    190.0,
+                    14.0
+                ],
+                [
+                    190.0,
+                    15.0
+                ],
+                [
+                    242.0,
+                    15.0
+                ],
+                [
+                    242.0,
+                    14.0
+                ],
+                [
+                    244.0,
+                    14.0
+                ],
+                [
+                    244.0,
+                    12.0
+                ],
+                [
+                    245.0,
+                    12.0
+                ],
+                [
+                    245.0,
+                    0.0
+                ],
+                [
+                    188.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

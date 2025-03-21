@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the big, boxy vehicle with large windows and a unique front, usually seen on roads and often brightly colored.",
+        "Detect the sizable, rectangular automobile with noticeable windows and a characteristic front, frequently encountered on streets and typically adorned with vivid colors.",
+        "Recognize the large, rectangular transport with prominent windows and a distinctive facade, often found on highways and commonly painted in bright hues."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000018164.jpg",
+            "points": [
+                [
+                    465.0,
+                    148.0
+                ],
+                [
+                    465.0,
+                    153.0
+                ],
+                [
+                    466.0,
+                    153.0
+                ],
+                [
+                    466.0,
+                    156.0
+                ],
+                [
+                    467.0,
+                    156.0
+                ],
+                [
+                    467.0,
+                    157.0
+                ],
+                [
+                    468.0,
+                    157.0
+                ],
+                [
+                    468.0,
+                    158.0
+                ],
+                [
+                    469.0,
+                    158.0
+                ],
+                [
+                    469.0,
+                    159.0
+                ],
+                [
+                    470.0,
+                    159.0
+                ],
+                [
+                    470.0,
+                    160.0
+                ],
+                [
+                    473.0,
+                    160.0
+                ],
+                [
+                    473.0,
+                    158.0
+                ],
+                [
+                    474.0,
+                    158.0
+                ],
+                [
+                    474.0,
+                    155.0
+                ],
+                [
+                    473.0,
+                    155.0
+                ],
+                [
+                    473.0,
+                    153.0
+                ],
+                [
+                    472.0,
+                    153.0
+                ],
+                [
+                    472.0,
+                    151.0
+                ],
+                [
+                    471.0,
+                    151.0
+                ],
+                [
+                    471.0,
+                    150.0
+                ],
+                [
+                    470.0,
+                    150.0
+                ],
+                [
+                    470.0,
+                    149.0
+                ],
+                [
+                    469.0,
+                    149.0
+                ],
+                [
+                    469.0,
+                    148.0
+                ],
+                [
+                    465.0,
+                    148.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

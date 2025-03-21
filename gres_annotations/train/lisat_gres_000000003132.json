@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the truck by locating the big, rectangular form that stands out with clear edges and a noticeable color difference from its surroundings.",
+        "Look for the truck by identifying the sizable, rectangular silhouette that features sharp boundaries and a color that contrasts with the backdrop.",
+        "Determine the truck's position by searching for the prominent, rectangular shape that has well-defined edges and a distinct color that sets it apart from the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003132.jpg",
+            "points": [
+                [
+                    446.0,
+                    0.0
+                ],
+                [
+                    446.0,
+                    2.0
+                ],
+                [
+                    445.0,
+                    2.0
+                ],
+                [
+                    445.0,
+                    6.0
+                ],
+                [
+                    446.0,
+                    6.0
+                ],
+                [
+                    446.0,
+                    8.0
+                ],
+                [
+                    447.0,
+                    8.0
+                ],
+                [
+                    447.0,
+                    10.0
+                ],
+                [
+                    448.0,
+                    10.0
+                ],
+                [
+                    448.0,
+                    12.0
+                ],
+                [
+                    450.0,
+                    12.0
+                ],
+                [
+                    450.0,
+                    13.0
+                ],
+                [
+                    451.0,
+                    13.0
+                ],
+                [
+                    451.0,
+                    15.0
+                ],
+                [
+                    455.0,
+                    15.0
+                ],
+                [
+                    455.0,
+                    13.0
+                ],
+                [
+                    459.0,
+                    13.0
+                ],
+                [
+                    459.0,
+                    12.0
+                ],
+                [
+                    460.0,
+                    12.0
+                ],
+                [
+                    460.0,
+                    8.0
+                ],
+                [
+                    461.0,
+                    8.0
+                ],
+                [
+                    461.0,
+                    0.0
+                ],
+                [
+                    446.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

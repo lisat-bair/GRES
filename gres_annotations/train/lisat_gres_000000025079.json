@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Find the small truck with unique wheels situated in the lower right corner of the picture.",
+        "In the bottom-right section of the image, identify the truck that has a compact design and noticeable wheels.",
+        "Spot the truck with a distinctive wheel design located at the bottom-right of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025079.jpg",
+            "points": [
+                [
+                    350.0,
+                    254.0
+                ],
+                [
+                    350.0,
+                    255.0
+                ],
+                [
+                    346.0,
+                    255.0
+                ],
+                [
+                    346.0,
+                    256.0
+                ],
+                [
+                    343.0,
+                    256.0
+                ],
+                [
+                    343.0,
+                    257.0
+                ],
+                [
+                    340.0,
+                    257.0
+                ],
+                [
+                    340.0,
+                    258.0
+                ],
+                [
+                    338.0,
+                    258.0
+                ],
+                [
+                    338.0,
+                    264.0
+                ],
+                [
+                    339.0,
+                    264.0
+                ],
+                [
+                    339.0,
+                    265.0
+                ],
+                [
+                    340.0,
+                    265.0
+                ],
+                [
+                    340.0,
+                    266.0
+                ],
+                [
+                    344.0,
+                    266.0
+                ],
+                [
+                    344.0,
+                    265.0
+                ],
+                [
+                    347.0,
+                    265.0
+                ],
+                [
+                    347.0,
+                    264.0
+                ],
+                [
+                    353.0,
+                    264.0
+                ],
+                [
+                    353.0,
+                    263.0
+                ],
+                [
+                    355.0,
+                    263.0
+                ],
+                [
+                    355.0,
+                    262.0
+                ],
+                [
+                    356.0,
+                    262.0
+                ],
+                [
+                    356.0,
+                    261.0
+                ],
+                [
+                    357.0,
+                    261.0
+                ],
+                [
+                    357.0,
+                    258.0
+                ],
+                [
+                    356.0,
+                    258.0
+                ],
+                [
+                    356.0,
+                    255.0
+                ],
+                [
+                    355.0,
+                    255.0
+                ],
+                [
+                    355.0,
+                    254.0
+                ],
+                [
+                    350.0,
+                    254.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

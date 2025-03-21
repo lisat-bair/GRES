@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Locate the trailer in the upper-left corner of the image, characterized by its elongated rectangular form and noticeable wheels, often metallic or painted, attached to a truck cab in the front.",
+        "Spot the trailer situated in the top-left area of the picture, featuring a long rectangular outline and unique wheels, usually metallic or painted, linked to the front truck cab.",
+        "Find the trailer positioned at the top-left of the image, identified by its lengthy rectangular shape and prominent wheels, typically metallic or painted, connected to the truck cab at its front."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000003925.jpg",
+            "points": [
+                [
+                    190.0,
+                    88.0
+                ],
+                [
+                    190.0,
+                    89.0
+                ],
+                [
+                    187.0,
+                    89.0
+                ],
+                [
+                    187.0,
+                    90.0
+                ],
+                [
+                    186.0,
+                    90.0
+                ],
+                [
+                    186.0,
+                    91.0
+                ],
+                [
+                    185.0,
+                    91.0
+                ],
+                [
+                    185.0,
+                    94.0
+                ],
+                [
+                    184.0,
+                    94.0
+                ],
+                [
+                    184.0,
+                    98.0
+                ],
+                [
+                    185.0,
+                    98.0
+                ],
+                [
+                    185.0,
+                    101.0
+                ],
+                [
+                    184.0,
+                    101.0
+                ],
+                [
+                    184.0,
+                    108.0
+                ],
+                [
+                    183.0,
+                    108.0
+                ],
+                [
+                    183.0,
+                    113.0
+                ],
+                [
+                    184.0,
+                    113.0
+                ],
+                [
+                    184.0,
+                    114.0
+                ],
+                [
+                    190.0,
+                    114.0
+                ],
+                [
+                    190.0,
+                    113.0
+                ],
+                [
+                    192.0,
+                    113.0
+                ],
+                [
+                    192.0,
+                    106.0
+                ],
+                [
+                    193.0,
+                    106.0
+                ],
+                [
+                    193.0,
+                    103.0
+                ],
+                [
+                    194.0,
+                    103.0
+                ],
+                [
+                    194.0,
+                    100.0
+                ],
+                [
+                    195.0,
+                    100.0
+                ],
+                [
+                    195.0,
+                    96.0
+                ],
+                [
+                    196.0,
+                    96.0
+                ],
+                [
+                    196.0,
+                    90.0
+                ],
+                [
+                    195.0,
+                    90.0
+                ],
+                [
+                    195.0,
+                    89.0
+                ],
+                [
+                    193.0,
+                    89.0
+                ],
+                [
+                    193.0,
+                    88.0
+                ],
+                [
+                    190.0,
+                    88.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

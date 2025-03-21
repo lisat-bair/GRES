@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Look for the big truck that boasts a vivid yellow hue and massive wheels, commonly seen in mining or construction sites.",
+        "Spot the large vehicle characterized by its bright yellow color and enormous tires, usually located in mining or construction areas.",
+        "Find the sizable truck with a striking yellow shade and oversized tires, typically found in construction or mining settings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009133.jpg",
+            "points": [
+                [
+                    309.0,
+                    506.0
+                ],
+                [
+                    309.0,
+                    507.0
+                ],
+                [
+                    308.0,
+                    507.0
+                ],
+                [
+                    308.0,
+                    508.0
+                ],
+                [
+                    307.0,
+                    508.0
+                ],
+                [
+                    307.0,
+                    509.0
+                ],
+                [
+                    306.0,
+                    509.0
+                ],
+                [
+                    306.0,
+                    512.0
+                ],
+                [
+                    318.0,
+                    512.0
+                ],
+                [
+                    318.0,
+                    511.0
+                ],
+                [
+                    317.0,
+                    511.0
+                ],
+                [
+                    317.0,
+                    510.0
+                ],
+                [
+                    316.0,
+                    510.0
+                ],
+                [
+                    316.0,
+                    508.0
+                ],
+                [
+                    315.0,
+                    508.0
+                ],
+                [
+                    315.0,
+                    507.0
+                ],
+                [
+                    314.0,
+                    507.0
+                ],
+                [
+                    314.0,
+                    506.0
+                ],
+                [
+                    309.0,
+                    506.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

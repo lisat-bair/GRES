@@ -1,0 +1,83 @@
+{
+    "text": [
+        "Identify the bus located at the bottom-left of the image, which is mostly outside the visible area."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000860.jpg",
+            "points": [
+                [
+                    11.0,
+                    505.0
+                ],
+                [
+                    11.0,
+                    506.0
+                ],
+                [
+                    10.0,
+                    506.0
+                ],
+                [
+                    10.0,
+                    508.0
+                ],
+                [
+                    9.0,
+                    508.0
+                ],
+                [
+                    9.0,
+                    512.0
+                ],
+                [
+                    20.0,
+                    512.0
+                ],
+                [
+                    20.0,
+                    509.0
+                ],
+                [
+                    19.0,
+                    509.0
+                ],
+                [
+                    19.0,
+                    507.0
+                ],
+                [
+                    18.0,
+                    507.0
+                ],
+                [
+                    18.0,
+                    506.0
+                ],
+                [
+                    17.0,
+                    506.0
+                ],
+                [
+                    17.0,
+                    505.0
+                ],
+                [
+                    11.0,
+                    505.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

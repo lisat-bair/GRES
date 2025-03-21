@@ -1,0 +1,107 @@
+{
+    "text": [
+        "Identify the car with a distinct rectangular shape, reflective surface, and the presence of wheels at the base."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000035606.jpg",
+            "points": [
+                [
+                    5.0,
+                    128.0
+                ],
+                [
+                    5.0,
+                    129.0
+                ],
+                [
+                    4.0,
+                    129.0
+                ],
+                [
+                    4.0,
+                    137.0
+                ],
+                [
+                    5.0,
+                    137.0
+                ],
+                [
+                    5.0,
+                    141.0
+                ],
+                [
+                    6.0,
+                    141.0
+                ],
+                [
+                    6.0,
+                    144.0
+                ],
+                [
+                    7.0,
+                    144.0
+                ],
+                [
+                    7.0,
+                    146.0
+                ],
+                [
+                    12.0,
+                    146.0
+                ],
+                [
+                    12.0,
+                    145.0
+                ],
+                [
+                    14.0,
+                    145.0
+                ],
+                [
+                    14.0,
+                    135.0
+                ],
+                [
+                    13.0,
+                    135.0
+                ],
+                [
+                    13.0,
+                    130.0
+                ],
+                [
+                    12.0,
+                    130.0
+                ],
+                [
+                    12.0,
+                    129.0
+                ],
+                [
+                    11.0,
+                    129.0
+                ],
+                [
+                    11.0,
+                    128.0
+                ],
+                [
+                    5.0,
+                    128.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

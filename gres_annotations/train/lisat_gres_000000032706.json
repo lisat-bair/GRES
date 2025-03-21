@@ -1,0 +1,173 @@
+{
+    "text": [
+        "Spot the structure that boasts unique architectural elements and an exceptional roof design set against a backdrop of trees.",
+        "Locate the edifice characterized by its distinctive architecture and singular roof design, framed by a treed landscape.",
+        "Find the building that stands out for its unique architectural style and one-of-a-kind roof, positioned against a tree-filled background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000032706.jpg",
+            "points": [
+                [
+                    337.0,
+                    145.0
+                ],
+                [
+                    337.0,
+                    146.0
+                ],
+                [
+                    333.0,
+                    146.0
+                ],
+                [
+                    333.0,
+                    147.0
+                ],
+                [
+                    331.0,
+                    147.0
+                ],
+                [
+                    331.0,
+                    148.0
+                ],
+                [
+                    329.0,
+                    148.0
+                ],
+                [
+                    329.0,
+                    149.0
+                ],
+                [
+                    327.0,
+                    149.0
+                ],
+                [
+                    327.0,
+                    151.0
+                ],
+                [
+                    326.0,
+                    151.0
+                ],
+                [
+                    326.0,
+                    153.0
+                ],
+                [
+                    325.0,
+                    153.0
+                ],
+                [
+                    325.0,
+                    155.0
+                ],
+                [
+                    324.0,
+                    155.0
+                ],
+                [
+                    324.0,
+                    159.0
+                ],
+                [
+                    325.0,
+                    159.0
+                ],
+                [
+                    325.0,
+                    160.0
+                ],
+                [
+                    327.0,
+                    160.0
+                ],
+                [
+                    327.0,
+                    161.0
+                ],
+                [
+                    342.0,
+                    161.0
+                ],
+                [
+                    342.0,
+                    160.0
+                ],
+                [
+                    345.0,
+                    160.0
+                ],
+                [
+                    345.0,
+                    159.0
+                ],
+                [
+                    346.0,
+                    159.0
+                ],
+                [
+                    346.0,
+                    157.0
+                ],
+                [
+                    347.0,
+                    157.0
+                ],
+                [
+                    347.0,
+                    149.0
+                ],
+                [
+                    346.0,
+                    149.0
+                ],
+                [
+                    346.0,
+                    148.0
+                ],
+                [
+                    345.0,
+                    148.0
+                ],
+                [
+                    345.0,
+                    147.0
+                ],
+                [
+                    344.0,
+                    147.0
+                ],
+                [
+                    344.0,
+                    146.0
+                ],
+                [
+                    341.0,
+                    146.0
+                ],
+                [
+                    341.0,
+                    145.0
+                ],
+                [
+                    337.0,
+                    145.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

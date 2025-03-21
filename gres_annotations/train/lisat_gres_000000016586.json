@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Spot the automobile that has a sleek, metallic exterior and notable attributes such as wheels and windows.",
+        "Locate the vehicle characterized by its smooth, metal finish and recognizable features including wheels and windows.",
+        "Find the car that possesses a shiny, metallic surface with distinct elements like wheels and windows."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016586.jpg",
+            "points": [
+                [
+                    98.0,
+                    432.0
+                ],
+                [
+                    98.0,
+                    433.0
+                ],
+                [
+                    96.0,
+                    433.0
+                ],
+                [
+                    96.0,
+                    448.0
+                ],
+                [
+                    97.0,
+                    448.0
+                ],
+                [
+                    97.0,
+                    449.0
+                ],
+                [
+                    101.0,
+                    449.0
+                ],
+                [
+                    101.0,
+                    448.0
+                ],
+                [
+                    102.0,
+                    448.0
+                ],
+                [
+                    102.0,
+                    444.0
+                ],
+                [
+                    103.0,
+                    444.0
+                ],
+                [
+                    103.0,
+                    433.0
+                ],
+                [
+                    102.0,
+                    433.0
+                ],
+                [
+                    102.0,
+                    432.0
+                ],
+                [
+                    98.0,
+                    432.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

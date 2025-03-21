@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the vehicle featuring a quartet of wheels, a unique metal structure, and mirrors like glass panes and headlights.",
+        "Find the automobile that has a quartet of wheels, a notable metallic framework, and reflective components like windows and headlights.",
+        "Spot the car characterized by its four wheels, a distinct metal frame, and reflective elements such as windows and headlights."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000033116.jpg",
+            "points": [
+                [
+                    147.0,
+                    41.0
+                ],
+                [
+                    147.0,
+                    42.0
+                ],
+                [
+                    145.0,
+                    42.0
+                ],
+                [
+                    145.0,
+                    44.0
+                ],
+                [
+                    144.0,
+                    44.0
+                ],
+                [
+                    144.0,
+                    60.0
+                ],
+                [
+                    145.0,
+                    60.0
+                ],
+                [
+                    145.0,
+                    62.0
+                ],
+                [
+                    146.0,
+                    62.0
+                ],
+                [
+                    146.0,
+                    63.0
+                ],
+                [
+                    147.0,
+                    63.0
+                ],
+                [
+                    147.0,
+                    64.0
+                ],
+                [
+                    156.0,
+                    64.0
+                ],
+                [
+                    156.0,
+                    63.0
+                ],
+                [
+                    158.0,
+                    63.0
+                ],
+                [
+                    158.0,
+                    62.0
+                ],
+                [
+                    159.0,
+                    62.0
+                ],
+                [
+                    159.0,
+                    43.0
+                ],
+                [
+                    158.0,
+                    43.0
+                ],
+                [
+                    158.0,
+                    42.0
+                ],
+                [
+                    155.0,
+                    42.0
+                ],
+                [
+                    155.0,
+                    41.0
+                ],
+                [
+                    147.0,
+                    41.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

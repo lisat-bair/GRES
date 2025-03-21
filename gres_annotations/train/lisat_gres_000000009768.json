@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Spot the automobile among the crowded environment in the picture by concentrating on characteristics that usually signify a car.",
+        "Locate the vehicle within the busy scene depicted in the image by looking for visual elements that are commonly associated with cars.",
+        "Find the car in the image's cluttered setting by identifying the visual features that typically characterize a vehicle."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009768.jpg",
+            "points": [
+                [
+                    79.0,
+                    99.0
+                ],
+                [
+                    79.0,
+                    100.0
+                ],
+                [
+                    78.0,
+                    100.0
+                ],
+                [
+                    78.0,
+                    104.0
+                ],
+                [
+                    79.0,
+                    104.0
+                ],
+                [
+                    79.0,
+                    105.0
+                ],
+                [
+                    81.0,
+                    105.0
+                ],
+                [
+                    81.0,
+                    106.0
+                ],
+                [
+                    83.0,
+                    106.0
+                ],
+                [
+                    83.0,
+                    107.0
+                ],
+                [
+                    85.0,
+                    107.0
+                ],
+                [
+                    85.0,
+                    108.0
+                ],
+                [
+                    91.0,
+                    108.0
+                ],
+                [
+                    91.0,
+                    107.0
+                ],
+                [
+                    92.0,
+                    107.0
+                ],
+                [
+                    92.0,
+                    106.0
+                ],
+                [
+                    93.0,
+                    106.0
+                ],
+                [
+                    93.0,
+                    104.0
+                ],
+                [
+                    92.0,
+                    104.0
+                ],
+                [
+                    92.0,
+                    102.0
+                ],
+                [
+                    91.0,
+                    102.0
+                ],
+                [
+                    91.0,
+                    101.0
+                ],
+                [
+                    88.0,
+                    101.0
+                ],
+                [
+                    88.0,
+                    100.0
+                ],
+                [
+                    85.0,
+                    100.0
+                ],
+                [
+                    85.0,
+                    99.0
+                ],
+                [
+                    79.0,
+                    99.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

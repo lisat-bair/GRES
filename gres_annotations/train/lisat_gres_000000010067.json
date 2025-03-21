@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Identify the big rectangular object with windows and wheels, usually in yellow or red, to spot the bus in the picture.",
+        "Spot the large rectangle with windows and wheels, often colored yellow or red, to locate the bus in the image.",
+        "Look for the large yellow or red rectangular shape with windows and wheels to find the bus in the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000010067.jpg",
+            "points": [
+                [
+                    511.0,
+                    5.0
+                ],
+                [
+                    511.0,
+                    6.0
+                ],
+                [
+                    508.0,
+                    6.0
+                ],
+                [
+                    508.0,
+                    7.0
+                ],
+                [
+                    507.0,
+                    7.0
+                ],
+                [
+                    507.0,
+                    8.0
+                ],
+                [
+                    506.0,
+                    8.0
+                ],
+                [
+                    506.0,
+                    11.0
+                ],
+                [
+                    507.0,
+                    11.0
+                ],
+                [
+                    507.0,
+                    13.0
+                ],
+                [
+                    508.0,
+                    13.0
+                ],
+                [
+                    508.0,
+                    16.0
+                ],
+                [
+                    509.0,
+                    16.0
+                ],
+                [
+                    509.0,
+                    17.0
+                ],
+                [
+                    510.0,
+                    17.0
+                ],
+                [
+                    510.0,
+                    16.0
+                ],
+                [
+                    512.0,
+                    16.0
+                ],
+                [
+                    512.0,
+                    5.0
+                ],
+                [
+                    511.0,
+                    5.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "text": [
+        "Spot the trailer in the picture, known for its long, extended body featuring a cab and a lengthy flatbed, generally utilized in industrial or construction settings.",
+        "Locate the trailer within the image, distinguished by its sizable, elongated design that includes a cab and a lengthy flatbed, often employed in industrial or construction contexts.",
+        "Find the trailer in the photo, recognized by its large, stretched-out structure with a cab and extended flatbed, commonly used in industrial or construction scenarios."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007059.jpg",
+            "points": [
+                [
+                    0.0,
+                    431.0
+                ],
+                [
+                    0.0,
+                    435.0
+                ],
+                [
+                    5.0,
+                    435.0
+                ],
+                [
+                    5.0,
+                    434.0
+                ],
+                [
+                    7.0,
+                    434.0
+                ],
+                [
+                    7.0,
+                    433.0
+                ],
+                [
+                    8.0,
+                    433.0
+                ],
+                [
+                    8.0,
+                    432.0
+                ],
+                [
+                    4.0,
+                    432.0
+                ],
+                [
+                    4.0,
+                    431.0
+                ],
+                [
+                    0.0,
+                    431.0
+                ],
+                [
+                    0.0,
+                    447.0
+                ],
+                [
+                    0.0,
+                    459.0
+                ],
+                [
+                    1.0,
+                    459.0
+                ],
+                [
+                    1.0,
+                    460.0
+                ],
+                [
+                    3.0,
+                    460.0
+                ],
+                [
+                    3.0,
+                    459.0
+                ],
+                [
+                    5.0,
+                    459.0
+                ],
+                [
+                    5.0,
+                    458.0
+                ],
+                [
+                    6.0,
+                    458.0
+                ],
+                [
+                    6.0,
+                    457.0
+                ],
+                [
+                    7.0,
+                    457.0
+                ],
+                [
+                    7.0,
+                    455.0
+                ],
+                [
+                    8.0,
+                    455.0
+                ],
+                [
+                    8.0,
+                    453.0
+                ],
+                [
+                    9.0,
+                    453.0
+                ],
+                [
+                    9.0,
+                    451.0
+                ],
+                [
+                    8.0,
+                    451.0
+                ],
+                [
+                    8.0,
+                    450.0
+                ],
+                [
+                    7.0,
+                    450.0
+                ],
+                [
+                    7.0,
+                    449.0
+                ],
+                [
+                    5.0,
+                    449.0
+                ],
+                [
+                    5.0,
+                    448.0
+                ],
+                [
+                    3.0,
+                    448.0
+                ],
+                [
+                    3.0,
+                    447.0
+                ],
+                [
+                    0.0,
+                    447.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "text": [
+        "Even though the image is too blurry to clearly see characteristics such as color, shape, or size, identify the car.",
+        "Recognize the car despite the image being so unclear that features like color, shape, or size cannot be distinctly identified.",
+        "Despite the image being too fuzzy to distinctly make out details such as color, shape, or size, identify the car."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000017373.jpg",
+            "points": [
+                [
+                    425.0,
+                    0.0
+                ],
+                [
+                    425.0,
+                    1.0
+                ],
+                [
+                    426.0,
+                    1.0
+                ],
+                [
+                    426.0,
+                    0.0
+                ],
+                [
+                    425.0,
+                    0.0
+                ],
+                [
+                    428.0,
+                    0.0
+                ],
+                [
+                    428.0,
+                    2.0
+                ],
+                [
+                    430.0,
+                    2.0
+                ],
+                [
+                    430.0,
+                    3.0
+                ],
+                [
+                    434.0,
+                    3.0
+                ],
+                [
+                    434.0,
+                    2.0
+                ],
+                [
+                    435.0,
+                    2.0
+                ],
+                [
+                    435.0,
+                    1.0
+                ],
+                [
+                    436.0,
+                    1.0
+                ],
+                [
+                    436.0,
+                    0.0
+                ],
+                [
+                    428.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Find the vehicle with a compact and elegant design in the top-left corner of the picture.",
+        "Look for the car, which has a sleek and compact appearance, in the upper-left section of the image.",
+        "Identify the car located at the top-left of the image, characterized by its sleek and compact design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000008881.jpg",
+            "points": [
+                [
+                    135.0,
+                    14.0
+                ],
+                [
+                    135.0,
+                    15.0
+                ],
+                [
+                    134.0,
+                    15.0
+                ],
+                [
+                    134.0,
+                    17.0
+                ],
+                [
+                    133.0,
+                    17.0
+                ],
+                [
+                    133.0,
+                    19.0
+                ],
+                [
+                    132.0,
+                    19.0
+                ],
+                [
+                    132.0,
+                    22.0
+                ],
+                [
+                    131.0,
+                    22.0
+                ],
+                [
+                    131.0,
+                    26.0
+                ],
+                [
+                    130.0,
+                    26.0
+                ],
+                [
+                    130.0,
+                    28.0
+                ],
+                [
+                    131.0,
+                    28.0
+                ],
+                [
+                    131.0,
+                    30.0
+                ],
+                [
+                    134.0,
+                    30.0
+                ],
+                [
+                    134.0,
+                    31.0
+                ],
+                [
+                    137.0,
+                    31.0
+                ],
+                [
+                    137.0,
+                    30.0
+                ],
+                [
+                    140.0,
+                    30.0
+                ],
+                [
+                    140.0,
+                    29.0
+                ],
+                [
+                    141.0,
+                    29.0
+                ],
+                [
+                    141.0,
+                    27.0
+                ],
+                [
+                    142.0,
+                    27.0
+                ],
+                [
+                    142.0,
+                    15.0
+                ],
+                [
+                    140.0,
+                    15.0
+                ],
+                [
+                    140.0,
+                    14.0
+                ],
+                [
+                    135.0,
+                    14.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

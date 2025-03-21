@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the metallic gray engineering vehicle with big wheels set against a sandy backdrop.",
+        "Locate the engineering vehicle that has a metallic gray hue and large wheels in front of a sandy background.",
+        "Find the engineering vehicle with large wheels and a metallic gray color positioned against a sandy setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019455.jpg",
+            "points": [
+                [
+                    354.0,
+                    63.0
+                ],
+                [
+                    354.0,
+                    64.0
+                ],
+                [
+                    349.0,
+                    64.0
+                ],
+                [
+                    349.0,
+                    65.0
+                ],
+                [
+                    345.0,
+                    65.0
+                ],
+                [
+                    345.0,
+                    66.0
+                ],
+                [
+                    344.0,
+                    66.0
+                ],
+                [
+                    344.0,
+                    72.0
+                ],
+                [
+                    345.0,
+                    72.0
+                ],
+                [
+                    345.0,
+                    74.0
+                ],
+                [
+                    349.0,
+                    74.0
+                ],
+                [
+                    349.0,
+                    75.0
+                ],
+                [
+                    350.0,
+                    75.0
+                ],
+                [
+                    350.0,
+                    74.0
+                ],
+                [
+                    357.0,
+                    74.0
+                ],
+                [
+                    357.0,
+                    73.0
+                ],
+                [
+                    369.0,
+                    73.0
+                ],
+                [
+                    369.0,
+                    72.0
+                ],
+                [
+                    373.0,
+                    72.0
+                ],
+                [
+                    373.0,
+                    71.0
+                ],
+                [
+                    374.0,
+                    71.0
+                ],
+                [
+                    374.0,
+                    68.0
+                ],
+                [
+                    373.0,
+                    68.0
+                ],
+                [
+                    373.0,
+                    66.0
+                ],
+                [
+                    372.0,
+                    66.0
+                ],
+                [
+                    372.0,
+                    65.0
+                ],
+                [
+                    371.0,
+                    65.0
+                ],
+                [
+                    371.0,
+                    64.0
+                ],
+                [
+                    367.0,
+                    64.0
+                ],
+                [
+                    367.0,
+                    63.0
+                ],
+                [
+                    354.0,
+                    63.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

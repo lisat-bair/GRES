@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Spot the vehicle that looks like a long, shadowy shape with wheels and a shiny top.",
+        "Find the automobile characterized by its dark, stretched form, complete with wheels and a glossy surface above.",
+        "Locate the car described as a dark, extended object with wheels and a reflective upper surface."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014269.jpg",
+            "points": [
+                [
+                    32.0,
+                    334.0
+                ],
+                [
+                    32.0,
+                    335.0
+                ],
+                [
+                    27.0,
+                    335.0
+                ],
+                [
+                    27.0,
+                    336.0
+                ],
+                [
+                    22.0,
+                    336.0
+                ],
+                [
+                    22.0,
+                    337.0
+                ],
+                [
+                    20.0,
+                    337.0
+                ],
+                [
+                    20.0,
+                    343.0
+                ],
+                [
+                    22.0,
+                    343.0
+                ],
+                [
+                    22.0,
+                    344.0
+                ],
+                [
+                    29.0,
+                    344.0
+                ],
+                [
+                    29.0,
+                    343.0
+                ],
+                [
+                    35.0,
+                    343.0
+                ],
+                [
+                    35.0,
+                    342.0
+                ],
+                [
+                    38.0,
+                    342.0
+                ],
+                [
+                    38.0,
+                    341.0
+                ],
+                [
+                    39.0,
+                    341.0
+                ],
+                [
+                    39.0,
+                    337.0
+                ],
+                [
+                    38.0,
+                    337.0
+                ],
+                [
+                    38.0,
+                    335.0
+                ],
+                [
+                    36.0,
+                    335.0
+                ],
+                [
+                    36.0,
+                    334.0
+                ],
+                [
+                    32.0,
+                    334.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

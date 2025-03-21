@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Locate the building characterized by unique horizontal bands of brown and dark colors.",
+        "Find the structure that features distinctive horizontal stripes in shades of brown and dark.",
+        "Spot the facility marked by its unique horizontal stripes in brown and dark hues."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000476.jpg",
+            "points": [
+                [
+                    509.0,
+                    473.0
+                ],
+                [
+                    509.0,
+                    474.0
+                ],
+                [
+                    504.0,
+                    474.0
+                ],
+                [
+                    504.0,
+                    475.0
+                ],
+                [
+                    502.0,
+                    475.0
+                ],
+                [
+                    502.0,
+                    476.0
+                ],
+                [
+                    500.0,
+                    476.0
+                ],
+                [
+                    500.0,
+                    479.0
+                ],
+                [
+                    501.0,
+                    479.0
+                ],
+                [
+                    501.0,
+                    480.0
+                ],
+                [
+                    502.0,
+                    480.0
+                ],
+                [
+                    502.0,
+                    482.0
+                ],
+                [
+                    503.0,
+                    482.0
+                ],
+                [
+                    503.0,
+                    484.0
+                ],
+                [
+                    504.0,
+                    484.0
+                ],
+                [
+                    504.0,
+                    485.0
+                ],
+                [
+                    505.0,
+                    485.0
+                ],
+                [
+                    505.0,
+                    486.0
+                ],
+                [
+                    506.0,
+                    486.0
+                ],
+                [
+                    506.0,
+                    487.0
+                ],
+                [
+                    512.0,
+                    487.0
+                ],
+                [
+                    512.0,
+                    473.0
+                ],
+                [
+                    509.0,
+                    473.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

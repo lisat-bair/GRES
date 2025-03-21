@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Look for the automobile that has a glossy exterior, a clear silhouette, and wheels and headlights visible against the gray backdrop.",
+        "Spot the vehicle that features a reflective finish, a prominent shape, and wheels and headlights set against the gray scenery.",
+        "Find the car that showcases a polished surface, a defined contour, and wheels and headlights in front of the gray background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002599.jpg",
+            "points": [
+                [
+                    265.0,
+                    307.0
+                ],
+                [
+                    265.0,
+                    308.0
+                ],
+                [
+                    259.0,
+                    308.0
+                ],
+                [
+                    259.0,
+                    309.0
+                ],
+                [
+                    258.0,
+                    309.0
+                ],
+                [
+                    258.0,
+                    310.0
+                ],
+                [
+                    257.0,
+                    310.0
+                ],
+                [
+                    257.0,
+                    314.0
+                ],
+                [
+                    258.0,
+                    314.0
+                ],
+                [
+                    258.0,
+                    315.0
+                ],
+                [
+                    260.0,
+                    315.0
+                ],
+                [
+                    260.0,
+                    316.0
+                ],
+                [
+                    261.0,
+                    316.0
+                ],
+                [
+                    261.0,
+                    315.0
+                ],
+                [
+                    264.0,
+                    315.0
+                ],
+                [
+                    264.0,
+                    314.0
+                ],
+                [
+                    269.0,
+                    314.0
+                ],
+                [
+                    269.0,
+                    313.0
+                ],
+                [
+                    272.0,
+                    313.0
+                ],
+                [
+                    272.0,
+                    308.0
+                ],
+                [
+                    270.0,
+                    308.0
+                ],
+                [
+                    270.0,
+                    307.0
+                ],
+                [
+                    265.0,
+                    307.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

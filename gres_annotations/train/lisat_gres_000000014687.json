@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Identify the structure positioned at the top-center of the picture.",
+        "Find the edifice located in the upper middle part of the image.",
+        "Spot the building situated centrally at the top of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014687.jpg",
+            "points": [
+                [
+                    180.0,
+                    0.0
+                ],
+                [
+                    180.0,
+                    1.0
+                ],
+                [
+                    181.0,
+                    1.0
+                ],
+                [
+                    181.0,
+                    3.0
+                ],
+                [
+                    182.0,
+                    3.0
+                ],
+                [
+                    182.0,
+                    4.0
+                ],
+                [
+                    184.0,
+                    4.0
+                ],
+                [
+                    184.0,
+                    5.0
+                ],
+                [
+                    187.0,
+                    5.0
+                ],
+                [
+                    187.0,
+                    6.0
+                ],
+                [
+                    189.0,
+                    6.0
+                ],
+                [
+                    189.0,
+                    7.0
+                ],
+                [
+                    193.0,
+                    7.0
+                ],
+                [
+                    193.0,
+                    6.0
+                ],
+                [
+                    195.0,
+                    6.0
+                ],
+                [
+                    195.0,
+                    5.0
+                ],
+                [
+                    199.0,
+                    5.0
+                ],
+                [
+                    199.0,
+                    4.0
+                ],
+                [
+                    202.0,
+                    4.0
+                ],
+                [
+                    202.0,
+                    0.0
+                ],
+                [
+                    180.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

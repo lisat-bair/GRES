@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Look for the boat that stands out with its white hull contrasting against the dark background, paying attention to its streamlined design and central mast if it's a sailboat, or noting the lack of a mast if it's a motorboat.",
+        "Spot the vessel with a noticeable white hull set against a dark backdrop, observing its sleek shape and central mast if it's a sailing boat, or recognizing its absence if it's a motorboat.",
+        "Detect the ship with a unique white hull that contrasts with the dark background, concentrating on its aerodynamic form and the presence of a central mast for sailboats, or the absence for motorboats."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024529.jpg",
+            "points": [
+                [
+                    14.0,
+                    40.0
+                ],
+                [
+                    14.0,
+                    41.0
+                ],
+                [
+                    8.0,
+                    41.0
+                ],
+                [
+                    8.0,
+                    42.0
+                ],
+                [
+                    1.0,
+                    42.0
+                ],
+                [
+                    1.0,
+                    43.0
+                ],
+                [
+                    0.0,
+                    43.0
+                ],
+                [
+                    0.0,
+                    54.0
+                ],
+                [
+                    3.0,
+                    54.0
+                ],
+                [
+                    3.0,
+                    53.0
+                ],
+                [
+                    6.0,
+                    53.0
+                ],
+                [
+                    6.0,
+                    52.0
+                ],
+                [
+                    10.0,
+                    52.0
+                ],
+                [
+                    10.0,
+                    51.0
+                ],
+                [
+                    13.0,
+                    51.0
+                ],
+                [
+                    13.0,
+                    50.0
+                ],
+                [
+                    16.0,
+                    50.0
+                ],
+                [
+                    16.0,
+                    49.0
+                ],
+                [
+                    19.0,
+                    49.0
+                ],
+                [
+                    19.0,
+                    48.0
+                ],
+                [
+                    21.0,
+                    48.0
+                ],
+                [
+                    21.0,
+                    47.0
+                ],
+                [
+                    22.0,
+                    47.0
+                ],
+                [
+                    22.0,
+                    46.0
+                ],
+                [
+                    23.0,
+                    46.0
+                ],
+                [
+                    23.0,
+                    44.0
+                ],
+                [
+                    22.0,
+                    44.0
+                ],
+                [
+                    22.0,
+                    42.0
+                ],
+                [
+                    21.0,
+                    42.0
+                ],
+                [
+                    21.0,
+                    41.0
+                ],
+                [
+                    19.0,
+                    41.0
+                ],
+                [
+                    19.0,
+                    40.0
+                ],
+                [
+                    14.0,
+                    40.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

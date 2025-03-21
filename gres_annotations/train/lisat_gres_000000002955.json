@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the bus that has a big rectangular form, unique windows, and vivid colors usually seen on its sides.",
+        "Identify the bus characterized by its large rectangular design, distinct windows, and bold colors that are often present on the sides.",
+        "Look for the bus with a prominent rectangular shape, notable windows, and vibrant colors commonly located on the sides."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000002955.jpg",
+            "points": [
+                [
+                    4.0,
+                    452.0
+                ],
+                [
+                    4.0,
+                    453.0
+                ],
+                [
+                    3.0,
+                    453.0
+                ],
+                [
+                    3.0,
+                    460.0
+                ],
+                [
+                    4.0,
+                    460.0
+                ],
+                [
+                    4.0,
+                    465.0
+                ],
+                [
+                    5.0,
+                    465.0
+                ],
+                [
+                    5.0,
+                    467.0
+                ],
+                [
+                    6.0,
+                    467.0
+                ],
+                [
+                    6.0,
+                    468.0
+                ],
+                [
+                    13.0,
+                    468.0
+                ],
+                [
+                    13.0,
+                    467.0
+                ],
+                [
+                    14.0,
+                    467.0
+                ],
+                [
+                    14.0,
+                    459.0
+                ],
+                [
+                    13.0,
+                    459.0
+                ],
+                [
+                    13.0,
+                    456.0
+                ],
+                [
+                    12.0,
+                    456.0
+                ],
+                [
+                    12.0,
+                    454.0
+                ],
+                [
+                    11.0,
+                    454.0
+                ],
+                [
+                    11.0,
+                    453.0
+                ],
+                [
+                    10.0,
+                    453.0
+                ],
+                [
+                    10.0,
+                    452.0
+                ],
+                [
+                    4.0,
+                    452.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

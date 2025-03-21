@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the high, tube-shaped building with a rusty hue set against a shadowy backdrop.",
+        "Identify the elevated, round tower that appears reddish-brown against a dim background.",
+        "Spot the lofty, pillar-like formation with a brownish-red tint against a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016889.jpg",
+            "points": [
+                [
+                    99.0,
+                    23.0
+                ],
+                [
+                    99.0,
+                    24.0
+                ],
+                [
+                    97.0,
+                    24.0
+                ],
+                [
+                    97.0,
+                    36.0
+                ],
+                [
+                    96.0,
+                    36.0
+                ],
+                [
+                    96.0,
+                    51.0
+                ],
+                [
+                    95.0,
+                    51.0
+                ],
+                [
+                    95.0,
+                    68.0
+                ],
+                [
+                    96.0,
+                    68.0
+                ],
+                [
+                    96.0,
+                    69.0
+                ],
+                [
+                    98.0,
+                    69.0
+                ],
+                [
+                    98.0,
+                    70.0
+                ],
+                [
+                    100.0,
+                    70.0
+                ],
+                [
+                    100.0,
+                    71.0
+                ],
+                [
+                    114.0,
+                    71.0
+                ],
+                [
+                    114.0,
+                    70.0
+                ],
+                [
+                    116.0,
+                    70.0
+                ],
+                [
+                    116.0,
+                    69.0
+                ],
+                [
+                    117.0,
+                    69.0
+                ],
+                [
+                    117.0,
+                    67.0
+                ],
+                [
+                    118.0,
+                    67.0
+                ],
+                [
+                    118.0,
+                    61.0
+                ],
+                [
+                    119.0,
+                    61.0
+                ],
+                [
+                    119.0,
+                    27.0
+                ],
+                [
+                    118.0,
+                    27.0
+                ],
+                [
+                    118.0,
+                    26.0
+                ],
+                [
+                    117.0,
+                    26.0
+                ],
+                [
+                    117.0,
+                    25.0
+                ],
+                [
+                    115.0,
+                    25.0
+                ],
+                [
+                    115.0,
+                    24.0
+                ],
+                [
+                    113.0,
+                    24.0
+                ],
+                [
+                    113.0,
+                    23.0
+                ],
+                [
+                    99.0,
+                    23.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

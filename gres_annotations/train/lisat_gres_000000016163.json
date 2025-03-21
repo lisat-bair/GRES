@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the large, rectangular item featuring windows and wheels, noticeable for its dimensions and form, as the bus in the picture.",
+        "Recognize the lengthy, rectangular structure with visible wheels and windows, identifiable by its size and design, as the bus shown in the image.",
+        "Locate the extended, rectangular object that has windows and wheels, marked by its size and shape, as the bus depicted in the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000016163.jpg",
+            "points": [
+                [
+                    73.0,
+                    445.0
+                ],
+                [
+                    73.0,
+                    446.0
+                ],
+                [
+                    72.0,
+                    446.0
+                ],
+                [
+                    72.0,
+                    447.0
+                ],
+                [
+                    71.0,
+                    447.0
+                ],
+                [
+                    71.0,
+                    449.0
+                ],
+                [
+                    70.0,
+                    449.0
+                ],
+                [
+                    70.0,
+                    451.0
+                ],
+                [
+                    69.0,
+                    451.0
+                ],
+                [
+                    69.0,
+                    453.0
+                ],
+                [
+                    68.0,
+                    453.0
+                ],
+                [
+                    68.0,
+                    456.0
+                ],
+                [
+                    69.0,
+                    456.0
+                ],
+                [
+                    69.0,
+                    457.0
+                ],
+                [
+                    70.0,
+                    457.0
+                ],
+                [
+                    70.0,
+                    458.0
+                ],
+                [
+                    72.0,
+                    458.0
+                ],
+                [
+                    72.0,
+                    459.0
+                ],
+                [
+                    75.0,
+                    459.0
+                ],
+                [
+                    75.0,
+                    458.0
+                ],
+                [
+                    76.0,
+                    458.0
+                ],
+                [
+                    76.0,
+                    457.0
+                ],
+                [
+                    77.0,
+                    457.0
+                ],
+                [
+                    77.0,
+                    456.0
+                ],
+                [
+                    78.0,
+                    456.0
+                ],
+                [
+                    78.0,
+                    453.0
+                ],
+                [
+                    79.0,
+                    453.0
+                ],
+                [
+                    79.0,
+                    449.0
+                ],
+                [
+                    80.0,
+                    449.0
+                ],
+                [
+                    80.0,
+                    446.0
+                ],
+                [
+                    78.0,
+                    446.0
+                ],
+                [
+                    78.0,
+                    445.0
+                ],
+                [
+                    73.0,
+                    445.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

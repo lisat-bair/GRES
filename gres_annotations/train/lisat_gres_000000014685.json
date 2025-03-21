@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Find the structure situated in the lower-right section of the picture.",
+        "Identify the edifice positioned in the bottom-right area of the photo.",
+        "Spot the building located in the lower right-hand corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000014685.jpg",
+            "points": [
+                [
+                    354.0,
+                    449.0
+                ],
+                [
+                    354.0,
+                    450.0
+                ],
+                [
+                    353.0,
+                    450.0
+                ],
+                [
+                    353.0,
+                    453.0
+                ],
+                [
+                    352.0,
+                    453.0
+                ],
+                [
+                    352.0,
+                    465.0
+                ],
+                [
+                    353.0,
+                    465.0
+                ],
+                [
+                    353.0,
+                    472.0
+                ],
+                [
+                    354.0,
+                    472.0
+                ],
+                [
+                    354.0,
+                    473.0
+                ],
+                [
+                    363.0,
+                    473.0
+                ],
+                [
+                    363.0,
+                    472.0
+                ],
+                [
+                    366.0,
+                    472.0
+                ],
+                [
+                    366.0,
+                    450.0
+                ],
+                [
+                    364.0,
+                    450.0
+                ],
+                [
+                    364.0,
+                    449.0
+                ],
+                [
+                    354.0,
+                    449.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

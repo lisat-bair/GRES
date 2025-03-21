@@ -1,0 +1,101 @@
+{
+    "text": [
+        "Locate the truck carrying a trailer bed positioned in the lower-right section of the picture.",
+        "Spot the vehicle with a trailer bed located in the bottom right area of the photograph.",
+        "Find the truck that has a trailer bed in the corner at the bottom right of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000034543.jpg",
+            "points": [
+                [
+                    501.0,
+                    228.0
+                ],
+                [
+                    501.0,
+                    229.0
+                ],
+                [
+                    500.0,
+                    229.0
+                ],
+                [
+                    500.0,
+                    230.0
+                ],
+                [
+                    499.0,
+                    230.0
+                ],
+                [
+                    499.0,
+                    231.0
+                ],
+                [
+                    498.0,
+                    231.0
+                ],
+                [
+                    498.0,
+                    237.0
+                ],
+                [
+                    499.0,
+                    237.0
+                ],
+                [
+                    499.0,
+                    238.0
+                ],
+                [
+                    503.0,
+                    238.0
+                ],
+                [
+                    503.0,
+                    239.0
+                ],
+                [
+                    507.0,
+                    239.0
+                ],
+                [
+                    507.0,
+                    240.0
+                ],
+                [
+                    512.0,
+                    240.0
+                ],
+                [
+                    512.0,
+                    229.0
+                ],
+                [
+                    510.0,
+                    229.0
+                ],
+                [
+                    510.0,
+                    228.0
+                ],
+                [
+                    501.0,
+                    228.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "text": [
+        "Locate the shed in the lower-left corner of the picture.",
+        "Find the shed positioned at the bottom left of the photograph.",
+        "Point out the shed situated in the bottom-left section of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005160.jpg",
+            "points": [
+                [
+                    241.0,
+                    478.0
+                ],
+                [
+                    241.0,
+                    479.0
+                ],
+                [
+                    239.0,
+                    479.0
+                ],
+                [
+                    239.0,
+                    480.0
+                ],
+                [
+                    237.0,
+                    480.0
+                ],
+                [
+                    237.0,
+                    481.0
+                ],
+                [
+                    236.0,
+                    481.0
+                ],
+                [
+                    236.0,
+                    482.0
+                ],
+                [
+                    235.0,
+                    482.0
+                ],
+                [
+                    235.0,
+                    485.0
+                ],
+                [
+                    236.0,
+                    485.0
+                ],
+                [
+                    236.0,
+                    487.0
+                ],
+                [
+                    238.0,
+                    487.0
+                ],
+                [
+                    238.0,
+                    488.0
+                ],
+                [
+                    242.0,
+                    488.0
+                ],
+                [
+                    242.0,
+                    487.0
+                ],
+                [
+                    244.0,
+                    487.0
+                ],
+                [
+                    244.0,
+                    486.0
+                ],
+                [
+                    246.0,
+                    486.0
+                ],
+                [
+                    246.0,
+                    485.0
+                ],
+                [
+                    248.0,
+                    485.0
+                ],
+                [
+                    248.0,
+                    480.0
+                ],
+                [
+                    247.0,
+                    480.0
+                ],
+                [
+                    247.0,
+                    479.0
+                ],
+                [
+                    246.0,
+                    479.0
+                ],
+                [
+                    246.0,
+                    478.0
+                ],
+                [
+                    241.0,
+                    478.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the white automobile with a unique shape set against a dim backdrop.",
+        "Identify the light-colored car that stands out with its distinct form against a shadowy background.",
+        "Spot the white vehicle featuring a recognizable outline amidst a dark setting."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025800.jpg",
+            "points": [
+                [
+                    426.0,
+                    382.0
+                ],
+                [
+                    426.0,
+                    383.0
+                ],
+                [
+                    423.0,
+                    383.0
+                ],
+                [
+                    423.0,
+                    384.0
+                ],
+                [
+                    421.0,
+                    384.0
+                ],
+                [
+                    421.0,
+                    386.0
+                ],
+                [
+                    420.0,
+                    386.0
+                ],
+                [
+                    420.0,
+                    389.0
+                ],
+                [
+                    421.0,
+                    389.0
+                ],
+                [
+                    421.0,
+                    391.0
+                ],
+                [
+                    423.0,
+                    391.0
+                ],
+                [
+                    423.0,
+                    392.0
+                ],
+                [
+                    437.0,
+                    392.0
+                ],
+                [
+                    437.0,
+                    391.0
+                ],
+                [
+                    439.0,
+                    391.0
+                ],
+                [
+                    439.0,
+                    390.0
+                ],
+                [
+                    440.0,
+                    390.0
+                ],
+                [
+                    440.0,
+                    385.0
+                ],
+                [
+                    439.0,
+                    385.0
+                ],
+                [
+                    439.0,
+                    383.0
+                ],
+                [
+                    437.0,
+                    383.0
+                ],
+                [
+                    437.0,
+                    382.0
+                ],
+                [
+                    426.0,
+                    382.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

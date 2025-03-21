@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the bus, which is a big yellow vehicle featuring windows and wheels, and generally has a rectangular shape.",
+        "Find the bus, characterized by its large yellow structure, complete with windows and wheels, often resembling a rectangle.",
+        "Locate the bus, the sizable yellow transport with windows and wheels, usually known for its rectangular form."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023098.jpg",
+            "points": [
+                [
+                    128.0,
+                    81.0
+                ],
+                [
+                    128.0,
+                    82.0
+                ],
+                [
+                    126.0,
+                    82.0
+                ],
+                [
+                    126.0,
+                    83.0
+                ],
+                [
+                    125.0,
+                    83.0
+                ],
+                [
+                    125.0,
+                    84.0
+                ],
+                [
+                    123.0,
+                    84.0
+                ],
+                [
+                    123.0,
+                    85.0
+                ],
+                [
+                    122.0,
+                    85.0
+                ],
+                [
+                    122.0,
+                    87.0
+                ],
+                [
+                    124.0,
+                    87.0
+                ],
+                [
+                    124.0,
+                    88.0
+                ],
+                [
+                    128.0,
+                    88.0
+                ],
+                [
+                    128.0,
+                    89.0
+                ],
+                [
+                    136.0,
+                    89.0
+                ],
+                [
+                    136.0,
+                    88.0
+                ],
+                [
+                    137.0,
+                    88.0
+                ],
+                [
+                    137.0,
+                    82.0
+                ],
+                [
+                    134.0,
+                    82.0
+                ],
+                [
+                    134.0,
+                    81.0
+                ],
+                [
+                    128.0,
+                    81.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

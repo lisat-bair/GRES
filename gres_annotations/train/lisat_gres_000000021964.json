@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Divide the automobile that features a metallic finish, curved shapes, and shiny surfaces commonly linked to cars.",
+        "Categorize the vehicle possessing a lustrous appearance, smooth curves, and reflective surfaces generally related to automobiles.",
+        "Separate the car with a shiny metallic surface, rounded edges, and surfaces that reflect light, which are usually connected to vehicles."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000021964.jpg",
+            "points": [
+                [
+                    89.0,
+                    345.0
+                ],
+                [
+                    89.0,
+                    346.0
+                ],
+                [
+                    85.0,
+                    346.0
+                ],
+                [
+                    85.0,
+                    347.0
+                ],
+                [
+                    83.0,
+                    347.0
+                ],
+                [
+                    83.0,
+                    348.0
+                ],
+                [
+                    82.0,
+                    348.0
+                ],
+                [
+                    82.0,
+                    352.0
+                ],
+                [
+                    83.0,
+                    352.0
+                ],
+                [
+                    83.0,
+                    353.0
+                ],
+                [
+                    84.0,
+                    353.0
+                ],
+                [
+                    84.0,
+                    354.0
+                ],
+                [
+                    87.0,
+                    354.0
+                ],
+                [
+                    87.0,
+                    355.0
+                ],
+                [
+                    98.0,
+                    355.0
+                ],
+                [
+                    98.0,
+                    354.0
+                ],
+                [
+                    100.0,
+                    354.0
+                ],
+                [
+                    100.0,
+                    353.0
+                ],
+                [
+                    102.0,
+                    353.0
+                ],
+                [
+                    102.0,
+                    352.0
+                ],
+                [
+                    103.0,
+                    352.0
+                ],
+                [
+                    103.0,
+                    350.0
+                ],
+                [
+                    102.0,
+                    350.0
+                ],
+                [
+                    102.0,
+                    348.0
+                ],
+                [
+                    101.0,
+                    348.0
+                ],
+                [
+                    101.0,
+                    347.0
+                ],
+                [
+                    99.0,
+                    347.0
+                ],
+                [
+                    99.0,
+                    346.0
+                ],
+                [
+                    98.0,
+                    346.0
+                ],
+                [
+                    98.0,
+                    345.0
+                ],
+                [
+                    89.0,
+                    345.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

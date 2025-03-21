@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the big yellow automobile with windows and wheels lying flat.",
+        "Identify the spacious yellow car featuring windows and wheels, placed horizontally.",
+        "Spot the large yellow machine with windows and wheels that is situated flat."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022609.jpg",
+            "points": [
+                [
+                    371.0,
+                    472.0
+                ],
+                [
+                    371.0,
+                    473.0
+                ],
+                [
+                    369.0,
+                    473.0
+                ],
+                [
+                    369.0,
+                    474.0
+                ],
+                [
+                    368.0,
+                    474.0
+                ],
+                [
+                    368.0,
+                    477.0
+                ],
+                [
+                    367.0,
+                    477.0
+                ],
+                [
+                    367.0,
+                    481.0
+                ],
+                [
+                    368.0,
+                    481.0
+                ],
+                [
+                    368.0,
+                    483.0
+                ],
+                [
+                    384.0,
+                    483.0
+                ],
+                [
+                    384.0,
+                    482.0
+                ],
+                [
+                    386.0,
+                    482.0
+                ],
+                [
+                    386.0,
+                    481.0
+                ],
+                [
+                    387.0,
+                    481.0
+                ],
+                [
+                    387.0,
+                    478.0
+                ],
+                [
+                    386.0,
+                    478.0
+                ],
+                [
+                    386.0,
+                    474.0
+                ],
+                [
+                    385.0,
+                    474.0
+                ],
+                [
+                    385.0,
+                    473.0
+                ],
+                [
+                    382.0,
+                    473.0
+                ],
+                [
+                    382.0,
+                    472.0
+                ],
+                [
+                    371.0,
+                    472.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

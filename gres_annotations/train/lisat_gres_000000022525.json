@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the towering, box-shaped apparatus with noticeable wheels and a structure built to elevate and move containers.",
+        "Identify the high, rectangular device featuring wheels and a mechanism meant for raising and carrying containers.",
+        "Spot the lofty, angular build equipped with visible wheels and a system engineered to lift and transport containers."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022525.jpg",
+            "points": [
+                [
+                    506.0,
+                    492.0
+                ],
+                [
+                    506.0,
+                    494.0
+                ],
+                [
+                    508.0,
+                    494.0
+                ],
+                [
+                    508.0,
+                    493.0
+                ],
+                [
+                    507.0,
+                    493.0
+                ],
+                [
+                    507.0,
+                    492.0
+                ],
+                [
+                    506.0,
+                    492.0
+                ],
+                [
+                    511.0,
+                    493.0
+                ],
+                [
+                    511.0,
+                    494.0
+                ],
+                [
+                    512.0,
+                    494.0
+                ],
+                [
+                    512.0,
+                    493.0
+                ],
+                [
+                    511.0,
+                    493.0
+                ],
+                [
+                    504.0,
+                    499.0
+                ],
+                [
+                    504.0,
+                    500.0
+                ],
+                [
+                    495.0,
+                    500.0
+                ],
+                [
+                    495.0,
+                    501.0
+                ],
+                [
+                    494.0,
+                    501.0
+                ],
+                [
+                    494.0,
+                    504.0
+                ],
+                [
+                    493.0,
+                    504.0
+                ],
+                [
+                    493.0,
+                    510.0
+                ],
+                [
+                    494.0,
+                    510.0
+                ],
+                [
+                    494.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    512.0
+                ],
+                [
+                    512.0,
+                    499.0
+                ],
+                [
+                    504.0,
+                    499.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

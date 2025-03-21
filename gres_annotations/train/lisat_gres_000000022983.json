@@ -1,0 +1,85 @@
+{
+    "text": [
+        "Find the big rectangular object with clear windows and wheels, often painted in vivid colors or marked with prominent signage, to spot the bus in the picture.",
+        "Look for the large box-like structure with visible windows and wheels, usually in bright shades or bearing noticeable signs, to recognize the bus in the photo.",
+        "Identify the sizable rectangular form with distinct windows and wheels, commonly adorned in striking colors or with obvious signage, to locate the bus in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000022983.jpg",
+            "points": [
+                [
+                    191.0,
+                    138.0
+                ],
+                [
+                    191.0,
+                    151.0
+                ],
+                [
+                    192.0,
+                    151.0
+                ],
+                [
+                    192.0,
+                    153.0
+                ],
+                [
+                    193.0,
+                    153.0
+                ],
+                [
+                    193.0,
+                    154.0
+                ],
+                [
+                    197.0,
+                    154.0
+                ],
+                [
+                    197.0,
+                    151.0
+                ],
+                [
+                    198.0,
+                    151.0
+                ],
+                [
+                    198.0,
+                    147.0
+                ],
+                [
+                    199.0,
+                    147.0
+                ],
+                [
+                    199.0,
+                    140.0
+                ],
+                [
+                    198.0,
+                    140.0
+                ],
+                [
+                    198.0,
+                    138.0
+                ],
+                [
+                    191.0,
+                    138.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

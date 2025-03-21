@@ -1,0 +1,39 @@
+{
+    "text": [
+        "Identify the small boat at the bottom-left corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001303.jpg",
+            "points": [
+                [
+                    116,
+                    501
+                ],
+                [
+                    185,
+                    501
+                ],
+                [
+                    185,
+                    512
+                ],
+                [
+                    116,
+                    512
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "text": [
+        "Identify the large yellow vehicle with multiple windows and a prominent horizontal design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000005456.jpg",
+            "points": [
+                [
+                    239.0,
+                    508.0
+                ],
+                [
+                    239.0,
+                    509.0
+                ],
+                [
+                    238.0,
+                    509.0
+                ],
+                [
+                    238.0,
+                    512.0
+                ],
+                [
+                    247.0,
+                    512.0
+                ],
+                [
+                    247.0,
+                    509.0
+                ],
+                [
+                    246.0,
+                    509.0
+                ],
+                [
+                    246.0,
+                    508.0
+                ],
+                [
+                    239.0,
+                    508.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

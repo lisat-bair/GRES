@@ -1,0 +1,75 @@
+{
+    "text": [
+        "Identify the vehicle by its distinct silhouette and color contrast against the background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000009788.jpg",
+            "points": [
+                [
+                    71.0,
+                    210.0
+                ],
+                [
+                    71.0,
+                    211.0
+                ],
+                [
+                    70.0,
+                    211.0
+                ],
+                [
+                    70.0,
+                    215.0
+                ],
+                [
+                    72.0,
+                    215.0
+                ],
+                [
+                    72.0,
+                    216.0
+                ],
+                [
+                    79.0,
+                    216.0
+                ],
+                [
+                    79.0,
+                    214.0
+                ],
+                [
+                    80.0,
+                    214.0
+                ],
+                [
+                    80.0,
+                    212.0
+                ],
+                [
+                    79.0,
+                    212.0
+                ],
+                [
+                    79.0,
+                    210.0
+                ],
+                [
+                    71.0,
+                    210.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

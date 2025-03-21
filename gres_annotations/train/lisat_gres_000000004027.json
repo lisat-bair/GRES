@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Find the truck characterized by a long, rectangular form, several wheels beneath it, and a distinct cab at the front, mainly in metallic gray.",
+        "Spot the vehicle that has a long rectangular structure with multiple wheels below and a unique cab at one end, predominantly in a metallic gray shade.",
+        "Identify the truck featuring a lengthy rectangular shape with numerous wheels underneath and a noticeable cab at one end, primarily colored in metallic gray."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000004027.jpg",
+            "points": [
+                [
+                    234.0,
+                    488.0
+                ],
+                [
+                    234.0,
+                    489.0
+                ],
+                [
+                    231.0,
+                    489.0
+                ],
+                [
+                    231.0,
+                    490.0
+                ],
+                [
+                    228.0,
+                    490.0
+                ],
+                [
+                    228.0,
+                    493.0
+                ],
+                [
+                    227.0,
+                    493.0
+                ],
+                [
+                    227.0,
+                    496.0
+                ],
+                [
+                    226.0,
+                    496.0
+                ],
+                [
+                    226.0,
+                    497.0
+                ],
+                [
+                    225.0,
+                    497.0
+                ],
+                [
+                    225.0,
+                    499.0
+                ],
+                [
+                    226.0,
+                    499.0
+                ],
+                [
+                    226.0,
+                    500.0
+                ],
+                [
+                    246.0,
+                    500.0
+                ],
+                [
+                    246.0,
+                    501.0
+                ],
+                [
+                    282.0,
+                    501.0
+                ],
+                [
+                    282.0,
+                    500.0
+                ],
+                [
+                    284.0,
+                    500.0
+                ],
+                [
+                    284.0,
+                    499.0
+                ],
+                [
+                    285.0,
+                    499.0
+                ],
+                [
+                    285.0,
+                    497.0
+                ],
+                [
+                    286.0,
+                    497.0
+                ],
+                [
+                    286.0,
+                    491.0
+                ],
+                [
+                    285.0,
+                    491.0
+                ],
+                [
+                    285.0,
+                    489.0
+                ],
+                [
+                    270.0,
+                    489.0
+                ],
+                [
+                    270.0,
+                    488.0
+                ],
+                [
+                    234.0,
+                    488.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

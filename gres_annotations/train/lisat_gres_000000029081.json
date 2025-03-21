@@ -1,0 +1,117 @@
+{
+    "text": [
+        "Find the structure with upright beige and brown stripes in the picture.",
+        "Identify the building that has vertical stripes in beige and brown in the photo.",
+        "Spot the edifice featuring beige and brown vertical stripes in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029081.jpg",
+            "points": [
+                [
+                    157.0,
+                    506.0
+                ],
+                [
+                    157.0,
+                    507.0
+                ],
+                [
+                    155.0,
+                    507.0
+                ],
+                [
+                    155.0,
+                    508.0
+                ],
+                [
+                    154.0,
+                    508.0
+                ],
+                [
+                    154.0,
+                    509.0
+                ],
+                [
+                    153.0,
+                    509.0
+                ],
+                [
+                    153.0,
+                    511.0
+                ],
+                [
+                    152.0,
+                    511.0
+                ],
+                [
+                    152.0,
+                    512.0
+                ],
+                [
+                    179.0,
+                    512.0
+                ],
+                [
+                    179.0,
+                    511.0
+                ],
+                [
+                    178.0,
+                    511.0
+                ],
+                [
+                    178.0,
+                    510.0
+                ],
+                [
+                    176.0,
+                    510.0
+                ],
+                [
+                    176.0,
+                    509.0
+                ],
+                [
+                    165.0,
+                    509.0
+                ],
+                [
+                    165.0,
+                    508.0
+                ],
+                [
+                    164.0,
+                    508.0
+                ],
+                [
+                    164.0,
+                    507.0
+                ],
+                [
+                    162.0,
+                    507.0
+                ],
+                [
+                    162.0,
+                    506.0
+                ],
+                [
+                    157.0,
+                    506.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

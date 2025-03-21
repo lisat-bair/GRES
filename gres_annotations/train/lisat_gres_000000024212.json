@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the crane situated in the lower-right corner of the picture.",
+        "Identify the crane positioned at the bottom-right of the image.",
+        "Spot the crane located in the lower-right section of the photograph."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024212.jpg",
+            "points": [
+                [
+                    246.0,
+                    503.0
+                ],
+                [
+                    246.0,
+                    504.0
+                ],
+                [
+                    243.0,
+                    504.0
+                ],
+                [
+                    243.0,
+                    505.0
+                ],
+                [
+                    241.0,
+                    505.0
+                ],
+                [
+                    241.0,
+                    506.0
+                ],
+                [
+                    240.0,
+                    506.0
+                ],
+                [
+                    240.0,
+                    507.0
+                ],
+                [
+                    239.0,
+                    507.0
+                ],
+                [
+                    239.0,
+                    509.0
+                ],
+                [
+                    238.0,
+                    509.0
+                ],
+                [
+                    238.0,
+                    512.0
+                ],
+                [
+                    282.0,
+                    512.0
+                ],
+                [
+                    282.0,
+                    509.0
+                ],
+                [
+                    281.0,
+                    509.0
+                ],
+                [
+                    281.0,
+                    507.0
+                ],
+                [
+                    280.0,
+                    507.0
+                ],
+                [
+                    280.0,
+                    506.0
+                ],
+                [
+                    276.0,
+                    506.0
+                ],
+                [
+                    276.0,
+                    505.0
+                ],
+                [
+                    262.0,
+                    505.0
+                ],
+                [
+                    262.0,
+                    504.0
+                ],
+                [
+                    252.0,
+                    504.0
+                ],
+                [
+                    252.0,
+                    503.0
+                ],
+                [
+                    246.0,
+                    503.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

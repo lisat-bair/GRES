@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Find the helipad situated at the upper-right corner of the picture.",
+        "Identify the helipad located in the image's top-right section.",
+        "Spot the helipad positioned in the top-right area of the photo."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013497.jpg",
+            "points": [
+                [
+                    509.0,
+                    12.0
+                ],
+                [
+                    509.0,
+                    13.0
+                ],
+                [
+                    508.0,
+                    13.0
+                ],
+                [
+                    508.0,
+                    15.0
+                ],
+                [
+                    507.0,
+                    15.0
+                ],
+                [
+                    507.0,
+                    16.0
+                ],
+                [
+                    506.0,
+                    16.0
+                ],
+                [
+                    506.0,
+                    25.0
+                ],
+                [
+                    507.0,
+                    25.0
+                ],
+                [
+                    507.0,
+                    27.0
+                ],
+                [
+                    508.0,
+                    27.0
+                ],
+                [
+                    508.0,
+                    28.0
+                ],
+                [
+                    509.0,
+                    28.0
+                ],
+                [
+                    509.0,
+                    29.0
+                ],
+                [
+                    510.0,
+                    29.0
+                ],
+                [
+                    510.0,
+                    30.0
+                ],
+                [
+                    511.0,
+                    30.0
+                ],
+                [
+                    511.0,
+                    31.0
+                ],
+                [
+                    512.0,
+                    31.0
+                ],
+                [
+                    512.0,
+                    12.0
+                ],
+                [
+                    509.0,
+                    12.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Spot the vehicle in the picture that has a small form and understated characteristics.",
+        "Find the automobile in the photo that possesses a petite design and modest details.",
+        "Locate the car in the image that features a compact structure and discreet elements."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000029627.jpg",
+            "points": [
+                [
+                    38.0,
+                    290.0
+                ],
+                [
+                    38.0,
+                    292.0
+                ],
+                [
+                    37.0,
+                    292.0
+                ],
+                [
+                    37.0,
+                    296.0
+                ],
+                [
+                    38.0,
+                    296.0
+                ],
+                [
+                    38.0,
+                    297.0
+                ],
+                [
+                    39.0,
+                    297.0
+                ],
+                [
+                    39.0,
+                    298.0
+                ],
+                [
+                    40.0,
+                    298.0
+                ],
+                [
+                    40.0,
+                    299.0
+                ],
+                [
+                    42.0,
+                    299.0
+                ],
+                [
+                    42.0,
+                    300.0
+                ],
+                [
+                    45.0,
+                    300.0
+                ],
+                [
+                    45.0,
+                    301.0
+                ],
+                [
+                    48.0,
+                    301.0
+                ],
+                [
+                    48.0,
+                    300.0
+                ],
+                [
+                    50.0,
+                    300.0
+                ],
+                [
+                    50.0,
+                    299.0
+                ],
+                [
+                    51.0,
+                    299.0
+                ],
+                [
+                    51.0,
+                    295.0
+                ],
+                [
+                    50.0,
+                    295.0
+                ],
+                [
+                    50.0,
+                    294.0
+                ],
+                [
+                    49.0,
+                    294.0
+                ],
+                [
+                    49.0,
+                    293.0
+                ],
+                [
+                    48.0,
+                    293.0
+                ],
+                [
+                    48.0,
+                    292.0
+                ],
+                [
+                    46.0,
+                    292.0
+                ],
+                [
+                    46.0,
+                    291.0
+                ],
+                [
+                    43.0,
+                    291.0
+                ],
+                [
+                    43.0,
+                    290.0
+                ],
+                [
+                    38.0,
+                    290.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

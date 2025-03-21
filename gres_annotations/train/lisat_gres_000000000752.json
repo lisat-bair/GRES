@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the vehicle that has a white rectangular license plate on a dark backdrop.",
+        "Look for the automobile displaying a rectangular white license plate set against a dark background.",
+        "Find the car featuring a white rectangular license plate against a dark-colored background."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000000752.jpg",
+            "points": [
+                [
+                    29.0,
+                    367.0
+                ],
+                [
+                    29.0,
+                    368.0
+                ],
+                [
+                    27.0,
+                    368.0
+                ],
+                [
+                    27.0,
+                    370.0
+                ],
+                [
+                    26.0,
+                    370.0
+                ],
+                [
+                    26.0,
+                    375.0
+                ],
+                [
+                    27.0,
+                    375.0
+                ],
+                [
+                    27.0,
+                    376.0
+                ],
+                [
+                    28.0,
+                    376.0
+                ],
+                [
+                    28.0,
+                    378.0
+                ],
+                [
+                    29.0,
+                    378.0
+                ],
+                [
+                    29.0,
+                    379.0
+                ],
+                [
+                    30.0,
+                    379.0
+                ],
+                [
+                    30.0,
+                    380.0
+                ],
+                [
+                    31.0,
+                    380.0
+                ],
+                [
+                    31.0,
+                    381.0
+                ],
+                [
+                    32.0,
+                    381.0
+                ],
+                [
+                    32.0,
+                    382.0
+                ],
+                [
+                    33.0,
+                    382.0
+                ],
+                [
+                    33.0,
+                    383.0
+                ],
+                [
+                    34.0,
+                    383.0
+                ],
+                [
+                    34.0,
+                    384.0
+                ],
+                [
+                    36.0,
+                    384.0
+                ],
+                [
+                    36.0,
+                    383.0
+                ],
+                [
+                    38.0,
+                    383.0
+                ],
+                [
+                    38.0,
+                    382.0
+                ],
+                [
+                    39.0,
+                    382.0
+                ],
+                [
+                    39.0,
+                    370.0
+                ],
+                [
+                    38.0,
+                    370.0
+                ],
+                [
+                    38.0,
+                    368.0
+                ],
+                [
+                    36.0,
+                    368.0
+                ],
+                [
+                    36.0,
+                    367.0
+                ],
+                [
+                    29.0,
+                    367.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

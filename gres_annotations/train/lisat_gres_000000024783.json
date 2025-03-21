@@ -1,0 +1,141 @@
+{
+    "text": [
+        "Spot the automobile characterized by shimmering, metallic surfaces and gleaming highlights, shaped with vehicle-like outlines.",
+        "Find the car distinguished by its shiny metallic skin and reflective accents, outlined by its automobile-like shape.",
+        "Locate the vehicle with a metallic finish and reflective shine, recognizable by its car-like form."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000024783.jpg",
+            "points": [
+                [
+                    422.0,
+                    45.0
+                ],
+                [
+                    422.0,
+                    46.0
+                ],
+                [
+                    421.0,
+                    46.0
+                ],
+                [
+                    421.0,
+                    54.0
+                ],
+                [
+                    420.0,
+                    54.0
+                ],
+                [
+                    420.0,
+                    55.0
+                ],
+                [
+                    421.0,
+                    55.0
+                ],
+                [
+                    421.0,
+                    57.0
+                ],
+                [
+                    422.0,
+                    57.0
+                ],
+                [
+                    422.0,
+                    58.0
+                ],
+                [
+                    423.0,
+                    58.0
+                ],
+                [
+                    423.0,
+                    59.0
+                ],
+                [
+                    427.0,
+                    59.0
+                ],
+                [
+                    427.0,
+                    58.0
+                ],
+                [
+                    428.0,
+                    58.0
+                ],
+                [
+                    428.0,
+                    57.0
+                ],
+                [
+                    429.0,
+                    57.0
+                ],
+                [
+                    429.0,
+                    56.0
+                ],
+                [
+                    430.0,
+                    56.0
+                ],
+                [
+                    430.0,
+                    49.0
+                ],
+                [
+                    429.0,
+                    49.0
+                ],
+                [
+                    429.0,
+                    48.0
+                ],
+                [
+                    428.0,
+                    48.0
+                ],
+                [
+                    428.0,
+                    47.0
+                ],
+                [
+                    427.0,
+                    47.0
+                ],
+                [
+                    427.0,
+                    46.0
+                ],
+                [
+                    426.0,
+                    46.0
+                ],
+                [
+                    426.0,
+                    45.0
+                ],
+                [
+                    422.0,
+                    45.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

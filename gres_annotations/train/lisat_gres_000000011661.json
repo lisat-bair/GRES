@@ -1,0 +1,165 @@
+{
+    "text": [
+        "Look for the vehicle in the picture that has a shiny finish, a long design, and its wheels gleaming under city lights.",
+        "Spot the automobile in the photo that features a metallic exterior, a stretched form, and wheels that catch the light in urban settings.",
+        "Find the car in the image that possesses a reflective surface, an extended shape, and has wheels shining in city surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000011661.jpg",
+            "points": [
+                [
+                    164.0,
+                    129.0
+                ],
+                [
+                    164.0,
+                    130.0
+                ],
+                [
+                    162.0,
+                    130.0
+                ],
+                [
+                    162.0,
+                    131.0
+                ],
+                [
+                    159.0,
+                    131.0
+                ],
+                [
+                    159.0,
+                    132.0
+                ],
+                [
+                    157.0,
+                    132.0
+                ],
+                [
+                    157.0,
+                    133.0
+                ],
+                [
+                    156.0,
+                    133.0
+                ],
+                [
+                    156.0,
+                    134.0
+                ],
+                [
+                    155.0,
+                    134.0
+                ],
+                [
+                    155.0,
+                    137.0
+                ],
+                [
+                    156.0,
+                    137.0
+                ],
+                [
+                    156.0,
+                    138.0
+                ],
+                [
+                    158.0,
+                    138.0
+                ],
+                [
+                    158.0,
+                    139.0
+                ],
+                [
+                    160.0,
+                    139.0
+                ],
+                [
+                    160.0,
+                    138.0
+                ],
+                [
+                    162.0,
+                    138.0
+                ],
+                [
+                    162.0,
+                    137.0
+                ],
+                [
+                    165.0,
+                    137.0
+                ],
+                [
+                    165.0,
+                    136.0
+                ],
+                [
+                    167.0,
+                    136.0
+                ],
+                [
+                    167.0,
+                    135.0
+                ],
+                [
+                    169.0,
+                    135.0
+                ],
+                [
+                    169.0,
+                    134.0
+                ],
+                [
+                    170.0,
+                    134.0
+                ],
+                [
+                    170.0,
+                    133.0
+                ],
+                [
+                    171.0,
+                    133.0
+                ],
+                [
+                    171.0,
+                    131.0
+                ],
+                [
+                    170.0,
+                    131.0
+                ],
+                [
+                    170.0,
+                    130.0
+                ],
+                [
+                    169.0,
+                    130.0
+                ],
+                [
+                    169.0,
+                    129.0
+                ],
+                [
+                    164.0,
+                    129.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

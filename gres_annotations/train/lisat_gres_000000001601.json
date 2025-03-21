@@ -1,0 +1,69 @@
+{
+    "text": [
+        "Improve the image to more clearly delineate the shed and increase its visibility.",
+        "Refine the photo to better distinguish the shed and enhance its clarity.",
+        "Adjust the picture to more effectively separate the shed and make it more visible."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001601.jpg",
+            "points": [
+                [
+                    222.0,
+                    0.0
+                ],
+                [
+                    222.0,
+                    3.0
+                ],
+                [
+                    223.0,
+                    3.0
+                ],
+                [
+                    223.0,
+                    4.0
+                ],
+                [
+                    234.0,
+                    4.0
+                ],
+                [
+                    234.0,
+                    3.0
+                ],
+                [
+                    235.0,
+                    3.0
+                ],
+                [
+                    235.0,
+                    1.0
+                ],
+                [
+                    236.0,
+                    1.0
+                ],
+                [
+                    236.0,
+                    0.0
+                ],
+                [
+                    222.0,
+                    0.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

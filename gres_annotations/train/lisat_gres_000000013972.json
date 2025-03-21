@@ -1,0 +1,109 @@
+{
+    "text": [
+        "Spot the automobile featuring a unique metallic exterior, shiny surfaces, and notable wheel designs on a level surface in the picture.",
+        "Find the vehicle with a distinctive metal body, gleaming surfaces, and specific wheel forms on a flat plane in the photo.",
+        "Locate the car that has a remarkable metal shell, reflective areas, and unique wheel patterns on a flat ground in the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000013972.jpg",
+            "points": [
+                [
+                    346.0,
+                    307.0
+                ],
+                [
+                    346.0,
+                    308.0
+                ],
+                [
+                    345.0,
+                    308.0
+                ],
+                [
+                    345.0,
+                    315.0
+                ],
+                [
+                    344.0,
+                    315.0
+                ],
+                [
+                    344.0,
+                    323.0
+                ],
+                [
+                    345.0,
+                    323.0
+                ],
+                [
+                    345.0,
+                    324.0
+                ],
+                [
+                    346.0,
+                    324.0
+                ],
+                [
+                    346.0,
+                    325.0
+                ],
+                [
+                    351.0,
+                    325.0
+                ],
+                [
+                    351.0,
+                    324.0
+                ],
+                [
+                    353.0,
+                    324.0
+                ],
+                [
+                    353.0,
+                    319.0
+                ],
+                [
+                    354.0,
+                    319.0
+                ],
+                [
+                    354.0,
+                    310.0
+                ],
+                [
+                    353.0,
+                    310.0
+                ],
+                [
+                    353.0,
+                    308.0
+                ],
+                [
+                    351.0,
+                    308.0
+                ],
+                [
+                    351.0,
+                    307.0
+                ],
+                [
+                    346.0,
+                    307.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "text": [
+        "Locate the truck that has a unique dark hue and noticeable headlights that contrast with the surroundings.",
+        "Find the vehicle that is characterized by its striking dark shade and conspicuous headlights, making it prominent in its environment.",
+        "Spot the truck with a notable dark color and eye-catching headlights that distinguish it from its surroundings."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000007208.jpg",
+            "points": [
+                [
+                    459.0,
+                    427.0
+                ],
+                [
+                    459.0,
+                    428.0
+                ],
+                [
+                    455.0,
+                    428.0
+                ],
+                [
+                    455.0,
+                    429.0
+                ],
+                [
+                    454.0,
+                    429.0
+                ],
+                [
+                    454.0,
+                    428.0
+                ],
+                [
+                    453.0,
+                    428.0
+                ],
+                [
+                    453.0,
+                    433.0
+                ],
+                [
+                    454.0,
+                    433.0
+                ],
+                [
+                    454.0,
+                    436.0
+                ],
+                [
+                    455.0,
+                    436.0
+                ],
+                [
+                    455.0,
+                    437.0
+                ],
+                [
+                    458.0,
+                    437.0
+                ],
+                [
+                    458.0,
+                    438.0
+                ],
+                [
+                    468.0,
+                    438.0
+                ],
+                [
+                    468.0,
+                    437.0
+                ],
+                [
+                    471.0,
+                    437.0
+                ],
+                [
+                    471.0,
+                    436.0
+                ],
+                [
+                    472.0,
+                    436.0
+                ],
+                [
+                    472.0,
+                    435.0
+                ],
+                [
+                    473.0,
+                    435.0
+                ],
+                [
+                    473.0,
+                    433.0
+                ],
+                [
+                    472.0,
+                    433.0
+                ],
+                [
+                    472.0,
+                    430.0
+                ],
+                [
+                    471.0,
+                    430.0
+                ],
+                [
+                    471.0,
+                    429.0
+                ],
+                [
+                    470.0,
+                    429.0
+                ],
+                [
+                    470.0,
+                    428.0
+                ],
+                [
+                    462.0,
+                    428.0
+                ],
+                [
+                    462.0,
+                    427.0
+                ],
+                [
+                    459.0,
+                    427.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

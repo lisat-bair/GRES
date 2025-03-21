@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Find the big automobile featuring rectangular panes and vibrant hues, usually in shades of yellow or red, commonly seen on streets.",
+        "Identify the sizeable transport with square-shaped windows and vivid paintwork, generally yellow or red, frequently spotted on highways.",
+        "Seek out the large conveyance with rectangular glass panels and striking colors, often yellow or red, typically observed on roadways."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019999.jpg",
+            "points": [
+                [
+                    225.0,
+                    499.0
+                ],
+                [
+                    225.0,
+                    500.0
+                ],
+                [
+                    222.0,
+                    500.0
+                ],
+                [
+                    222.0,
+                    501.0
+                ],
+                [
+                    219.0,
+                    501.0
+                ],
+                [
+                    219.0,
+                    502.0
+                ],
+                [
+                    218.0,
+                    502.0
+                ],
+                [
+                    218.0,
+                    503.0
+                ],
+                [
+                    217.0,
+                    503.0
+                ],
+                [
+                    217.0,
+                    504.0
+                ],
+                [
+                    216.0,
+                    504.0
+                ],
+                [
+                    216.0,
+                    506.0
+                ],
+                [
+                    215.0,
+                    506.0
+                ],
+                [
+                    215.0,
+                    507.0
+                ],
+                [
+                    214.0,
+                    507.0
+                ],
+                [
+                    214.0,
+                    509.0
+                ],
+                [
+                    213.0,
+                    509.0
+                ],
+                [
+                    213.0,
+                    511.0
+                ],
+                [
+                    212.0,
+                    511.0
+                ],
+                [
+                    212.0,
+                    512.0
+                ],
+                [
+                    234.0,
+                    512.0
+                ],
+                [
+                    234.0,
+                    510.0
+                ],
+                [
+                    235.0,
+                    510.0
+                ],
+                [
+                    235.0,
+                    506.0
+                ],
+                [
+                    236.0,
+                    506.0
+                ],
+                [
+                    236.0,
+                    503.0
+                ],
+                [
+                    235.0,
+                    503.0
+                ],
+                [
+                    235.0,
+                    501.0
+                ],
+                [
+                    234.0,
+                    501.0
+                ],
+                [
+                    234.0,
+                    500.0
+                ],
+                [
+                    230.0,
+                    500.0
+                ],
+                [
+                    230.0,
+                    499.0
+                ],
+                [
+                    225.0,
+                    499.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

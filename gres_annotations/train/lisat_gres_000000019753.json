@@ -1,0 +1,93 @@
+{
+    "text": [
+        "Point out the train situated at the top-right section of the picture.",
+        "Locate the railroad car positioned in the upper-right part of the photo.",
+        "Spot the railway carriage located in the top-right corner of the image."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000019753.jpg",
+            "points": [
+                [
+                    496.0,
+                    78.0
+                ],
+                [
+                    496.0,
+                    79.0
+                ],
+                [
+                    495.0,
+                    79.0
+                ],
+                [
+                    495.0,
+                    80.0
+                ],
+                [
+                    494.0,
+                    80.0
+                ],
+                [
+                    494.0,
+                    84.0
+                ],
+                [
+                    495.0,
+                    84.0
+                ],
+                [
+                    495.0,
+                    87.0
+                ],
+                [
+                    496.0,
+                    87.0
+                ],
+                [
+                    496.0,
+                    88.0
+                ],
+                [
+                    498.0,
+                    88.0
+                ],
+                [
+                    498.0,
+                    89.0
+                ],
+                [
+                    508.0,
+                    89.0
+                ],
+                [
+                    508.0,
+                    90.0
+                ],
+                [
+                    512.0,
+                    90.0
+                ],
+                [
+                    512.0,
+                    78.0
+                ],
+                [
+                    496.0,
+                    78.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

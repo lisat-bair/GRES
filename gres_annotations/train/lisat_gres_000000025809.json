@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Spot the big boxy vehicle that has numerous windows and noticeable wheels.",
+        "Point out the large windowed transport with significant wheels.",
+        "Find the sizable rectangular transport equipped with many windows and obvious wheels."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000025809.jpg",
+            "points": [
+                [
+                    0.0,
+                    103.0
+                ],
+                [
+                    0.0,
+                    123.0
+                ],
+                [
+                    4.0,
+                    123.0
+                ],
+                [
+                    4.0,
+                    122.0
+                ],
+                [
+                    6.0,
+                    122.0
+                ],
+                [
+                    6.0,
+                    121.0
+                ],
+                [
+                    7.0,
+                    121.0
+                ],
+                [
+                    7.0,
+                    119.0
+                ],
+                [
+                    8.0,
+                    119.0
+                ],
+                [
+                    8.0,
+                    118.0
+                ],
+                [
+                    9.0,
+                    118.0
+                ],
+                [
+                    9.0,
+                    117.0
+                ],
+                [
+                    10.0,
+                    117.0
+                ],
+                [
+                    10.0,
+                    116.0
+                ],
+                [
+                    12.0,
+                    116.0
+                ],
+                [
+                    12.0,
+                    114.0
+                ],
+                [
+                    13.0,
+                    114.0
+                ],
+                [
+                    13.0,
+                    111.0
+                ],
+                [
+                    12.0,
+                    111.0
+                ],
+                [
+                    12.0,
+                    109.0
+                ],
+                [
+                    11.0,
+                    109.0
+                ],
+                [
+                    11.0,
+                    108.0
+                ],
+                [
+                    9.0,
+                    108.0
+                ],
+                [
+                    9.0,
+                    107.0
+                ],
+                [
+                    7.0,
+                    107.0
+                ],
+                [
+                    7.0,
+                    106.0
+                ],
+                [
+                    5.0,
+                    106.0
+                ],
+                [
+                    5.0,
+                    105.0
+                ],
+                [
+                    4.0,
+                    105.0
+                ],
+                [
+                    4.0,
+                    104.0
+                ],
+                [
+                    1.0,
+                    104.0
+                ],
+                [
+                    1.0,
+                    103.0
+                ],
+                [
+                    0.0,
+                    103.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

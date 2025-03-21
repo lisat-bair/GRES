@@ -1,0 +1,125 @@
+{
+    "text": [
+        "Find the four-wheeled vehicle with a shiny exterior and noticeable headlights, often bigger than its surroundings.",
+        "Locate the automobile featuring a metal finish, four tires, and prominent lights, generally larger than nearby items.",
+        "Spot the car with a metallic body, four wheels, and distinct headlights, which is typically larger than its environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000023444.jpg",
+            "points": [
+                [
+                    482.0,
+                    164.0
+                ],
+                [
+                    482.0,
+                    165.0
+                ],
+                [
+                    480.0,
+                    165.0
+                ],
+                [
+                    480.0,
+                    169.0
+                ],
+                [
+                    479.0,
+                    169.0
+                ],
+                [
+                    479.0,
+                    170.0
+                ],
+                [
+                    480.0,
+                    170.0
+                ],
+                [
+                    480.0,
+                    172.0
+                ],
+                [
+                    484.0,
+                    172.0
+                ],
+                [
+                    484.0,
+                    173.0
+                ],
+                [
+                    488.0,
+                    173.0
+                ],
+                [
+                    488.0,
+                    172.0
+                ],
+                [
+                    499.0,
+                    172.0
+                ],
+                [
+                    499.0,
+                    171.0
+                ],
+                [
+                    500.0,
+                    171.0
+                ],
+                [
+                    500.0,
+                    170.0
+                ],
+                [
+                    501.0,
+                    170.0
+                ],
+                [
+                    501.0,
+                    167.0
+                ],
+                [
+                    500.0,
+                    167.0
+                ],
+                [
+                    500.0,
+                    166.0
+                ],
+                [
+                    499.0,
+                    166.0
+                ],
+                [
+                    499.0,
+                    165.0
+                ],
+                [
+                    497.0,
+                    165.0
+                ],
+                [
+                    497.0,
+                    164.0
+                ],
+                [
+                    482.0,
+                    164.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

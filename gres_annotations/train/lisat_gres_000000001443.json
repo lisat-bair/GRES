@@ -1,0 +1,157 @@
+{
+    "text": [
+        "Identify the car with a unique design and dimensions, paying attention to unusual color schemes or reflections that contrast with the environment.",
+        "Find the automobile that has a one-of-a-kind shape and size, concentrating on distinctive color patterns or reflections that differ from the surroundings.",
+        "Spot the passenger car that features an unmistakable form and scale, focusing on color patterns or reflections that are noticeably different from its environment."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000001443.jpg",
+            "points": [
+                [
+                    157.0,
+                    38.0
+                ],
+                [
+                    157.0,
+                    39.0
+                ],
+                [
+                    156.0,
+                    39.0
+                ],
+                [
+                    156.0,
+                    40.0
+                ],
+                [
+                    157.0,
+                    40.0
+                ],
+                [
+                    157.0,
+                    41.0
+                ],
+                [
+                    158.0,
+                    41.0
+                ],
+                [
+                    158.0,
+                    42.0
+                ],
+                [
+                    157.0,
+                    42.0
+                ],
+                [
+                    157.0,
+                    44.0
+                ],
+                [
+                    158.0,
+                    44.0
+                ],
+                [
+                    158.0,
+                    46.0
+                ],
+                [
+                    159.0,
+                    46.0
+                ],
+                [
+                    159.0,
+                    47.0
+                ],
+                [
+                    161.0,
+                    47.0
+                ],
+                [
+                    161.0,
+                    48.0
+                ],
+                [
+                    162.0,
+                    48.0
+                ],
+                [
+                    162.0,
+                    49.0
+                ],
+                [
+                    164.0,
+                    49.0
+                ],
+                [
+                    164.0,
+                    48.0
+                ],
+                [
+                    166.0,
+                    48.0
+                ],
+                [
+                    166.0,
+                    47.0
+                ],
+                [
+                    167.0,
+                    47.0
+                ],
+                [
+                    167.0,
+                    43.0
+                ],
+                [
+                    166.0,
+                    43.0
+                ],
+                [
+                    166.0,
+                    42.0
+                ],
+                [
+                    165.0,
+                    42.0
+                ],
+                [
+                    165.0,
+                    41.0
+                ],
+                [
+                    164.0,
+                    41.0
+                ],
+                [
+                    164.0,
+                    39.0
+                ],
+                [
+                    162.0,
+                    39.0
+                ],
+                [
+                    162.0,
+                    38.0
+                ],
+                [
+                    157.0,
+                    38.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}

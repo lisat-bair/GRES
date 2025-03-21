@@ -1,0 +1,77 @@
+{
+    "text": [
+        "Spot the big, rectangular, yellow vehicle that has many windows.",
+        "Locate the rectangular, yellow vehicle that features numerous windows.",
+        "Find the large vehicle, yellow in color, with several windows and a rectangular design."
+    ],
+    "is_sentence": true,
+    "shapes": [
+        {
+            "label": "target",
+            "labels": [
+                "target"
+            ],
+            "shape_type": "polygon",
+            "image_name": "lisat_gres_000000036819.jpg",
+            "points": [
+                [
+                    507.0,
+                    35.0
+                ],
+                [
+                    507.0,
+                    36.0
+                ],
+                [
+                    506.0,
+                    36.0
+                ],
+                [
+                    506.0,
+                    42.0
+                ],
+                [
+                    507.0,
+                    42.0
+                ],
+                [
+                    507.0,
+                    44.0
+                ],
+                [
+                    508.0,
+                    44.0
+                ],
+                [
+                    508.0,
+                    46.0
+                ],
+                [
+                    510.0,
+                    46.0
+                ],
+                [
+                    510.0,
+                    47.0
+                ],
+                [
+                    512.0,
+                    47.0
+                ],
+                [
+                    512.0,
+                    35.0
+                ],
+                [
+                    507.0,
+                    35.0
+                ]
+            ],
+            "group_id": null,
+            "group_ids": [
+                null
+            ],
+            "flags": {}
+        }
+    ]
+}
