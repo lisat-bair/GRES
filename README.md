@@ -16,7 +16,7 @@ To generate synthetic data, we use the pipeline depicted below. We start with a 
 
 ### 1. Download the [xView 1](https://xviewdataset.org/) dataset.
 ### 2. Clone this repository.
-### 2. Run the command below:
+### 3. Run the command below:
 
 ```./extract_gres_images.sh /path/to/xview_train_images /path/to/xView_train.geojson .``` to get the gres image pool.
 
