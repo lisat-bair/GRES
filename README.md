@@ -8,36 +8,17 @@ We introduce the Geospatial Reasoning Segmentation Dataset (GRES), a collection 
 To generate synthetic data, we use the pipeline depicted below. We start with a seed detection dataset (xView). We then filter detections for those that are both visually interesting and highly distinguishable (A). For those detection, we then generate a natural language description (B), and a pixel-wise segmentation mask (C). Finally, the natural language description is used to generate a localization query (D). Together, the segmentation mask and the query form a ground-truth pair for the [LISAT](https://huggingface.co/jquenum/LISAt-7b) reasoning segmentation fine-tuning.
 
 <p align="center">
-  <img src="https://huggingface.co/datasets/jquenum/GRES/resolve/main/gres.png" width="1024"/>
+  <img src="https://github.com/jquenum/GRES/blob/main/gres.png" width="1024"/>
   
 </p>
 
 ## Usage
 
-```python
-from datasets import load_dataset
+### 1. Download the [xView 1](https://xviewdataset.org/) dataset.
+### 2, Clone this repository.
+### 2. Run the command below:
 
-# Define the dataset repo ID
-repo_id = "jquenum/GRES"
-
-# Download the dataset
-dataset = load_dataset(repo_id)
-
-# Show the dataset details
-print("Dataset loaded successfully!")
-print(dataset)
-
-# Access specific splits like train, validation, and test
-train_dataset = dataset['train']
-val_dataset = dataset['val']
-test_dataset = dataset['test']
-
-# Print the first example from the train split
-print("\nFirst example from the train dataset:", train_dataset[0])
-
-```
-
-run ```./extract_gres_images.sh /path/to/xview_train_images /path/to/xView_train.geojson .``` to get the gres image pool.
+```./extract_gres_images.sh /path/to/xview_train_images /path/to/xView_train.geojson .``` to get the gres image pool.
 
 
 ## LISAT GRES Dataset
@@ -47,10 +28,6 @@ This repository contains the LISAT GRES dataset, which includes image files and 
 ## Dataset Folder Structure
 
 This GRES dataset includes image files and corresponding annotation files in JSON format. The dataset is organized into three main splits: **train**, **val**, and **test**.
-
-# Dataset Structure
-
-The dataset is organized as follows:
 
 ```plaintext
 ├── gres-images/
@@ -89,7 +66,7 @@ The dataset is organized as follows:
 │   │   ├── test.txt
 │   │   ├── large.txt
 │   │   └── small.txt
-
+```
 
 
 ## Citation
