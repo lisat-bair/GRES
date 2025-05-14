@@ -71,7 +71,7 @@ This GRES dataset includes image files and corresponding annotation files in JSO
 
 ## Citation
 
-If you use LISAt or GRES in your research or applications, please cite our paper:
+If you use LISAt or GRES in your research or applications, please cite our [paper](https://arxiv.org/pdf/2505.02829):
 
 ```bibtex
 @article{quenum2025lisat,
