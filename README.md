@@ -71,13 +71,12 @@ This GRES dataset includes image files and corresponding annotation files in JSO
 
 ## Citation
 
-If you use LISAt in your research or applications, please cite our paper:
+If you use LISAt or GRES in your research or applications, please cite our paper:
 
 ```bibtex
-@article{TBD,
-  title={LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery},
+@article{quenum2025lisat,
+  title={LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery},
   author={Quenum, Jerome and Hsieh, Wen-Han and Wu, Tsung-Han and Gupta, Ritwik and Darrell, Trevor and Chan, David M},
-  journal={TBD},
-  year={2025},
-  url={TBD}
+  journal={arXiv preprint arXiv:2505.02829},
+  year={2025}
 }
